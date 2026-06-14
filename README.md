@@ -18,7 +18,7 @@ comics, and other media set in this universe. It is written as a plain-markdown
 | [`Enemies/`](Enemies/) | Antagonists and hostile creatures. |
 | [`Stories/`](Stories/) | Case files / issues — the actual narratives. |
 | [`Games/`](Games/) | The game projects that exist in/around the universe, and what each contributes to lore. |
-| [`Meta/`](Meta/) | Canon policy, source list, open questions. |
+| [`Meta/`](Meta/) | Canon policy, source list, open questions, visual style guide. |
 | [`Assets/`](Assets/) | Reference images, model exports, and other binaries (when added). |
 
 ## Start here
@@ -27,6 +27,7 @@ comics, and other media set in this universe. It is written as a plain-markdown
 - **The team:** [[The Crime Kickers]]
 - **The four heroes:** [[Windman]] · [[Pho-boman]] · [[Primm]] · [[Tiebi]]
 - **What's settled vs. what's not:** [[Open Questions & Contradictions]]
+- **Drawing the panels:** [[Visual Style Guide]]
 
 ## Canon policy (important)
 

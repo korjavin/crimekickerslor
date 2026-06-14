@@ -2,6 +2,7 @@
 aliases: [Tiebi, Tiebe, Teibi, Taibi, CK-004]
 tags: [character, hero, crime-kickers, canon]
 canon: true
+pronouns: he/him
 power: Volumetric scaling (size-shifting)
 color: mustard
 hub_code: CK-004
@@ -40,6 +41,11 @@ From `godot-test1/docs/characters/tiebi.md` (spelled *Tiebe* there):
 - **Clothing:** simple fitted shirt/tunic in neutral tones (gray, white, muted
   earth); standard trousers; simple flat black or brown shoes.
 - **Vibe:** deliberately minimalist and human-like — the beret does the work.
+- **Signature color — mustard:** his canonical accent color (frontmatter
+  `color: mustard`), ratified 2026-06-14 as a **real accent** that should appear in
+  his palette (e.g. an accent garment or detail). Note: the S01E01 panel prompts
+  render him muted-neutral and do **not** yet include the mustard accent — to be
+  incorporated in future panel prompts. See [[Open Questions & Contradictions]].
 
 When shifting, he keeps his proportions and his color scheme; the game prototypes
 render a "child-like" small form with a proportionally larger head.
@@ -62,7 +68,9 @@ From the [[Crime Kickers Hub]] (`data.ts`) — captured but **not yet canon**:
 
 - **Code:** CK-004 · **Power name:** Volumetric scaling · **Monogram:** T · **SFX:** STOMP
 - **Real name:** not given.
-- **Bio:** *"Tiebe is between 4 inches and 30 feet, depending on her mood. Mass conserves; momentum does not."*
+- **Bio (Hub original, she/her — non-canon source):** *"Tiebe is between 4 inches and
+  30 feet, depending on her mood. Mass conserves; momentum does not."* (Pronouns
+  updated to he/him per 2026-06-14 ratification.)
 - **Stats (0–5):** Reach 5 · Speed 4 · Recon 2 · Stealth 5
 - **Capabilities:** macro form (≤ 30 ft); micro form (≤ 4 in); stomp shockwave.
   **Vulnerable:** low ceilings.
@@ -77,12 +85,14 @@ From the [[Crime Kickers Hub]] (`data.ts`) — captured but **not yet canon**:
   *"once a normal human, transformed into a being with complete control over his
   size"* — a transformation origin that **conflicts with the cyborg-fragment canon**.
 
-## Open questions
+## Resolved decisions (2026-06-14)
 
-- **Pronouns:** the Hub uses **she/her**; the Godot and Stealth Kickers notes use
-  **he/his**. Unresolved — see [[Open Questions & Contradictions]].
+- **Pronouns: he/him.** Hub's she/her is non-canon source material; Godot / Stealth
+  Kickers he/him confirmed as canon.
 - **Transformation vs. cyborg origin:** the *Stealth Kickers* "once a normal human"
-  backstory predates and conflicts with the canon origin.
+  backstory is non-canon predecessor source material. Tiebi has no human past —
+  he is a cyborg fragment, created by the AEGIS-4 fracture incident. Resolved in
+  [[Open Questions & Contradictions]] and [[Origin & Concept]].
 
 ## Related
 

@@ -26,6 +26,10 @@ This episode is a **5-panel comic page** (one page, one spread; expand to 6
 only if Panel 3 needs its own splash). Each panel is one image with tight
 captions / dialogue. Iconography over blocking.
 
+> **Visual production:** image-generation prompts for each panel live in
+> [[S01E01 — Panel Prompts]] (built by the panel-prompt-smith agent against the
+> [[Visual Style Guide]]).
+
 ## Working title
 
 Primary: **"Some Assembly Required"** — the assembly-line gag *and* the
@@ -144,8 +148,8 @@ features **manifest with the wake-up** — they are not bolted on, they
   nose. The Lunch Lady's hand enters frame with a ladle.
 - **Bottom-left — a purple-coated figure halfway through a corridor
   wall.** Gasping, **phasing free.** The suit is fully formed, cyan visor
-  glowing, twin blades sheathed on her back, mini-orbs already orbiting
-  her waist.
+  glowing, twin blades sheathed on his back, mini-orbs already orbiting
+  his waist.
 - **Bottom-right — a postage-stamp-sized man clinging to the Executive's
   lapel pin in the elevator.** A tiny **black beret** perched perfectly on
   his head. The Executive's hand fills most of the frame, oblivious. The
@@ -222,22 +226,21 @@ diaspora arc (Episodes 2–5, one per direction).
 | Equipment origin (gap) | **Iconic equipment manifests at split-time** as a lucky/random crystallization. Eye bandage, purple suit, French beret all appear in Panel 4. | **Canon 2026-06-14** |
 | Tiebi memory asymmetry (conflict) | **No human past for any of them.** They are creations of the incident. *Stealth Kickers* backstory set aside as non-canon predecessor source. | **Canon 2026-06-14** |
 | Project codename HELMET asymmetric | Renamed to **Project AEGIS-4.** | **Canon 2026-06-14** |
-| Lunch Lady + Junior Engineer not on character pages | Flagged; both need stubs if they recur. | Logged in [[Open Questions & Contradictions]] |
+| Lunch Lady + Junior Engineer not on character pages | Both confirmed recurring. Stubs created 2026-06-14. | **Canon 2026-06-14** — see [[Lunch Lady]] · [[Junior Engineer]] |
 
-## Open design questions for this issue
+## Design questions — resolved 2026-06-14
 
-- **GastroDefense Inc. logo design.** Spark suggests corporate-bland: a
-  stylized fork crossed with a baton, in two flat corporate colors. Avoid
-  anything that looks designed.
-- **Panel 3 — full page or single panel?** Default: single splash. Promote
-  to full page if the artist wants the room.
-- **Tiebi pronouns.** Spark uses *he* throughout this issue (matches Godot
-  / Stealth Kickers source). Hub uses *she/her.* Unresolved canon question
-  — see [[Open Questions & Contradictions]].
+- **GastroDefense Inc. logo design.** RATIFIED: a deliberately bland corporate
+  logo of a stylized fork crossed with a baton in two flat muted corporate colors.
+  Avoid anything that looks designed.
+- **Panel 3 — full page or single panel?** RESOLVED: single splash panel. Promote
+  to full page only if the artist specifically requests the room.
+- **Tiebi pronouns.** RESOLVED: he/him. See [[Open Questions & Contradictions]].
 
 ## Related
 
 - [[Series Arc]] · [[Origin & Concept]] · [[The Crime Kickers]]
+- Visual production: [[S01E01 — Panel Prompts]] · [[Visual Style Guide]]
 - Heroes (introduced unnamed): [[Windman]] · [[Pho-boman]] · [[Primm]] · [[Tiebi]]
 - Future setup: [[The Bad Guys]]
 - Unresolved threads: [[Open Questions & Contradictions]]

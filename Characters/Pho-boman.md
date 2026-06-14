@@ -2,8 +2,9 @@
 aliases: [Pho-boman, Phoboman, Fuboman, Fubomen, Pho-bo-man, CK-002]
 tags: [character, hero, crime-kickers, canon]
 canon: true
+pronouns: he/him
 power: Thermohydromorphism (soup / broth control)
-color: pink
+color: reddish-orange
 hub_code: CK-002
 ---
 
@@ -78,9 +79,18 @@ is the *cause* of the soup-entity's existence, not a recipe-giver. See
 - [[Crime Kickers Hub]] — CK-002; featured in *"The Mall Was a Mistake"*.
 - [[Godot Endless Runner]] — playable soup-creature model.
 
+## Resolved decisions (2026-06-14)
+
+- **Pronouns: he/him.** Ratified 2026-06-14. He is the team's fourth member by
+  emergence, not by fragment — but he is addressed as he/him.
+
 ## Open questions
 
-- Gender/pronouns: undecided for a soup entity.
+- **Full canonical silhouette / belly-dragon reveal timing.** Pho-boman's full body
+  and red-dragon-on-blue belly emblem remain un-rendered through Panels 3–4 (helmet
+  + noodle-face only in those panels). Open question: should his full canonical
+  silhouette / belly-dragon be budgeted into Panel 5 or a later panel, or does his
+  full reveal land in a future episode? See [[Open Questions & Contradictions]].
 
 ## Related
 

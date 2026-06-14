@@ -2,6 +2,7 @@
 aliases: [Primm, CK-003]
 tags: [character, hero, crime-kickers, canon]
 canon: true
+pronouns: he/him
 power: Gravity control, teleportation, phasing
 color: violet
 hub_code: CK-003
@@ -61,10 +62,11 @@ From `godot-test1/docs/characters/primm.md`:
 
 From the [[Crime Kickers Hub]] (`data.ts`) — captured but **not yet canon**:
 
-- **Code:** CK-003 · **Power name:** Mass nullification · **Monogram:** R · **SFX:** DRIFT
+- **Code:** CK-003 · **Power name:** Mass nullification · **Monogram:** P · **SFX:** DRIFT
 - **Real name:** not given.
-- **Bio:** *"Primm doesn't fly — gravity just stops being interested when she walks
-  past. Anything within arm's reach loses 80% of its weight."*
+- **Bio (Hub original, she/her — non-canon source):** *"Primm doesn't fly — gravity
+  just stops being interested when she walks past. Anything within arm's reach loses
+  80% of its weight."* (Pronouns updated to he/him per 2026-06-14 ratification.)
 - **Stats (0–5):** Reach 5 · Speed 3 · Recon 4 · Stealth 4
 - **Capabilities:** object levitation (≤ 200 kg); personal lift; soft-fall field.
   **Vulnerable:** large metal masses.
@@ -76,13 +78,12 @@ From the [[Crime Kickers Hub]] (`data.ts`) — captured but **not yet canon**:
 - [[Shadow Kickers (2D Platformer)]] — phase-through-walls + dash attack.
 - [[Stealth Kickers (Tactical Stealth)]] — Gravity Phase + Katana Strike.
 
-## Open questions
+## Resolved decisions (2026-06-14)
 
-- **Pronouns:** the Hub uses **she/her**; the Godot design notes read more
-  ambiguously. Unresolved — see [[Open Questions & Contradictions]].
-- **Monogram "R":** the Hub monogram is **R** despite the name "Primm" — possible real
-  name starting with R, or a typo. Unresolved.
-- **Katanas vs. ninjatos:** terminology varies between sources.
+- **Pronouns: he/him.** Hub's she/her is non-canon source material; canon is he/him.
+- **Monogram: "P".** The Hub's "R" monogram was a typo; canonical monogram is "P".
+- **Blade descriptor: "katanas (ninjato-style straight blades)".** This locked
+  compound phrase is the canonical prompt-safe descriptor. Use verbatim.
 
 ## Related
 

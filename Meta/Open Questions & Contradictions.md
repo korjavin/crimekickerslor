@@ -10,7 +10,52 @@ The running list of things the sources disagree on, or that canon hasn't decided
 Resolve by a human decision, then update the relevant pages and (if it becomes canon)
 the registry.
 
-## Recently resolved (2026-06-14)
+## Resolved 2026-06-14 (second author session)
+
+Author session ratified 12 items. Kept here for provenance — no longer open.
+
+- **Lunch Lady visual descriptor.** RATIFIED as written in [[S01E01 — Panel Prompts]].
+  Stub created: [[Lunch Lady]].
+- **Rolling food cart descriptor.** RATIFIED as written in [[S01E01 — Panel Prompts]].
+- **Steaming pho cauldron descriptor.** RATIFIED as written in [[S01E01 — Panel Prompts]].
+- **GastroDefense Inc. logo.** RATIFIED: a deliberately bland corporate logo of a
+  stylized fork crossed with a baton in two flat muted corporate colors. Updated
+  in [[Visual Style Guide]]; was "PROPOSED, NOT RATIFIED."
+- **Tiebi pronouns.** RESOLVED: **he/him.**
+- **Primm pronouns.** RESOLVED: **he/him.** (Overrides Hub she/her; story source
+  "her back" corrected to "his back" in [[S01E01 — Some Assembly Required]].)
+- **Pho-boman pronouns.** RESOLVED: **he/him.**
+- **Windman chest emblem.** RESOLVED: **single "W" monogram.** "WM" two-letter
+  version retired. Updated in [[Windman]] · [[Visual Style Guide]].
+- **Primm's blade descriptor.** RESOLVED: locked compound phrase
+  **"katanas (ninjato-style straight blades)"** is canonical for all prompts.
+- **Primm monogram "R".** RESOLVED: **typo; canonical monogram is "P".** Updated
+  in [[Primm]].
+- **Lunch Lady and Junior Engineer recurring status.** CONFIRMED. Stubs created:
+  [[Lunch Lady]] · [[Junior Engineer]].
+- **Panel 3 layout.** RESOLVED: **single splash panel** (not full page). Default
+  stands; promote only if artist requests the room.
+
+## Resolved 2026-06-14 (editor review pass)
+
+Editorial check of [[S01E01 — Panel Prompts]] + [[S01E01 — Some Assembly Required]]
+surfaced these; resolved by author the same day.
+
+- **Pho-boman signature color.** Frontmatter said `color: pink` but every prompt and
+  the script use **reddish-orange** (the broth); "pink" appeared nowhere. Corrected:
+  [[Pho-boman]] frontmatter → **reddish-orange**.
+- **Tiebi signature color.** Frontmatter `color: mustard` appears nowhere in his
+  visual spec or the prompts (rendered muted-neutral). RESOLVED: **mustard is a real
+  accent** and stays canonical. ACTION (open): future panel prompts and [[Tiebi]]'s
+  Appearance must incorporate the mustard accent — not yet rendered in S01E01.
+- **Panel 3 negative-prompt guard.** Added a guard so the newly-born helmet-creature
+  is not rendered with Pho-boman's withheld spoon-body / belly-dragon (matching the
+  Panels 4–5 guards), without blocking the cyborg's own intended inflating belly.
+- **Panel 4 Windman fan phrasing.** Clarified the opaque "zip-tied / clutched loosely
+  is nothing" line; the fan stays holstered at his hip in this beat (deliberate —
+  hands relaxed, just-breathed; not the canonical held-in-right-hand pose).
+
+## Resolved 2026-06-14 (first author session)
 
 Author session promoted the following from proposal to canon. Kept here for
 provenance — they are no longer open.
@@ -39,35 +84,55 @@ provenance — they are no longer open.
 - **Prototype codename.** Resolved as **Project AEGIS-4** (retiring the
   earlier "Project HELMET" suggestion).
 
-## Pronoun / identity questions
+## Pronoun / identity questions — resolved 2026-06-14
 
-- **[[Primm]]:** Hub uses **she/her**; Godot notes are ambiguous. → Undecided.
-- **[[Tiebi]]:** Hub uses **she/her**; Godot + Stealth Kickers use **he/his**;
-  [[S01E01 — Some Assembly Required]] uses **he**. → Still undecided as canon.
-- **[[Pho-boman]]:** gender/identity undecided for a soup entity.
-- **[[Primm]] monogram "R"** despite the name "Primm" — real name starting with R, or
-  a typo? → Undecided.
+All four heroes now have ratified pronouns. Resolved by author 2026-06-14.
 
-## Smaller inconsistencies
+- **[[Primm]] pronouns:** RESOLVED → **he/him.** Hub's she/her is non-canon
+  source material. Character page and all story references updated.
+- **[[Tiebi]] pronouns:** RESOLVED → **he/him.** Godot / Stealth Kickers he/him
+  confirmed over Hub's she/her (Hub is non-canon source for pronoun purposes).
+- **[[Pho-boman]] pronouns:** RESOLVED → **he/him.** Ratified despite soup-entity
+  nature.
 
-- **Windman emblem:** "WM" (two letters) in the design docs vs. single-letter "W"
-  monogram in the Hub.
-- **Primm's blades:** "katanas" vs. "ninjatos" across sources.
+## Pronoun / identity questions — resolved earlier
+
+- **[[Primm]] monogram "R":** RESOLVED 2026-06-14 → **typo; canonical monogram is "P".**
+  Corrected in [[Primm]] character page and Hub profile note.
+
+## Smaller inconsistencies — resolved 2026-06-14
+
+- **Windman emblem:** RESOLVED → **single "W" monogram.** The "WM" two-letter
+  version in design docs is retired. Updated in [[Windman]] and [[Visual Style Guide]].
+- **Primm's blades:** RESOLVED → locked compound descriptor **"katanas (ninjato-style
+  straight blades)"** is the canonical prompt phrase. Use verbatim in all prompts.
+
+## Smaller inconsistencies — still open
+
 - **Name spellings:** see [[Naming Variants]] (Fubomen/Pho-boman, Tiebi/Tiebe/Teibi).
 
 ## Undeveloped threads (not contradictions — just open)
 
 - The portal and the **Detention Dimension** ([[C-038 — Detention Dimension]]).
 - ~40 earlier comic issues implied by "Issue forty-one" but never catalogued.
-- **The Lunch Lady — recurring legend?** Active proposal: yes; one word per
-  season, always the right one. Needs a character stub if approved.
-- **The Junior Engineer — recurring "person who knows"?** Active proposal:
-  yes; the only human who witnessed the split. Future recurring POV. Needs a
-  character stub if approved.
+- **The Lunch Lady — CONFIRMED recurring legend (2026-06-14).** One word per
+  season, always the right one. Character stub created: [[Lunch Lady]].
+- **The Junior Engineer — CONFIRMED recurring "person who knows" (2026-06-14).**
+  The only human who witnessed the split; future recurring POV witness. Character
+  stub created: [[Junior Engineer]].
 - **Issue 3 (Pho-boman diaspora) — what does a being who was born minutes ago
   experience?** Pho-boman has no human past *and* no cyborg-fragment past —
   he is *brand new.* Spark riff needed before Issue 3 is written. How does an
   emergent soup-being interpret its first hour of existence?
+
+## New open question (logged 2026-06-14, unresolved)
+
+- **Pho-boman's full canonical silhouette / belly-dragon reveal timing.**
+  Through Panels 3–5 — including Panel 5's overhead shot, now written and confirmed
+  not to reveal him — only Pho-boman's helmet and forming noodle-face are rendered;
+  his full body and red-dragon-on-blue belly emblem remain un-revealed across all of
+  S01E01. Open question: should his full canonical silhouette / belly-dragon be
+  retrofitted into an S01E01 panel, or does his full reveal land in a future episode? See [[Pho-boman]] · [[S01E01 — Panel Prompts]].
 
 ## Related
 

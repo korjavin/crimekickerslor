@@ -36,8 +36,9 @@ From the detailed model specs (`crimekickers_models/windman.md`,
 - **Eye bandage:** completely covers both eyes. **Top portion blue, lower portion
   (above the eyebrows) red.** Fastened near the ears, fits tightly to the face.
 - **Shirt:** blue T-shirt, fitted but not tight; sleeveless or short sleeves to
-  mid-shoulder. **Chest emblem:** a large white / light-gray letter **"W"**, and
-  below it (separated by a line) the letter **"M"** — his defining icon.
+  mid-shoulder. **Chest emblem:** a single large white / light-gray letter **"W"**
+  monogram — his defining icon. (Ratified 2026-06-14; prior "WM" two-letter version
+  retired.)
 - **Shorts:** brown, knee-length, straight cut, slightly baggy.
 - **Boots:** fully black, flat-soled, snug, no decoration.
 
@@ -77,11 +78,6 @@ From the [[Crime Kickers Hub]] (`data.ts`) — captured but **not yet canon**:
 - [[Shadow Kickers (2D Platformer)]] — wind gusts + wind-lift puzzles.
 - [[Stealth Kickers (Tactical Stealth)]] — Gale Blast + Disguise.
 - 3D model: `crimekickers_models/windman.scad` (parametric OpenSCAD).
-
-## Open questions
-
-- The **"WM" chest emblem** vs. the Hub's single-letter **"W" monogram** — minor
-  inconsistency.
 
 ## Related
 
