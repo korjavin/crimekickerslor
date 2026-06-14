@@ -81,6 +81,26 @@ resolutions table.
 - Pho-boman's **spoon-shaped belly** is created by broth-pressurization during
   the brief fusion moment.
 
+### 2026-06-15 — S01E02 "Feel the Room" accepted
+
+Author-reviewed and accepted the full S01E02 production set: the episode script
+[[S01E02 — Feel the Room]], plus [[S01E02 — Panel Prompts]], [[S01E02 — Captions]], and
+[[S01E02 — Narration]]. All moved from draft/proposal to **canon** (`canon: true`).
+
+**Establishes (canon for the series):**
+- **Windman's diaspora origin (Act II opener):** he wakes blind and minutes old on a
+  rooftop three blocks from the GastroDefense campus — continuing his
+  [[S01E01 — Some Assembly Required]] Panel 4 wake-up — discovers wind control, and
+  learns that his blindness plus canon pressure-sensing let him "feel" the city without
+  seeing it: the **airmaster** awakening. He walks off down one compass-spoke street,
+  handing directly into E01 Panel 5.
+- **He arrives at the name "Windman" himself**, alone, as an internal realization.
+- **Airmaster pressure-perception overlay** — the reusable ghost-line / pressure-ring
+  visual register for Windman's blind perception — ratified and promoted into
+  [[Visual Style Guide]] for identical reuse in future episodes.
+- The S01E02 **setting/prop specs** (the rooftop, the GastroDefense campus on the
+  horizon, the pigeon, the window-unit AC) accepted as the episode's visual canon.
+
 ## Related
 
 - [[Open Questions & Contradictions]] · [[Naming Variants]] · [[Origin & Concept]]

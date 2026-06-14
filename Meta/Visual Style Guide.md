@@ -69,6 +69,30 @@ of truth:
 When a character has no spec, propose one (mark PROPOSED) and link it from the
 relevant story note for approval.
 
+## Reusable power visualizations
+
+### Airmaster pressure-perception overlay — RATIFIED 2026-06-15
+
+> **RATIFIED 2026-06-15 — author-accepted.** First authored for
+> [[S01E02 — Panel Prompts]] (*Feel the Room*) to depict [[Windman]]'s blind
+> pressure-perception — how he "feels" structure and objects through displaced air
+> without seeing them. Promoted here as the canon render of the power so future episodes
+> render it **identically**. Reuse this block **verbatim** in any panel showing pressure-sensing;
+> always label which elements are the **lit camera layer** (what the audience sees)
+> versus this **ghost-line overlay** (what the character perceives), and keep the
+> character himself a normally-rendered lit figure (the overlay is the city/objects he
+> reads, never him).
+
+> a "pressure-map / ghost-line" perception overlay rendered in a DISTINCT visual
+> register, clearly separate from the lit, visible scene: tighter finer ghost-line
+> linework, slightly desaturated and tonally cooler, semi-transparent. In this overlay,
+> objects are NOT drawn as normal lit visible objects — instead they appear as
+> air-displacement silhouettes and concentric pressure-rings / contour-lines that trace
+> their shape in moving air, like a blind man's sonar drawn in wind. This overlay is
+> "what HE perceives," layered over or behind "what the camera and audience see"; the
+> two layers must read as clearly different so the model does not simply draw a normal
+> lit scene.
+
 ## Recurring settings & props
 
 ### GastroDefense Inc. — lab interior
@@ -118,6 +142,8 @@ from each story, so the prompts stay attached to the panels they render:
 
 - [[S01E01 — Panel Prompts]] — *Some Assembly Required* (AEGIS-4 chassis & proto-
   equipment, the three humans, Panel deliverables).
+- [[S01E02 — Panel Prompts]] — *Feel the Room* (Windman alone; the airmaster
+  pressure-perception overlay; rooftop diaspora; six images incl. Panel 5 in two beats).
 
 ## Related
 

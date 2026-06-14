@@ -65,6 +65,7 @@ issue is a self-contained mini-origin in a different tone. The fragments
 trying to make sense of bodies they didn't ask for.
 
 - **Issue 2 — Windman.** Wakes blindfolded on a rooftop. Air comes when he panics.
+  Drafted: [[S01E02 — Feel the Room]] — **author-accepted canon 2026-06-15**.
 - **Issue 3 — Pho-boman.** Wakes inside the Lunch Lady's cauldron. Has no
   reference for *being* at all — he was born minutes ago.
 - **Issue 4 — Primm.** Phases out of a wall mid-fall through a floor. Has to
