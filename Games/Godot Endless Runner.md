@@ -15,8 +15,7 @@ generated field. The home of the most detailed **character designs and 3D models
 
 - Endless procedurally generated terrain; third-person.
 - **Character switching** (press E) cycles through the playable heroes.
-- Collect golden coins; avoid the chasing [[Piglet Crocodile]]s (caught → respawn,
-  coins reset).
+- Collect golden coins.
 
 ## Lore it contributes
 
@@ -24,8 +23,6 @@ generated field. The home of the most detailed **character designs and 3D models
   appearance detail on [[Windman]], [[Pho-boman]], [[Primm]], and [[Tiebi]] (the
   character docs live in `docs/characters/`).
 - **High-detail 3D model** of Windman (multi-part mesh, ~4,800 vertices).
-- **The crocodile enemies:** [[Piglet Crocodile]] (implemented, chasing AI) and
-  [[Cyborg Piglet]] (designed, not yet wired in).
 
 ## Notes
 
@@ -36,4 +33,3 @@ generated field. The home of the most detailed **character designs and 3D models
 ## Related
 
 - [[Windman]] · [[Pho-boman]] · [[Primm]] · [[Tiebi]]
-- [[Piglet Crocodile]] · [[Cyborg Piglet]]

@@ -23,8 +23,8 @@ the primary page. (Each variant is also set as an Obsidian `alias` on its page, 
 
 | Variants seen | Primary page |
 | --- | --- |
-| Windman, Wind Man, Marco | [[Windman]] |
-| Pho-boman, Phoboman, Fuboman, **Fubomen**, Theo | [[Pho-boman]] |
+| Windman, Wind Man | [[Windman]] |
+| Pho-boman, Phoboman, Fuboman, **Fubomen** | [[Pho-boman]] |
 | Primm | [[Primm]] |
 | **Tiebi**, Tiebe, Teibi, Taibi | [[Tiebi]] |
 

@@ -62,8 +62,7 @@ From the [[Crime Kickers Hub]] (`data.ts`) — captured but **not yet canon**:
 
 - **Code:** CK-004 · **Power name:** Volumetric scaling · **Monogram:** T · **SFX:** STOMP
 - **Real name:** not given.
-- **Bio:** *"Tiebe is between 4 inches and 30 feet, depending on her mood and whether
-  the cafeteria has tater tots. Mass conserves; momentum does not."*
+- **Bio:** *"Tiebe is between 4 inches and 30 feet, depending on her mood. Mass conserves; momentum does not."*
 - **Stats (0–5):** Reach 5 · Speed 4 · Recon 2 · Stealth 5
 - **Capabilities:** macro form (≤ 30 ft); micro form (≤ 4 in); stomp shockwave.
   **Vulnerable:** low ceilings.

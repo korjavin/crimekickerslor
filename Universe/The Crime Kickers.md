@@ -15,16 +15,15 @@ under the name **Crime Kickers**.
 
 ## Roster
 
-| Hero | Power domain | Hub code | Real name (Hub) | Signature |
-| --- | --- | --- | --- | --- |
-| [[Windman]] | Air / wind (aerokinesis) | CK-001 | Marco | A multicolored hand fan |
-| [[Pho-boman]] | Soup / broth (thermohydromorphism) | CK-002 | Theo | A diving-helmet head full of pho |
-| [[Primm]] | Gravity, teleport, phasing | CK-003 | — | Twin katanas, Zer0-like silhouette |
-| [[Tiebi]] | Size-shifting (volumetric scaling) | CK-004 | — | French beret; cockroach-to-elephant range |
+| Hero | Power domain | Hub code | Signature |
+| --- | --- | --- | --- |
+| [[Windman]] | Air / wind (aerokinesis) | CK-001 | A multicolored hand fan |
+| [[Pho-boman]] | Soup / broth (thermohydromorphism) | CK-002 | A diving-helmet head full of pho |
+| [[Primm]] | Gravity, teleport, phasing | CK-003 | Twin katanas, Zer0-like silhouette |
+| [[Tiebi]] | Size-shifting (volumetric scaling) | CK-004 | French beret; cockroach-to-elephant range |
 
-The **CK-00x codes**, the **real names**, and the **0–5 stat ratings** come from the
-[[Crime Kickers Hub]] source material. They are recorded on each character page but
-are not part of the approved registry — treat as source material until confirmed.
+The **CK-00x codes** and **0–5 stat ratings** come from the [[Crime Kickers Hub]]
+source material and are not part of the approved registry.
 
 ## Team-level facts
 
@@ -42,8 +41,6 @@ are not part of the approved registry — treat as source material until confirm
 - Leadership / hierarchy — undefined.
 - Who they fight and why — "The Bad Guys" exist as enemies (see [[The Bad Guys]])
   but have no defined faction, leader, or motive yet.
-- How the cyborg origin squares with the Hub's "four kids at school" framing —
-  see [[Open Questions & Contradictions]].
 
 ## Related
 

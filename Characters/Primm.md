@@ -64,8 +64,7 @@ From the [[Crime Kickers Hub]] (`data.ts`) — captured but **not yet canon**:
 - **Code:** CK-003 · **Power name:** Mass nullification · **Monogram:** R · **SFX:** DRIFT
 - **Real name:** not given.
 - **Bio:** *"Primm doesn't fly — gravity just stops being interested when she walks
-  past. Anything within arm's reach loses 80% of its weight. School chairs are no
-  longer safe."*
+  past. Anything within arm's reach loses 80% of its weight."*
 - **Stats (0–5):** Reach 5 · Speed 3 · Recon 4 · Stealth 4
 - **Capabilities:** object levitation (≤ 200 kg); personal lift; soft-fall field.
   **Vulnerable:** large metal masses.

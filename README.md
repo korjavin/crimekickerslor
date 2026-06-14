@@ -8,7 +8,6 @@ comics, and other media set in this universe. It is written as a plain-markdown
 [Obsidian](https://obsidian.md) vault — open the folder in Obsidian and the
 `[[wikilinks]]` between notes become a navigable graph.
 
-> **Crime Kickers** — *Four kids. One cafeteria. Ongoing problem.*
 
 ## How this vault is organized
 

@@ -37,8 +37,8 @@ Contradictions are **never silently resolved** — they go in
 | Source | Type | Local path | Contributes |
 | --- | --- | --- | --- |
 | `crimekickers-init.md` | Registry (canon) | `~/Downloads` → copied to `Meta/` | Origin, roster, core powers/looks |
-| [[Crime Kickers Hub]] | Web app | `../crimekickershub` | Bios, codes, stats, case files, locations, Mr. Pierce |
-| [[Godot Endless Runner]] | Godot 3D | `../godot-test1` (GitHub: korjavin/godot-test1) | Detailed designs, 3D models, crocodile enemies |
+| [[Crime Kickers Hub]] | Web app | `../crimekickershub` | Bios, codes, stats, case files, locations |
+| [[Godot Endless Runner]] | Godot 3D | `../godot-test1` (GitHub: korjavin/godot-test1) | Detailed designs, 3D models |
 | [[Shadow Kickers (2D Platformer)]] | Web game | `../shadowkickers` (GitHub: korjavin/shadowkickers) | "Crime Kickers vs The Bad Guys", abilities |
 | [[Stealth Kickers (Tactical Stealth)]] | Web game | `../stealthkickers` | Mission framing, Tiebi transformation origin |
 | `crimekickers_models` | 3D assets | `../crimekickers_models` | Windman model spec (`windman.md`, `windman.scad`) |

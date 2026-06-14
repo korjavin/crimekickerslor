@@ -1,5 +1,5 @@
 ---
-aliases: [Windman, Wind Man, Marco, CK-001]
+aliases: [Windman, Wind Man, CK-001]
 tags: [character, hero, crime-kickers, canon]
 canon: true
 power: Aerokinesis (air / wind control)
@@ -65,17 +65,14 @@ From the detailed model specs (`crimekickers_models/windman.md`,
 
 From the [[Crime Kickers Hub]] (`data.ts`) — captured but **not yet canon**:
 
-- **Real name:** Marco · **Code:** CK-001 · **Power name:** Aerokinesis · **SFX:** DRIFT
-- **Bio:** *"Class president by day, pressure-system manipulator by lunch break.
-  Marco can shift atmospheric pressure in a 12-foot radius — useful for unlocking
-  doors, ruining picnics, drying homework."*
+- **Code:** CK-001 · **Power name:** Aerokinesis · **SFX:** DRIFT
 - **Stats (0–5):** Reach 4 · Speed 5 · Recon 3 · Stealth 2
 - **Capabilities:** compressed air pulse; personal updraft (90 sec); pressure read
   at 100 ft. **Vulnerable:** humidity > 80%.
 
 ## Appears in
 
-- [[Crime Kickers Hub]] (wiki + comics) — as Marco / CK-001.
+- [[Crime Kickers Hub]] (wiki + comics) — CK-001.
 - [[Godot Endless Runner]] — high-detail 3D playable model.
 - [[Shadow Kickers (2D Platformer)]] — wind gusts + wind-lift puzzles.
 - [[Stealth Kickers (Tactical Stealth)]] — Gale Blast + Disguise.
@@ -85,8 +82,6 @@ From the [[Crime Kickers Hub]] (`data.ts`) — captured but **not yet canon**:
 
 - The **"WM" chest emblem** vs. the Hub's single-letter **"W" monogram** — minor
   inconsistency.
-- The "class president / Marco" framing implies a human teenager, which sits awkwardly
-  with the cyborg-fragment origin. See [[Open Questions & Contradictions]].
 
 ## Related
 

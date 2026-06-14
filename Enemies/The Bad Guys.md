@@ -18,17 +18,13 @@ Guys."** As yet they are an **undefined faction** — no name, leader, or motive
 - **Stealth Kickers (tactical stealth):** guards with vision cones and alert states
   (UNAWARE → SUSPICIOUS → ALERTED) defending an **enemy base**. The mission is to
   *"infiltrate enemy territory, complete objectives, and get out undetected."*
-- **Godot Endless Runner:** the hostile creatures are the [[Piglet Crocodile]] and
-  the (unimplemented) [[Cyborg Piglet]].
 
 ## Open hooks
 
 - Who are "The Bad Guys"? A crime syndicate (fits "Crime Kickers")? The faction that
   fractured the original cyborg? Undefined and wide open.
 - The "enemy base" of *Stealth Kickers* suggests an organized, militarized adversary.
-- A possible link between the team's cyborg origin and an enemy that **builds cyborg
-  creatures** (see [[Cyborg Piglet]]).
 
 ## Related
 
-- [[The Crime Kickers]] · [[Piglet Crocodile]] · [[Cyborg Piglet]]
+- [[The Crime Kickers]]

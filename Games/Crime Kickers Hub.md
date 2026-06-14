@@ -33,13 +33,8 @@ look over comedic content. Palette: off-white paper + charcoal ink + riso accent
 - **Character bios, codes (CK-001…004), stats, capabilities, SFX** → see each
   character page ([[Windman]], [[Pho-boman]], [[Primm]], [[Tiebi]]).
 - **The case files** (Stories C-036…C-041) → see [[Case Files Index]].
-- **Locations:** school/cafeteria, the mall, "Sky Isles," the "Detention Dimension."
-- **Named non-powered character:** [[Mr. Pierce]].
+- **Locations:** the mall, "Sky Isles," the "Detention Dimension."
 - **Tone & framing:** "case files," "dossiers," "surveillance reels."
-
-> **Canon caveat:** the Hub's "four kids at school with real names" framing
-> coexists uneasily with the canon **cyborg-fragment** origin. Captured as source
-> material; see [[Open Questions & Contradictions]].
 
 ## Primary source file
 
@@ -48,4 +43,4 @@ for heroes, stories, and videos.
 
 ## Related
 
-- [[The Crime Kickers]] · [[Case Files Index]] · [[Mr. Pierce]]
+- [[The Crime Kickers]] · [[Case Files Index]]

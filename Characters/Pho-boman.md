@@ -1,5 +1,5 @@
 ---
-aliases: [Pho-boman, Phoboman, Fuboman, Fubomen, Pho-bo-man, Theo, CK-002]
+aliases: [Pho-boman, Phoboman, Fuboman, Fubomen, Pho-bo-man, CK-002]
 tags: [character, hero, crime-kickers, canon]
 canon: true
 power: Thermohydromorphism (soup / broth control)
@@ -57,9 +57,7 @@ From `godot-test1/docs/characters/phoboman.md` (note: spelled *Phoboman* there):
 
 From the [[Crime Kickers Hub]] (`data.ts`) — captured but **not yet canon**:
 
-- **Real name:** Theo · **Code:** CK-002 · **Power name:** Thermohydromorphism · **SFX:** SLURP
-- **Bio:** *"Theo's grandma's recipe is a state secret. Theo, regrettably, is not.
-  He produces and shapes scalding broth on demand. Health code violations: 14."*
+- **Code:** CK-002 · **Power name:** Thermohydromorphism · **SFX:** SLURP
 - **Stats (0–5):** Reach 3 · Speed 2 · Recon 2 · Stealth 1
 - **Capabilities:** boiling jet (12 ft); noodle bind; scent triangulation.
   **Vulnerable:** cold zones.
@@ -72,14 +70,12 @@ to a **lunch lady** (and possibly "grandma's recipe"). A thread worth developing
 
 ## Appears in
 
-- [[Crime Kickers Hub]] — as Theo / CK-002; featured in *"The Mall Was a Mistake"*.
+- [[Crime Kickers Hub]] — CK-002; featured in *"The Mall Was a Mistake"*.
 - [[Godot Endless Runner]] — playable soup-creature model.
 
 ## Open questions
 
-- Gender/pronouns: the soup-entity framing vs. the human "Theo" framing.
-- How "grandma's recipe" / "the lunch lady" reconcile with the cyborg-fragment origin.
-  See [[Open Questions & Contradictions]].
+- Gender/pronouns: undecided for a soup entity.
 
 ## Related
 

@@ -21,7 +21,7 @@ The earliest catalogued case file. Title + hook only.
 
 ## Notes
 
-- Featured hero: [[Windman]] — air-pressure powers vs. a school **radiator**.
+- Featured hero: [[Windman]] — air-pressure powers vs. a **radiator**.
 
 ## Related
 

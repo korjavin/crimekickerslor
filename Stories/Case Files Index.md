@@ -19,7 +19,7 @@ issues that aren't catalogued anywhere yet.
 | C-041 | [[C-041 — The Mall Was a Mistake]] | Pho-boman tries the food court. | [[Pho-boman]] |
 | C-040 | [[C-040 — Floor Is Lava (For Real)]] | Primm forgets which way is down. | [[Primm]] |
 | C-039 | [[C-039 — Tiebe vs. The School Bus]] | Bus loses. Driver retires. | [[Tiebi]] |
-| C-038 | [[C-038 — Detention Dimension]] | Mr. Pierce found a portal. | [[Mr. Pierce]] |
+| C-038 | [[C-038 — Detention Dimension]] | Someone found a portal. | — |
 | C-037 | [[C-037 — Forgot The Spoon]] | An entire issue about a spoon. | — |
 | C-036 | [[C-036 — Wind Chill Factor]] | Windman vs. the radiator. | [[Windman]] |
 

@@ -12,15 +12,7 @@ the registry.
 
 ## Major contradictions
 
-### 1. Cyborg origin vs. "four kids at school"
-- **Registry (canon):** the four heroes are fragments of **one fractured cyborg**.
-- **Hub source material:** they read as **human teenagers** with real names
-  ([[Windman|Marco]], [[Pho-boman|Theo]]), a class president, a cafeteria, detention,
-  [[Mr. Pierce]].
-- **Status:** unreconciled. Options: (a) the "kids" framing is metaphor/disguise for
-  the cyborg fragments; (b) Hub is a separate continuity; (c) retcon one way.
-
-### 2. Tiebi's origin
+### 1. Tiebi's transformation origin
 - **Registry:** part of the fractured cyborg.
 - **Stealth Kickers:** *"once a normal human, transformed into a being with control
   over his size."*
@@ -30,7 +22,7 @@ the registry.
 
 - **[[Primm]]:** Hub uses **she/her**; Godot notes are ambiguous. → Undecided.
 - **[[Tiebi]]:** Hub uses **she/her**; Godot + Stealth Kickers use **he/his**. → Undecided.
-- **[[Pho-boman]]:** soup-entity vs. human "Theo" — gender/identity undecided.
+- **[[Pho-boman]]:** gender/identity undecided for a soup entity.
 - **[[Primm]] monogram "R"** despite the name "Primm" — real name starting with R, or
   a typo? → Undecided.
 
@@ -39,8 +31,6 @@ the registry.
 - **Windman emblem:** "WM" (two letters) in the design docs vs. single-letter "W"
   monogram in the Hub.
 - **Primm's blades:** "katanas" vs. "ninjatos" across sources.
-- **Piglet Crocodile:** design doc says *passive* (no chase); AI code *does* chase.
-  (Code wins for the game; see [[Piglet Crocodile]].)
 - **Name spellings:** see [[Naming Variants]] (Fubomen/Pho-boman, Tiebi/Tiebe/Teibi).
 
 ## Undeveloped threads (not contradictions — just open)
@@ -50,7 +40,6 @@ the registry.
 - [[Pho-boman]]'s "lunch lady" / "grandma's recipe" origin.
 - The portal and the **Detention Dimension** ([[C-038 — Detention Dimension]]).
 - ~40 earlier comic issues implied by "Issue forty-one" but never catalogued.
-- Who builds the [[Cyborg Piglet]] creatures?
 
 ## Related
 

@@ -34,15 +34,12 @@ Having become independent, the four act **together** under the shared name
 **Crime Kickers**. The team identity is canon; the internal dynamics, leadership,
 and goals are still open for authoring. See [[The Crime Kickers]].
 
-> *Four kids. One cafeteria. Ongoing problem.* — team tagline (from the
-> [[Crime Kickers Hub]] source material)
-
 ## Tone
 
 Across all source material the universe leans **comedic / absurd-heroic** rather
-than grim: ordinary settings (a school cafeteria, a mall, a radiator) collide with
-outsized powers and casual collateral damage. The presentation framing used by the
-hub is mock-official — "case files," "field manual," "dossiers," "surveillance
+than grim: ordinary settings (a mall, everyday vehicles, mundane objects) collide
+with outsized powers and casual collateral damage. The presentation framing used by
+the hub is mock-official — "case files," "field manual," "dossiers," "surveillance
 reels" — a tactical/utilitarian veneer over what is essentially slapstick.
 
 ## What is canon here vs. not
@@ -52,7 +49,6 @@ reels" — a tactical/utilitarian veneer over what is essentially slapstick.
 | Four heroes originate from one fractured cyborg | **Canon** (registry) |
 | They operate together as "Crime Kickers" | **Canon** (registry) |
 | The four are Windman, Pho-boman, Primm, Tiebi | **Canon** (registry) |
-| School / cafeteria setting, real names (Marco, Theo), Mr. Pierce | Source material (Hub) — *may conflict with the cyborg origin*, see [[Open Questions & Contradictions]] |
 
 ## Related
 
