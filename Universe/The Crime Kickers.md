@@ -29,12 +29,16 @@ source material and are not part of the approved registry.
 
 - **Members:** exactly four (canon).
 - **Shared name:** Crime Kickers (canon).
+- **Origin (canon, 2026-06-14 update):** three of the four are fragments of
+  **Project AEGIS-4**, GastroDefense Inc.'s prototype law-enforcement cyborg.
+  The fourth, **Pho-boman**, was born of the same fracture incident as a
+  separate emergent entity. See [[Origin & Concept]].
 - **Aliases of the team across prototypes:** *Stealth Kickers*, *Shadow Kickers*,
   *Stealth Action Squad*. See [[Naming Variants]].
 - **Power synergy** is a recurring design idea: in the game prototypes, no single
   member can clear an obstacle alone — progress requires combining abilities
-  (switching between heroes). This supports a "team that is really one being"
-  reading of the canon origin.
+  (switching between heroes). This supports a "team that *grew from* one being"
+  reading of the canon origin (three fragments plus a co-born outsider).
 
 ## Open team questions
 

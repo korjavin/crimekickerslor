@@ -49,6 +49,38 @@ This vault was assembled by reading the registry plus the five source repositori
 above on 2026-06-14. The registry was treated as canon per an explicit authoring
 decision; everything else was recorded as source material with provenance.
 
+## Authorial canon updates
+
+When the author makes a canon decision that supersedes or extends the original
+registry, it is recorded here with a date so the chain of authority stays
+auditable. These updates rank **above** the original registry where they conflict.
+
+### 2026-06-14 — Origin arc update
+
+Author-ratified during the Editor/Spark reconciliation pass for
+[[S01E01 — Some Assembly Required]]. See [[Series Arc]] for the full canon
+resolutions table.
+
+**Supersedes:**
+- *"All four characters were originally component parts of a single fractured
+  cyborg robot."* (Registry / [[Origin & Concept]])
+  → **Three of the four** (Windman, Primm, Tiebi) originate from the cyborg.
+  **Pho-boman was born of the same incident** as a separate emergent entity.
+- *"Once a normal human, transformed into a being with control over his size."*
+  ([[Stealth Kickers (Tactical Stealth)]] backstory for Tiebi)
+  → **No human past** for any of the four. They are creations of the incident.
+  *Stealth Kickers* backstory is non-canon predecessor source material.
+
+**Extends:**
+- The cyborg's codename: **Project AEGIS-4**.
+- The corporation: **GastroDefense Inc.** (also the identity of [[The Bad Guys]]).
+- The fracture cause: **Lunch Lady's spilled pho into the open helmet visor**
+  during a sloppy lunch break. A **lucky/random** event.
+- **Iconic equipment** (Windman's bandage, Primm's suit + visor, Tiebi's beret)
+  **manifested at split-time** as a lucky/random crystallization, not engineered.
+- Pho-boman's **spoon-shaped belly** is created by broth-pressurization during
+  the brief fusion moment.
+
 ## Related
 
 - [[Open Questions & Contradictions]] · [[Naming Variants]] · [[Origin & Concept]]

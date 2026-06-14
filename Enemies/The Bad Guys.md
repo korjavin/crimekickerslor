@@ -25,6 +25,15 @@ Guys."** As yet they are an **undefined faction** — no name, leader, or motive
   fractured the original cyborg? Undefined and wide open.
 - The "enemy base" of *Stealth Kickers* suggests an organized, militarized adversary.
 
+## Active proposal (not yet canon)
+
+The [[Series Arc]] / [[S01E01 — Some Assembly Required]] arc proposes the Bad
+Guys are **GastroDefense Inc.** — the corporation that built the original
+prototype, started in commercial food safety, pivoted into automated law
+enforcement. The arc reveals them gradually: a logo in Episode 1, a name later,
+the full faction in the season finale. Awaiting Editor pass before promotion to
+canon.
+
 ## Related
 
 - [[The Crime Kickers]]

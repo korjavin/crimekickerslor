@@ -12,21 +12,28 @@ See [[Canon & Sources]] for how this relates to the games.
 
 ## The big idea
 
-> All four characters were originally **component parts of a single fractured
-> cyborg robot**. As a result of that division (or destruction), each part gained
-> independence and its own unique properties.
+> Three of the four heroes were **component parts of a single fractured cyborg
+> robot**. The fourth — Pho-boman — was **born of the same incident** as a
+> separate emergent entity that joined them. As a result of the fracture, each
+> hero gained independence and its own unique properties.
 
-In other words, the four heroes are not four people who met — they are **one
-machine that came apart into four selves**, each keeping a different faculty of the
-original whole:
+The cyborg, **Project AEGIS-4**, was a prototype for an automated law-enforcement
+unit built by **[[The Bad Guys|GastroDefense Inc.]]** It carried three
+integrated faculties:
 
 - **[[Windman]]** — control of air and wind.
-- **[[Pho-boman]]** — a soup-based entity; broth and noodle matter.
 - **[[Primm]]** — gravity, short-range teleportation, phasing.
 - **[[Tiebi]]** — extreme size-shifting.
 
-Whether the split was an accident, sabotage, or a deliberate act is **not yet
-established** — see [[Open Questions & Contradictions]].
+During the fracture incident (see [[S01E01 — Some Assembly Required]]), a
+fourth being emerged separately:
+
+- **[[Pho-boman]]** — a soup-based entity. **Not** a cyborg fragment; born in
+  the same moment from broth, heat, and the prototype's empty helmet acting as
+  a cradle. He joins the other three as a peer.
+
+The fracture itself was a **lucky/random event** — a Lunch Lady's spilled
+cauldron of pho meeting an unsealed assembly, not sabotage and not design.
 
 ## The team
 
@@ -46,9 +53,13 @@ reels" — a tactical/utilitarian veneer over what is essentially slapstick.
 
 | Fact | Status |
 | --- | --- |
-| Four heroes originate from one fractured cyborg | **Canon** (registry) |
+| Three heroes (Windman, Primm, Tiebi) originate from one fractured cyborg | **Canon** (registry + 2026-06-14 author update) |
+| Pho-boman was born of the same incident, **not** as a cyborg fragment | **Canon** (2026-06-14 author update — supersedes registry) |
 | They operate together as "Crime Kickers" | **Canon** (registry) |
 | The four are Windman, Pho-boman, Primm, Tiebi | **Canon** (registry) |
+| The cyborg is **Project AEGIS-4**, built by GastroDefense Inc. | **Canon** (2026-06-14 author update) |
+| Iconic equipment (eye bandage, purple suit, beret) **manifested at split-time** as a lucky/random crystallization, not engineered | **Canon** (2026-06-14 author update) |
+| The fragments have **no human past** — they are creations of the incident | **Canon** (2026-06-14 author update — overrides *Stealth Kickers* backstory) |
 
 ## Related
 

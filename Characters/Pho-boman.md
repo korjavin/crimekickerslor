@@ -10,8 +10,11 @@ hub_code: CK-002
 # Pho-boman
 
 One of the four [[The Crime Kickers|Crime Kickers]]. A **soup-based entity** — the
-team's most non-humanoid member. Per [[Origin & Concept]], one of the four fragments
-of the original fractured cyborg.
+team's most non-humanoid member. Per [[Origin & Concept]] (2026-06-14 author
+update): **not** a cyborg fragment, but **born of the same incident** that
+fractured Project AEGIS-4. He emerged when a Lunch Lady's spilled pho filled
+the prototype's empty diving helmet at the moment of fracture, joining the
+three true fragments as a peer.
 
 > *"Carries broth. Throws broth."* — tagline (Hub)
 
@@ -62,11 +65,13 @@ From the [[Crime Kickers Hub]] (`data.ts`) — captured but **not yet canon**:
 - **Capabilities:** boiling jet (12 ft); noodle bind; scent triangulation.
   **Vulnerable:** cold zones.
 
-### Origin hook: "the lunch lady"
+### Origin hook: "the lunch lady" — **resolved 2026-06-14**
 
-A Hub video titled **"Origin: the lunch lady"** asks *"Where did the broth actually
-come from? Yikes."* — flagging a planned, currently-unwritten origin tying his power
-to a **lunch lady** (and possibly "grandma's recipe"). A thread worth developing.
+A Hub video titled **"Origin: the lunch lady"** asked *"Where did the broth
+actually come from? Yikes."* — now answered. The broth came from the **Lunch
+Lady's spilled cauldron** during the AEGIS-4 fracture incident. The Lunch Lady
+is the *cause* of the soup-entity's existence, not a recipe-giver. See
+[[S01E01 — Some Assembly Required]].
 
 ## Appears in
 
