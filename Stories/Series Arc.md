@@ -66,11 +66,19 @@ trying to make sense of bodies they didn't ask for.
 
 - **Issue 2 — Windman.** Wakes blindfolded on a rooftop. Air comes when he panics.
   Drafted: [[S01E02 — Feel the Room]] — **author-accepted canon 2026-06-15**.
-- **Issue 3 — Pho-boman.** Wakes inside the Lunch Lady's cauldron. Has no
+- **Issue 3 — Tiebi.** Wakes postage-stamp-sized on the Executive's GastroDefense
+  lapel pin in the elevator (per [[S01E01 — Some Assembly Required]] Panel 4), is carried
+  out of the building, and learns size-shifting the hard way — *size and momentum are
+  separate dials.* Drafted: [[S01E03 — Momentum Not Included]] (Spark/Editor agreed
+  2026-06-15; proposal). **Reordered 2026-06-15:** Tiebi moved up from Issue 5; the earlier
+  "wakes under a vending machine" seed is superseded by E01's lapel-pin wake-up.
+- **Issue 4 — Pho-boman.** Wakes inside the Lunch Lady's cauldron. Has no
   reference for *being* at all — he was born minutes ago.
-- **Issue 4 — Primm.** Phases out of a wall mid-fall through a floor. Has to
-  learn to stop.
-- **Issue 5 — Tiebi.** Wakes the size of a coin under a vending machine.
+  Drafted: [[S01E04 — What Is a Ladle For]] (Spark/Editor 2026-06-15; proposal). **Belly-dragon
+  full reveal ratified 2026-06-15:** withheld through E01 Panels 3–4 and E04 Panels 1–3;
+  lands at E04 Panel 4 ("Contents Under Pressure"). Episode beats otherwise remain proposal.
+- **Issue 5 — Primm.** Phases out of a wall mid-fall through a floor, and has to
+  learn to stop. Drafted: [[S01E05 — Hold Your Own Weight]] — closes Act II.
 
 Tonally these are small, character-first, almost lonely — the comedy comes
 from the absurdity of the powers, but each one is genuinely lost.
@@ -81,11 +89,11 @@ unplanned ways. Each meeting is a small case-of-the-week with a *"wait, do I
 know you?"* undertone. By the end of the act all four are in one room, deeply
 unsure how they feel about it.
 
-Suggested pairings (open):
-- Windman + Pho-boman first (the two most obviously non-human).
-- Primm + Tiebi second (the two who can hide easiest, so they avoid being
-  found longest).
-- Full four-way convergence in Issue 8.
+Pairings (Act III):
+- **Issue 6 — Windman + Tiebi.** First meeting; accidental cooperation on a night
+  street. Drafted: [[S01E06 — Two-Body Problem]].
+- **Issue 7 — second pairing** (Primm + Pho-boman, the remaining two; open).
+- **Issue 8 — full four-way convergence.**
 
 The "joy" beat — the first time the team feels like a team — lands here.
 

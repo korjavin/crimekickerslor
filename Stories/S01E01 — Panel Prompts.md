@@ -395,13 +395,13 @@ steaming noodle in the inset.
   a **blue** tee + chestnut hair; Primm's **dark violet/purple** coat + faint **cyan** glint;
   Tiebi's **tilted dark-navy French beret**; Pho-boman's **reddish-orange broth** + brass
   diving helmet (in the cauldron only).
-- **Pho-boman depiction (re: the open reveal question):** Pho-boman is represented by the
+- **Pho-boman depiction (reveal withheld — load-bearing):** Pho-boman is represented by the
   **Lunch Lady's rolling cart** wheeling away with his helmet still bobbing in the cauldron —
   consistent with the script line "the rolling cart on another." His **full spoon-shaped
-  silhouette and red-dragon-on-blue belly emblem are deliberately NOT shown here.** The open
-  authorial question — whether his full canonical reveal lands in Panel 5 or a later episode —
-  therefore remains **PENDING** after this panel; Panel 5 does not answer it. See
-  [[Pho-boman]] (Open questions) and [[Open Questions & Contradictions]].
+  silhouette and red-dragon-on-blue belly emblem are deliberately NOT shown here.** This
+  withhold is **load-bearing**: the full canonical reveal lands at [[S01E04 — What Is a Ladle
+  For]] Panel 4 (author-ratified 2026-06-15). E01 Panels 3–5 must continue to suppress it.
+  See [[Pho-boman]] and [[Open Questions & Contradictions]] (resolved 2026-06-15).
 - **Ratified this session (used verbatim, not re-flagged):** Windman's emblem is a **single
   "W"** monogram; **Primm uses he/him**; the cyan visor/glint belongs to **Primm** only;
   **Tiebi** and **Pho-boman** use **he/him**. The Lunch Lady, the rolling cart, the pho

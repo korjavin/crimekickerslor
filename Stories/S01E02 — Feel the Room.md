@@ -181,4 +181,4 @@ reconciled it 2026-06-15:
 - [[Windman]] — character page (appearance, powers, equipment specs).
 - [[Visual Style Guide]] — art-style anchor, Windman visual descriptor block.
 - [[Open Questions & Contradictions]] — does he hear a name from somewhere, or arrive at it alone? This draft: alone. Flag for author if preferred otherwise.
-- Future: [[S01E03 — Pho-boman]] (next diaspora issue)
+- Future: [[S01E03 — Momentum Not Included]] (Tiebi — next diaspora issue; diaspora reordered 2026-06-15)

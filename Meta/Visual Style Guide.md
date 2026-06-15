@@ -63,8 +63,20 @@ of truth:
 
 - [[Windman]] — chestnut hair, blue-and-red eye bandage, blue "W" tee (single-letter monogram), multicolored fan.
 - [[Pho-boman]] — spoon-shaped, diving-helmet head full of pho, noodle-face, red-dragon belly.
+  - **Full silhouette + belly-dragon — CANONICALLY REVEALED as of [[S01E04 — What Is a Ladle
+    For]] Panel 4 (author-ratified 2026-06-15).** Prompts for E01 Panels 3–4 and E04 Panels 1–3
+    must continue to suppress the belly emblem and full body (those withholds are load-bearing).
+    From E04 Panel 4 onward, the red-dragon-on-blue belly emblem and complete spoon-shaped
+    silhouette are fully in-play — include them verbatim from [[Pho-boman]] Appearance
+    (detailed) in all subsequent panel prompts.
 - [[Primm]] — purple high-tech ninja, cyan visor, twin katanas, orbiting blue orbs.
 - [[Tiebi]] — ordinary build, signature tilted dark-navy French beret, size-shifter.
+  - **Mustard accent — PROPOSED 2026-06-15 (to lock on E03 ratification).** Tiebi's
+    canonical `color: mustard` (frontmatter) was withheld in S01E01 (rendered
+    muted-neutral). [[S01E03 — Panel Prompts]] is its **first render**: his shirt/tunic
+    is **mustard-gold** in every panel. On E03 ratification, fold the mustard accent into
+    [[Tiebi]]'s **Appearance (detailed)** and close the action item in
+    [[Open Questions & Contradictions]]. Do **not** edit [[Tiebi]] yet — still a proposal.
 
 When a character has no spec, propose one (mark PROPOSED) and link it from the
 relevant story note for approval.
@@ -92,6 +104,38 @@ relevant story note for approval.
 > "what HE perceives," layered over or behind "what the camera and audience see"; the
 > two layers must read as clearly different so the model does not simply draw a normal
 > lit scene.
+
+## Reusable composition techniques
+
+### Ghost-image / size-contrast technique — PROPOSED 2026-06-15
+
+> **PROPOSED 2026-06-15 — awaiting author ratification.** First authored for
+> [[S01E03 — Panel Prompts]] (*Momentum Not Included*) Panel 5 to show a single physical
+> action (Tiebi's micro-sprint → grow into a full-size forward roll) as ONE frame instead
+> of two sequential panels. NEW to the project (not previously in this guide). **Verified
+> achievable in the flat cel-style register:** rendered as two clearly-staged, cleanly-drawn
+> instances of the same lit character in one panel — one slightly desaturated/cooler
+> "earlier" instance and one full-color "now" instance — NOT a blurry double-exposure and
+> NOT a whole-frame motion blur, so it stays inside the clean hand-inked flat-color look.
+> Proposed for promotion to ratified as a reusable size/motion-contrast device (especially
+> for [[Tiebi]]'s size-shifting). Reuse this block **verbatim** in any panel that needs it;
+> keep the character's identity cues identical in both instances and vary only SIZE and pose.
+
+> a SINGLE-PANEL "ghost-image" sequence showing one continuous action as TWO clearly-staged
+> instances of the SAME character in one frame, both cleanly drawn in the flat cel style
+> (NOT a blurred double-exposure, NOT a whole-frame motion blur): an EARLIER instance
+> rendered slightly DESATURATED and tonally cooler (the "before" beat), and a LATER instance
+> rendered in FULL saturated color (the "now" beat), the two read left-to-right as one motion
+> across the panel. Keep the character's identity cues identical in both instances so they
+> read as the same person; vary only their SIZE and pose to show the physics.
+
+**Companion — scale-rendering register (PROPOSED 2026-06-15).** Also first authored in
+[[S01E03 — Panel Prompts]]: how a size-shifter reads as the SAME person at postage-stamp and
+at full human height. **Micro scale = world-as-giant** (render the world at giant scale so he
+reads tiny by contrast; he stays a perfectly-proportioned fully-human miniature, never a
+chibi/child); **full scale = normal staging**; identity cues (the dark-navy tilted beret and
+mustard-gold shirt) stay constant across scales. See that note for the verbatim wording;
+proposed for promotion here on E03 ratification.
 
 ## Recurring settings & props
 
@@ -144,6 +188,19 @@ from each story, so the prompts stay attached to the panels they render:
   equipment, the three humans, Panel deliverables).
 - [[S01E02 — Panel Prompts]] — *Feel the Room* (Windman alone; the airmaster
   pressure-perception overlay; rooftop diaspora; six images incl. Panel 5 in two beats).
+- [[S01E03 — Panel Prompts]] — *Momentum Not Included* (Tiebi alone; first render of the
+  mustard accent; the PROPOSED ghost-image / size-contrast technique and scale-rendering
+  register; six panels across elevator lapel, coat closet, lobby, revolving door, ramp,
+  parking deck).
+- [[S01E04 — Panel Prompts]] — *What Is a Ladle For?* (Pho-boman alone with the wordless
+  Lunch Lady; the cauldron/cart service-corridor staging; the load-bearing belly-dragon
+  reveal gated to Panel 4; the SLURP broth jet; five panels from cauldron wake-up to the
+  loading-bay hand-off).
+- [[S01E05 — Panel Prompts]] — *Hold Your Own Weight* (Primm alone, fully suited from
+  Panel 1; vertical fall down the GastroDefense tower; the semi-transparent bluish
+  phasing render, the gravity light-bend VFX, and the DRIFT SFX; the ghost-image
+  before/after eureka in Panel 4; five panels from the corridor-wall phase-out to the
+  stairwell descent).
 
 ## Related
 

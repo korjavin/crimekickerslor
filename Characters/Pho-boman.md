@@ -79,18 +79,19 @@ is the *cause* of the soup-entity's existence, not a recipe-giver. See
 - [[Crime Kickers Hub]] — CK-002; featured in *"The Mall Was a Mistake"*.
 - [[Godot Endless Runner]] — playable soup-creature model.
 
+## Resolved decisions (2026-06-15)
+
+- **Full canonical silhouette / belly-dragon reveal timing.** RESOLVED 2026-06-15.
+  Full reveal = **[[S01E04 — What Is a Ladle For]] Panel 4** ("Contents Under
+  Pressure"). Withheld in [[S01E01 — Some Assembly Required]] Panels 3–4 (helmet +
+  noodle-face only) and in E04 Panels 1–3. The belly dragon arrives at E04 Panel 4 at
+  full clarity and full saturation — low angle, front-facing, complete spoon-shaped
+  silhouette. The withhold is load-bearing. See [[Open Questions & Contradictions]].
+
 ## Resolved decisions (2026-06-14)
 
 - **Pronouns: he/him.** Ratified 2026-06-14. He is the team's fourth member by
   emergence, not by fragment — but he is addressed as he/him.
-
-## Open questions
-
-- **Full canonical silhouette / belly-dragon reveal timing.** Pho-boman's full body
-  and red-dragon-on-blue belly emblem remain un-rendered through Panels 3–4 (helmet
-  + noodle-face only in those panels). Open question: should his full canonical
-  silhouette / belly-dragon be budgeted into Panel 5 or a later panel, or does his
-  full reveal land in a future episode? See [[Open Questions & Contradictions]].
 
 ## Related
 

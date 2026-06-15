@@ -10,6 +10,22 @@ The running list of things the sources disagree on, or that canon hasn't decided
 Resolve by a human decision, then update the relevant pages and (if it becomes canon)
 the registry.
 
+## Resolved 2026-06-15 (S01E03 / diaspora reorder)
+
+Author decisions made while drafting [[S01E03 — Momentum Not Included]] (Tiebi).
+
+- **Diaspora order reordered.** New Act II order ratified: **Issue 2 Windman → Issue 3
+  Tiebi → Issue 4 Pho-boman → Issue 5 Primm** (Tiebi moved up from Issue 5). Updated in
+  [[Series Arc]]; [[S01E02 — Feel the Room]]'s forward link repointed to E03 = Tiebi.
+- **Tiebi's wake-up location.** RESOLVED → **the Executive's GastroDefense lapel pin, in
+  the elevator** (ratified [[S01E01 — Some Assembly Required]] Panel 4). The [[Series Arc]]
+  "wakes the size of a coin under a vending machine" seed is **superseded** (ratified E01
+  outranks the Arc proposal). Per author note, E03 adds a **closet beat** — the Executive
+  hangs his suit jacket (lapel pin and all) in a closet, stranding tiny Tiebi among the
+  giant suits (also the spot where Tiebi's canon **low-ceiling vulnerability** first bites).
+- **Tiebi mustard accent.** The open action item (render the mustard accent — not yet shown
+  in S01E01) is **addressed by E03** (his shirt is mustard-gold). Close on E03 ratification.
+
 ## Resolved 2026-06-14 (second author session)
 
 Author session ratified 12 items. Kept here for provenance — no longer open.
@@ -125,14 +141,15 @@ All four heroes now have ratified pronouns. Resolved by author 2026-06-14.
   he is *brand new.* Spark riff needed before Issue 3 is written. How does an
   emergent soup-being interpret its first hour of existence?
 
-## New open question (logged 2026-06-14, unresolved)
+## Resolved 2026-06-15 (Pho-boman reveal timing)
 
 - **Pho-boman's full canonical silhouette / belly-dragon reveal timing.**
-  Through Panels 3–5 — including Panel 5's overhead shot, now written and confirmed
-  not to reveal him — only Pho-boman's helmet and forming noodle-face are rendered;
-  his full body and red-dragon-on-blue belly emblem remain un-revealed across all of
-  S01E01. Open question: should his full canonical silhouette / belly-dragon be
-  retrofitted into an S01E01 panel, or does his full reveal land in a future episode? See [[Pho-boman]] · [[S01E01 — Panel Prompts]].
+  RESOLVED 2026-06-15. Full reveal lands at **[[S01E04 — What Is a Ladle For]] Panel 4
+  ("Contents Under Pressure")** — author-ratified. His full spoon-shaped silhouette and
+  red-dragon-on-blue belly emblem are canonically withheld through [[S01E01 — Some
+  Assembly Required]] Panels 3–4 and through E04 Panels 1–3; the belly dragon arrives
+  at E04 Panel 4 at full clarity and full saturation. The withhold across those panels
+  is now load-bearing (not optional). See [[Pho-boman]] · [[S01E01 — Panel Prompts]].
 
 ## Related
 

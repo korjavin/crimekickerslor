@@ -81,6 +81,17 @@ resolutions table.
 - Pho-boman's **spoon-shaped belly** is created by broth-pressurization during
   the brief fusion moment.
 
+### 2026-06-15 — Pho-boman full-silhouette / belly-dragon reveal timing resolved
+
+Author-ratified. **Pho-boman's complete spoon-shaped silhouette and red-dragon-on-blue
+belly emblem are canonically revealed for the first time at [[S01E04 — What Is a Ladle
+For]] Panel 4** ("Contents Under Pressure"). His full body and belly dragon are withheld
+through [[S01E01 — Some Assembly Required]] Panels 3–4 and through E04 Panels 1–3; the
+withhold across those panels is now load-bearing (not optional). The episode is a Spark
+draft (Editor-reconciled 2026-06-15, proposal); only this reveal-timing item is ratified.
+Previously an open question in [[Open Questions & Contradictions]] (logged 2026-06-14);
+now closed. See also [[Pho-boman]].
+
 ### 2026-06-15 — S01E02 "Feel the Room" accepted
 
 Author-reviewed and accepted the full S01E02 production set: the episode script
