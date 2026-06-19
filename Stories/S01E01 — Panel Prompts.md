@@ -20,9 +20,8 @@ Image-generation prompts and episode-specific visual canon for
 
 ### AEGIS-4 chassis & proto-equipment
 
-Canon ratified 2026-06-14 (see the episode's reconciliation table). In Panel 1 the
-prototype is **headless**, the diving helmet is **separate**, and the heroes are
-**not yet formed** — but each hero's signature gear is already bolted on as a
+In Panel 1 the prototype is **headless**, the diving helmet is **separate**, and the
+heroes are **not yet formed** — but each hero's signature gear is already bolted on as a
 "cocked gun" that transforms in later panels. Reuse these EXACT phrasings:
 
 - **The Prototype / chassis (Panel 1 state):**
@@ -36,9 +35,6 @@ prototype is **headless**, the diving helmet is **separate**, and the heroes are
 - **[[Primm]]'s katanas — crossed on the back:**
   > twin matching katanas (ninjato-style straight blades) crossed in an X on the
   > chassis's back, dark wrapped grips, sheathed
-- **[[Tiebi]]'s scaling actuators — bolted to the legs:**
-  > stubby blocky mechanical actuator attachments bolted onto each of the chassis's
-  > lower legs (size-shifting hardware), industrial greebled look
 - **[[Pho-boman]]'s diving helmet — SEPARATE, empty in Panel 1:**
   > a massive deep-sea brass diving helmet sitting separately on the bench beside the
   > chassis, wide rounded dome, large circular transparent front visor, interior dark
@@ -52,11 +48,10 @@ prototype is **headless**, the diving helmet is **separate**, and the heroes are
   > *Keep it FLAT here. In Panel 3 the torso inflates and the decal warps into
   > Pho-boman's round-bellied dragon emblem.*
 
-### The three humans — accepted 2026-06-14
+### The three humans
 
-No canonical specs existed; these are bland corporate-comedy looks derived to match
-the script tone. Accepted by the author 2026-06-14. They recur (Junior in Panels 2–3;
-Executive's pin in Panel 4), so locking them now prevents drift.
+They recur (Junior in Panels 2–3; Executive's pin in Panel 4), so locking them now
+prevents drift.
 
 - **The Executive:**
   > a bored middle-aged executive, light skin, short slicked-back greying dark hair,
@@ -74,13 +69,11 @@ Executive's pin in Panel 4), so locking them now prevents drift.
   >
   > *The only human who sees the split (Panels 2–3) — keep recognizable.*
 
-### The Lunch Lady & her cart — RATIFIED 2026-06-14
+### The Lunch Lady & her cart
 
-Visual spec ratified by author 2026-06-14. Lunch Lady and Junior Engineer are
-both confirmed recurring characters (see [[Open Questions & Contradictions]],
-resolved 2026-06-14). Reuse these EXACT phrasings verbatim:
+Reuse these EXACT phrasings verbatim:
 
-- **The Lunch Lady — RATIFIED:**
+- **The Lunch Lady:**
   > a stout unflappable cafeteria lunch lady in her 60s, light-tan skin, deeply
   > calm deadpan face, steel-grey hair pulled back in a tight bun under a white
   > hairnet, wire-rim glasses, a plain pale-green institutional cafeteria uniform
@@ -88,11 +81,11 @@ resolved 2026-06-14). Reuse these EXACT phrasings verbatim:
   > completely unbothered neutral expression
   >
   > *Wordless and unfazed in Panel 2. Her one word "Settle" lands in Panel 4.*
-- **The rolling food cart — RATIFIED:**
+- **The rolling food cart:**
   > a battered stainless-steel rolling food-service cart on four caster wheels,
   > dented institutional metal, a lower shelf stacked with metal trays and
   > stacked bowls
-- **The steaming pho cauldron — RATIFIED:**
+- **The steaming pho cauldron:**
   > a large dented stainless-steel cauldron/stockpot of pho on top of the cart,
   > heavy lid tipped off, reddish-orange broth, rising steam, a long-handled
   > metal serving ladle hooked on the rim
@@ -113,11 +106,15 @@ checklist so no panel renders a later state too early:
   against the beige. Lunch Lady wordless & unfazed.
 - **Panel 3 (splash):** helmet fills with glowing broth and slams onto the chassis;
   torso **inflates**; the flat decal **warps** into the round dragon emblem; fan
-  snaps open; katanas unsheathe; then three light-seams crack the cyborg into three
-  fragments **+ Pho-boman born separately** from the soup. Saturation up, steam.
+  snaps open; katanas unsheathe; then the cyborg splits into **two fragments**
+  (Windman + Primm) **+ Pho-boman born separately** from the soup. Saturation up,
+  steam. Tiebi is not depicted in this panel.
 - **Panel 4:** four-quadrant grid; iconic equipment **crystallizes at split-time**
-  (Windman's eye bandage, Primm's purple suit, Tiebi's beret). Lunch Lady's one
-  word **"Settle"** lands here.
+  (Windman's eye bandage, Primm's purple suit). Tiebi's beret is his personal
+  military memento — a pre-incident possession, not a crystallization. Bottom-right
+  window: Tiebi's register is a transformed human who knows who he is and is
+  disoriented by what he has become (postage-stamp-sized), not a blank slate.
+  Lunch Lady's one word **"Settle"** lands here.
 - **Panel 5:** high overhead, four streets radiating, cold/melancholic; inset of
   the empty bench with a single steaming noodle.
 
@@ -136,7 +133,7 @@ checklist so no panel renders a later state too early:
 >
 > WIDE-ANGLE establishing shot, eye-level, of a sterile sealed corporate R&D laboratory on a high office floor: clean white-and-grey panels, fluorescent ceiling strip lighting casting flat even beige-tinted light, steel workbenches, cable runs and coiled cords on the floor, cabinets and equipment racks, a tall window showing a high-rise city skyline far below. Beige fluorescent palette: desaturated, washed-out, institutional beige-grey-white, cold flat overhead fluorescent light, dry corporate-comedy mood.
 >
-> FOCAL POINT, center on the main steel workbench: a single headless humanoid robotic chassis lying on the bench, matte grey-white armored plating with a flat featureless torso plate, neck socket open and empty where a head would attach, articulated mechanical limbs, no face, no head. On the flat torso plate, a small flat pre-printed red Chinese dragon decal/sticker, two-dimensional and unwarped. Zip-tied to the chassis's right wrist: a small handheld folding fan, brown wood-textured handle about 25 cm long, three rounded slightly-transparent blades about 10 cm each colored green, blue, and red, evenly spaced around a central hub. Crossed in an X on the chassis's back: twin matching katanas (ninjato-style straight blades), dark wrapped grips, sheathed. Bolted onto each of the chassis's lower legs: stubby blocky mechanical actuator attachments, industrial greebled look.
+> FOCAL POINT, center on the main steel workbench: a single headless humanoid robotic chassis lying on the bench, matte grey-white armored plating with a flat featureless torso plate, neck socket open and empty where a head would attach, articulated mechanical limbs, no face, no head. On the flat torso plate, a small flat pre-printed red Chinese dragon decal/sticker, two-dimensional and unwarped. Zip-tied to the chassis's right wrist: a small handheld folding fan, brown wood-textured handle about 25 cm long, three rounded slightly-transparent blades about 10 cm each colored green, blue, and red, evenly spaced around a central hub. Crossed in an X on the chassis's back: twin matching katanas (ninjato-style straight blades), dark wrapped grips, sheathed.
 >
 > SEPARATELY, sitting on the bench BESIDE the chassis and NOT attached to it: a massive deep-sea brass diving helmet, wide rounded dome, large circular transparent front visor, interior dark and empty, unattached and waiting.
 >
@@ -155,9 +152,9 @@ checklist so no panel renders a later state too early:
 - "Cocked gun" setups baked in: helmet rendered **separate + empty/dark** (Panel 2
   payoff); dragon decal kept **flat** (warps in Panel 3); Executive's **lapel pin**
   kept legible (Tiebi's exit in Panel 4).
-- Uses ratified human specs (accepted 2026-06-14) and the ratified GastroDefense
-  logo (ratified 2026-06-14): a deliberately bland corporate logo of a stylized
-  fork crossed with a baton in two flat muted corporate colors (see [[Visual Style Guide]]).
+- Uses the standard human specs and the GastroDefense logo: a deliberately bland
+  corporate logo of a stylized fork crossed with a baton in two flat muted corporate
+  colors (see [[Visual Style Guide]]).
 
 ### Panel 2 — Wrong Floor, Right Soup
 
@@ -177,7 +174,7 @@ reddish-orange pop of color and motion against the beige.
 >
 > MEDIUM-WIDE shot, slightly low dynamic angle, of a sterile sealed corporate R&D laboratory on a high office floor: clean white-and-grey panels, fluorescent ceiling strip lighting casting flat even beige-tinted light, steel workbenches, cable runs and coiled cords on the floor, cabinets and equipment racks, a tall window showing a high-rise city skyline far below. Beige fluorescent palette: desaturated, washed-out, institutional beige-grey-white, cold flat overhead fluorescent light, dry corporate-comedy mood. The lab is otherwise empty — lunch hour. A single frozen instant of suspended motion, action freeze-frame.
 >
-> On the main steel workbench: a single headless humanoid robotic chassis lying on the bench, matte grey-white armored plating with a flat featureless torso plate, neck socket open and empty where a head would attach, articulated mechanical limbs, no face, no head. On the flat torso plate, a small flat pre-printed red Chinese dragon decal/sticker, two-dimensional and unwarped. Zip-tied to the chassis's right wrist: a small handheld folding fan, brown wood-textured handle about 25 cm long, three rounded slightly-transparent blades about 10 cm each colored green, blue, and red, evenly spaced around a central hub. Crossed in an X on the chassis's back: twin matching katanas (ninjato-style straight blades), dark wrapped grips, sheathed. Bolted onto each of the chassis's lower legs: stubby blocky mechanical actuator attachments, industrial greebled look.
+> On the main steel workbench: a single headless humanoid robotic chassis lying on the bench, matte grey-white armored plating with a flat featureless torso plate, neck socket open and empty where a head would attach, articulated mechanical limbs, no face, no head. On the flat torso plate, a small flat pre-printed red Chinese dragon decal/sticker, two-dimensional and unwarped. Zip-tied to the chassis's right wrist: a small handheld folding fan, brown wood-textured handle about 25 cm long, three rounded slightly-transparent blades about 10 cm each colored green, blue, and red, evenly spaced around a central hub. Crossed in an X on the chassis's back: twin matching katanas (ninjato-style straight blades), dark wrapped grips, sheathed.
 >
 > SEPARATELY, sitting on the bench BESIDE the chassis and NOT attached to it: a massive deep-sea brass diving helmet, wide rounded dome, large circular transparent front visor (the visor open and clear), interior dark and EMPTY, unattached and waiting — no liquid inside it yet.
 >
@@ -195,17 +192,17 @@ reddish-orange pop of color and motion against the beige.
 
 **Consistency notes**
 
-- Reuses **verbatim** the ratified descriptor blocks for the chassis, fan,
-  katanas, leg actuators, red dragon decal (kept FLAT), diving helmet (kept
-  SEPARATE + EMPTY/dark), and the Junior Engineer (author-accepted 2026-06-14;
-  pose/expression changed from "hugging the helmet" to "crouched whispering to
-  the chassis" per this beat, appearance unchanged).
+- Reuses **verbatim** the descriptor blocks for the chassis, fan,
+  katanas, red dragon decal (kept FLAT), diving helmet (kept SEPARATE +
+  EMPTY/dark), and the Junior Engineer (pose/expression changed from "hugging
+  the helmet" to "crouched whispering to the chassis" per this beat, appearance
+  unchanged). Scaling actuators are NOT on the chassis.
 - **Continuity guard:** broth is mid-air only — helmet stays empty/dark here.
   The filled/glowing helmet and inflated torso are **Panel 3**, not this panel.
-- Reuses **verbatim** the ratified (2026-06-14) descriptors for the **Lunch
-  Lady**, the **rolling food cart**, and the **steaming pho cauldron + ladle**
-  (see the RATIFIED block above). Lunch Lady is wordless/unfazed here; her one
-  word "Settle" is reserved for Panel 4.
+- Reuses **verbatim** the descriptors for the **Lunch Lady**, the **rolling food
+  cart**, and the **steaming pho cauldron + ladle** (see the visual canon block
+  above). Lunch Lady is wordless/unfazed here; her one word "Settle" is reserved
+  for Panel 4.
 
 ### Panel 3 — Assembly Complete (Then Not)
 
@@ -213,12 +210,15 @@ reddish-orange pop of color and motion against the beige.
 > whole.** It captures ONE impossible heartbeat: the broth-filled helmet has
 > just slammed onto the chassis and the prototype is *whole and alive* — torso
 > inflating, fan snapping open, katanas unsheathing, blue light bending — AND,
-> in the same instant, it is already coming apart: three white seams of light
-> crack the body into three figures while the broth-filled helmet detaches and
-> glows as a **fourth, separate being is born** from the soup inside. "Assembly
-> complete, then not." Saturation surges up from the cold beige of Panels 1–2;
-> steam everywhere. Show the **turn** — completion and fracture in one frame.
-
+> in the same instant, it is already coming apart: **two white seams of light
+> crack the body into two figures** (Windman + Primm) while the broth-filled
+> helmet detaches and glows as a **third, separate being is born** from the
+> soup inside (Pho-boman). Tiebi is not depicted here — he is a human security
+> officer transformed by the same incident, but his backstory is held for E03.
+> "Assembly complete, then not." Saturation surges up from the cold beige of
+> Panels 1–2; steam everywhere. Show the **turn** — completion and fracture in
+> one frame.
+>
 **Style anchor:** [[Visual Style Guide|v1]]. **Palette override:** saturation
 **up** — a sudden burst of warm reddish-orange broth-glow and electric-blue
 energy-light blasting through the cold desaturated beige lab (the beige
@@ -230,50 +230,65 @@ fluorescent baseline still reads at the edges of the frame, overwhelmed at cente
 >
 > DYNAMIC SPLASH PANEL, full-page vertical hero composition, slightly low heroic angle looking up at a single towering humanoid figure standing upright at center frame, inside a sterile sealed corporate R&D laboratory on a high office floor: clean white-and-grey panels, fluorescent ceiling strip lighting, steel workbenches, cable runs and coiled cords on the floor, cabinets and equipment racks, a tall window showing a high-rise city skyline far below. The lab's cold desaturated institutional beige-grey-white still reads at the edges and corners of the frame, but the center is overwhelmed by light: SATURATION SURGES UP — a violent burst of warm glowing reddish-orange broth-light and crackling electric-blue energy blasting outward from the figure, thick rolling steam filling the air, a single frozen instant of suspended motion, action freeze-frame at the peak of a one-time transformation.
 >
-> THE FIGURE, whole and alive for one impossible heartbeat — the assembled prototype, never seen whole again: a single upright humanoid robotic body, matte grey-white armored plating, the massive deep-sea brass diving helmet now SLAMMED DOWN and seated onto the neck socket as its head — wide rounded brass dome, large circular transparent front visor — the helmet interior now FULL of glowing luminous reddish-orange pho broth, broth-light pouring out through the visor. The torso plate INFLATES OUTWARD, ballooning and pressurizing as glowing broth fills the body, and the small flat red Chinese dragon decal on the chest WARPS and stretches across the swelling belly into a rounded three-dimensional round-bellied red dragon emblem. In the figure's RIGHT HAND, the small handheld folding fan SNAPS OPEN — brown wood-textured handle, three rounded slightly-transparent blades colored green, blue, and red fanned wide. On the figure's BACK, the twin matching katanas (ninjato-style straight blades, dark wrapped grips) UNSHEATHE themselves, blades sliding free and hovering. Stubby blocky mechanical actuator attachments on the lower legs. Bent, refracting electric-blue light wraps and warps around the whole body; its silhouette flickers and ghosts (faint doubled after-images larger and smaller around it, tiny-then-huge-then-tiny).
+> THE FIGURE, whole and alive for one impossible heartbeat — the assembled prototype, never seen whole again: a single upright humanoid robotic body, matte grey-white armored plating, the massive deep-sea brass diving helmet now SLAMMED DOWN and seated onto the neck socket as its head — wide rounded brass dome, large circular transparent front visor — the helmet interior now FULL of glowing luminous reddish-orange pho broth, broth-light pouring out through the visor. The torso plate INFLATES OUTWARD, ballooning and pressurizing as glowing broth fills the body, and the small flat red Chinese dragon decal on the chest WARPS and stretches across the swelling belly into a rounded three-dimensional round-bellied red dragon emblem. In the figure's RIGHT HAND, the small handheld folding fan SNAPS OPEN — brown wood-textured handle, three rounded slightly-transparent blades colored green, blue, and red fanned wide. On the figure's BACK, the twin matching katanas (ninjato-style straight blades, dark wrapped grips) UNSHEATHE themselves, blades sliding free and hovering. Bent, refracting electric-blue light wraps and warps around the whole body.
 >
-> THE TURN — in the SAME instant the body is already coming apart: THREE searing white-hot seams of light crack down the body — one vertical seam splitting straight down the torso, one horizontal seam across the shoulders — and along these glowing fracture-lines the body begins SEPARATING into THREE distinct emerging figures pulling apart from one another (a windward fan-bearer, a bladed katana-bearer, a leg-actuator size-shifter), light pouring out of every seam. SIMULTANEOUSLY the broth-filled brass diving helmet DETACHES from the neck and GLOWS hot, lifting free as a SEPARATE fourth being is BORN from the soup inside it: long pho noodles braiding and curling into two startled eyes and cheekbones behind the transparent visor, a green sprig of cilantro surfacing as a nose, a small round-bellied luminous creature emerging from the broth — born separately, NOT split off from the cyborg. FOUR luminous silhouettes blooming where there was one. Steam, light-bloom, and broth-spray everywhere.
+> THE TURN — in the SAME instant the body is already coming apart: TWO searing white-hot seams of light crack down the body — one vertical seam splitting straight down the torso, one horizontal seam across the shoulders — and along these glowing fracture-lines the body begins SEPARATING into TWO distinct emerging figures pulling apart from one another (a windward fan-bearer who keeps the open multicolored fan, and a bladed katana-bearer who keeps the twin unsheathing blades), light pouring out of the seams. SIMULTANEOUSLY the broth-filled brass diving helmet DETACHES from the neck and GLOWS hot, lifting free as a SEPARATE being is BORN from the soup inside it: long pho noodles braiding and curling into two startled eyes and cheekbones behind the transparent visor, a green sprig of cilantro surfacing as a nose, a small forming luminous glow gathering inside the helmet — born separately from the broth, NOT split off from the cyborg. THREE luminous silhouettes blooming where there was one — the two cracking-apart cyborg fragments and the being born of the broth — plus the still-detaching glowing helmet that cradles it. Steam, light-bloom, and broth-spray everywhere.
 >
 > IN THE LOWER FOREGROUND, small and ducking out of the blast: a young earnest engineer in their mid-20s, fair skin, messy light-brown hair, round glasses, oversized white lab coat, ID badge on a lanyard, mouth open in panic, diving for cover behind a battered stainless-steel rolling food-service cart, hands thrown up over his head, terrified wide-eyed expression.
 >
-> Composition: silhouette-first, the single whole towering transforming figure dominating dead center as the heroic focal point, the three cracking seams and the detaching glowing helmet reading clearly as the body fractures into four, the panicking junior engineer tiny in the lower foreground for scale and comedy. Cosmic-physical slapstick energy, awe and chaos. A big jagged comic sound-effect lettering "KRA-SLURP-KSSHHH" exploding across the upper frame, and a small panicked speech bubble from the engineer reading "oh no oh no oh no—".
+> Composition: silhouette-first, the single whole towering transforming figure dominating dead center as the heroic focal point, the two cracking seams reading clearly as the body fractures into two figures, the detaching glowing broth-filled helmet lifting away to one side as a separate being kindles inside it, the panicking junior engineer tiny in the lower foreground for scale and comedy. Cosmic-physical slapstick energy, awe and chaos. A big jagged comic sound-effect lettering "KRA-SLURP-KSSHHH" exploding across the upper frame, and a small panicked speech bubble from the engineer reading "oh no oh no oh no—".
 
 **NEGATIVE PROMPT**
 
-> no four fully separate finished costumed heroes standing apart (this is the SINGLE WHOLE figure caught mid-fracture, only just beginning to split — not four resolved characters), no eye bandage / no purple ninja suit / no black beret yet (the iconic equipment has NOT crystallized — that is Panel 4), the dragon emblem must be the INFLATED rounded 3D round-bellied emblem here (not the flat decal) — that round belly-dragon belongs ONLY to the CYBORG's inflating torso, NOT to the newly-born creature: the small luminous being emerging from the detaching helmet broth is only a forming pho-noodle face and a tiny glowing form, and must NOT have its own separate finished spoon-shaped Pho-boman body, round belly, or red-dragon belly emblem (that reveal is withheld until a later panel), the diving helmet IS the head and IS full of glowing broth here (not empty, not separate on the bench), no empty/dark helmet, no headless chassis, no calm static pose (this is peak explosive transformation), no cold flat lighting on the center (center is high-saturation glow and steam), no costumed superheroes in finished costumes, no capes, no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones, no anachronistic gadgets, no extra fingers, no malformed hands, no extra limbs, no text errors or garbled lettering (other than the intended "KRA-SLURP-KSSHHH" SFX and the "oh no oh no oh no—" bubble), no other people besides the single junior engineer in the foreground, no lunch lady or executive in frame.
+> no fully separate finished costumed heroes standing apart (this is the SINGLE WHOLE figure caught mid-fracture, only just beginning to split — not resolved characters), the cyborg cracks into EXACTLY TWO emerging figures along TWO seams (a fan-bearer and a katana-bearer) — NOT three, NOT four split figures, no third splitting figure of any kind, no size-shifting / scaling / shrinking / growing figure, no beret-wearing figure splitting from the body, no scaling actuators / no leg actuators / no telescoping or extending limbs / no doubled larger-and-smaller ghost silhouettes, no eye bandage / no purple ninja suit / no black beret yet (the iconic equipment has NOT crystallized — that is Panel 4), the dragon emblem must be the INFLATED rounded 3D round-bellied emblem here (not the flat decal) — that round belly-dragon belongs ONLY to the CYBORG's inflating torso, NOT to the being born of the broth: the small being kindling inside the detaching helmet broth is only a forming pho-noodle face and a tiny glowing form, and must NOT have its own separate finished spoon-shaped Pho-boman body, round belly, or red-dragon belly emblem (that reveal is withheld until a later panel), the diving helmet IS the head and IS full of glowing broth here (not empty, not separate on the bench), no empty/dark helmet, no headless chassis, no calm static pose (this is peak explosive transformation), no cold flat lighting on the center (center is high-saturation glow and steam), no costumed superheroes in finished costumes, no capes, no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones, no anachronistic gadgets, no extra fingers, no malformed hands, no extra limbs, no text errors or garbled lettering (other than the intended "KRA-SLURP-KSSHHH" SFX and the "oh no oh no oh no—" bubble), no other people besides the single junior engineer in the foreground, no lunch lady or executive in frame.
 
 **Consistency notes**
 
-- Reuses **verbatim** the ratified descriptor cores for the chassis plating, the
+- Reuses **verbatim** the descriptor cores for the chassis plating, the
   brass diving helmet, the multicolored folding fan (handle + green/blue/red
-  blades), the twin ninjato katanas, the leg actuators, the red dragon decal, and
-  the Junior Engineer (author-accepted 2026-06-14). Only the *transformation state*
-  changes per the continuity timeline — helmet now seated + broth-full + glowing,
-  decal warped into the round 3D emblem, fan snapped open, katanas unsheathing.
+  blades), the twin ninjato katanas, the red dragon decal, and the Junior
+  Engineer. The chassis carries only Windman's fan and Primm's katanas — no
+  scaling actuators, no leg actuators. Only the *transformation state* changes per
+  the continuity timeline — helmet now seated + broth-full + glowing, decal warped
+  into the round 3D emblem, fan snapped open, katanas unsheathing.
 - **Continuity guard (the "then not" turn):** this is the one frame showing AEGIS-4
-  **whole**, simultaneously cracking into **three fragments + Pho-boman born
-  separately** from the helmet broth. Per ratified canon, Pho-boman is **not** a
-  cyborg fragment — he is **born of the incident**, so his noodle-face forms in the
-  *detaching* helmet, not on the cracking body.
+  **whole**, splitting **two ways, not three** — two white-hot seams crack the body
+  into exactly **two emerging fragments**: a windward fan-bearer (Windman) and a
+  bladed katana-bearer (Primm). There is **no** third "leg-actuator size-shifter"
+  figure. Tiebi is a human transformed elsewhere in the building — he is **not** part
+  of the prototype and does **not** appear in this panel.
+- **Pho-boman is born, not split:** simultaneous with the fracture, the broth-filled
+  helmet detaches and glows, and a separate being kindles **from the soup inside it**
+  (noodle-face forming behind the visor) — born of the broth, not split off the body.
+  So the count reads: **two cyborg fragments + one being born of broth = three
+  luminous silhouettes** blooming where there was one, plus the still-detaching
+  helmet that cradles the broth-born being.
+- **Reveal-withholding guard:** the round-bellied dragon emblem here belongs **only**
+  to the cyborg's inflating torso. The broth-born being shows only a forming
+  pho-noodle face and a tiny glow — **no** finished spoon-shaped Pho-boman body, round
+  belly, or dragon belly-emblem (that reveal is withheld to a later panel).
 - **Equipment-timing guard:** the eye bandage, purple suit, and beret do **NOT**
   appear here — iconic equipment crystallizes at split-time in **Panel 4**. Negative
   prompt blocks them explicitly to prevent the model from resolving the heroes early.
-- Junior Engineer's pose updated to "diving for cover behind a cart" per this beat;
-  appearance wording unchanged from his ratified spec.
+- Junior Engineer's pose is "diving for cover behind a cart" for this beat;
+  appearance wording unchanged from his spec.
 - Only the Junior is in frame (Lunch Lady and Executive are not in this beat).
 
 ### Panel 4 — Four Ways Out
 
 > **The four canon silhouettes, delivered in one image.** A four-quadrant grid
-> (one panel, four windows), each a tight close-up of a freshly-separated being
-> waking and breaking away in a different direction across the wrecked lab and
-> the building around it. This is where the **iconic equipment crystallizes at
-> split-time** — Windman's eye bandage, Primm's purple ninja suit, Tiebi's beret
-> all appear here for the first time (they were withheld from Panel 3 on purpose).
+> (one panel, four windows), each a tight close-up of one of the four in their
+> first moments, each going in a different direction. This is where the **iconic
+> equipment crystallizes at split-time** — Windman's eye bandage and Primm's
+> purple ninja suit appear here for the first time (withheld from Panel 3 on
+> purpose). Tiebi's beret also appears here for the first time — but it is his
+> personal military memento, already his before the incident, not a crystallization.
 > The transformation is **over**: no glowing seams, no inflating torso, no whole
-> cyborg — four distinct beings, just born, minutes old, none aware of the others.
-> Tone drops from Panel 3's cosmic chaos to **quiet, almost lonely**. Lunch Lady's
-> single word **"Settle"** lands in the top-right window.
+> cyborg — four distinct beings, each in their first disoriented moment. Three of
+> them (Windman, Primm, Pho-boman) have no past — they are brand new. Tiebi knows
+> exactly who he is but has no framework for what he has become. Tone drops from
+> Panel 3's cosmic chaos to **quiet, almost lonely**. Lunch Lady's single word
+> **"Settle"** lands in the top-right window.
 
 **Style anchor:** [[Visual Style Guide|v1]]. **Palette override:** back to the cold
 desaturated beige-fluorescent baseline (the chaos of Panel 3 has passed), with each
@@ -292,7 +307,7 @@ blue, Primm's violet, Tiebi's muted neutral, Pho-boman's warm reddish-orange bro
 >
 > BOTTOM-LEFT WINDOW — a slim lean figure (about 175–180 cm build) caught GASPING and PHASING FREE halfway through a solid grey corridor wall, his body semi-transparent and ghosting where it passes through the plaster, faint refracted blue light bending around the breach. He is a sleek high-tech ninja: a slightly elongated face with sharp focused eyes mostly hidden behind high-tech goggles with a glowing cyan visor and faintly blue-tinted lenses, short-to-medium dark brown hair; a sleek lab-coat-style jacket in dark purple with silver trim worn open at the front over a black undershirt patterned with faint glowing blue geometric lines; dark blue fitted trousers tucked into medium black boots with silver accents; black gloves with silver fingertips. Twin matching katanas (ninjato-style straight blades) sheathed in an X on HIS back. Small metallic mini-orbs/tools already orbit his chest and waist, glowing faint blue. He is masculine, he/him. One small pop of violet phasing out of a grey wall.
 >
-> BOTTOM-RIGHT WINDOW — extreme close-up: a tiny postage-stamp-sized man, fully formed at miniature scale with realistic human proportions, clinging to the edge of a small round enamel GastroDefense lapel pin (the pin showing a deliberately bland corporate logo of a stylized fork crossed with a baton in two flat muted corporate colors) on the charcoal-grey suit lapel of a man riding an elevator. The tiny man has an ordinary friendly medium-skin-toned human face, neutral expression, no facial hair, normal expressive eyes, and wears a small classic French beret, slightly tilted, dark navy, snug and soft with a small nub at the top center, over a simple fitted neutral-toned shirt, plain trousers and simple flat dark shoes. He is staring down at his own tiny outstretched hand in dawning confusion, having no idea where he is or whose hand the giant lapel belongs to. Filling most of the rest of the frame, enormous and out of focus: the executive's clean-shaven jaw, thin tie and charcoal-grey suit shoulder, completely oblivious. The audience reads it: the corporation is unknowingly carrying one of them out of the building. One small muted-neutral figure dwarfed by a corporate suit.
+> BOTTOM-RIGHT WINDOW — extreme close-up: a tiny postage-stamp-sized man, fully formed at miniature scale with realistic human proportions, clinging to the edge of a small round enamel GastroDefense lapel pin (the pin showing a deliberately bland corporate logo of a stylized fork crossed with a baton in two flat muted corporate colors) on the charcoal-grey suit lapel of a man riding an elevator. The tiny man has an ordinary friendly medium-skin-toned human face with an alert, composed, assessing expression (not afraid, not confused), no facial hair, steady focused eyes, and wears a small classic French beret, slightly tilted, dark navy, snug and soft with a small nub at the top center, over a simple fitted neutral-toned shirt, plain trousers and simple flat dark shoes. He is staring down at his own tiny outstretched hand. Filling most of the rest of the frame, enormous and out of focus: the executive's clean-shaven jaw, thin tie and charcoal-grey suit shoulder, completely oblivious. The audience reads it: the corporation is unknowingly carrying one of them out of the building. One small muted-neutral figure dwarfed by a corporate suit.
 >
 > Composition: four clean equal windows, each silhouette-first and instantly readable on its own, unified by the cold beige-fluorescent palette and the lonely just-born stillness; no character looks at or acknowledges any other. Deadpan, quiet, melancholic comic-book staging.
 
@@ -309,18 +324,19 @@ blue, Primm's violet, Tiebi's muted neutral, Pho-boman's warm reddish-orange bro
   jacket, black undershirt with blue geometric lines, orbiting blue orbs, twin
   ninjato katanas), [[Tiebi]] (ordinary friendly build, tilted dark-navy French
   beret), [[Pho-boman]] (brass diving-helmet head, noodle eyes/eyebrows, green-herb
-  nose, reddish-orange broth, no separate mouth). Reuses the ratified prop
+  nose, reddish-orange broth, no separate mouth). Reuses the established prop
   descriptors for the brass diving helmet, the multicolored fan (green/blue/red
   blades), the twin ninjato katanas, the pho cauldron, the rolling cart, the Lunch
   Lady, the Executive, and the GastroDefense lapel pin + logo.
-- **Equipment-crystallization payoff:** per ratified 2026-06-14 canon, the eye
-  bandage, purple suit and beret were withheld from Panel 3 and **manifest here at
-  split-time** as a lucky/random crystallization (not engineered by GastroDefense).
-- **Ratified this session (used verbatim, not re-flagged):** Windman's emblem is a
-  **single "W"** monogram (not "WM"); **Primm uses he/him** (confirmed in script:
-  "his back" — rendered he/him here); Primm's blades keep the
-  locked compound descriptor **"katanas (ninjato-style straight blades)"**;
-  **Pho-boman** and **Tiebi** use **he/him**.
+- **Equipment-crystallization payoff:** the eye bandage and purple suit manifest
+  here at split-time as a lucky/random crystallization (not engineered by
+  GastroDefense). Tiebi's beret is the explicit exception: it is a pre-incident
+  personal military memento he was already wearing as a human — not a crystallized
+  manifestation. Pho-boman's helmet was also pre-built.
+- Windman's emblem is a **single "W"** monogram (not "WM"); **Primm uses he/him**
+  (confirmed in script: "his back"); Primm's blades keep the locked compound
+  descriptor **"katanas (ninjato-style straight blades)"**; **Pho-boman** and
+  **Tiebi** use **he/him**.
 - **Staging honored from the script:** TL Windman on a rooftop three blocks away
   breathing in (flag snaps to attention); TR Pho-boman's helmet bobbing in the
   cauldron on the cart with the Lunch Lady's ladle and her one word "Settle"; BL
@@ -400,13 +416,12 @@ steaming noodle in the inset.
   consistent with the script line "the rolling cart on another." His **full spoon-shaped
   silhouette and red-dragon-on-blue belly emblem are deliberately NOT shown here.** This
   withhold is **load-bearing**: the full canonical reveal lands at [[S01E04 — What Is a Ladle
-  For]] Panel 4 (author-ratified 2026-06-15). E01 Panels 3–5 must continue to suppress it.
-  See [[Pho-boman]] and [[Open Questions & Contradictions]] (resolved 2026-06-15).
-- **Ratified this session (used verbatim, not re-flagged):** Windman's emblem is a **single
-  "W"** monogram; **Primm uses he/him**; the cyan visor/glint belongs to **Primm** only;
-  **Tiebi** and **Pho-boman** use **he/him**. The Lunch Lady, the rolling cart, the pho
-  cauldron, and the GastroDefense fork-crossed-with-baton logo are reused from their ratified
-  (2026-06-14) descriptors.
+  For]] Panel 4. E01 Panels 3–5 must continue to suppress it. See [[Pho-boman]] and
+  [[Open Questions & Contradictions]].
+- Windman's emblem is a **single "W"** monogram; **Primm uses he/him**; the cyan
+  visor/glint belongs to **Primm** only; **Tiebi** and **Pho-boman** use **he/him**.
+  The Lunch Lady, the rolling cart, the pho cauldron, and the GastroDefense
+  fork-crossed-with-baton logo are reused verbatim from their canonical descriptors.
 - **Continuity guard:** transformation is long finished — no whole cyborg, no seams, no
   inflation; coldest, most desaturated palette of the page; the only warm notes are the
   broth-cart glint and the inset steaming noodle. Four figures, four streets, none touching,

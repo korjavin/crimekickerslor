@@ -9,8 +9,8 @@ episode: S01E01
 
 Print-ready narration captions for [[S01E01 — Some Assembly Required]] — one per
 panel, to letter onto the comic page beside each picture. 10 sentences total
-(within the 5–10 cap). Deadpan dry-corporate-comedy voice. Canon-accurate to the
-2026-06-14 ratifications. Pairs with the panel art in [[S01E01 — Panel Prompts]].
+(within the 5–10 cap). Deadpan dry-corporate-comedy voice. Pairs with the panel art in
+[[S01E01 — Panel Prompts]].
 
 ## Captions
 
@@ -23,11 +23,11 @@ panel, to letter onto the comic page beside each picture. 10 sentences total
 > cart hit the right cable.
 
 **Panel 3**
-> For one impossible heartbeat, it was whole. Then the seams found it — three ways
+> For one impossible heartbeat, it was whole. Then the seams found it — two ways
 > at once — and something else was born from the soup.
 
 **Panel 4**
-> Four new beings. Four different ceilings above them. None of them with any idea
+> Four beings. Four different ceilings above them. None of them with any idea
 > what they were, or that there had ever been anything else.
 
 **Panel 5**
@@ -43,8 +43,9 @@ panel, to letter onto the comic page beside each picture. 10 sentences total
   - Panel 4 — the Lunch Lady's bubble: *"Settle."*
   - Panel 5 — the caption box: *"Project AEGIS-4 — Status: Recalled."*
 - **Compression note:** Panel 3 is the tightest squeeze — that Pho-boman is *born*
-  from the broth rather than split off like the other three. The caption gestures
-  at it ("something else was born from the soup") and the art carries the rest.
+  from the broth rather than split off like the other two (Windman, Primm). The
+  caption gestures at it ("something else was born from the soup") and the art
+  carries the rest.
   Spelling it out fully would need a second sentence and push the total to 11,
   breaking the cap. See the open reveal-timing question in
   [[Open Questions & Contradictions]].

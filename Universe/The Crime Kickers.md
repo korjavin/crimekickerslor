@@ -6,9 +6,10 @@ canon: true
 
 # The Crime Kickers
 
-The four-member team at the center of the universe. Per [[Origin & Concept]], they
-are the independent fragments of a single fractured cyborg, now acting together
-under the name **Crime Kickers**.
+The four-member team at the center of the universe. Per [[Origin & Concept]],
+two are fragments of a fractured cyborg, one was born of the same incident, and one
+is a human bystander transformed by the incident. They act together under the name
+**Crime Kickers**.
 
 > "Crime Kicker" is also used as a title of achievement — the *Shadow Kickers*
 > game ends with: *"You are the ultimate Crime Kicker!"*
@@ -29,16 +30,16 @@ source material and are not part of the approved registry.
 
 - **Members:** exactly four (canon).
 - **Shared name:** Crime Kickers (canon).
-- **Origin (canon, 2026-06-14 update):** three of the four are fragments of
-  **Project AEGIS-4**, GastroDefense Inc.'s prototype law-enforcement cyborg.
-  The fourth, **Pho-boman**, was born of the same fracture incident as a
-  separate emergent entity. See [[Origin & Concept]].
+- **Origin (canon, 2026-06-17 correction):** two of the four (Windman, Primm) are
+  fragments of **Project AEGIS-4**, GastroDefense Inc.'s prototype law-enforcement
+  cyborg. **Pho-boman** was born of the same fracture incident as a separate
+  emergent entity. **Tiebi** was a human security officer (ex-soldier) on-site at
+  the time — transformed by the incident, not a cyborg fragment. See [[Origin & Concept]].
 - **Aliases of the team across prototypes:** *Stealth Kickers*, *Shadow Kickers*,
   *Stealth Action Squad*. See [[Naming Variants]].
 - **Power synergy** is a recurring design idea: in the game prototypes, no single
   member can clear an obstacle alone — progress requires combining abilities
-  (switching between heroes). This supports a "team that *grew from* one being"
-  reading of the canon origin (three fragments plus a co-born outsider).
+  (switching between heroes).
 
 ## Open team questions
 

@@ -11,7 +11,7 @@ Spoken-word narration voiceover for [[S01E01 — Some Assembly Required]], writt
 ElevenLabs text-to-speech to play as background narration over a slideshow / motion-
 comic of the 5 panels (see [[S01E01 — Panel Prompts]]) and the print [[S01E01 — Captions]].
 Written for the ear. Deadpan dry-corporate-comedy voice. ~218 words, ~87 seconds at
-150 wpm. Canon-accurate to the 2026-06-14 ratifications.
+150 wpm.
 
 ## Clean script (paste into ElevenLabs)
 
@@ -26,9 +26,9 @@ Lunch hour. The lab was empty except for him — still there, mid-sentence, lean
 
 For one impossible heartbeat, it was whole.
 
-Then the seams found it — three ways at once — and the chassis cracked into three, and the helmet, full of soup now, glowing, detached. And from the broth inside it, something else was born. Not split. Born.
+Then the seams found it — two ways at once — and the chassis cracked into two, and the helmet, full of soup now, glowing, detached. And from the broth inside it, something else was born. Not split. Born.
 
-Four new beings. Four different ceilings above them. Each one waking up — if that's the word — with no past, no name, and no idea there had ever been anything else.
+Four beings. Four different ceilings above them. Three of them waking up — if that's the word — with no past, no name, and no idea there had ever been anything else. One of them knowing exactly who he was, and discovering, in the same moment, that he had no idea what he had become.
 
 The Lunch Lady looked into the cauldron. Said one word. Moved on.
 
@@ -55,9 +55,9 @@ The executive gave it eleven minutes. <break time="0.4s" /> Skip harmonization �
 
 [hushed] For one impossible heartbeat, it was whole. <break time="1.5s" />
 
-[building] Then the seams found it — three ways at once — and the chassis cracked into three, and the helmet, full of soup now, glowing, detached. <break time="0.6s" /> And from the broth inside it, something else was born. <break time="0.5s" /> [quietly] Not split. <break time="0.4s" /> Born. <break time="1.3s" />
+[building] Then the seams found it — two ways at once — and the chassis cracked into two, and the helmet, full of soup now, glowing, detached. <break time="0.6s" /> And from the broth inside it, something else was born. <break time="0.5s" /> [quietly] Not split. <break time="0.4s" /> Born. <break time="1.3s" />
 
-[flat, wondering] Four new beings. <break time="0.4s" /> Four different ceilings above them. <break time="0.5s" /> Each one waking up — if that's the word — with no past, no name, and no idea there had ever been anything else. <break time="1.0s" />
+[flat, wondering] Four beings. <break time="0.4s" /> Four different ceilings above them. <break time="0.5s" /> Three of them waking up — if that's the word — with no past, no name, and no idea there had ever been anything else. <break time="0.6s" /> One of them already knowing exactly who he was — and discovering, in the same moment, that he had no idea what he had become. <break time="1.0s" />
 
 [deadpan] The Lunch Lady looked into the cauldron. <break time="0.4s" /> Said one word. <break time="0.4s" /> Moved on. <break time="1.3s" />
 
@@ -80,10 +80,10 @@ The executive gave it eleven minutes. <break time="0.4s" /> Skip harmonization �
 **Panel 3 — Assembly Complete (Then Not)**
 > For one impossible heartbeat, it was whole.
 >
-> Then the seams found it — three ways at once — and the chassis cracked into three, and the helmet, full of soup now, glowing, detached. And from the broth inside it, something else was born. Not split. Born.
+> Then the seams found it — two ways at once — and the chassis cracked into two, and the helmet, full of soup now, glowing, detached. And from the broth inside it, something else was born. Not split. Born.
 
 **Panel 4 — Four Ways Out**
-> Four new beings. Four different ceilings above them. Each one waking up — if that's the word — with no past, no name, and no idea there had ever been anything else.
+> Four beings. Four different ceilings above them. Three of them waking up — if that's the word — with no past, no name, and no idea there had ever been anything else. One of them knowing exactly who he was, and discovering, in the same moment, that he had no idea what he had become.
 >
 > The Lunch Lady looked into the cauldron. Said one word. Moved on.
 

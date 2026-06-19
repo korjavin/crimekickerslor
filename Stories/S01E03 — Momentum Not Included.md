@@ -12,52 +12,54 @@ featured: [Tiebi]
 
 # S01E03 — Momentum Not Included
 
-> **Logline:** Flung microscopic onto a corporate lapel pin, a postage-stamp man discovers
-> that growing back to full size is the easy part — the hard part is that size and momentum
-> are two completely different problems, and one of them is still set to zero.
+> **Logline:** A former soldier wakes up postage-stamp-sized on a corporate lapel pin, still wearing the beret he carried through every posting that came before, and has to reverse-engineer his impossible body using the same method he used to clear buildings: small steps, patience, and the right order of operations.
+
+---
+
+## Title
+
+**"Momentum Not Included"** — the physics pun and the emotional truth: a man who has operated under fire, who has known exactly what to do in a confined space, who has always had a plan — now has a body that gives him none of the motion he earned. Mass, yes. Momentum: not included.
+
+---
+
+## Continuity / placement
+
+This episode is a **zoom-in on [[S01E01 — Some Assembly Required]] Panel 4**, bottom-right quadrant of the wake-up grid. That panel's verbatim descriptor is the episode's opening image (Panel 1 here): *"a postage-stamp-sized man clinging to the Executive's GastroDefense enamel lapel pin in the elevator. A tiny dark-navy beret perched perfectly on his head — his personal beret, worn in memory of his military service, still on his head as it was before the incident. The Executive's hand fills most of the frame, oblivious. The man stares at his own tiny hand."* E01 Panel 4 names the emotional register: he knows exactly who he is; his disorientation is about what happened to him, not about who he is. E03 Panel 1 continues that image six minutes forward — same pin, same elevator, same man — but the freeze-frame is now in motion.
+
+The episode's **final panel** delivers Tiebi to [[S01E01 — Some Assembly Required]] Panel 5's overhead compass-spoke shot: four figures walking outward from the GastroDefense Inc. campus on four streets. His figure is rendered there as *"the small man crossing a parking garage."* This episode must close with him on the open upper deck, walking toward the street — not re-entering the building, not encountering any other hero.
+
+The **physics discovery in Panel 5** — sprint small, then grow; momentum transfers; size and momentum are two independent dials — is the origin of the technique deployed in [[S01E06 — Two-Body Problem]] Panels 4–5. E06 Panel 5's STOMP SFX and its explicit back-reference (*"E03 Panel 5's method paid forward"*) require that the eureka survive the rewrite intact. The discovery is structurally identical; what changes is the path to it: a competent veteran running a field test, not a newborn stumbling into luck.
+
+> **Seam test for any future edit:** does E01 Panel 5's overhead shot read as the immediate next frame after E03 Panel 6? If the episode ends before he reaches the upper deck and the compass-spoke street, the seam breaks. Does E06 Panel 5 read as a direct deployment of the "sprint first, then grow" sequence established in E03 Panel 5? If the ghost-image technique or the physics captions are removed, the E06 payoff breaks.
 
 ---
 
 ## Format
 
-This episode is a **6-panel comic page** (one page). Each panel is one image with tight
-captions / minimal dialogue. The episode is MOBILE — four distinct spaces across six panels
-(elevator, office closet, lobby, parking garage). No other hero appears. The Executive is
-present as an oblivious background giant in Panels 1–2 only; all other humans are unnamed
-crowd.
+This episode is a **6-panel comic page** (one page). Each panel is one image with tight captions / minimal dialogue — no direct dialogue appears; all language is the dry case-file narrator's boxed captions, caption staircases, and one single-word quoted exclamation in Panel 5. Iconography over blocking.
 
-> **Visual production:** image-generation prompts for each panel to be built against the
-> [[Visual Style Guide]] by the panel-prompt-smith agent.
+The episode is **mobile** — four distinct spaces across six panels (elevator exterior / lobby approach, executive coat closet, lobby floor, revolving door, parking ramp, parking deck). Tiebi does not stay anywhere. This mobility inverts [[S01E02 — Feel the Room]]'s rooftop stillness and [[S01E04 — What Is a Ladle For?]]'s single-corridor stasis. He is a man who moves through terrain. The terrain is the problem.
+
+One warm color (mustard) against an otherwise flat, cool, institutional palette. Canonical SFX STOMP withheld here — it pays off in E06 Panel 5, deployed in the field. The eureka in Panel 5 earns the physical vocabulary; the word itself is saved.
+
+> **Visual production:** image-generation prompts for each panel to be built against the [[Visual Style Guide]] by the panel-prompt-smith agent.
 
 ---
 
 ## Working title
 
-**"Momentum Not Included"** — the physics pun and the emotional truth: he arrives in the
-world with mass but no motion, a being assembled but not yet launched.
+**"Momentum Not Included"** — the physics pun and the emotional truth.
 
-Alternates: "Two Separate Dials" · "Wrong Order of Operations" · "Full-Size, Going Nowhere"
-· "Beret on the Floor" · "The Slow Giant"
+Alternates: "Two Separate Dials" · "Wrong Order of Operations" · "Full-Size, Going Nowhere" · "Beret on the Floor" · "The Slow Giant"
 
 ---
 
 ## Cast (this issue)
 
-- **The unnamed fragment** — no name yet by Panel 1. One of the four AEGIS-4 fragments
-  (body: ~175–180 cm at normal size, medium build, slightly lean). Signature: classic French
-  beret, slightly tilted, dark navy, snug/soft with a small nub at top center. **Signature
-  color: mustard** — his fitted shirt/tunic is mustard-gold, his signature warm accent.
-  Simple plain trousers, simple flat dark shoes. At micro scale: proportionally identical, perfectly
-  formed, human in every detail but postage-stamp-sized.
-- **The Executive** — the same man from [[S01E01 — Some Assembly Required]] Panel 4.
-  Charcoal-grey suit, GastroDefense Inc. enamel lapel pin. Oblivious throughout. Hangs his
-  jacket in the closet in Panel 2 and leaves the closet door ajar, then exits frame and does
-  not return. Never addresses the fragment. Never notices the fragment.
-- **The lobby crowd** — unnamed people, giant-scaled from Tiebi's perspective during his
-  micro phase. Present Panels 3–4. Indifferent. One of them steps around him in Panel 4 as
-  if he is a slow-moving package.
-- **A yellow parking stall number** — the environmental detail that earns the name.
-  Present Panel 6 only. No lines.
+- **Tiebi** — CK-004, he/him. A former soldier, veteran of multiple local conflicts, who finished his military career and became a security officer at GastroDefense Inc. He was on duty, on-site, when the AEGIS-4 incident transformed him. No name yet by Panel 1 — that arrives in Panel 6. **Appearance:** ~175–180 cm at normal size, medium build, slightly lean but healthy, ordinary human face, medium skin tone, no facial hair. Dark-navy French beret, slightly tilted, snug and soft, small nub at top center — a personal military memento he was wearing before the incident, not a crystallized manifestation. Mustard-gold fitted shirt (the episode's sole warm color pop). Plain dark trousers, flat dark shoes. At micro scale: proportionally identical, perfectly formed, postage-stamp-sized. He knows exactly who he is. He does not yet know what he has become.
+- **The Executive** — the same man from [[S01E01 — Some Assembly Required]] Panel 4. Charcoal-grey suit, GastroDefense Inc. enamel lapel pin (stylized fork crossed with a baton, two flat muted corporate colors). Oblivious throughout. Hangs his jacket in the closet in Panel 2, leaves the closet door ajar, then exits frame and does not return. Never addresses Tiebi. Never notices him.
+- **The lobby crowd** — unnamed background people, present at normal scale in Panels 3–4 (Tiebi is full-size by Panel 3). Indifferent. One of them steps around him in Panel 4 as if he is a slow-moving piece of luggage. A small child exits the adjacent door in Panel 4. No names. No lines.
+- **A yellow parking stall marker** — the environmental detail that earns the name. Present Panel 6 only. No lines.
 
 ---
 
@@ -65,268 +67,132 @@ Alternates: "Two Separate Dials" · "Wrong Order of Operations" · "Full-Size, G
 
 ### Panel 1 — Still On The Lapel
 
-**Image:** Extreme close-up from above and slightly to the side, looking down at the
-Executive's lapel. The GastroDefense Inc. enamel pin (a deliberately bland corporate badge:
-stylized fork crossed with a baton, two flat muted corporate colors) is the size of a
-dinner plate from this angle. Clinging to its rounded edge: a postage-stamp-sized man —
-fully formed, perfectly human in proportion, wearing a tiny dark-navy beret tilted just
-so. His mustard-gold shirt is visible even at this scale. Both of his tiny hands are now
-gripping the pin's rim. His head is turned DOWN, not at the pin but at the elevator floor
-far below — a polished marble lobby visible through the elevator's opening doors. Giants'
-legs are moving past. His expression: no longer dawning confusion (E01 Panel 4's beat is
-done). Now: active assessment. He has been awake for approximately six minutes and has
-established one fact. The Executive's lapel is moving. The elevator has arrived.
+**Image:** Extreme close-up from above and slightly to the side, looking down at the Executive's lapel. The GastroDefense Inc. enamel pin (stylized fork crossed with a baton, two flat muted corporate colors) is the size of a dinner plate from this angle. Clinging to its rounded edge: a postage-stamp-sized man — fully formed, perfectly human in proportion, wearing a tiny dark-navy beret tilted just so. His mustard-gold shirt is visible even at this scale. Both his tiny hands grip the pin's rim. His head is turned — not down at his own hands (that beat is E01 Panel 4's and is closed), but in a slow, deliberate scan of the elevator interior. The elevator doors are opening on a marble lobby. Giants' legs move past. His expression: not panic, not confusion. Active assessment. He is not looking at the lobby the way a person looks at a place that frightens them. He is looking at it the way a person counts what is in a room. The Executive's lapel-level hand moves to press the door-open button, oblivious.
 
 **Caption / dialogue:**
-- CAPTION (dry, boxed, case-file register): *He has identified the following: he is very
-  small. Everything else is very large. The large things are moving.*
-- CAPTION (below, same register): *He does not yet know what to do with this information.*
+- CAPTION (dry, boxed, case-file register): *He has been awake for approximately six minutes.*
+- CAPTION (below, same register): *He had counted the exits.*
+- CAPTION (below): *There was one.*
+- CAPTION (below): *It was moving downward.*
 
-**Why it lands:** The continuation of E01 Panel 4 is immediate and clear — same man, same
-pin, same elevator — but the emotional beat has shifted from frozen confusion to active (if
-bewildered) engagement. The mustard shirt is already visible here at micro scale, so the
-color is introduced before the full-size reveal. The caption establishes the dry case-file
-voice of the series. The opening doors are the cocked gun: something is about to change.
+**Why it lands:** The continuation of E01 Panel 4 is immediate — same man, same pin, same elevator — but the freeze-frame is now in motion, and the emotional register has shifted from first-instant disorientation to something quieter and more competent. He is not dawning into panic. He is running an inventory. The exit-counting is the episode's first behavioral artifact: a trained man doing a trained thing in a body-type he has never had before. The narrator does not explain why he counts exits. It does not need to. The caption delivers *"suboptimal"*'s equivalent in a flat field-report register. The elevator is a box with one exit and no ceiling problem yet. He has filed this. He is moving on.
 
 ---
 
 ### Panel 2 — Forest Of Suits
 
-**Image:** The inside of a narrow executive coat closet — painted white, fluorescent strip
-overhead (the strip runs close to the ceiling, leaving very little vertical clearance between
-the coat rail and the ceiling above it). A tight row of hanging suit jackets, spaced just
-far enough to admit a coat hanger, fills the frame: charcoal, slate, navy, charcoal again.
-The Executive's jacket — still holding its shape from the man who just took it off — hangs
-freshest at the right edge, hanger still rocking. The jackets hang from a chrome rail
-roughly 175 cm from the floor; above the rail is approximately 30 cm of headroom before the
-ceiling. In the center of the frame, at the bottom of the frame, barely visible between the
-hanging hem-lines: a postage-stamp-sized man standing on the closet shelf-ledge. He is
-looking straight up. The camera is level with the rail — so the ceiling above is visible,
-close, oppressive. The fragment's tiny body is at the same height as the hem of the lowest
-jacket; above him: chrome rail, five centimeters of air, then ceiling. He is attempting to
-grow. His silhouette shows the faintest shimmer — a body trying to expand — but he is
-jammed: the hem of the jacket presses down from above as his height increases by even
-two centimeters, and the rail is a hard stop. His beret is nudged askew by the jacket
-hem. His expression is the expression of a man who thought the obvious solution was obvious
-and has discovered otherwise. At one edge of the frame, behind the suits, the closet door
-hangs ajar — a vertical blade of bright lobby light cutting into the gloom. The grow having
-failed, he has edged toward that light to the very lip of the shelf, and in this frozen
-instant his weight has just carried past the edge: he is beginning to pitch forward off the
-ledge, arms starting to wheel, the first half-second of the long drop to the lobby marble
-below. The way up was closed. The way out was down.
+**Image:** The inside of a narrow executive coat closet — painted white, fluorescent strip overhead running close to the ceiling, leaving approximately 30 cm of headroom between the coat rail and the ceiling above it. A tight row of hanging suit jackets fills the frame: charcoal, slate, navy, charcoal again. The Executive's jacket — freshest on the right edge, hanger still rocking — was just hung. The chrome rail is roughly 175 cm from the floor. In the center of the frame, standing on the closet shelf-ledge: a postage-stamp-sized man looking straight up. He is attempting to grow. A faint shimmer surrounds his silhouette — a body trying to expand. The jacket hem above him presses immediately down as he expands two centimeters; the rail is a hard stop. In that same motion, the jacket hem nudges his beret askew. His free hand corrects the beret first — before his body has even registered the ceiling stop consciously. The correction is complete before his growth attempt has fully failed: beret back to its proper tilt, ceiling still a problem, in that order. He has prioritized in the wrong direction, and does not appear to notice. At one edge of the frame, behind the suits, the closet door hangs ajar — a vertical blade of bright lobby light cutting into the gloom. He has edged toward it to the very lip of the shelf, and in this frozen instant his weight has just carried past the edge: he is beginning to pitch forward, arms starting to wheel, the first half-second of the long drop to the lobby marble below.
 
 **Caption / dialogue:**
 - CAPTION: *The obvious move was to get big again.*
 - CAPTION (below): *The obvious move was unavailable.*
 - CAPTION (below): *The ceiling had opinions.*
-- CAPTION (below): *There was a way out. It was down.*
+- CAPTION (below): *He straightened the beret.*
+- CAPTION (below): *He always straightened it.*
 
-**Why it lands:** This is the first time his low-ceiling vulnerability bites — the constraint
-stated in [[Tiebi]]'s character notes doing real work here. The comedy is architectural: the closet is exactly wrong in every dimension.
-The failing shimmer-silhouette is enough visual language to signal a size-shift attempt
-without requiring an explosion. Four short captions in the same staircase rhythm as later
-panels establish the voice; the last — *There was a way out. It was down.* — turns the
-failure into the exit, the ajar door becoming the gap of light he goes for while the shelf
-edge does the rest. The askew beret is the only panel in the issue where something
-knocks it out of alignment — a small indignity on top of the larger one. Crucially, the
-low-ceiling failure here motivates why the eureka in Panel 5 works: when he finally shrinks
-to sprint, there is no ceiling problem, because the sprint is at micro scale where the
-clearance question is irrelevant. And the slip off the shelf is the accidental first half of
-the Panel 5 method — he gets *moving* before he gets *big*, without yet knowing that is the
-trick.
+**Why it lands:** The beret reflex is the episode's key artifact beat. A gesture so habitual it precedes rational thought — he corrects the beret before he has consciously registered the ceiling stop, and the caption names it without explaining it. "He always straightened it" is the whole biography in four words: this reflex is older than this body, older than this building, older than this morning. The reader who has seen soldiers straighten their cover under fire will understand it immediately. The reader who hasn't will still feel that this man has a reason. The closet's architectural comedy is intact — the ceiling constraint is real, canonical, biting on its first appearance — but the emotional layer is now a portrait: a man with a habit that survived a supernatural transformation. The slip off the shelf is both the punchline (the obvious move failed; the exit is down) and the mechanical setup for Panel 3.
 
 ---
 
 ### Panel 3 — Accidental Upgrade
 
-**Image:** The lobby of GastroDefense Inc. — polished grey marble floors, fluorescent
-corporate lighting, a reception desk the size of a gymnasium wall, potted plants like
-sequoias. The Executive's jacket hangs in its closet off the lobby; he himself has already
-crossed the lobby toward the inner offices and is not visible in this frame. At the center
-of the frame: a full-sized man — our man, abruptly human-scale — caught in the low half-
-crouch of someone who has just landed from a height: one hand and one knee near the marble,
-the other arm out, weight still settling, a faint scatter of impact lines and a little marble
-dust of arrival around him, his beret just resettling back onto its tilt after the drop. He
-is rising up out of the landing. His mustard-gold shirt is vivid against the grey marble. He
-is exactly 175–180 cm tall. He has absolutely no forward
-velocity. Lobby traffic flows around him at normal speed; one person steps around him as if
-he is a slow-rolling suitcase. His expression: somewhere between relief and the specific
-alarm of someone who just discovered that solving problem A immediately revealed problem B.
-
-This is the visible aftermath of the fall begun at the end of Panel 2: he went off the shelf
-edge toward the ajar door's slice of light, and the fall — downward momentum plus the open
-clearance of the lobby — fired the grow the closet had jammed. He spent that momentum
-straight down, on the landing; none of it is left pointing forward. So he arrives full-size
-and going nowhere. He does not yet understand that this is the entire secret — that getting
-*moving* is what let him get *big*. He just knows: big now, and somehow still stuck in place.
+**Image:** The lobby of GastroDefense Inc. — polished grey marble floors, fluorescent corporate lighting, a reception desk the size of a gymnasium wall, potted plants like sequoias. The Executive has already crossed the lobby toward the inner offices and is not visible. At the center of the frame: a full-sized man — Tiebi, abruptly human-scale — caught in the low half-crouch of someone who has just landed from a height. One hand and one knee near the marble, other arm out, weight still settling. His beret is resettling back to its proper tilt after the drop. His mustard-gold shirt is vivid against the grey marble — the warmest color in the frame. He has absolutely no forward velocity. But before he rises, his first physical act is not to stand. His head sweeps in a 180-degree scan, low, eyes moving — a room-clearing reflex performed before conscious thought catches up. He checks the lobby the way a person checks a room they have just entered through a door they did not choose. Nobody is looking at him. A person in a business suit steps around him as if he is a slow-moving piece of luggage. He stays in the crouch for one beat after the scan concludes, body still running a check on a room that does not need checking. Then he looks at his own hands. He reaches into his pockets. He does a quiet inventory. His pockets contain: a GastroDefense security pass in a folded plastic holder (photo: a man who is him, at a different size), a chalk stub two centimeters long, white, three flat coins, and a small folded street map annotated in two colors of ink. All of it shrank with him and is now back at full size. He considers these objects for one moment.
 
 **Caption / dialogue:**
 - CAPTION: *He fell, and on the way down, he got big.*
-- CAPTION (below): *This was the right idea.*
-- CAPTION (below): *He did not move.*
-- CAPTION (below): *This was the problem.*
+- CAPTION (below): *He had changed one variable.*
+- CAPTION (below): *He had changed the wrong variable first.*
+- CAPTION (below): *He opened a second file.*
 
-**Why it lands:** The comedy is in the gap between expectation and reality. He did the
-correct thing — he got big — and nothing else changed. Four short captions in staircase
-rhythm land the joke; the first carries the fall (*He fell, and on the way down, he got
-big.*) so the mechanism is named the instant it pays off, while beats two through four hold
-the right-idea / problem symmetry that rhymes with Panel 5. The lobby crowd's total indifference (one person
-simply walks around him) is funnier than any reaction shot. The mustard shirt is now the
-most vivid warm color in a grey-and-fluorescent frame. The Executive is already gone,
-oblivious to the last. The beat also answers the closet failure: turns out the free-fall
-from the shelf gave him just enough micro-velocity that the grow completed. But he has not
-understood that yet. He just knows: big now. Still not moving.
+**Why it lands:** Two artifacts land in this panel simultaneously. The room-clearing scan is the single best behavioral tell in the episode: it is performed before conscious thought, in a corporate lobby, in the aftermath of a fall, by a man in a crouch, and it is completely useless and completely involuntary. That is a whole military past in one reflex. The pocket inventory is the densest artifact moment — the narrator lists these objects with complete flatness and offers no explanations. The chalk is a marking tool. The annotated map is an op-habit. The security pass is his last tether to the person he was. The audience constructs a biography; the narrator supplies nothing but the list. "He opened a second file" closes the panel in the right dry register: he is now running two parallel diagnostics, his body and his physics, and he has given neither of them a name yet.
 
 ---
 
 ### Panel 4 — Full Size, Going Nowhere
 
-**Image:** The revolving door at the GastroDefense lobby exit. Seen from outside, looking
-in through the glass. Inside, our man is inside one of the revolving door's segments —
-full-sized, beret on, mustard shirt — sliding forward at a speed that can only be described
-as glacial. He is covering approximately one centimeter per second. The revolving door is
-turning, but he is moving through it like a man underwater. Lobby workers behind him
-are simply using the adjacent door, not looking at him. Outside on the pavement, a few
-pedestrians glance through the glass with the mild, non-committing curiosity of people who
-have seen stranger things. One person outside is in mid-step, clearly about to take a
-normal human stride, and will reach the far sidewalk before our man exits the door.
-His expression is no longer alarmed. It is focused. The expression of someone running
-a calculation.
+**Image:** The revolving door at the GastroDefense lobby exit. Seen from outside, looking in through the glass. Inside, Tiebi is inside one of the revolving door's segments — full-sized, beret on, mustard shirt — sliding forward at approximately one centimeter per second. The revolving door is turning from external pressure; he is contributing essentially none of it. But he is not fighting the door. He is not pushing. His expression: focused, not frustrated. He is watching the door's rotation, reading it. He is positioned flat against the frame — not centered in the segment, but flush to one side, in the way of someone who has learned to navigate contested spaces without telegraphing their position. At the precise moment of the gap, he steps through, using the door's geometry and the rotation's timing to complete the exit in exactly the available slot. He did not make momentum; he borrowed the door's. On the pavement outside: a small child exits through the adjacent door, does not look at him, and is gone. He stands on the pavement, still for a moment. His expression is the expression of a man who has just formed a hypothesis. To his right, through the glass, the lobbied line of fluorescent lighting. To his left: the open street, and the parking garage ramp entrance two blocks east.
 
 **Caption / dialogue:**
-- CAPTION: *He had mass. He had, apparently, no momentum.*
+- CAPTION: *He had mass.*
+- CAPTION (below): *He had, apparently, no momentum.*
 - CAPTION (below): *These were two different things.*
-- CAPTION (below): *He was beginning to understand that this was important.*
+- CAPTION (below): *He did not yet know which way it turned.*
 
-**Why it lands:** This is the mechanical pivot — the panel that turns a gag into a
-physics lesson without stating the lesson outright. "Two different things" is the discovery
-stated at maximum compression. The revolving-door image is slapstick but also precise: the
-door is turning (external momentum, not his), he is sliding (internal momentum: near zero).
-The focused expression signals he is no longer reacting — he is computing. The pedestrian
-outside who will outpace him is the joke's punchline, delivered in a single visual detail.
-The closet beat earns this panel: the closet told him "you cannot simply get big and expect
-the environment to cooperate." The revolving door confirms the inverse: "you cannot simply
-get big and expect your body to move."
+**Why it lands:** The revolving door is doing double work here: it is a physical-comedy set piece (he is slower than a child and slower than the door), and it is a behavioral portrait. He does not push because pushing is not how a trained person exits a space they do not control. He reads the rotation and uses it — because that is what you do when the environment is the variable and you are not. The "defensible-exit read" is running underneath the physics analysis simultaneously: he is standing flush against the frame because that is where sightlines open and backs are covered, and he is doing this while thinking about mass and momentum. Two tracks, parallel, neither cancelling the other. The last caption — "he did not yet know which way it turned" — works on the revolving door and on the metaphor simultaneously: the dial whose direction he doesn't understand yet is the one that will matter in Panel 5.
 
 ---
 
 ### Panel 5 — Wrong Order, Right Answer
 
-**Image:** A wide-angle of the GastroDefense Inc. parking garage entrance ramp — a low
-concrete mouth, a yellow CLEARANCE 7'-2" sign above, a painted yellow centre-line stripe
-on the grey floor. The frame is wide enough to show the full ramp and a strip of daylight
-at the far end. The action captured here is a single physical sequence rendered as two
-ghost-images in one panel: **ghost A** (left, slightly desaturated): a postage-stamp-sized
-man, sprinting flat-out down the ramp's yellow centre line — a tiny figure in full motion,
-dark-navy beret a smear, mustard shirt a blur, kicking up a tiny wake of grit. **Ghost B**
-(right, full-color, life-sized): the same man at full-size, mid-forward-roll, exiting the
-sequence — full human mass, full human scale, the roll carrying exactly the momentum the
-sprint built. He has become large at the precise moment the sprint's momentum would carry
-a full-sized body forward. The physics are visible: the tiny version's velocity is now the
-big version's velocity, and the big version's mass is enormous. He is rolling out of it
-like someone who has done exactly one successful judo throw in their life, with no training,
-on instinct. His expression — visible in Ghost B, which faces us mid-roll — is the
-expression of someone who just confirmed the answer to a hypothesis. The CLEARANCE sign
-above is not low enough to be a hazard here; the open ramp gives him the ceiling clearance
-the closet never could.
+**Image:** A wide-angle of the GastroDefense Inc. parking garage entrance ramp — a low concrete mouth, a yellow CLEARANCE 7'-2" sign above, a painted yellow centre-line stripe on the grey floor. The ramp is open: no ceiling problem at micro scale, long straight controlled surface, nobody watching. He chose this location. The action captured here is a single physical sequence rendered as two ghost-images in one panel: **Ghost A** (left, slightly desaturated): a postage-stamp-sized man, sprinting flat-out down the ramp's yellow centre line — a tiny figure in full motion, dark-navy beret a smear, mustard shirt a blur, kicking up a tiny wake of grit. His sleeve has ridden up in the sprint, and on his bared forearm: a thin diagonal scar. **Ghost B** (right, full-color, life-sized): the same man at full size, mid-forward-roll, carrying the sprint's momentum into the big body. In Ghost B, his sleeve has resettled. The scar is gone. Between the two ghost-images, set apart in its own caption-quote box, one word: *— "Breach."* Then four captions in staircase:
 
 **Caption / dialogue:**
+- CAPTION-QUOTE: *— "Breach."*
 - CAPTION: *Small body accelerates fast.*
 - CAPTION (below): *Large body carries mass.*
 - CAPTION (below): *Sprint first. Then grow.*
 - CAPTION (below): *In that order.*
 
-**Why it lands:** The eureka is a physical act, not a thought. Four short captions give
-the reasoning at maximum compression — the same staircase rhythm as Panel 3, now as
-triumph instead of comedy. The ghost-image technique makes the before/after a single
-frame rather than two sequential panels (efficient, iconographic). The CLEARANCE sign is
-a deliberate visual echo of the closet ceiling — but here the ceiling is high enough, the
-space is open, and the method bypasses the low-ceiling problem entirely: he is tiny during
-the sprint, so the ceiling is irrelevant. The yellow centre-line stripe is a plant for
-Panel 6. This is the climax the closet failure was escalating toward: the closet said "you
-cannot brute-force your way to full size in a constrained space"; the ramp proves "you do
-not need to — go small first, use momentum, then arrive big."
+**Why it lands:** The physics discovery is a diagnostic sequence, not a lucky accident. He chose the ramp. He identified the variable. He isolated the test. He changed one thing. The result confirms the hypothesis. This is a competent man applying the same methodology he used to clear buildings to a body he has never operated before — and it works, because the methodology is sound regardless of the substrate. The "Breach" word is the episode's most compressed biography moment: one word, half under his breath, rendered by the dry narrator as a quote without context or explanation, and then the narrator moves on. The audience places it. The scar is the visual partner — it appears for one ghost-image and then the sleeve resettles and it is gone. Both exist for one beat. Neither is explained. Together they are a whole military past delivered in two artifacts. The CLEARANCE sign above is a visual echo of the closet ceiling — but here the ceiling is high enough because at micro scale the clearance is irrelevant, which is the exact insight. The centre-line stripe plants the yellow for Panel 6.
 
 ---
 
 ### Panel 6 — T
 
-**Image:** The open upper deck of the parking garage. Late morning light. Grey concrete,
-no vehicles, wide horizontal expanse. Seen from above and slightly behind — the same
-overhead register that [[S01E01 — Some Assembly Required]] Panel 5 will use as its
-compass-spoke shot. Our man walks toward the far edge of the garage deck, away from the
-ramp, away from the building (the GastroDefense Inc. campus is a blocky shape visible
-in the distance behind him, already not the point). He does not look back. He is
-175–180 cm tall. He is wearing a dark-navy French beret, slightly tilted. His shirt is
-mustard-gold. His trousers and shoes are plain and dark. He is walking at a completely
-normal human speed, which he clearly finds satisfying. At his feet, a painted yellow
-parking stall marker is visible — the large capital letter **T** in a numbered bay
-(bay T-something; only the T is fully in frame). He is mid-step over it, barely
-noticing it, or maybe noticing it exactly as much as a person needs to notice a letter
-that is also, coincidentally, their name.
+**Image:** The open upper deck of the parking garage. Late morning light. Grey concrete, no vehicles, wide horizontal expanse. Seen from above and slightly behind — the same overhead register that [[S01E01 — Some Assembly Required]] Panel 5 uses as its compass-spoke shot. Our man walks toward the far edge of the garage deck, away from the ramp, away from the building (the GastroDefense Inc. campus is a blocky shape visible and already not the point in the background). He does not look back. 175–180 cm tall. Dark-navy French beret, slightly tilted — perfectly tilted; everything has resolved. Mustard-gold shirt. Plain dark trousers, flat dark shoes. He is walking at a completely normal human speed, which he clearly finds satisfying. At his feet: a painted yellow parking stall marker — the large capital letter **T** in a numbered bay (bay T-something; only the T is fully in frame). His mustard shirt and the parking paint are the same warm yellow against grey concrete. He is mid-step. Maybe he glanced at the T. Maybe he did not. The narrator cannot determine which, and says so.
 
 **Caption / dialogue:**
-- CAPTION (bottom right, smallest and most offhand line in the issue, dry-corporate
-  register): *T.*
+- CAPTION (bottom right, smallest and most offhand line in the issue, dry-corporate register): *T.*
+- CAPTION (below, smaller box, same register): *He did not look back.*
 
-**Why it lands:** The name beat is earned by color and coincidence rather than internal
-monologue. The T is a parking stall marker — not a revelation, not a ceremony — and
-the dry single-letter caption simply observes what is already there. The mustard shirt
-and the yellow parking paint are the same warm color against grey concrete, the first
-and only moment in the issue where his signature color has an external echo. He does not
-stop. He does not look down at the T, or not for long. He is walking. The overhead
-framing flows directly into [[S01E01 — Some Assembly Required]] Panel 5's compass-spoke
-shot — same concrete deck, same figure, same direction, same refusal to look back. The
-next wide frame a reader encounters is already waiting for him.
+**Why it lands:** The name arrives by coincidence and color — the same warm mustard-gold as his shirt, painted on the concrete of the building he just left behind — not by internal monologue, not by ceremony. The single-letter caption matches the convention established by Windman (*"Windman."*) and echoed by Pho-boman (*"Pho-boman."*): names in this diaspora arc are ambient, non-heroic, already present in the environment. The beret, perfectly tilted, is the episode's final artifact: untouched now, everything resolved, a memento of a whole life walking into a different one. It was askew in Panel 2 for exactly one beat. It has been right ever since. The overhead framing flows directly into [[S01E01 — Some Assembly Required]] Panel 5's compass-spoke shot — same concrete deck, same figure, same direction, same refusal to look back. The next wide frame a reader encounters is already waiting for him.
 
 ---
 
 ## What the audience knows that the hero doesn't
 
-- He is one part of four — three came from one body, one from the broth. He has no idea
-  any of the others exist.
-- The Executive whose lapel pin carried him out of the building works for the corporation
-  that made him. The corporation considers him "Recalled."
-- The beret on his head and the mustard color of his shirt are not things he chose — they
-  crystallized with him at split-time, random as all the others' equipment.
-- The physics rule he just discovered — "mass conserves; momentum does not" — is a double-
-  edged constraint. He solved for the micro-to-macro direction. The macro-to-micro direction
-  (shrinking while in motion) has its own consequences he has not yet encountered.
-- The low-ceiling vulnerability he just ran into in the closet was not a one-time fluke.
-  There is a parking garage ceiling four feet lower than this one, somewhere in his future,
-  and it is going to be a problem.
+- He is one of four. Three came from one prototype body; one was born from soup; he was a human transformed by the same incident. He has no idea any of the others exist. He does not know a word for what the four of them are.
+- The Executive whose lapel pin carried him out of the building works for the corporation that made the prototype. That corporation considers him *"Recalled"* — the same status as the fragments he has never met. Their accounting system does not distinguish between cyborg faculty and transformed security officer.
+- The beret on his head is his own — he wore it through the conflicts he served in, and through his last posting as a GastroDefense security officer, and it was on his head when the incident found him. It is not a crystallized manifestation. Nothing was done to it. It is just still there.
+- The physics rule he just discovered — "mass conserves; momentum does not" — is a double-edged constraint. He solved for the micro-to-macro direction. The macro-to-micro direction has its own consequences he has not yet encountered.
+- The low-ceiling vulnerability bit him in the closet and he already accounted for it in his field test (chose the open ramp). He solved around it correctly on the first attempt. There is a parking garage ceiling four feet lower than this one somewhere in his future, and it is going to require a different solution.
+- The word he said on the ramp — *"Breach"* — is a word that means something specific to him. The audience does not know which room it refers to. It refers to more than one.
+
+---
+
+## Open threads
+
+- **The pocket inventory (Panel 3).** The **security pass** is load-bearing — his last tether to the pre-incident identity (a GastroDefense ID photographed at full human size). The **chalk stub** and the **annotated street map** are deliberately unexplained color: they imply an operational habit without committing to specifics. Treat them as open — a future episode or panel-prompt pass should not canonize what they mean without author intent.
 
 ---
 
 ## Tone targets
 
-- Panel 1: intimate and wry. Tiny scale, enormous world. The comedy is in the caption's
-  deadpan inventory. Palette: grey marble, corporate fluorescent, the small warm accent of
-  the mustard shirt.
-- Panel 2: tight and claustrophobic. The forest of suits is visually dense; the ceiling
-  feels inches away. The shimmer-fail is quiet slapstick, capped by the slip toward the
-  ajar door's light. Four captions, quick, the last (*…It was down.*) turning the failure
-  into the exit. The askew beret is the issue's only moment of costume indignity.
-- Panel 3: the first pop of full-size — his mustard shirt is the warmest thing in the
-  lobby. Staged as the just-landed aftermath of the fall (low crouch, impact, beret
-  resettling), so the grow reads as caused, not teleported. The comedy is in the gap:
-  correct action, wrong result. Four captions, quick.
-- Panel 4: the pivot — from gag to calculation. Slower beat; his focused expression is the
-  visual anchor. The revolving door is the physical metaphor (motion not his own).
-- Panel 5: the kinetic panel. Ghost-image technique, wide angle, fast read. The four
-  staircase captions are the issue's most compressed moment.
-- Panel 6: resolution and handoff. Wide, overhead, warm. The T marker in the parking paint.
-  The mustard shirt against grey concrete. One caption. He does not look back.
+- **Panel 1:** intimate and wry. Tiny scale, enormous world. The comedy is in the caption's deadpan inventory — "There was one. It was moving downward." — delivered with the exact flatness of a field report. The mustard shirt is visible even at micro scale. No panic in his face.
+- **Panel 2:** tight and claustrophobic. The forest of suits is visually dense; the ceiling feels inches away. The shimmer-fail is quiet slapstick, capped by the slip toward the ajar door's light. Five captions, quick, the last two (*"He straightened the beret. / He always straightened it."*) doing the biography work. The askew beret is the issue's only moment of costume indignity, and it lasts one beat.
+- **Panel 3:** the first pop of full-size — mustard shirt is the warmest thing in the lobby. The room-clearing scan is performed before conscious thought; the lobby crowd's complete indifference is the joke. The pocket inventory is dry, flat, listed without comment. "He opened a second file" closes on the right dry-bureaucratic note.
+- **Panel 4:** the pivot — from gag to calculation. Slower beat; his focused expression is the visual anchor. The revolving door is the physical metaphor. He does not push. The small child exits and is gone without acknowledgment. Five captions building to the hypothesis.
+- **Panel 5:** the kinetic panel and the biography's peak. Ghost-image technique, wide angle, fast read. The scar appears in Ghost A and is gone in Ghost B. The single word *"Breach"* between the ghost-images. Four staircase captions deliver the physics. This is the most compressed panel in the issue and the one that earns E06.
+- **Panel 6:** resolution and handoff. Wide, overhead, warm. The T marker in the parking paint. The mustard shirt against grey concrete, both the same yellow. One caption, then one beat below it. He does not look back.
+
+---
+
+## Differentiation from E02 and E04
+
+- **E02 (Windman):** Contemplative, sensory, rooftop-still, alone in the deepest sense — a being with no past, discovering perception. Power discovery is gradual, graceful, environmental. Register: quiet-melancholy becoming quiet-wonder.
+- **E03 (Tiebi):** Mobile, slapstick, physics-puzzle, populated. But uniquely: a man who already knows everything about himself except what his body now does. The comedy is not blank-slate confusion — it is professional competence applied to an absurd substrate. He does not fumble. He diagnoses. The register is: lonely-funny with a dry undercurrent of someone who has been through worse and is treating this as one more problem to solve.
+- **E04 (Pho-boman):** Still, existential, cosmically bewildered. The comedy is the complete absence of any prior framework for existence. He does not panic correctly because he has no reference for correct. Tiebi panics correctly and nothing helps — that is the distinction. He has all the frameworks. The frameworks just don't fit the body.
 
 ---
 
 ## Related
 
-- [[Series Arc]] — diaspora arc structure; this issue is the third Act II episode.
-- [[S01E01 — Some Assembly Required]] — Panel 4 established the lapel-pin wake-up
-  (E03 opens here); Panel 5 is the immediate next frame after E03 Panel 6 (E03 closes here).
-- [[S01E02 — Feel the Room]] — the preceding diaspora issue; E03 deliberately inverts its
-  register (mobile vs. static, populated vs. alone, slapstick vs. contemplative).
-- [[Tiebi]] — character page (appearance, powers, physics quirk, low-ceiling vulnerability).
-- [[Visual Style Guide]] — art-style anchor.
-- Future: next diaspora issue — [[S01E04 — Pho-boman]] (Issue 4).
+- [[Series Arc]] — diaspora arc structure; this issue is the third Act II episode (Issue 3).
+- [[S01E01 — Some Assembly Required]] — Panel 4 bottom-right established the lapel-pin wake-up (E03 opens here); Panel 5 is the immediate next frame after E03 Panel 6 (E03 closes here, parking deck heading for compass-spoke street).
+- [[S01E02 — Feel the Room]] — the preceding diaspora issue; E03 deliberately inverts its register (mobile vs. static, populated vs. alone, physics-puzzle vs. sensory-wonder, competent-unmoored vs. blank-and-new).
+- [[S01E04 — What Is a Ladle For?]] — the following diaspora issue; contrast: existential/still/bewildered vs. E03's diagnostic/mobile/competent.
+- [[S01E06 — Two-Body Problem]] — E06 Panels 4–5 pay forward the "sprint first, then grow" eureka from E03 Panel 5. The STOMP SFX in E06 Panel 5 is the field deployment of the technique discovered here.
+- [[Tiebi]] — character page (appearance, powers, physics quirk, low-ceiling vulnerability, beret as military memento, SFX STOMP).
+- [[Visual Style Guide]] — art-style anchor; Tiebi visual descriptor block.
+- [[Canon & Sources]] · [[Open Questions & Contradictions]]
+- Future panel-prompt production: [[S01E03 — Panel Prompts]]

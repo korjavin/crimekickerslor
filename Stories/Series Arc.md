@@ -25,9 +25,11 @@ panel budgets and intent — not scripts.
 
 ## Logline
 
-A botched corporate prototype shatters into four fragments mid-assembly. The
-pieces wake up, drift apart, learn what they are one mistake at a time, and only
-much later — almost reluctantly — admit they are a team.
+A botched corporate prototype shatters during assembly. Two fragments wake up
+as strangers to themselves; a soup-being is born from the accident; and a
+human security guard is transformed by it. They drift apart, learn what they
+are one mistake at a time, and only much later — almost reluctantly — admit they
+are a team.
 
 ## Premise
 
@@ -35,12 +37,15 @@ The cyborg of [[Origin & Concept]] — **Project AEGIS-4** — was a prototype f
 a RoboCop-style law enforcement product, built by **GastroDefense Inc.**, a
 large, soulless corporation that started in commercial food safety and pivoted
 into automated law enforcement without changing any of its middle management.
-Assembly was **never completed**. A **pho-related incident** during a sloppy
-lunch break caused the fracture: the cyborg split into **three fragments**
-(Windman, Primm, Tiebi), and a **fourth being — Pho-boman — was born of the
-same incident** when the Lunch Lady's broth filled the prototype's empty
-helmet. None of the four came out as heroes — they came out as **strangers to
-themselves**, scattered across the city, with no plan to find each other.
+Assembly was **never completed**. A **pho-related incident** during a sloppy lunch break caused the fracture:
+the cyborg split into **two fragments** (Windman and Primm), and a **third
+being — Pho-boman — was born of the same incident** when the Lunch Lady's
+broth filled the prototype's empty helmet. A **fourth person — Tiebi**, a
+former soldier working as a GastroDefense security officer, was on-site at the
+moment of the incident and was transformed by it, gaining size-shifting ability.
+None of the four came out as heroes — they came out as **strangers to
+themselves** (or, in Tiebi's case, a stranger to what he had become), scattered
+across the city, with no plan to find each other.
 
 > **GastroDefense Inc.** — the name is canon-proposal for this arc. The
 > corporation's two product lines (food safety / law enforcement) explain why
@@ -54,24 +59,24 @@ The series is the story of how they accidentally become a team anyway.
 ### Act I — Origin (Issue 1, 5 panels)
 [[S01E01 — Some Assembly Required]].
 The corporation. The prototype. The Lunch Lady. The accident. The split.
-Closes on the four fragments drifting in four compass directions — none aware
-of the others.
+Closes on the four departing in four compass directions — none aware of the others.
 
 ### Act II — Diaspora (Issues 2–5, ~5 panels each, one per hero)
-Each issue follows **one of the four** discovering consciousness and learning
-their power the hard way. They do not meet anyone from the team yet. Each
-issue is a self-contained mini-origin in a different tone. The fragments
-**have no human past** — they are creations of the incident, blank slates
-trying to make sense of bodies they didn't ask for.
+Each issue follows **one of the four** discovering their power the hard way.
+They do not meet anyone from the team yet. Each issue is a self-contained
+mini-origin in a different tone. Windman and Primm have no human past — they
+are creations of the fracture, trying to make sense of bodies they didn't ask
+for. Pho-boman has no human past — he was born minutes ago. Tiebi has a
+human past — he knows who he was; what he doesn't know is what he has become.
 
 - **Issue 2 — Windman.** Wakes blindfolded on a rooftop. Air comes when he panics.
   Drafted: [[S01E02 — Feel the Room]] — **author-accepted canon 2026-06-15**.
 - **Issue 3 — Tiebi.** Wakes postage-stamp-sized on the Executive's GastroDefense
-  lapel pin in the elevator (per [[S01E01 — Some Assembly Required]] Panel 4), is carried
-  out of the building, and learns size-shifting the hard way — *size and momentum are
-  separate dials.* Drafted: [[S01E03 — Momentum Not Included]] (Spark/Editor agreed
-  2026-06-15; proposal). **Reordered 2026-06-15:** Tiebi moved up from Issue 5; the earlier
-  "wakes under a vending machine" seed is superseded by E01's lapel-pin wake-up.
+  lapel pin (per [[S01E01 — Some Assembly Required]] Panel 4) and reverse-engineers his
+  impossible new body with a veteran's discipline — *size and momentum are separate
+  dials.* A former soldier turned GastroDefense security officer, transformed on duty by
+  the incident; his military past is shown through reflex and artifact, never stated.
+  Drafted: [[S01E03 — Momentum Not Included]].
 - **Issue 4 — Pho-boman.** Wakes inside the Lunch Lady's cauldron. Has no
   reference for *being* at all — he was born minutes ago.
   Drafted: [[S01E04 — What Is a Ladle For]] (Spark/Editor 2026-06-15; proposal). **Belly-dragon
@@ -92,8 +97,14 @@ unsure how they feel about it.
 Pairings (Act III):
 - **Issue 6 — Windman + Tiebi.** First meeting; accidental cooperation on a night
   street. Drafted: [[S01E06 — Two-Body Problem]].
-- **Issue 7 — second pairing** (Primm + Pho-boman, the remaining two; open).
-- **Issue 8 — full four-way convergence.**
+- **Issue 7 — Primm + Pho-boman.** Second meeting; the remaining two, locked in a
+  GastroDefense cold-storage freezer, cooperate by accident (one non-steel corridor, a
+  nullified body, a shoulder). Drafted: [[S01E07 — Specific Heat]].
+- **Issue 8 — full four-way convergence.** All four converge on a driverless GastroDefense
+  truck rolling through a night block and stop it together, interlocking four powers from four
+  directions — the first team-feeling, delivered as arithmetic, not sentiment. The two true
+  fragments (Windman + Primm) share air for the first time; a recall notice on the truck's side
+  seeds Act IV. Drafted: [[S01E08 — Four-Body Problem]].
 
 The "joy" beat — the first time the team feels like a team — lands here.
 
@@ -103,6 +114,20 @@ discover they were not the only AEGIS model planned. Season ends with the
 corporation naming itself on-page, naming them as "the recalled units," and
 the first proper **Bad Guys** appearing. The *Crime Kickers* name is adopted
 (or accidentally inherited) in the season finale.
+
+The corporation's recall, decoded: **"RETURN TO ORIGIN FACILITY" means un-make** —
+re-integration reassembles the prototype, and the four cease to exist as separate beings;
+it is a compliance step with no consent field. The two true fragments (Windman W-01, Primm
+P-03) are filed for reintegration; Pho-boman (P-02) and Tiebi (T-04) are "non-specification
+outputs" for disposal.
+
+- **Issue 9 — drafted:** [[S01E09 — Variance Report]]. The corporation *notices* rather than
+  hunts (a logistics variance ticket, the drone net, an automated correlation); the four read
+  the recall specification and learn what "return to origin" means; the system schedules
+  retrieval; the database auto-generates the label *CRIME KICKERS* (the heroes never see it).
+- **Issue 10 — finale (pending).** Retrieval executes; **Primm is captured** (half of the
+  original body, behind a corporate wall); the un-make dilemma goes live; the name is
+  inherited; AEGIS-5 is seeded for Season 2.
 
 ## Tone notes
 
@@ -122,8 +147,8 @@ These were promoted from proposal to canon in the author session on
 | --- | --- |
 | How / why did the cyborg fracture? | Assembly-incomplete + pho contamination during a corporate lunch break. The broth pours into the prototype's open transparent **helmet visor**. The unharmonized faculties dissolve apart. **The incident is a lucky/random event** — not sabotage, not design. |
 | [[Pho-boman]]'s origin (was: "lunch lady" / "grandma's recipe") | Pho-boman is **not a cyborg fragment** — he is **born of the incident**, a separate emergent entity formed when broth filled the empty helmet at the moment of fracture. The Lunch Lady is the *cause* of his existence. The pho also creates his canonical spoon-shaped belly by pressurizing the torso during the brief moment of fusion. |
-| [[Tiebi]]'s "transformation origin" conflict (Stealth Kickers vs. registry) | **Tiebi has no human past.** None of the four do. They are creations of the incident. The *Stealth Kickers* "once a normal human" backstory is **non-canon predecessor source material** and is set aside. |
-| Equipment origin (gap) | **Iconic equipment manifested at split-time as a lucky/random crystallization**, not engineered. Windman's blue-and-red eye bandage, Primm's purple suit + cyan visor, Tiebi's black beret all appeared with the fragments' wake-ups. Pho-boman's pho-filled helmet is a partial exception — the helmet was pre-built; the broth came from outside. |
+| [[Tiebi]]'s origin | **RETCONNED 2026-06-17.** The 2026-06-14 ruling ("no human past for any of the four") is reversed for Tiebi specifically. Tiebi **does** have a human past: he is a former soldier, GastroDefense security officer, transformed by the incident. He is not a cyborg fragment. Windman, Primm, and Pho-boman still have no human past. See [[Open Questions & Contradictions]]. |
+| Equipment origin (gap) | **Iconic equipment: Windman's blue-and-red eye bandage and Primm's purple suit + cyan visor manifested at split-time as a lucky/random crystallization**, not engineered. **Tiebi's beret is the explicit exception** — a personal military memento he was already wearing as a human before the incident; not a crystallized manifestation. Pho-boman's helmet was pre-built; the broth came from outside. |
 | Prototype codename | **Project AEGIS-4.** Retires the earlier "Project HELMET" suggestion. |
 | Who are [[The Bad Guys]]? | **GastroDefense Inc.** — the corporation that built the prototype. Later issues expand to a wider faction. |
 

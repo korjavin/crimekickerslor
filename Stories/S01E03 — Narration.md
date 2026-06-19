@@ -1,130 +1,147 @@
 ---
 aliases: [S01E03 Narration, Momentum Not Included — Narration, S01E03 Voiceover]
 tags: [story, narration, voiceover, crime-kickers, draft]
-canon: draft
+canon: proposal
 episode: S01E03
 ---
 
 # S01E03 — Narration (Voiceover)
 
-Spoken-word narration voiceover for [[S01E03 — Momentum Not Included]], written for ElevenLabs
-text-to-speech to play over a slideshow / motion-comic of the six panels (see
-[[S01E03 — Panel Prompts]]) and the print [[S01E03 — Captions]]. Written for the ear. Same dry
-documentary-narrator voice as [[S01E01 — Narration]] and [[S01E02 — Narration]] — but this is
-**the comedy issue**: deadpan with **comic timing**, the laughs coming from a flat voice
-reciting absurd facts. ~275 words, ~110 seconds at 150 wpm.
+Spoken-word narration voiceover for [[S01E03 — Momentum Not Included]], written for
+ElevenLabs text-to-speech to play as background narration over a slideshow / motion-comic
+of the six panels (see [[S01E03 — Panel Prompts]]) and the print [[S01E03 — Captions]].
+Written for the ear. Dry case-file narrator — same documentary voice as [[S01E01 — Narration]]
+and [[S01E02 — Narration]], but this is the **comedy issue**: deadpan with comic timing, the
+laughs coming from a flat voice reciting professional behaviour in impossible circumstances.
+~290 words, ~115 seconds at 150 wpm.
 
 ## Clean script (paste into ElevenLabs)
 
-> Everything in this block is spoken text only — no labels, nothing that shouldn't be voiced.
-> Paste as-is.
+> Everything in this block is spoken text only — no labels, nothing that shouldn't be
+> voiced. Paste as-is.
 
-He had been awake about six minutes, and had established one fact. He was very small. Everything else was very large. And the large things were moving.
+He had been awake for approximately six minutes.
 
-One of the large things was a man in a suit. He was riding on the man's lapel pin, out of the building — which was, by accident, the smartest thing he would do all day.
+He had counted the exits. There was one. It was moving downward.
 
-Then the man took off his jacket and hung it in a closet. A closet with a very low ceiling.
+He was postage-stamp-sized, clinging to a corporate lapel pin, in an elevator, watching giants' legs go by. He filed this. He was already on to the next thing.
 
-The obvious move was to get big. He tried. The ceiling had opinions. So did the jacket. Everything in that closet was exactly the wrong size — including, for the moment, him.
+The next thing was a coat closet with a very low ceiling. The obvious move was to get big again. The obvious move was unavailable. The ceiling had opinions. He tried anyway. The jacket hem nudged his beret askew, and he straightened it — before his body had even registered the ceiling stop. He always straightened it.
 
-So he stopped trying to get big, and went for the gap of light at the closet door instead. He reached the edge of the shelf — and fell. And somewhere between the shelf and the floor, he got big. This worked. He arrived in the lobby full-sized, half-crouched on the marble, and going absolutely nowhere.
+The ceiling was still a problem.
 
-He had mass. He had, apparently, no momentum. These, he was beginning to understand, were two different things.
+He went for the blade of light at the closet door instead, edged out to the lip of the shelf, and fell. On the way down, he got big. He arrived in the lobby full-sized, half-crouched on the marble. His head swept the room — low, methodical, 180 degrees — before he stood. Nobody was looking at him. He checked his pockets. Security pass. Chalk stub. Three coins. A street map annotated in two colors of ink. He opened a second file.
 
-He left through the revolving door at about one centimeter per second. Outside, a man took one ordinary step and beat him to the far sidewalk.
+He had mass. He had, apparently, no momentum. These were two different things. He did not yet know which way it turned.
 
-And somewhere on the parking ramp, he worked it out. A small body gets up to speed fast. A big body carries the weight. So — sprint small. Then grow. In that order.
+He read the revolving door's rotation and used it. Outside. Hypothesis forming.
 
-He went down the ramp the size of a grain of rice, and came out of it the size of a man. Rolling. Moving. Finally, at his own speed.
+On the parking ramp — open, controlled, nobody watching — he ran the test. He chose that location. "Breach."
 
-Up on the deck, there was a letter painted on the concrete. A T. He stepped over it without stopping — noticing it about as much as a person notices a letter that happens to be his name.
+Small body accelerates fast. Large body carries mass. Sprint first. Then grow. In that order.
 
-Then he kept walking. He did not look back.
+He came up onto the open deck at a completely normal human speed, which he clearly found satisfying. There was a letter painted on the concrete. A T.
+
+He did not look back.
 
 ## Tagged script (ElevenLabs v3 — pauses + tone)
 
 > Same narration with explicit pacing and delivery cues. `<break time="…"/>` pauses work on
 > **all** ElevenLabs models. The bracketed tone tags (`[deadpan]`, `[dry]`, etc.) are the
-> **Eleven v3** audio-tags feature — on older models they may be ignored or read aloud, so
-> strip the `[…]` tags if you're not on v3. **Comic timing:** the laughs live in the pauses
-> *before* the punchlines. Let "The ceiling had opinions," "going absolutely nowhere," and the
-> Panel-5 staircase land.
+> **Eleven v3** audio-tags feature — on older models (Multilingual v2 / Turbo) they may be
+> ignored or read aloud, so strip the `[…]` tags if you're not on v3. **Comic timing:** the
+> laughs live in the pauses *before* the punchlines — let "The ceiling had opinions," "He
+> always straightened it," and the Panel-5 staircase land.
 
-[dry, deadpan] He had been awake about six minutes, and had established one fact. <break time="0.5s" /> He was very small. <break time="0.3s" /> Everything else was very large. <break time="0.3s" /> And the large things were moving. <break time="1.1s" />
+[dry, unhurried] He had been awake for approximately six minutes. <break time="1.1s" />
 
-[matter-of-fact] One of the large things was a man in a suit. <break time="0.4s" /> He was riding on the man's lapel pin, out of the building — [a touch dry] which was, by accident, the smartest thing he would do all day. <break time="1.2s" />
+[flat] He had counted the exits. <break time="0.4s" /> There was one. <break time="0.4s" /> It was moving downward. <break time="1.3s" />
 
-Then the man took off his jacket and hung it in a closet. <break time="0.4s" /> [flat] A closet with a very low ceiling. <break time="1.0s" />
+[matter-of-fact] He was postage-stamp-sized, clinging to a corporate lapel pin, in an elevator, watching giants' legs go by. <break time="0.5s" /> He filed this. <break time="0.4s" /> [dry] He was already on to the next thing. <break time="1.2s" />
 
-[deadpan] The obvious move was to get big. <break time="0.4s" /> He tried. <break time="0.6s" /> The ceiling had opinions. <break time="0.4s" /> So did the jacket. <break time="0.5s" /> Everything in that closet was exactly the wrong size — [dry] including, for the moment, him. <break time="1.3s" />
+[flat] The next thing was a coat closet with a very low ceiling. <break time="0.6s" /> The obvious move was to get big again. <break time="0.4s" /> The obvious move was unavailable. <break time="0.5s" /> The ceiling had opinions. <break time="0.6s" /> He tried anyway. <break time="0.5s" /> The jacket hem nudged his beret askew, <break time="0.3s" /> and he straightened it — [slightly quieter] before his body had even registered the ceiling stop. <break time="0.6s" /> He always straightened it. <break time="1.4s" />
 
-So he stopped trying to get big, <break time="0.3s" /> and went for the gap of light at the closet door instead. <break time="0.4s" /> He reached the edge of the shelf — <break time="0.3s" /> and fell. <break time="0.6s" /> And somewhere between the shelf and the floor, he got big. <break time="0.4s" /> This worked. <break time="0.5s" /> [flat] He arrived in the lobby full-sized, half-crouched on the marble, and going absolutely nowhere. <break time="1.3s" />
+[dry] The ceiling was still a problem. <break time="1.1s" />
 
-[measured] He had mass. <break time="0.3s" /> He had, apparently, no momentum. <break time="0.5s" /> These, he was beginning to understand, were two different things. <break time="1.2s" />
+[steady] He went for the blade of light at the closet door instead, <break time="0.3s" /> edged out to the lip of the shelf, <break time="0.3s" /> and fell. <break time="0.5s" /> [matter-of-fact] On the way down, he got big. <break time="0.6s" /> He arrived in the lobby full-sized, half-crouched on the marble. <break time="0.6s" /> His head swept the room — [measured] low, methodical, one hundred and eighty degrees — <break time="0.4s" /> before he stood. <break time="0.5s" /> Nobody was looking at him. <break time="0.6s" /> [flat, listing] He checked his pockets. <break time="0.3s" /> Security pass. <break time="0.3s" /> Chalk stub. <break time="0.3s" /> Three coins. <break time="0.3s" /> A street map annotated in two colors of ink. <break time="0.7s" /> [dry] He opened a second file. <break time="1.3s" />
 
-[dry] He left through the revolving door at about one centimeter per second. <break time="0.5s" /> Outside, a man took one ordinary step and beat him to the far sidewalk. <break time="1.3s" />
+[measured] He had mass. <break time="0.4s" /> He had, apparently, no momentum. <break time="0.5s" /> These were two different things. <break time="0.5s" /> He did not yet know which way it turned. <break time="1.2s" />
 
-[building, picking up] And somewhere on the parking ramp, he worked it out. <break time="0.5s" /> Small body gets up to speed fast. <break time="0.3s" /> Big body carries the weight. <break time="0.4s" /> So — sprint small. <break time="0.3s" /> Then grow. <break time="0.4s" /> [crisp] In that order. <break time="1.2s" />
+[matter-of-fact] He read the revolving door's rotation and used it. <break time="0.5s" /> Outside. <break time="0.5s" /> [quietly] Hypothesis forming. <break time="1.3s" />
 
-He went down the ramp the size of a grain of rice, <break time="0.3s" /> and came out of it the size of a man. <break time="0.4s" /> Rolling. <break time="0.3s" /> Moving. <break time="0.4s" /> [satisfied] Finally, at his own speed. <break time="1.4s" />
+[slightly warmer, still flat] On the parking ramp — open, controlled, nobody watching — he ran the test. <break time="0.5s" /> He chose that location. <break time="0.7s" /> [quietly, half to himself] "Breach." <break time="1.4s" />
 
-[quiet] Up on the deck, there was a letter painted on the concrete. <break time="0.4s" /> A T. <break time="0.6s" /> He stepped over it without stopping — noticing it about as much as a person notices a letter that happens to be his name. <break time="1.0s" />
+[building, precise] Small body accelerates fast. <break time="0.4s" /> Large body carries mass. <break time="0.4s" /> Sprint first. <break time="0.3s" /> Then grow. <break time="0.5s" /> [crisp] In that order. <break time="1.3s" />
 
-[flat] Then he kept walking. <break time="0.4s" /> He did not look back.
+[settled] He came up onto the open deck at a completely normal human speed, [dry] which he clearly found satisfying. <break time="0.8s" /> There was a letter painted on the concrete. <break time="0.4s" /> A T. <break time="1.0s" />
 
-## Panel-synced breakdown (for timing the slideshow)
+[flat, final] He did not look back.
+
+## Panel-synced breakdown
 
 **Panel 1 — Still On The Lapel**
-> He had been awake about six minutes, and had established one fact. He was very small. Everything else was very large. And the large things were moving.
+> He had been awake for approximately six minutes.
 >
-> One of the large things was a man in a suit. He was riding on the man's lapel pin, out of the building — which was, by accident, the smartest thing he would do all day.
+> He had counted the exits. There was one. It was moving downward.
+>
+> He was postage-stamp-sized, clinging to a corporate lapel pin, in an elevator, watching giants' legs go by. He filed this. He was already on to the next thing.
 
 **Panel 2 — Forest Of Suits**
-> Then the man took off his jacket and hung it in a closet. A closet with a very low ceiling.
+> The next thing was a coat closet with a very low ceiling. The obvious move was to get big again. The obvious move was unavailable. The ceiling had opinions. He tried anyway. The jacket hem nudged his beret askew, and he straightened it — before his body had even registered the ceiling stop. He always straightened it.
 >
-> The obvious move was to get big. He tried. The ceiling had opinions. So did the jacket. Everything in that closet was exactly the wrong size — including, for the moment, him.
+> The ceiling was still a problem.
 
 **Panel 3 — Accidental Upgrade**
-> So he stopped trying to get big, and went for the gap of light at the closet door instead. He reached the edge of the shelf — and fell. And somewhere between the shelf and the floor, he got big. This worked. He arrived in the lobby full-sized, half-crouched on the marble, and going absolutely nowhere.
+> He went for the blade of light at the closet door instead, edged out to the lip of the shelf, and fell. On the way down, he got big. He arrived in the lobby full-sized, half-crouched on the marble. His head swept the room — low, methodical, 180 degrees — before he stood. Nobody was looking at him. He checked his pockets. Security pass. Chalk stub. Three coins. A street map annotated in two colors of ink. He opened a second file.
 
 **Panel 4 — Full Size, Going Nowhere**
-> He had mass. He had, apparently, no momentum. These, he was beginning to understand, were two different things.
+> He had mass. He had, apparently, no momentum. These were two different things. He did not yet know which way it turned.
 >
-> He left through the revolving door at about one centimeter per second. Outside, a man took one ordinary step and beat him to the far sidewalk.
+> He read the revolving door's rotation and used it. Outside. Hypothesis forming.
 
 **Panel 5 — Wrong Order, Right Answer**
-> And somewhere on the parking ramp, he worked it out. A small body gets up to speed fast. A big body carries the weight. So — sprint small. Then grow. In that order.
+> On the parking ramp — open, controlled, nobody watching — he ran the test. He chose that location. "Breach."
 >
-> He went down the ramp the size of a grain of rice, and came out of it the size of a man. Rolling. Moving. Finally, at his own speed.
+> Small body accelerates fast. Large body carries mass. Sprint first. Then grow. In that order.
 
 **Panel 6 — T**
-> Up on the deck, there was a letter painted on the concrete. A T. He stepped over it without stopping — noticing it about as much as a person notices a letter that happens to be his name.
+> He came up onto the open deck at a completely normal human speed, which he clearly found satisfying. There was a letter painted on the concrete. A T.
 >
-> Then he kept walking. He did not look back.
+> He did not look back.
 
 ## Runtime
 
-- **Word count:** ~275 words.
-- **Runtime:** ~110 s at 150 wpm; ~118 s at a more deliberate 140 wpm. The comic pauses add a
-  little — call it **~110–120 s**. Comparable to S01E01 (~87 s) and S01E02 (~105 s); E03 runs
-  a touch long because the comedy needs the beats to breathe.
-- If you need it under 90 s, cut "So did the jacket." and the revolving-door sentence — both
-  are bonus gags, not load-bearing.
+- **Word count:** ~290 words.
+- **Runtime:** ~115 s at 150 wpm; ~125 s at a more deliberate 140 wpm. With the comic
+  pauses — especially the beats before "The ceiling had opinions," "He always straightened
+  it," and the Panel-5 staircase — call it **~115–125 s**. The comedy needs the beats to
+  breathe; don't rush the inventory in Panel 3 or the staircase in Panel 5.
+- If you need it under 90 s, cut the pocket inventory to "Security pass. A street map." and
+  trim "He read the revolving door's rotation and used it. Outside." to "He left." — both
+  cuts lose color without breaking load-bearing beats.
 
 ## ElevenLabs delivery notes
 
 - **Voice character:** the **same narrator** as [[S01E01 — Narration]] and
-  [[S01E02 — Narration]] — dry, mid-to-low, documentary-flat. Audition the same voice so the
-  show stays one narrator. The difference is **register, not casting**: E03 is comedy, so the
-  deadpan does the work — recite absurd facts ("The ceiling had opinions") with zero wink.
-- **Comic timing:** the laughs are in the pauses *before* the payoff. Land the beats on "The
-  ceiling had opinions," "going absolutely nowhere," and the accelerating Panel-5 staircase
-  ("Sprint small. Then grow. In that order.").
-- **Never sell the joke.** No chuckle, no lift, no italic emphasis. The funnier the fact, the
-  flatter the read. "T." is a small flat aside, exactly like E02's "Windman." — observed, not
-  announced.
-- **Settings:** deadpan is the performance. If available, expressiveness ~30–40 %, stability
-  ~70 %. Slightly slower than conversational so the timing reads.
+  [[S01E02 — Narration]] — dry, mid-to-low register, documentary-flat. Audition the same
+  voice so the show stays one narrator. The tonal difference is register, not casting: E03
+  is the comedy issue, so the deadpan does the work — recite professional behaviour in
+  absurd circumstances with zero wink.
+- **Comic timing:** the laughs are in the pauses *before* the payoff, not in a lifted
+  delivery after it. "The ceiling had opinions" lands flat. "He always straightened it"
+  lands flat and a beat quieter, like a personnel note filed without comment. The Panel-5
+  staircase accelerates slightly but stays precise.
+- **"Breach."** is the episode's biography peak — half under his breath, delivered quietly
+  by the narrator as a quote, then the narrator moves on without explanation. Do not
+  dramatize it. The word does its own work.
+- **The pocket inventory (Panel 3)** should be read like a manifest being dictated — flat,
+  evenly spaced, one item at a time. No color on any individual item. "He opened a second
+  file" is the dry button: same register, no escalation.
+- **Never sell the joke.** No lift, no italic emphasis. The funnier the fact, the flatter
+  the read. "T." is a small flat aside, exactly like E02's "Windman." — observed, not
+  announced. "He did not look back." is the quiet close.
+- **Settings:** deadpan is the performance. If available, expressiveness ~30–40 %,
+  stability ~70 %. Slightly slower than conversational so the timing reads.
 - **Voice archetypes:** the dry documentary / low-affect narrator family ("George," "Harry,"
   "Arnold," or whatever was used for E01/E02). Avoid enthusiastic / warm / young-energetic.
 

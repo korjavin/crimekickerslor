@@ -46,7 +46,7 @@ only in far shots):
   formed mid-flight** (matching [[S01E01 — Some Assembly Required]] Panel 4). By
   Panels 2–5 it reads as a settled fact across his face.
 
-### Windman's fan — RATIFIED (verbatim from [[Windman]] / [[S01E01 — Panel Prompts]])
+### Windman's fan (verbatim from [[Windman]] / [[S01E01 — Panel Prompts]])
 
 Reuse this exact wording every time the fan appears. Track its **open/closed state**
 per panel (the fan-state timeline below is a continuity guard):
@@ -62,15 +62,12 @@ per panel (the fan-state timeline below is a continuity guard):
 - **P5 beat A:** open, held up in the right hand, relaxed, not aimed.
 - **P5 beat B:** folded shut at his side.
 
-### Airmaster pressure-perception overlay — RATIFIED 2026-06-15
+### Airmaster pressure-perception overlay
 
-> **RATIFIED 2026-06-15 — author-accepted.** A reusable visual register, now canon for
-> the episode. This was the episode's one genuinely new visual problem: how to depict
-> Windman's **blind pressure-perception** (he "feels" structure and objects through
-> displaced air, without seeing them). Because it is a reusable Windman-power
-> visualization, this block has also been **promoted into [[Visual Style Guide]]** so
-> future episodes render the power identically. Reuse the wording **verbatim** in every
-> panel that uses it (P3, P4, P5 beat A; fading in P5 beat B).
+A reusable visual register, now canon for the episode. Reuse the wording **verbatim**
+in every panel that uses it (P3, P4, P5 beat A; fading in P5 beat B). This block has
+also been promoted into [[Visual Style Guide]] so future episodes render the power
+identically.
 
 Reusable descriptor block (paste verbatim):
 
@@ -90,25 +87,25 @@ which elements are the **lit camera layer** (what the audience sees) and which a
 figure of Windman himself — he stays a normally-rendered lit figure; the overlay is the
 city/objects he is reading.
 
-### Setting & props — RATIFIED 2026-06-15
+### Setting & props
 
-Author-accepted 2026-06-15 as the episode's visual canon (no prior ratified spec existed):
+The episode's visual canon:
 
-- **The rooftop (RATIFIED 2026-06-15):**
+- **The rooftop:**
   > a flat urban rooftop of graveled tar-paper / gravel-and-bitumen surfacing, a
   > waist-high brick parapet wall running along the edge, a cylindrical wooden-slat
   > water tower on a steel frame in the far background, scattered roof vents and a low
   > access structure
-- **The GastroDefense campus on the horizon (RATIFIED 2026-06-15) — P1 only:**
+- **The GastroDefense campus on the horizon — P1 only:**
   > three blocks to the EAST, low on the horizon and barely above the parapet line, the
   > blocky flat upper edge of a cluster of grey corporate office towers — the
   > GastroDefense Inc. campus — distant, indifferent, its top edge catching the last
   > orange light of dusk
-- **The pigeon (RATIFIED 2026-06-15) — P2 only:**
+- **The pigeon — P2 only:**
   > an ordinary grey city pigeon (rock dove) — soft grey body, darker grey head, faint
   > iridescent green-purple neck sheen, orange feet, startled round eye — launching
   > vertically off the rooftop, wings beating, feathers blown comically sideways
-- **The window-unit AC (RATIFIED 2026-06-15) — P3 background, P4 falling:**
+- **The window-unit AC — P3 background, P4 falling:**
   > a boxy beige-white window-unit air-conditioner, a rectangular sheet-metal casing
   > with a front grille of horizontal vent louvers, a trailing black power cord
 
@@ -190,15 +187,13 @@ the last light low on the horizon.
 
 **Consistency notes**
 
-- Windman pulled **verbatim** from [[Windman]] Appearance (detailed) and the ratified
+- Windman pulled **verbatim** from [[Windman]] Appearance (detailed) and the established
   fan descriptor; fan state = **folded shut** per the fan-state timeline. Bandage read
   as **freshly-formed** here only (he is ~4 minutes old, just come to rest from the
   split-fling per [[S01E01 — Some Assembly Required]] Panel 4).
 - **Seam guard:** the GastroDefense campus **three blocks east on the horizon** and the
   "came to rest" seated posture anchor this as the tail of the split-fling trajectory,
-  not a self-contained rooftop (per the E01↔E02 seam fix, 2026-06-15).
-- **RATIFIED 2026-06-15** (accepted by author): the rooftop spec, and the
-  GastroDefense-campus-on-the-horizon spec. No prior ratified spec for either.
+  not a self-contained rooftop.
 
 ### Panel 2 — Wrong Answer
 
@@ -235,8 +230,6 @@ color pop and the gust as the only motion against the cold grey rooftop.
 - **Continuity guard:** the pressure-perception overlay is **not drawn yet** here — he
   *feels* the gust return (per the script) but the panel withholds the visible map until
   Panel 3. Only the lit rooftop + gust + pigeon are shown.
-- **RATIFIED 2026-06-15** (accepted by author): the pigeon spec, and the rooftop
-  spec (carried from P1).
 
 ### Panel 3 — The City in Pressure
 
@@ -274,8 +267,6 @@ rendered cooler, finer and slightly desaturated as a distinct register.
   camera layer** (solid, normally-colored foreground man) versus the **ghost-line
   overlay** (cooler, finer pressure-map background city) so the model renders two
   distinct registers, not one normal lit scene.
-- **RATIFIED 2026-06-15** (accepted by author): the pressure-perception overlay
-  register, the rooftop spec, and the window-unit AC spec.
 
 ### Panel 4 — The Test
 
@@ -322,8 +313,6 @@ motion-energy.
 - **Continuity guard:** the offscreen civilian voice's **speaker is never shown** (the
   city stays indifferent / the issue stays sealed); the line is cut off; he remains
   completely alone. Tiny civilians far below are oblivious.
-- **RATIFIED 2026-06-15** (accepted by author): the pressure-perception overlay
-  register, the window-unit AC spec, and the rooftop spec.
 
 ### Panel 5 — He Has a Name for It (beat A — parapet)
 
@@ -367,9 +356,6 @@ the dark sky.
   alone, and whether an em-dash "— Windman." is preferred — is logged in
   [[S01E02 — Feel the Room]] Open threads; rendered here as a bare "Windman." per the
   current draft.
-- **RATIFIED 2026-06-15** (accepted by author): the pressure-perception overlay
-  register and the rooftop spec.
-
 ### Panel 5 — He Has a Name for It (beat B — street level, hand-off)
 
 > **The hand-off frame.** He has descended and is walking down one compass-spoke street
@@ -409,16 +395,12 @@ pressure-map present but **fading out at the frame edges**.
 - **Seam guard (the hand-off):** he walks down **one compass-spoke street away from the
   GastroDefense campus** (campus small + receding behind him, three blocks east), so a
   far overhead compass-spoke bird's-eye view reads as the **immediate next image** =
-  [[S01E01 — Some Assembly Required]] Panel 5's overhead shot. Per the E01↔E02 seam fix
-  (2026-06-15) and the script's "seam test."
+  [[S01E01 — Some Assembly Required]] Panel 5's overhead shot. Per the E01↔E02 seam continuity and the script's "seam test."
 - **No caption / no SFX** here — the name already landed in beat A; this beat is silent.
 - **Descent method** (fire-escape stairs vs. rooftop access door) is left to the artist
   per the script's open thread — the prompt allows either ("a rooftop-access door or
   the foot of a fire-escape stairway just behind him"); the seam only requires he reach
   street level.
-- **RATIFIED 2026-06-15** (accepted by author): the pressure-perception overlay
-  register and the rooftop/street spec.
-
 ## Related
 
 - [[S01E02 — Feel the Room]] — the script these prompts render.

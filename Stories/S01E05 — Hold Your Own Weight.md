@@ -77,9 +77,10 @@ Controlled Descent" · "You Can't Grip a Wall You Weigh Nothing"
 
 ## Cast (this issue)
 
-- **The unnamed fragment** — no name until Panel 5. One of the three AEGIS-4 fragments;
-  his equipment crystallized at split-time. He is minutes old and has no human past, no
-  prior framework, no memories. He is a blank slate inside a very complete-looking costume.
+- **The unnamed fragment** — no name until Panel 5. One of the two AEGIS-4 fragments
+  (the other being Windman); his equipment crystallized at split-time. He is minutes
+  old and has no human past, no prior framework, no memories. He is a blank slate
+  inside a very complete-looking costume.
   **Appearance:** slim, lean, ~175–180 cm; slightly elongated face, sharp focused eyes,
   short-to-medium dark brown hair; high-tech goggles with faintly blue-tinted lenses
   visible behind the cyan-glowing visor; sleek lab-coat-style jacket, dark purple with
@@ -295,8 +296,9 @@ is walking toward it right now.
 
 ## What the audience knows that the hero doesn't
 
-- He is one of three fragments from Project AEGIS-4; one more being was born separately
-  from the incident. He has no idea any of the others exist.
+- He is one of two fragments from Project AEGIS-4; a third being was born separately
+  from the incident; and a fourth — a transformed human — is also out there somewhere.
+  He has no idea any of the others exist.
 - The dial he found — weight, mass, his own gravitational commitment to a surface — is the
   same dial that makes objects within his reach lose 80% of their weight. He has found it
   on his own body first. He has not yet discovered what it does at arm's length. That is

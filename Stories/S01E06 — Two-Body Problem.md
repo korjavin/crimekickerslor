@@ -150,9 +150,9 @@ This is the first time in the entire series that any panel has ended with two of
 
 ## What the audience knows that the heroes don't
 
-- Windman and Tiebi are fragments of the same cyborg. The anomaly Windman detected — the pressure signature that "did not stay one size" — is, at a level neither of them has any language for, a familiar signal. He has never felt any other fragment. He does not know what he would feel if he did. But the audience knows that the signal that felt *not alone* was, in some sense, a piece of himself.
+- Windman and Tiebi were both remade by the same incident — Windman split from the prototype in it, Tiebi transformed where he stood. The anomaly Windman detected — the pressure signature that "did not stay one size" — carries, at a level neither of them has any language for, the echo of that same event: a familiar mark. He has never felt it on anyone else. He does not know what it is. But the audience knows that the signal that felt *not alone* was made by the same accident that made him.
 - The words Windman would need to articulate this do not exist. He knows: it was different. That is all he knows. He has filed it under: the city changed.
-- Tiebi has no idea he is one piece of something. He does not know there is a piece of him in the city that just tracked him through darkness without being able to see him.
+- Tiebi has no idea that the blind man who tracked him through the dark was remade by the same event that remade him. He does not know there is anyone else the incident touched, let alone that one of them just found him without being able to see.
 - GastroDefense Inc. has logged all four as "Recalled." They do not know two of them are standing under a streetlamp on the same block right now.
 - The cooperation that just happened — the stagger-and-roll, the aimed gust, the momentum-exit — was neither of them at full capacity. It was two powers used accidentally together. The audience can see what this becomes when it is intentional. The two of them cannot see that yet.
 

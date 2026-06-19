@@ -15,7 +15,8 @@ team's most non-humanoid member. Per [[Origin & Concept]] (2026-06-14 author
 update): **not** a cyborg fragment, but **born of the same incident** that
 fractured Project AEGIS-4. He emerged when a Lunch Lady's spilled pho filled
 the prototype's empty diving helmet at the moment of fracture, joining the
-three true fragments as a peer.
+two true fragments (Windman and Primm) as a peer, alongside Tiebi — a transformed
+human bystander present at the incident.
 
 > *"Carries broth. Throws broth."* — tagline (Hub)
 

@@ -12,11 +12,7 @@ text-to-speech to play as background narration over a slideshow / motion-comic o
 six images (Panels 1–4 + Panel 5 beats A/B — see [[S01E02 — Panel Prompts]]) and the
 print [[S01E02 — Captions]]. Written for the ear. Dry documentary-narrator voice — the
 same family as [[S01E01 — Narration]] but **more intimate and lonelier**: one POV, one
-man, alone the whole page. ~250 words, ~100 seconds at 150 wpm. Canon-accurate to the
-seam-fixed script (2026-06-15).
-
-> **Status:** **Author-accepted canon — 2026-06-15.** Reviewed and accepted by the
-> author alongside the rest of the S01E02 set. Logged in [[Canon & Sources]].
+man, alone the whole page. ~250 words, ~100 seconds at 150 wpm.
 
 ## Clean script (paste into ElevenLabs)
 

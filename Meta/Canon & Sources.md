@@ -68,8 +68,10 @@ resolutions table.
   **Pho-boman was born of the same incident** as a separate emergent entity.
 - *"Once a normal human, transformed into a being with control over his size."*
   ([[Stealth Kickers (Tactical Stealth)]] backstory for Tiebi)
-  → **No human past** for any of the four. They are creations of the incident.
-  *Stealth Kickers* backstory is non-canon predecessor source material.
+  → **Retconned 2026-06-17** (see below). This framing is now broadly consistent
+  with canon: Tiebi was human before the incident and was transformed by it.
+  The specific detail (soldier / security officer) supersedes the vague *Stealth
+  Kickers* phrasing but the direction aligns.
 
 **Extends:**
 - The cyborg's codename: **Project AEGIS-4**.
@@ -80,6 +82,42 @@ resolutions table.
   **manifested at split-time** as a lucky/random crystallization, not engineered.
 - Pho-boman's **spoon-shaped belly** is created by broth-pressurization during
   the brief fusion moment.
+
+### 2026-06-17 — Tiebi origin retcon
+
+Author correction: the 2026-06-14 ruling ("no human past for any of the four; Tiebi
+is a cyborg fragment") is **reversed for Tiebi specifically**.
+
+**New canon:**
+- Tiebi is a **former soldier**, highly trained, veteran of multiple local conflicts.
+  After his military career he became a **security officer at GastroDefense Inc.**
+- He was **on-site when the AEGIS-4 incident occurred**. The incident transformed him,
+  granting volumetric scaling ability. He is the **only Crime Kicker with a human past**.
+- The **cyborg fractures into TWO fragments** (Windman + Primm), not three.
+  Pho-boman is still born-of-the-incident. Tiebi is a **transformed bystander**.
+- Total roster is still four heroes.
+
+**Consequences (resolved follow-on pass, same date):**
+- **Transformation mechanism settled:** The AEGIS-4 incident granted Tiebi a
+  **supernatural** size-and-shape transformation ability. Not engineered; not cybernetic.
+- **Tiebi in E01:** He was on duty on-site as a security officer when the incident
+  occurred. He appears in E01 Panel 4 (bottom-right, appearance only — postage-stamp-
+  sized on the Executive's lapel pin). His full backstory is deferred to E03.
+- **E01 Panel 1 scaling actuators:** Removed from the chassis. The chassis now carries
+  only Windman's fan, Primm's katanas, and the red dragon decal. Updated in episode
+  file and panel prompts.
+- **E01 Panel 3 split:** Two-way fracture (Windman + Primm). Direction set; prompt
+  re-draft and image-gen deferred to E01 creative re-staging pass.
+- **E01 Panel 4 Tiebi register:** Transformed human who knows who he is, disoriented
+  by what he has become. Direction set; emotion-cue prompt re-draft deferred.
+- **Tiebi's beret:** A personal military memento, pre-incident. **Explicit exception
+  to the split-time crystallization ruling.** Windman's eye bandage and Primm's suit
+  still crystallize; Pho-boman's helmet was pre-built; Tiebi's beret was already his.
+  Updated in [[Characters/Tiebi]], [[Universe/Origin & Concept]], [[Stories/S01E01 —
+  Some Assembly Required]], [[Stories/S01E01 — Panel Prompts]].
+- [[S01E03 — Momentum Not Included]] remains `canon: void` / `status: needs-rework`.
+  Its top banner updated with the settled canon for the rewriter. The blank-slate
+  panels are preserved as prior draft reference only.
 
 ### 2026-06-15 — Pho-boman full-silhouette / belly-dragon reveal timing resolved
 

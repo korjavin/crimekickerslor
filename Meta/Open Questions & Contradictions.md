@@ -10,6 +10,109 @@ The running list of things the sources disagree on, or that canon hasn't decided
 Resolve by a human decision, then update the relevant pages and (if it becomes canon)
 the registry.
 
+## Retcon: Tiebi origin correction (2026-06-17)
+
+Author correction reversing the 2026-06-14 "Tiebi has no human past / cyborg fragment"
+ruling. This is the **single most impactful canon change** since the initial arc draft.
+
+**What changed:**
+- Tiebi is a **former soldier**, highly trained, veteran of multiple local conflicts.
+  After his military career he became a **security officer at GastroDefense Inc.**
+- He was on-site when the AEGIS-4 incident occurred. The incident transformed him,
+  granting volumetric scaling ability.
+- The **cyborg now fractures into TWO fragments** (Windman + Primm), not three.
+  Pho-boman is still born-of-the-incident. Total four-hero roster is unchanged.
+- Tiebi is the **only Crime Kicker with a human past**.
+
+**Ruling reversed:**
+- The 2026-06-14 ruling "Tiebi has no human past. None of the four do. They are
+  creations of the incident. The *Stealth Kickers* 'once a normal human' backstory
+  is non-canon" — **reversed for Tiebi specifically**. Windman, Primm, and Pho-boman
+  still have no human past. Tiebi does.
+
+**Files updated (bookkeeping):**
+[[Characters/Tiebi]] · [[Characters/Pho-boman]] · [[Characters/Windman]] ·
+[[Characters/Primm]] · [[Universe/Origin & Concept]] · [[Universe/The Crime Kickers]] ·
+[[Stories/Series Arc]] · [[Meta/Canon & Sources]] · [[Stories/S01E01]] ·
+[[Stories/S01E01 — Panel Prompts]] · [[Stories/S01E05]]
+
+**Files flagged (creative rework required):**
+[[Stories/S01E03 — Momentum Not Included]] · [[Stories/S01E03 — Panel Prompts]] ·
+[[Stories/S01E03 — Captions]] · [[Stories/S01E03 — Narration]]
+
+---
+
+## Design questions resolved 2026-06-17 (follow-on pass)
+
+Six open threads from the Tiebi retcon, all settled by the author.
+
+- **Transformation mechanism.** RESOLVED: The AEGIS-4 incident granted Tiebi a
+  **supernatural** ability to change his size and shape. The mechanism is supernatural
+  — not engineered, not cybernetic. The incident conferred the power. Updated in
+  [[Characters/Tiebi]] and [[Universe/Origin & Concept]].
+
+- **Tiebi in E01: how does he appear?** RESOLVED: He was a GastroDefense **security
+  officer on duty during the incident**, present on-site. He appears in E01 Panel 4
+  (bottom-right) at the level of **appearance only** — postage-stamp-sized on the
+  Executive's lapel pin. His full history is deferred to E03. He is not depicted in
+  Panels 1–3 (the chassis and split are Windman + Primm only).
+
+- **E01 Panel 1 — scaling actuators.** RESOLVED: **Removed.** The chassis carries only
+  Windman's fan (zip-tied to wrist), Primm's katanas (crossed on back), and the red
+  dragon decal (Pho-boman). No scaling actuators. Updated in [[Stories/S01E01 — Some
+  Assembly Required]] and [[Stories/S01E01 — Panel Prompts]] (both episode text and
+  GENAI PROMPT for Panels 1–2).
+
+- **E01 Panel 3 — three-seams → two-seams split.** RESOLVED: The split is a **two-way
+  fracture** (Windman + Primm). Two seams, two fragments. Tiebi is absent from this
+  panel. Panel 3 direction is set; prompt re-draft and re-staging are deferred to the
+  E01 creative pass (see below). Updated in [[Stories/S01E01 — Some Assembly Required]]
+  and [[Stories/S01E01 — Panel Prompts]] (CREATIVE FLAGS converted to RESOLVED DIRECTION).
+
+- **E01 Panel 4 — Tiebi wake-up emotional register.** RESOLVED: Tiebi is a transformed
+  human who **knows exactly who he is** (ex-soldier, ex-security-officer) and is
+  disoriented by what he has *become* — not a blank slate. His expression is active
+  assessment, not newborn confusion. Beret is a personal military memento (see below).
+  Updated in [[Stories/S01E01 — Some Assembly Required]] and [[Stories/S01E01 — Panel
+  Prompts]] (CREATIVE FLAG converted to RESOLVED DIRECTION). New emotion-cue prompt
+  text deferred to E01 creative re-staging pass.
+
+- **Tiebi's beret — origin.** RESOLVED: The beret is his **personal military memento**,
+  worn in memory of his service — a pre-incident personal item he was already wearing
+  as a human. This **reverses the 2026-06-14 crystallization ruling for the beret
+  specifically**. Windman's eye bandage and Primm's suit still crystallize at split-time;
+  Pho-boman's helmet was pre-built; Tiebi's beret is the explicit exception. Updated in
+  [[Characters/Tiebi]], [[Universe/Origin & Concept]], [[Stories/S01E01 — Some Assembly
+  Required]], and [[Stories/S01E01 — Panel Prompts]].
+
+- **E03 — new premise direction.** RESOLVED and EXECUTED. [[Stories/S01E03 — Momentum
+  Not Included]] has been fully re-drafted (spark→editor): a former soldier turned
+  GastroDefense security officer, transformed on duty by the incident, reverse-engineers
+  his impossible body with a veteran's discipline — *size and momentum are separate
+  dials.* His military past is shown through reflex and artifact (exit-counting, the
+  beret reflex, a room-clearing scan, a pocket inventory, a scar, the word "Breach"),
+  never stated. The "sprint first, then grow" eureka is preserved so the E06 STOMP
+  payoff survives. Now `canon: proposal` / `status: draft`.
+
+- **E06/E07 — fragment-resonance after the retcon.** RESOLVED and EXECUTED. E06 had
+  Windman sense Tiebi as a fellow *fragment* ("a piece of himself"); since Tiebi is no
+  longer a fragment, that bond was reframed (author choice) as a **shared
+  incident-signature** — the faint mark the AEGIS-4 fracture left on every body it
+  *remade* (the two fragments and the transformed human Tiebi), absent in broth-born
+  Pho-boman. Applied across [[Stories/S01E06 — Two-Body Problem]] and [[Stories/S01E07 —
+  Specific Heat]]; mechanic recorded in [[Universe/Origin & Concept]]. The strongest
+  signature (Windman ↔ Primm, two true fragments) is delivered in [[S01E08 — Four-Body Problem]] — an involuntary residual field-entanglement when the two fragments first share air, named by no character.
+
+**Remaining deferred creative work (direction set, execution pending):**
+- E03 companion files — [[Stories/S01E03 — Panel Prompts]], [[Stories/S01E03 — Captions]],
+  [[Stories/S01E03 — Narration]] still hold the old blank-slate content and void banners;
+  they need regeneration against the re-drafted episode (panel-prompt-smith for prompts).
+- E01 art production: Panel 3 prompt to the two-way split; new image-gen for Panels 1
+  (actuators gone), 3 (two-way split), 4 bottom-right (transformed-human register). The
+  story/prompt text is reconciled; these are art-production tasks.
+
+---
+
 ## Resolved 2026-06-15 (S01E03 / diaspora reorder)
 
 Author decisions made while drafting [[S01E03 — Momentum Not Included]] (Tiebi).
@@ -76,10 +179,11 @@ surfaced these; resolved by author the same day.
 Author session promoted the following from proposal to canon. Kept here for
 provenance — they are no longer open.
 
-- **Tiebi's transformation origin (registry vs. *Stealth Kickers*).** Resolved:
-  Tiebi has **no human past.** None of the four do. The *Stealth Kickers*
-  "once a normal human" backstory is **non-canon predecessor source material**
-  and is set aside. See [[Origin & Concept]] · [[Tiebi]] · [[Series Arc]].
+- **Tiebi's transformation origin (registry vs. *Stealth Kickers*).** Resolved
+  2026-06-14 as "no human past / cyborg fragment." **REVERSED 2026-06-17** —
+  see the retcon block above. Tiebi does have a human past; he is not a cyborg
+  fragment. The *Stealth Kickers* framing ("once a normal human, transformed")
+  is now broadly consistent with current canon. See [[Origin & Concept]] · [[Tiebi]].
 - **How / why did the cyborg fracture.** Resolved: assembly-incomplete +
   Lunch Lady's pho into the open helmet visor — a **lucky/random** event.
   See [[Origin & Concept]] · [[S01E01 — Some Assembly Required]].
@@ -87,7 +191,8 @@ provenance — they are no longer open.
   Lunch Lady is the *cause* of Pho-boman's existence. Pho-boman is **not a
   cyborg fragment** — he was **born of the same incident** when broth filled
   the prototype's empty helmet at the moment of fracture. The cyborg cracks
-  into three; Pho-boman emerges as a separate fourth.
+  into two (Windman, Primm); Pho-boman emerges as a separate being born of the
+  incident, and Tiebi — a transformed human — is the fourth.
 - **Who are [[The Bad Guys]].** Resolved: **GastroDefense Inc.** — the
   corporation that built Project AEGIS-4.
 - **Equipment origin gap (Windman's bandage, Primm's suit, Tiebi's beret).**
@@ -136,10 +241,11 @@ All four heroes now have ratified pronouns. Resolved by author 2026-06-14.
 - **The Junior Engineer — CONFIRMED recurring "person who knows" (2026-06-14).**
   The only human who witnessed the split; future recurring POV witness. Character
   stub created: [[Junior Engineer]].
-- **Issue 3 (Pho-boman diaspora) — what does a being who was born minutes ago
-  experience?** Pho-boman has no human past *and* no cyborg-fragment past —
-  he is *brand new.* Spark riff needed before Issue 3 is written. How does an
-  emergent soup-being interpret its first hour of existence?
+- **Issue 4 (Pho-boman diaspora — [[S01E04 — What Is a Ladle For]]) — what does a
+  being who was born minutes ago experience?** Pho-boman has no human past *and*
+  no cyborg-fragment past — he is *brand new.* Spark riff needed before the episode
+  prose is written. How does an emergent soup-being interpret its first hour of
+  existence?
 
 ## Resolved 2026-06-15 (Pho-boman reveal timing)
 

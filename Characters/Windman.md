@@ -10,8 +10,8 @@ hub_code: CK-001
 # Windman
 
 One of the four [[The Crime Kickers|Crime Kickers]]. Carries the team's control of
-**air and wind**. Per [[Origin & Concept]], he is one of the four fragments of the
-original fractured cyborg.
+**air and wind**. Per [[Origin & Concept]], he is one of the two fragments of the
+original fractured cyborg (Project AEGIS-4).
 
 > *"Moves air. Moves opinions."* — tagline (Hub)
 
@@ -66,7 +66,7 @@ From the detailed model specs (`crimekickers_models/windman.md`,
 
 From the [[Crime Kickers Hub]] (`data.ts`) — captured but **not yet canon**:
 
-- **Code:** CK-001 · **Power name:** Aerokinesis · **SFX:** DRIFT
+- **Code:** CK-001 · **Power name:** Aerokinesis · **SFX:** HWUF
 - **Stats (0–5):** Reach 4 · Speed 5 · Recon 3 · Stealth 2
 - **Capabilities:** compressed air pulse; personal updraft (90 sec); pressure read
   at 100 ft. **Vulnerable:** humidity > 80%.

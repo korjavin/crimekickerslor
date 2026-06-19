@@ -11,8 +11,10 @@ hub_code: CK-004
 # Tiebi
 
 One of the four [[The Crime Kickers|Crime Kickers]]. The team's **size-shifter** —
-the ultimate infiltrator and, when needed, the heavy. Per [[Origin & Concept]], one
-of the four fragments of the original fractured cyborg.
+the ultimate infiltrator and, when needed, the heavy. A **former soldier** and
+ex-security officer, the only Crime Kicker with a human past. He was on-site during
+the AEGIS-4 incident and was transformed by it — gaining volumetric scaling ability.
+He is not a cyborg fragment; he is a bystander who the incident changed.
 
 > *"Two sizes too many."* — tagline (Hub)
 
@@ -37,7 +39,9 @@ From `godot-test1/docs/characters/tiebi.md` (spelled *Tiebe* there):
   expressive eyes, medium skin tone.
 - **Signature feature — the beret:** a **classic French beret**, slightly tilted,
   dark navy or black, snug and soft with a small nub at the top center. This is the
-  detail that defines and distinguishes him.
+  detail that defines and distinguishes him. The beret is a **personal item from his
+  military service** — he owned and wore it as a human before the AEGIS-4 incident.
+  It is not a crystallized manifestation; it is a pre-incident possession he kept.
 - **Clothing:** simple fitted shirt/tunic in neutral tones (gray, white, muted
   earth); standard trousers; simple flat black or brown shoes.
 - **Vibe:** deliberately minimalist and human-like — the beret does the work.
@@ -83,16 +87,38 @@ From the [[Crime Kickers Hub]] (`data.ts`) — captured but **not yet canon**:
   planned but not yet implemented.
 - [[Stealth Kickers (Tactical Stealth)]] — Shrink + Grow. Here he is described as
   *"once a normal human, transformed into a being with complete control over his
-  size"* — a transformation origin that **conflicts with the cyborg-fragment canon**.
+  size."* This aligns with current canon: the specifics (soldier / security-officer
+  background, supernatural transformation via the AEGIS-4 incident) are canon;
+  the *Stealth Kickers* phrasing predates and is now consistent with them.
 
-## Resolved decisions (2026-06-14)
+## Canon origin (human past)
+
+Tiebi is a **former soldier**, highly trained, veteran of multiple local conflicts.
+After his military career ended he became a **security officer at GastroDefense Inc.**,
+and was on duty — on-site — when the **Project AEGIS-4** incident occurred. The incident
+transformed him through a **supernatural mechanism**, granting him volumetric scaling
+(size-and-shape transformation) ability. The transformation is supernatural in nature,
+not engineered or cybernetic: the incident conferred the power, not hardware.
+
+He is the **only Crime Kicker with a human past**. Windman, Primm, and Pho-boman
+have no prior human existence; Tiebi does. He is a **bystander transformed by the
+incident**, not a fragment of the cyborg.
+
+## Resolved decisions
 
 - **Pronouns: he/him.** Hub's she/her is non-canon source material; Godot / Stealth
   Kickers he/him confirmed as canon.
-- **Transformation vs. cyborg origin:** the *Stealth Kickers* "once a normal human"
-  backstory is non-canon predecessor source material. Tiebi has no human past —
-  he is a cyborg fragment, created by the AEGIS-4 fracture incident. Resolved in
-  [[Open Questions & Contradictions]] and [[Origin & Concept]].
+- **Origin: transformed human, not cyborg fragment.** Tiebi was a human security
+  officer (ex-soldier) at GastroDefense Inc. at the time of the AEGIS-4 incident,
+  on duty on-site when it occurred. The incident transformed him through a supernatural
+  mechanism. He is the only one of the four with a human past. See [[Origin & Concept]].
+- **Transformation mechanism: supernatural size-and-shape transformation.** The AEGIS-4
+  incident granted Tiebi a supernatural ability to change his size and shape. Not
+  engineered; not cybernetic. Conferred by the incident.
+- **The beret: personal military memento.** His beret is a pre-incident personal item
+  worn in memory of his military service. It is the exception to the split-time
+  crystallization ruling — Windman's eye bandage and Primm's suit still crystallized
+  at split-time; Pho-boman's helmet was pre-built; Tiebi's beret was already his.
 
 ## Related
 

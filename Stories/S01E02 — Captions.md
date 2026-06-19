@@ -12,11 +12,7 @@ comic page beside each picture. **5 captions total** (within the 5–10 cap), ke
 **deliberately spare**: this issue is near-wordless by design — iconography over
 blocking, "big silence." Voice is dry, close-third, lonely-funny — the same deadpan
 family as [[S01E01 — Captions]] but more intimate (a single POV, alone the whole page).
-Canon-accurate to the seam-fixed script (2026-06-15). Pairs with the art in
-[[S01E02 — Panel Prompts]].
-
-> **Status:** **Author-accepted canon — 2026-06-15.** Reviewed and accepted by the
-> author alongside the rest of the S01E02 set. Logged in [[Canon & Sources]].
+Pairs with the art in [[S01E02 — Panel Prompts]].
 
 ## Captions
 

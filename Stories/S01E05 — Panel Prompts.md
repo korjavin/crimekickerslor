@@ -209,7 +209,7 @@ wall, phase-boundary semi-transparent/bluish at the wall.
 - **Phasing render** applied at the wall boundary: semi-transparent / bluish-ghosted,
   silver trim flickering — partly transparent only at the intersection, never solid,
   never invisible.
-- Reuses **verbatim** the ratified **GastroDefense service corridor / palette** descriptor
+- Reuses **verbatim** the established **GastroDefense service corridor / palette** descriptor
   ([[Visual Style Guide]]).
 - **Seam in:** verbatim continuation of [[S01E01 — Some Assembly Required]] Panel 4
   bottom-left — "a purple-coated figure halfway through a corridor wall, phasing free,
@@ -260,7 +260,7 @@ band's surface (ghost-boundary at each).
   vertical/downward** — guarded against flight/sideways motion.
 - **Erratic mini-orbs** are the one cue that something under the cool exterior is off (they
   snap to tight orbit in P4). Expression **focused/diagnostic**, guarded against panic.
-- Reuses **verbatim** the ratified **GastroDefense interior / palette** descriptors and the
+- Reuses **verbatim** the established **GastroDefense interior / palette** descriptors and the
   beige-fluorescent baseline.
 
 ### Panel 3 — Wrong Dial

@@ -50,7 +50,7 @@ full block in close/medium shots, signature-color cue only in far shots):
 > large white letter "W" monogram on the chest. He wears brown knee-length straight-cut
 > slightly-baggy shorts, and fully-black flat-soled snug boots with no decoration.
 
-### Windman's fan — RATIFIED (verbatim from [[Windman]] / [[S01E02 — Panel Prompts]])
+### Windman's fan (verbatim from [[Windman]] / [[S01E02 — Panel Prompts]])
 
 Reuse this exact wording every time the fan appears. Track its **open/closed state**
 per panel (the fan-state timeline below is a continuity guard):
@@ -110,7 +110,7 @@ abbreviated, at micro scale):
   mustard shirt, no scale tricks. The *contrast* between the two registers across panels
   is the storytelling.
 
-### Airmaster pressure-perception overlay — RATIFIED 2026-06-15 (verbatim from [[Visual Style Guide]] / [[S01E02 — Panel Prompts]])
+### Airmaster pressure-perception overlay (verbatim from [[Visual Style Guide]] / [[S01E02 — Panel Prompts]])
 
 The canon render of [[Windman]]'s blind pressure-perception — how he "feels" structure,
 objects, and bodies through displaced air without seeing them. Reuse this block
@@ -304,7 +304,7 @@ runner.
 
 **Consistency / staging notes**
 
-- Windman pulled **verbatim** from [[Windman]] Appearance (detailed) and the ratified fan
+- Windman pulled **verbatim** from [[Windman]] Appearance (detailed) and the established fan
   descriptor; fan state = **open, low at his side** per the fan-state timeline.
 - Reuses the **airmaster pressure-perception overlay** block **verbatim** (cars as dense
   mass-shadows, walls as hard planes, the distant cat as a tiny warm blip) — the prompt
@@ -364,7 +364,7 @@ ANOMALY FLUTTER on Tiebi in the overlay.
 - **Seam in (Tiebi):** Tiebi is moving through the city weeks after his
   [[S01E03 — Momentum Not Included]] parking-deck exit (he walked toward the compass-spoke
   street, not looking back, and has been moving since). He enters here at full size,
-  unaware, walking — the first time either fragment shares a frame with another.
+  unaware, walking — the first time either of them shares a frame with another.
 
 ### Panel 3 — Incident
 

@@ -201,6 +201,19 @@ from each story, so the prompts stay attached to the panels they render:
   phasing render, the gravity light-bend VFX, and the DRIFT SFX; the ghost-image
   before/after eureka in Panel 4; five panels from the corridor-wall phase-out to the
   stairwell descent).
+- [[S01E08 — Panel Prompts]] — *Four-Body Problem* (all four heroes in one frame for the
+  first time; the sloped-night-block / driverless refrigerated truck / railway-bridge
+  props; the four-color frame and the first simultaneous fire of all four SFX —
+  HWUF / DRIFT / STOMP / SLURP — in Panel 4; the FIELD READ bracket with the
+  dash-placeholder in Panel 2; the Windman↔Primm residual field-entanglement in Panel 5;
+  the legible recall notice and the four-figures-facing-outward Act III close in Panel 6).
+- [[S01E09 — Panel Prompts]] — *Variance Report* (all four heroes, the first voluntary
+  four; the parallel-register / split-register grammar — warm heroes vs. cold
+  institutional screens, no labeled divider; the GastroDefense district substation, drone
+  fleet, and legible corporate-screen text — the variance ticket, the CRIME KICKERS
+  auto-designation, the RECALL AND REINTEGRATION SPECIFICATION, and SCHEDULING RETRIEVAL;
+  the four blank house-format SFX boxes in Panel 4; six panels from night street through
+  substation interior to the exterior alley).
 
 ## Related
 

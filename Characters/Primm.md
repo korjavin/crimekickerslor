@@ -11,8 +11,8 @@ hub_code: CK-003
 # Primm
 
 One of the four [[The Crime Kickers|Crime Kickers]]. The team's **gravity/space
-manipulator** and close-combat specialist. Per [[Origin & Concept]], one of the four
-fragments of the original fractured cyborg.
+manipulator** and close-combat specialist. Per [[Origin & Concept]], one of the two
+fragments of the original fractured cyborg (Project AEGIS-4).
 
 > *"Negotiates with gravity."* — tagline (Hub)
 
