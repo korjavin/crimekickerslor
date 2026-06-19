@@ -10,6 +10,35 @@ The running list of things the sources disagree on, or that canon hasn't decided
 Resolve by a human decision, then update the relevant pages and (if it becomes canon)
 the registry.
 
+## Resolved 2026-06-20 (20-episode arc design)
+
+Author session that reframed Season One as **one continuous twenty-episode story** and
+designed the connective spine for E10–E20 (Spark draft → Editor reconciliation). The full
+present-state arc lives in [[Series Arc]]; broad-strokes episode outlines created for
+[[S01E10 — Half-Life]] through [[S01E20 — Return to Origin Facility]] (panels/captions/
+prompts deferred to a later production pass).
+
+**Two binding structural decisions:**
+- **Open finale.** The 20 episodes are the first large movement of a longer saga. The
+  un-make moral question is brought to maximum pressure but **not resolved** by E20; it
+  remains the series' final moral question, reserved beyond the twenty.
+- **One continuous season of 20.** No season break. **E10 is the midpoint and largest turn
+  so far (Primm captured)**, not a finale. This **supersedes** the prior [[Series Arc]]
+  framing of E10 as "Season 1 finale" with "AEGIS-5 seeded for Season 2."
+
+**Five creative decisions (ratified):**
+- AEGIS-3 disposed non-specification output (E16): **nature left unspecified** — only
+  GD-Standard-7 form language, never a description of the being.
+- The E20 "third option" cost: **structural and personal** — the resonance field is
+  permanently altered, and the act costs one of the four something specific (which member /
+  what is reserved for the E20 drafter).
+- **AEGIS-5 is a specification / successor program, not a character** — communicates only by
+  form and hardware interrupt; never speaks. Preserves the soulless-not-menacing tone.
+- **Junior Engineer** reaches the team via his **own post-fracture investigation** and
+  contact **outside HQ** (the drone net does not track a human face).
+- **Lunch Lady** is present in E20 simply as Origin Facility cafeteria staff ("because it is
+  a Tuesday"); her second word of the season is **"Sufficient."**
+
 ## Retcon: Tiebi origin correction (2026-06-17)
 
 Author correction reversing the 2026-06-14 "Tiebi has no human past / cyborg fragment"
