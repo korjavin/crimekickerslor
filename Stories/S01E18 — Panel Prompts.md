@@ -181,19 +181,16 @@ relevant to this episode:
 
 - **P1 (attentive):** noodle-brows in the attentive configuration — the one that
   means: the room is doing something and he is here while it does it.
-- **P4 (new — weight-become-furniture):** PROPOSED. A configuration the series has
-  not used before. Not the attentive configuration. Not the E09 compressed-lower
-  configuration of receiving a fact without a framework. Not the E15 absence-
-  configuration. This is the configuration of a being who has been carrying a fact
-  so long it has changed texture: from weight to furniture. Rendered as: noodle-brows
-  slightly lowered and settled — not alarmed, not curious, not receiving anything new
-  — the settled gravity of someone who already has the framework and has put it
-  somewhere he can reach. The broth in his helmet is very still in P4.
+- **P4 ("weight-become-furniture"):** A configuration first used in this episode
+  (see [[Pho-boman]] Noodle-brow vocabulary). Not the attentive configuration. Not
+  the E09 compressed-lower configuration of receiving a fact without a framework. Not
+  the E15 absence-configuration. This is the configuration of a being who has been
+  carrying a fact so long it has changed texture: from weight to furniture. Rendered
+  as: noodle-brows slightly lowered and settled — not alarmed, not curious, not
+  receiving anything new — the settled gravity of someone who already has the framework
+  and has put it somewhere he can reach. The broth in his helmet is very still in P4.
 - **P5 (P4 reduced):** the P4 configuration, reduced slightly in intensity — the
   settled-back register of someone who has been somewhere and returned.
-
-The **P4 noodle-brow configuration is PROPOSED** — new to the series, not previously
-rendered. Flagged for author review.
 
 ### The resonance field between the two fragments (this episode)
 
@@ -461,9 +458,9 @@ series' quietest register.
 **Consistency / staging notes**
 
 - Pho-boman's descriptor **verbatim**. No noodle-rope. No SLURP. No dialogue.
-- **New P4 noodle-brow configuration — PROPOSED.** Settled, slightly lowered — weight-
-  become-furniture. Not alarmed, not receiving. The series' quietest brow state. Flagged
-  for author review.
+- **P4 noodle-brow configuration — "weight-become-furniture".** Settled, slightly
+  lowered. Not alarmed, not receiving. The series' quietest brow state. Recorded on
+  [[Pho-boman]] (Noodle-brow vocabulary).
 - **Broth very still.** The reddish-orange glow is the warmest single element in the
   episode — the one warm color in an otherwise neutral interior palette. Guarded as the
   ONLY warm saturated element in this panel.

@@ -159,11 +159,11 @@ appears in:
 > Compliance Order / AEGIS-4" — a civil officer doing a procedural job, not an agent
 > of GastroDefense
 
-- **PROPOSED:** The process server has no canonical visual spec beyond the episode
-  description (plainly dressed, city-court lanyard, manila envelope, tablet). The
-  above spec is derived from the episode text and is PROPOSED for author review. He
-  appears only in P1 (as a distant figure on the sidewalk ahead) and P2 (close service
-  exchange with Tiebi).
+- The process server has no canonical visual spec beyond the episode description
+  (plainly dressed, city-court lanyard, manila envelope, tablet). The above spec is
+  derived from the episode text and is established for this episode. He appears only
+  in P1 (as a distant figure on the sidewalk ahead) and P2 (close service exchange
+  with Tiebi).
 
 #### The manila envelope and the injunction document
 

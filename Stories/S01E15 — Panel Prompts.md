@@ -607,21 +607,19 @@ frames; NO SFX callout boxes; four captions including the smallest final caption
 
 ---
 
-## PROPOSED visual specs (author review required)
+## Visual specs (episode-local)
 
-One visual specification was invented to fill a gap not fully described in the episode
-note or prior canon:
+One visual specification fills a gap not fully described in the episode note or prior
+canon:
 
-**PROPOSED — Pho-boman's new noodle-brow configuration (P4):** The episode note
-specifies this configuration is distinct from both the attentive configuration and the
-E09 P4 configuration, describing it as "the face of a being who has just discovered,
-for the first time, that there is a room he is not in." This prompt renders it as
-noodle-brows **slightly drawn inward and downward** — a subtle inward compression,
-distinct from attentive (raised/forward) and distinct from E09's (lower-compressed but
-reading-a-document register). This is the minimum intervention consistent with the
-episode note's description. Flagged PROPOSED pending author confirmation; if confirmed,
-the new configuration should be added to [[Pho-boman]] Appearance (detailed) and to
-the noodle-brow vocabulary index in [[Visual Style Guide]].
+**Pho-boman's "a room he is not in" noodle-brow configuration (P4):** The episode
+note specifies this configuration is distinct from both the attentive configuration
+and the E09 P4 configuration, describing it as "the face of a being who has just
+discovered, for the first time, that there is a room he is not in." This prompt
+renders it as noodle-brows **slightly drawn inward and downward** — a subtle inward
+compression, distinct from attentive (raised/forward) and distinct from E09's
+(lower-compressed but reading-a-document register). Recorded on [[Pho-boman]]
+(Noodle-brow vocabulary).
 
 ---
 

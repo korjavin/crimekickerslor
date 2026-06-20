@@ -205,11 +205,11 @@ in:
   him. The drone logs a null for him. This is not depicted as a VFX; it is simply
   correct that the drone overhead cannot find him.
 
-### GastroDefense development annex — PROPOSED
+### GastroDefense development annex
 
-**PROPOSED** — no prior canonical visual spec for this specific building. Derived
-consistent with the episode brief and the series' GastroDefense institutional grammar.
-Reuse verbatim in P1, P2, P6:
+No prior canonical visual spec for this specific building in earlier episodes. The
+descriptor below is established here, derived consistent with the episode brief and
+the series' GastroDefense institutional grammar. Reuse verbatim in P1, P2, P6:
 
 > an edge-of-district building in institutional corporate architecture — low profile,
 > lower density than the city center, morning air more open; the building rendered in
@@ -221,7 +221,6 @@ Reuse verbatim in P1, P2, P6:
 > sub-basement cable node; the building looks like a place that processes invoices,
 > not a place that contains the next product line
 
-**Author ratification requested before locking this descriptor.**
 
 ### The GastroDefense drone — GD-SURVEY-ENTRÉE-01 (recurring, P1 / P6)
 
@@ -444,7 +443,7 @@ morning cold.
 - **Daylight register shift** from the night-city back-half palette — this is
   intentional. The morning palette is the episode's deliberate exhale before the
   central compression.
-- **PROPOSED** annex descriptor used here — flagged for author review.
+- **Annex descriptor** used here — see the episode-local prop section above.
 
 ---
 

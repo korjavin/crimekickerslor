@@ -47,6 +47,21 @@ From `godot-test1/docs/characters/phoboman.md` (note: spelled *Phoboman* there):
 - **Clothing:** short black pants (mostly hidden under the belly); fully black,
   flat, minimalist boots.
 
+## Noodle-brow vocabulary
+
+His face is his expression language — features form dynamically from noodles inside
+the helmet. Established configurations:
+
+- **"accurate"** — received a formulation (e.g. "product-liability compliance step")
+  and finds it accurate rather than alarming; not offended, not resigned. One step
+  past the not-quite-question: the question has been filed. (First used [[S01E11 —
+  Closed Loop]].)
+- **"a room he is not in"** — brows slightly drawn inward and downward; the first
+  awareness of a process he is not part of. (First used [[S01E15 — Partial Contact]].)
+- **"weight-become-furniture"** — brows slightly lowered and settled; a long-carried
+  fact that has changed texture from weight to furniture; his quietest state, broth
+  very still. (First used [[S01E18 — Resonance]].)
+
 ## Powers
 
 - **Soup / broth control (thermohydromorphism)** — produces and shapes scalding

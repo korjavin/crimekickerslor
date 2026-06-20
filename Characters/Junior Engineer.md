@@ -44,6 +44,15 @@ Reuse this descriptor verbatim in any image-generation prompt:
   thrown up over his head; terrified wide-eyed expression; mouth open in panic.
   Small in the lower foreground for scale and comedy.
 
+## Out-of-lab (civilian/field) variant
+
+Outside the GastroDefense lab, he wears civilian clothes: same face, messy
+light-brown hair, and round glasses, but a plain jacket in a muted neutral
+colour (grey or dark olive) instead of the white lab coat. His ID-badge lanyard
+is tucked inside the jacket collar, barely visible at the collar gap. The lab
+spec above is unchanged; this is his out-of-lab variant. First appears in
+[[S01E13 — Field Notes]].
+
 ## Appears in
 
 - [[S01E01 — Some Assembly Required]] — Panels 1, 2, and 3.

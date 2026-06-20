@@ -10,6 +10,34 @@ The running list of things the sources disagree on, or that canon hasn't decided
 Resolve by a human decision, then update the relevant pages and (if it becomes canon)
 the registry.
 
+## Resolved 2026-06-20 (E10–E20 visual ratifications)
+
+Author approved all PROPOSED visual specs surfaced during the E10–E20 panel-prompt build.
+
+- **A1 — E11 public-access networked terminal.** Episode-local prop (no GastroDefense
+  markings, institutional kiosk) ratified as established. Lives in
+  [[S01E11 — Panel Prompts]]; episode-local only.
+- **A2 — E17 GastroDefense development annex.** Episode-local building (edge-of-district
+  institutional corporate architecture, minimal signage) ratified as established. Lives
+  in [[S01E17 — Panel Prompts]]; episode-local only.
+- **A3 — E19 civil process server.** Episode-local supporting character (plainly dressed,
+  city-court lanyard, manila envelope, tablet) ratified as established. Lives in
+  [[S01E19 — Panel Prompts]]; episode-local only.
+- **B — Junior Engineer civilian/field variant.** Out-of-lab appearance (same face/hair/
+  glasses, plain jacket in muted neutral grey or dark olive, ID-badge lanyard tucked
+  inside collar) recorded on [[Junior Engineer]] character page. Lab spec unchanged.
+  Prompt references in [[S01E13 — Panel Prompts]] updated to point to [[Junior Engineer]]
+  as source of truth.
+- **C — Pho-boman noodle-brow vocabulary (three new configurations).** Recorded on
+  [[Pho-boman]] (Noodle-brow vocabulary section): "accurate" (first used E11), "a room
+  he is not in" (first used E15), "weight-become-furniture" (first used E18). Prompt
+  files [[S01E11 — Panel Prompts]], [[S01E15 — Panel Prompts]], [[S01E18 — Panel Prompts]]
+  updated to present-state and to point to [[Pho-boman]]. One-line pointer added under
+  the [[Pho-boman]] bullet in [[Visual Style Guide]].
+- **D — E20 Origin Facility interior + AEGIS-5 indicator light.** Author-confirmed as
+  established (was never flagged PROPOSED in the prompt file). Episode-local; lives in
+  [[S01E20 — Panel Prompts]].
+
 ## Resolved 2026-06-20 (20-episode arc design)
 
 Author session that reframed Season One as **one continuous twenty-episode story** and

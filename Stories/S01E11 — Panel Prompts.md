@@ -153,10 +153,11 @@ appears in:
     configuration of something the series' face-vocabulary does not have a prior entry
     for: the label CRIME KICKERS as a field in a form. Not alarmed. Not resigned.
     Present.
-  - P4: accurate configuration (PROPOSED — see Consistency Notes) — the configuration
-    for receiving the description "product-liability compliance step" and finding it
-    accurate rather than alarming. Not offended. Not resigned. Accurate. (Distinct from
-    the not-quite-question; one step past it — the not-quite-question filed.)
+  - P4: accurate configuration (see [[Pho-boman]] Noodle-brow vocabulary) — the
+    configuration for receiving the description "product-liability compliance step" and
+    finding it accurate rather than alarming. Not offended. Not resigned. Accurate.
+    (Distinct from the not-quite-question; one step past it — the not-quite-question
+    filed.)
   - P5: focused configuration (same as P1) — he has received the answer; he has filed
     it; he is facing the city.
 - **Broth-state:** the reddish-orange broth is the panel's only warm-tone anchor in
@@ -187,7 +188,7 @@ Reuse this descriptor for the exterior panels:
 > post-incident register; dark blue-grey night palette, almost monochrome, muted
 > and desaturated
 
-### The semi-public networked terminal — E11 episode prop (PROPOSED)
+### The semi-public networked terminal — E11 episode prop
 
 The terminal Tiebi accesses in P2–P3. Institutional, not GastroDefense property —
 a city administrative node. Reuse this descriptor for P2–P3:
@@ -200,11 +201,11 @@ a city administrative node. Reuse this descriptor for P2–P3:
 > unremarkable, purposeless-looking, the wall or shelter behind it plain concrete or
 > tile; NO GastroDefense logo on the terminal or its housing
 
-**PROPOSED 2026-06-20 — awaiting author ratification.** The terminal has no prior
-canonical visual spec. The above descriptor is proposed consistent with the episode's
-tone (institutional-but-not-corporate; the system has no opinion about what Tiebi
-reads). The key design requirement from the episode: it accepts the credential token,
-and it has no GastroDefense markings.
+The terminal has no prior canonical visual spec in earlier episodes; the above
+descriptor is established here, consistent with the episode's tone
+(institutional-but-not-corporate; the system has no opinion about what Tiebi reads).
+The key design requirement from the episode: it accepts the credential token, and it
+has no GastroDefense markings.
 
 ### The GastroDefense case file — E11 institutional screen text
 
@@ -564,8 +565,8 @@ document is the actor.
 - Pho-boman's **accurate** noodle-brow configuration: distinct from the not-quite-
   question in P3. That was the configuration for something without a prior entry; this
   is for something that has been answered and found accurate. The distinction is small
-  and should be flagged in the prompt. PROPOSED noodle-brow vocabulary entry (see
-  Consistency Notes).
+  and should be flagged in the prompt. Recorded on [[Pho-boman]] (Noodle-brow
+  vocabulary).
 - **Document dominates.** Three-quarters of the frame is screen. The three heroes are
   witnesses. This is the structural inversion of P1 (heroes dominant, city background).
 - **No SFX boxes of any kind.** The four blank SFX boxes from E09 P4 belong to that

@@ -124,11 +124,10 @@ this episode (SLURP not fired). Guard this in every panel.
 is on a city street in civilian clothes, which is the point. The base descriptors (face,
 hair, glasses, age, ID badge on lanyard) carry over; the lab coat is absent.
 
-**PROPOSED (E13 civilian variant — awaiting author ratification):** The canonical spec
-covers his lab-context appearance (white lab coat, lanyard visible). His street appearance
-uses the same face/hair/glasses but replaces the coat with a plain civilian jacket. The
-ID badge lanyard is tucked inside the collar (barely visible). This is a PROPOSED
-contextual variant of the ratified spec; the base spec on [[Junior Engineer]] is unchanged.
+His street appearance uses the same face/hair/glasses as the lab spec but replaces
+the coat with a plain civilian jacket. The ID badge lanyard is tucked inside the
+collar (barely visible). The base lab spec on [[Junior Engineer]] is unchanged; this
+is his out-of-lab variant, recorded on that page.
 
 Reuse this descriptor block **verbatim** in every panel he appears in:
 
@@ -321,8 +320,9 @@ single human-mass (elevated respiration, no device mass above 450g).
 **Consistency / staging notes**
 
 - All three heroes reused **verbatim**, medium-shot scale. The Junior Engineer's face is
-  fully readable here for the first time. His civilian appearance is the **PROPOSED
-  contextual variant** (no lab coat; civilian jacket, ID badge tucked inside collar).
+  fully readable here for the first time. His civilian appearance is the out-of-lab
+  variant recorded on [[Junior Engineer]] (no lab coat; civilian jacket, ID badge
+  tucked inside collar).
 - **The FIELD READ bracket** is rendered as a small legible margin-text notation — not a
   visual overlay dominating the panel. The bracket reads exactly:
   `[FIELD READ: single human-mass (elevated respiration) — unaccompanied — no device mass above 450g]`.
@@ -524,8 +524,8 @@ tab-7 tab marker at the notebook edge (barely visible, uncaptioned).
   verbatim; the FIELD READ bracket format reused (P2 here).
 - [[Visual Style Guide]] — global Art-Style Anchor v1 (reused verbatim); the airmaster
   pressure-perception overlay; GastroDefense signage conventions.
-- [[Junior Engineer]] — canonical visual spec (ratified 2026-06-14); the PROPOSED E13
-  civilian-clothes contextual variant is recorded above pending author ratification.
+- [[Junior Engineer]] — canonical visual spec (ratified 2026-06-14); out-of-lab
+  civilian-clothes variant recorded on his character page.
 - [[Windman]] · [[Tiebi]] · [[Pho-boman]] — single sources of truth for the three heroes'
   appearances and the fan / beret / helmet-broth cues.
 - [[Canon & Sources]] · [[Open Questions & Contradictions]]

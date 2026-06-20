@@ -69,6 +69,8 @@ of truth:
     From E04 Panel 4 onward, the red-dragon-on-blue belly emblem and complete spoon-shaped
     silhouette are fully in-play — include them verbatim from [[Pho-boman]] Appearance
     (detailed) in all subsequent panel prompts.
+  - **Noodle-brow vocabulary** — his face is his expression language; the full list of
+    established configurations lives on [[Pho-boman]] (Noodle-brow vocabulary section).
 - [[Primm]] — purple high-tech ninja, cyan visor, twin katanas, orbiting blue orbs.
 - [[Tiebi]] — ordinary build, signature tilted dark-navy French beret, size-shifter.
   - **Mustard accent — PROPOSED 2026-06-15 (to lock on E03 ratification).** Tiebi's
@@ -223,26 +225,26 @@ from each story, so the prompts stay attached to the panels they render:
   standard steel containment that incidentally constrains Primm's field; the three escaping;
   the fragment-resonance felt by Windman as an absence).
 - [[S01E11 — Panel Prompts]] — *Closed Loop* (the contract-dispute reveal; the CRIME KICKERS
-  operational-designation case-file header; legible corporate-screen text; a PROPOSED terminal
-  spec and noodle-brow entry flagged for review).
+  operational-designation case-file header; legible corporate-screen text; episode-local
+  terminal spec; "accurate" noodle-brow configuration).
 - [[S01E12 — Panel Prompts]] — *Thermal Gradient* (Pho-boman's solo invisible infiltration of
   GastroDefense HQ; the drone-net null on his signature; the sublevel staging area).
 - [[S01E13 — Panel Prompts]] — *Field Notes* (the Junior Engineer's return with his notebook;
-  the AEGIS-lineage signal maps; a street-level hand-off; a PROPOSED Junior Engineer civilian
-  variant flagged for review).
+  the AEGIS-lineage signal maps; a street-level hand-off; Junior Engineer out-of-lab
+  civilian variant).
 - [[S01E14 — Panel Prompts]] — *Dead Reckoning* (the rescue; invisible entry + a pressure/size
   loading-dock distraction; the reintegration chamber's ambient prep-field).
 - [[S01E15 — Panel Prompts]] — *Partial Contact* (the resonance upgraded to an ongoing signal;
-  quiet single-interior register; a PROPOSED new Pho-boman noodle-brow configuration).
+  quiet single-interior register; "a room he is not in" noodle-brow configuration).
 - [[S01E16 — Panel Prompts]] — *Prior Art* (the disused AEGIS-3 facility; the "still-warm"
   prior-fragment signal; the prior-reintegration log; the broth-reagent retro-charge decode).
 - [[S01E17 — Panel Prompts]] — *Cascade Failure* (AEGIS-5 as a specification / hardware
-  interrupt, never a character; the deleted consent field heard as a pressure-difference; a
-  PROPOSED AEGIS-5 development building / reintegration annex flagged for review).
+  interrupt, never a character; the deleted consent field heard as a pressure-difference;
+  episode-local GastroDefense development annex).
 - [[S01E18 — Panel Prompts]] — *Resonance* (the contained-interior conversation; the un-make
-  question put directly; no SFX; a PROPOSED noodle-brow/posture configuration).
-- [[S01E19 — Panel Prompts]] — *Consent Field* (the injunction as the episode's object; a
-  PROPOSED civil process-server spec; the case-number revival tie to the prior recall).
+  question put directly; no SFX; "weight-become-furniture" noodle-brow configuration).
+- [[S01E19 — Panel Prompts]] — *Consent Field* (the injunction as the episode's object;
+  episode-local civil process-server spec; the case-number revival tie to the prior recall).
 - [[S01E20 — Panel Prompts]] — *Return to Origin Facility* (the Origin Facility lobby +
   cafeteria; the four warm colors against the cold institutional palette; the third-option
   resonance act; the AEGIS-5 indicator light; the Lunch Lady's "Sufficient").
