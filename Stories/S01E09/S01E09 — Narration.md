@@ -16,11 +16,12 @@ palette captions, running in the same flat tone, arriving at different conclusio
 words, ~70 seconds at 150 wpm.
 
 Note: E09 carries no SFX in any panel (four blank SFX boxes in Panel 4 are silent by
-definition — they are visual lettering, not narration). One line of dialogue (Tiebi,
-Panel 3: "The terminals are on the right.") is lettering, not narration. The corporate-
-screen text visible in Panels 2, 3, 4, 5, and 6 — logistics ticket, drone feeds, the
-CRIME KICKERS label, the recall specification document, and the SCHEDULING RETRIEVAL
-update — is in-panel institutional lettering; do not voice it as narration.
+definition — they are visual lettering, not narration; the Panel 5 drone near-miss is silent
+too). One line of dialogue (Tiebi, Panel 3: "The terminals are on the right.") is lettering,
+not narration. The corporate-screen text visible in Panels 2, 3, 4, and 6 — logistics ticket,
+drone feeds, the CRIME KICKERS label, the recall specification document, and the SCHEDULING
+RETRIEVAL update — and the drone's NO MATCH — FOOD-SAFETY overlay in Panel 5 are in-panel
+institutional lettering; do not voice them as narration.
 
 ## Clean script (paste into ElevenLabs)
 
@@ -53,11 +54,11 @@ They did not discuss what they had read.
 
 The document had been specific.
 
-The logistics variance ticket had now been in the system for forty-six minutes. The auto-escalation threshold had been forty-five.
+Then they stopped.
 
-This was now an emergency.
+The drone found three of them.
 
-A department that had not run in a year was about to run.
+The logistics variance ticket had now been in the system for forty-six minutes. The auto-escalation threshold had been forty-five. This was now an emergency.
 
 The document had been eleven pages.
 
@@ -100,13 +101,13 @@ They read the relevant sections. <break time="0.5s" />
 
 [steady] They did not discuss what they had read. <break time="0.5s" />
 
-[flat] The document had been specific. <break time="1.3s" />
+[flat] The document had been specific. <break time="1.1s" />
 
-[matter-of-fact] The logistics variance ticket had now been in the system for forty-six minutes. <break time="0.4s" /> The auto-escalation threshold had been forty-five. <break time="0.8s" />
+[quiet] Then they stopped. <break time="0.6s" />
 
-[dry, the same register as "within spec" — this is not drama] This was now an emergency. <break time="0.8s" />
+[flat] The drone found three of them. <break time="1.2s" />
 
-[quieter] A department that had not run in a year was about to run. <break time="1.5s" />
+[matter-of-fact] The logistics variance ticket had now been in the system for forty-six minutes. <break time="0.4s" /> The auto-escalation threshold had been forty-five. <break time="0.4s" /> [dry, the same register as "within spec" — this is not drama] This was now an emergency. <break time="1.4s" />
 
 [flat] The document had been eleven pages. <break time="0.5s" />
 
@@ -144,16 +145,16 @@ They had read it in four minutes. <break time="0.8s" />
 >
 > Section 4.4 was one line.
 
-**Panel 5 — Escalation Chain (Split-Register)**
-> *(heroes half)* They did not discuss what they had read.
+**Panel 5 — Null Return**
+> They did not discuss what they had read.
 >
-> *(heroes half)* The document had been specific.
+> The document had been specific.
 >
-> *(corporation half)* The logistics variance ticket had now been in the system for forty-six minutes. The auto-escalation threshold had been forty-five.
+> Then they stopped.
 >
-> *(corporation half)* This was now an emergency.
+> The drone found three of them.
 >
-> *(corporation half)* A department that had not run in a year was about to run.
+> The logistics variance ticket had now been in the system for forty-six minutes. The auto-escalation threshold had been forty-five. This was now an emergency.
 
 **Panel 6 — SCHEDULING RETRIEVAL**
 > The document had been eleven pages.
@@ -166,7 +167,7 @@ They had read it in four minutes. <break time="0.8s" />
 
 ## Runtime
 
-- **Word count:** ~175 words.
+- **Word count:** ~170 words.
 - **Runtime:** ~70 s at 150 wpm; ~75 s at 140 wpm. With the tuned pauses — the long
   two-second silence after "Section 4.4 was one line." and the held beats on the
   "within spec / now an emergency" pair — the track plays nearer **~90–95 s**.
@@ -193,12 +194,13 @@ They had read it in four minutes. <break time="0.8s" />
 - **Panel 6 close:** "This was within spec." lands final and clean with no trailing
   break. It is the episode's rubber stamp. Flat, small, done.
 - **What not to voice:** the following are in-panel institutional lettering and must not
-  be narrated — the logistics variance ticket text (Panels 2, 5), the drone operations
-  feed notations (Panels 2, 5), the CRIME KICKERS label on the terminal screen (Panel 3),
+  be narrated — the logistics variance ticket text (Panel 2), the drone operations
+  feed notation (Panel 2), the CRIME KICKERS label on the terminal screen (Panel 3),
   the recall specification document text including Section 4.4 (Panel 4), Tiebi's dialogue
-  "The terminals are on the right." (Panel 3), the ANOMALY CORRELATION COMPLETE /
-  SCHEDULING RETRIEVAL screen update (Panel 6). The four blank SFX boxes in Panel 4 are
-  silent. None of these appear in the clean script above.
+  "The terminals are on the right." (Panel 3), the Panel 5 drone overlay (the three recovery
+  locks and Pho-boman's NO MATCH — FOOD-SAFETY tag), the ANOMALY CORRELATION COMPLETE /
+  SCHEDULING RETRIEVAL screen update (Panel 6). The blank SFX boxes in Panel 4 and the silent
+  Panel 5 near-miss carry no sound. None of these appear in the clean script above.
 - **Pacing across the episode:** the two slowest moments are the break after "This was
   new." (Panel 1 — the first beat of the voluntary four) and the break after "Section 4.4
   was one line." (Panel 4 — the consent-field landing). Let both sit. Everything else

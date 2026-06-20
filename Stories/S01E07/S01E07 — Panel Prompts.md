@@ -18,16 +18,20 @@ the **panel-prompt-smith** agent.
 > **verbatim** across panels for consistency.
 
 This issue is **one comic page resolved across five images** (P1–P5). It is a **single
-contained stage**: a GastroDefense Inc. cold-storage loading dock at night (P1), then
-the walk-in industrial freezer behind it (P2–P5) — eight by six meters of
-floor-to-ceiling steel racking rated to −18°C, frost, cold vapor, institutional
-grey-blue. **Two heroes** are present: Primm and Pho-boman, who arrive by two different
-routes and never coordinate. The episode's recurring VFX beat is **the DRIFT light-bend
-stopping dead at steel** — the gravity field does not propagate through the racking; it
-bounces back flat at every metal surface. The seam: this is **Act III's second reunion**
-and must **end on exactly two figures in the freezer doorway facing the same outward
-direction** — Pho-boman's broth resettled, Primm's mini-orbs in tight orbit, no team
-named, no third hero.
+contained stage**: a GastroDefense Inc. cold-storage loading dock at night — **P1 is
+exterior** (the dock), **P2 is the threshold** (the freezer door), **P3–P4 are interior**
+(the walk-in industrial freezer behind it — eight by six meters of floor-to-ceiling steel
+racking rated to −18°C, frost, cold vapor, institutional grey-blue), and **P5 is the
+threshold again** (the forced exit door). **Two heroes** are present, and the episode is
+**sequential**: Pho-boman follows a smell into the propped-open freezer **alone** and
+seals himself in (P1); Primm, drawn off a truck-mass sweep by the door's slam, opens the
+door **from outside** and steps in after him, sealing himself in too (P2); the steel cage
+then neutralizes Primm completely (P3). They never speak and never coordinate. The
+episode's recurring VFX beat is **the DRIFT light-bend stopping dead at steel** — the
+gravity field does not propagate through the racking; it bounces back flat at every metal
+surface. The seam: this is **Act III's second reunion** and must **end on exactly two
+figures in the freezer doorway facing the same outward direction** — Pho-boman's broth
+resettled, Primm's mini-orbs in tight orbit, no team named, no third hero.
 
 ## Episode visual canon
 
@@ -54,9 +58,10 @@ panel (scaled to camera distance and pose):
   unmasked, or out of costume.
 - **Blades stay sheathed.** The twin katanas (ninjato-style straight blades) are
   **always sheathed flat across his back** — never drawn, never swung, in any panel.
-- **Mini-orbs as the state signature.** They orbit erratically/wide when his field is
-  failing (P2–P3) and snap to a **tight disciplined orbit** when he has the answer
-  (P4–P5) — carry this exactly as in [[S01E05 — Panel Prompts]].
+- **Mini-orbs as the state signature.** They orbit slightly **WIDE** during the P3
+  inventory (running right but running fast, the cue that his field is failing) and snap
+  to a **tight disciplined orbit** when he has the answer (P4–P5) — carry this exactly as
+  in [[S01E05 — Panel Prompts]].
 
 ### Pho-boman — appearance (verbatim from [[Pho-boman]] Appearance (detailed))
 
@@ -161,10 +166,17 @@ The corporate antagonist's logistics yard, exterior, night. Reuse for the dock i
   logistics truck to one side, insulated white-and-grey box trailer, the muted-corporate
   GastroDefense logo legible on the cab door, cold vapor bleeding faintly from its roof
   refrigeration unit.* Silent set-dressing, no lines, present P1 only.
-- **The freezer door + brick (P1):** *a heavy insulated steel walk-in freezer door
-  standing slightly AJAR, propped open a careful few inches by a single ordinary red
-  clay BRICK wedged against its base, cold fog rolling faintly out through the gap.* The
-  brick is the smallest thing in the frame and the episode's structural comedic object.
+- **The freezer door + brick (door mechanics, P1/P2/P5):** *a heavy, self-closing
+  insulated steel walk-in freezer door, rated −18°C, with an exterior cam-latch and handle
+  operable ONLY from the outside and NO interior handle or release of any kind on its inner
+  face; standing slightly AJAR, propped open a careful few inches by a single ordinary red
+  clay BRICK wedged against its base — the brick is the only thing holding it open — cold
+  fog rolling faintly out through the gap.* The brick is the smallest thing in the frame
+  and the episode's structural comedic object. **Door mechanics across the issue:** in P1
+  Pho-boman's boot displaces the brick and the self-closing door does the rest; the door
+  has an exterior handle/latch only, no interior handle anywhere; in P5 the door is forced
+  open by a running shoulder-barge (own-weight + momentum popping the seated cam-latch),
+  not by any power.
 
 ### The walk-in industrial freezer interior (P2–P5)
 
@@ -196,9 +208,10 @@ the cyan visor / blue orbs / purple coat carry color."
 
 ### Hard continuity guards (every panel)
 
-Exactly **two heroes** are present (P2–P5; P1 has both as unaware silhouettes) — **no
-third hero, no fourth, no teammate beyond these two**, no team name or logo, no costumed
-super-team look. **Primm** is fully suited (dark purple coat, glowing cyan visor, twin
+Exactly **two heroes** are present — **no third hero, no fourth, no teammate beyond these
+two**, no team name or logo, no costumed super-team look. **P1 foregrounds Pho-boman
+entering the propped door**, with Primm a small, peripheral, **back-turned** silhouette at
+the truck (not facing the door, not interacting); **P2 onward both are present inside**. **Primm** is fully suited (dark purple coat, glowing cyan visor, twin
 ninjato-style blades sheathed, orbiting faint-blue mini-orbs), blades **sheathed**; **no
 eye bandage, no folding fan** (Windman); **no French beret, no mustard shirt** (Tiebi).
 **Pho-boman** always has the diving-helmet head full of reddish-orange broth, the
@@ -213,125 +226,141 @@ same outward direction** — never one figure leaving alone.
 
 ## Panel deliverables
 
-### Panel 1 — Two Different Smells
+### Panel 1 — One of Them Was Following a Smell
 
-> **The wide establishing arrival — two routes, one door, zero coordination.** Night
-> loading dock. Pho-boman approaches the propped freezer door nose-first, drawn by the
-> frozen-pho smell. Primm approaches from another angle, attention on the truck's
-> refrigeration unit (a mass anomaly), not the door, gravity-sense sweeping. Neither sees
-> the other. The brick at the door's base is the smallest thing in frame.
+> **The exterior establishing beat — the small one walks into the trap, alone.**
+> Pho-boman is the foreground focus, stepping nose-first into the gap of the propped
+> freezer door, one flat black boot about to clip the single red clay brick — the whole
+> trap latent in the instant before boot meets brick. Deep in the background, small and
+> peripheral and BACK-TURNED, Primm reads the parked refrigerated truck's mass with his
+> back to the door; he has not noticed the door, the fog, or the small figure. The brick
+> is the smallest thing in frame.
 
 **Style anchor:** [[Visual Style Guide|v1]]. **Palette override:** night cold-storage
 dock — dark grey-blue-black concrete apron, muted-corporate GastroDefense logo, cold fog
-from the door gap; the reddish-orange broth in Pho-boman's visor and Primm's cyan visor
-the only warm/cool pops. **Reveal:** WIDE, both heroes present as unaware silhouettes,
-neither focused on the other.
+from the door gap; the reddish-orange broth in Pho-boman's visor and Primm's distant cyan
+visor the only warm/cool pops. **Reveal:** Pho-boman foreground entering the door; Primm
+a small, distant, back-turned silhouette at the truck.
 
 **GENAI PROMPT**
 
 > Modern Western graphic-novel comic-book illustration, single comic-page panel. Clean confident hand-inked black linework with medium-weight uniform outlines and selective heavier contour lines, light cross-hatching for shadow. Flat cel-style coloring with subtle cell-shading gradients, limited halftone texture, restrained screen-tone dot shading in shadows. Slightly stylized semi-realistic proportions, expressive readable faces, deadpan comedic timing. Crisp print-quality finish, clear silhouette-first staging, strong readable composition, no photorealism, no 3D render look. Muted desaturated naturalistic palette as the project baseline.
 >
-> WIDE establishing shot from a SLIGHTLY ELEVATED angle, wide enough to hold both approaching figures without either seeing the other, of a GastroDefense Inc. cold-storage logistics loading dock at NIGHT — a wide bare concrete apron under cold blue-black darkness, a heavy insulated steel freezer door at the far end, sodium-dim and institutional; dark grey-blue-black palette, no warm street light. To one side: a parked GastroDefense Inc. refrigerated logistics truck, insulated white-and-grey box trailer, the muted-corporate GastroDefense logo legible on the cab door, cold vapor bleeding faintly from its roof refrigeration unit. At the far end of the dock: a heavy insulated steel walk-in freezer door standing slightly AJAR, propped open a careful few inches by a single ordinary red clay BRICK wedged against its base, cold fog rolling faintly out through the gap.
+> MEDIUM-WIDE establishing shot from a SLIGHTLY ELEVATED angle, composed so the small foreground figure at the freezer door reads first and the distant figure at the truck reads as small background, of a GastroDefense Inc. cold-storage logistics loading dock at NIGHT — a wide bare concrete apron under cold blue-black darkness, sodium-dim and institutional; dark grey-blue-black palette, no warm street light. In the FOREGROUND at one side of the dock: a heavy, self-closing insulated steel walk-in freezer door standing slightly AJAR, propped open a careful few inches by a single ordinary red clay BRICK wedged against its base — the brick is the only thing holding it open — cold fog rolling faintly out through the gap. In the DEEP BACKGROUND at the far edge of the dock: a parked GastroDefense Inc. refrigerated logistics truck, insulated white-and-grey box trailer, the muted-corporate GastroDefense logo legible on the cab door, cold vapor bleeding faintly from its roof refrigeration unit.
 >
-> APPROACHING FROM THE LEFT, head cocked toward the door's gap, drawn nose-first by a smell: a small round spoon-shaped being, the smallest hero at roughly 140–150 cm tall, with a large round belly, short legs nearly hidden under the belly's curve, and short but noticeably muscular arms; his head is shaped like a deep-sea diving helmet — a wide metal dome with a wide transparent front visor; the helmet is filled with reddish-orange pho broth (with bright-yellow highlights, a warm glow) that visibly sloshes and bubbles; his face forms inside the helmet out of the soup's ingredients — eyes, eyebrows and cheekbones made of slightly twisted noodles, and a nose made of a bright-green sprig of cilantro poking above the broth; he has NO separate mouth — the open visor simply shows the soup, and the visor IS the face; he wears short black pants (mostly hidden under the belly) and fully black, flat, minimalist boots. Across the curve of his belly: a large red Chinese dragon on a blue background, scales and claws detailed, tail wrapping around the belly. His noodle-brows are in an attentive, scent-following configuration, his whole small body tilted toward the bloom of frozen-pho smell escaping the propped door. He moves slowly, unhurried, nose-first. He has NOT noticed the figure on the other side.
+> THE FOREGROUND FOCUS, large and close, stepping NOSE-FIRST into the gap of the propped freezer door, head cocked toward the cold and drawn by the bloom of frozen-pho smell escaping the door: a small round spoon-shaped being, the smallest hero at roughly 140–150 cm tall, with a large round belly, short legs nearly hidden under the belly's curve, and short but noticeably muscular arms; his head is shaped like a deep-sea diving helmet — a wide metal dome with a wide transparent front visor; the helmet is filled with reddish-orange pho broth (with bright-yellow highlights, a warm glow) that visibly sloshes and bubbles; his face forms inside the helmet out of the soup's ingredients — eyes, eyebrows and cheekbones made of slightly twisted noodles, and a nose made of a bright-green sprig of cilantro poking above the broth; he has NO separate mouth — the open visor simply shows the soup, and the visor IS the face; he wears short black pants (mostly hidden under the belly) and fully black, flat, minimalist boots. Across the curve of his belly: a large red Chinese dragon on a blue background, scales and claws detailed, tail wrapping around the belly. His noodle-brows are in an attentive, scent-following configuration, his whole small body tilted into the door's gap. ONE FLAT BLACK BOOT is swinging forward, about to clip the single red clay brick at the door's base — the image catches the exact instant BEFORE boot meets brick, the small foot mid-swing past the brick, the whole trap latent in two objects that have not yet touched. He has NOT noticed the figure at the truck.
 >
-> APPROACHING FROM THE RIGHT at a different angle, attention on the TRUCK and not the door: a slim, lean humanoid man, male, ~175–180 cm tall, built for agile blinking and gravity poses; a slightly elongated face with sharp focused eyes and short-to-medium dark brown hair, wearing high-tech goggles with faintly blue-tinted transparent lenses behind a glowing CYAN visor; a sleek lab-coat-style jacket in DARK PURPLE with silver trim, open at the front; a black undershirt with faint glowing blue lines in a subtle geometric pattern; dark-blue fitted trousers tucked into black boots with silver accents; black gloves with silver fingertips; small metallic mini-orbs that ORBIT his chest and waist, glowing faint blue; and twin katanas (ninjato-style straight blades) sheathed flat across his back. His right hand is held slightly forward toward the parked refrigerated truck, and around that hand a faint optical light-bend distortion of gravity manipulation — the air visibly thickening and rippling, light bending slightly, the way heat-haze warps a view but cool and subtle — sweeps the dock, a gravity-sense reading the truck's cooling machinery as a dense mass signature. His head is angled toward the truck. He has NOT noticed the door, the fog, or the small figure on the other side.
+> SMALL, DISTANT, PERIPHERAL AND BACK-TURNED, at the far edge of the dock near the parked refrigerated truck, his back to the door: a slim, lean humanoid man, male, ~175–180 cm tall, built for agile blinking and gravity poses; a slightly elongated face with sharp focused eyes and short-to-medium dark brown hair, wearing high-tech goggles with faintly blue-tinted transparent lenses behind a glowing CYAN visor; a sleek lab-coat-style jacket in DARK PURPLE with silver trim, open at the front; a black undershirt with faint glowing blue lines in a subtle geometric pattern; dark-blue fitted trousers tucked into black boots with silver accents; black gloves with silver fingertips; small metallic mini-orbs that ORBIT his chest and waist, glowing faint blue; and twin katanas (ninjato-style straight blades) sheathed flat across his back. One hand is held slightly forward toward the parked refrigerated truck, and around that hand a faint optical light-bend distortion of gravity manipulation — the air visibly thickening and rippling, light bending slightly, the way heat-haze warps a view but cool and subtle — reads the truck's refrigeration machinery as a dense mass signature. His back is to the door, the fog, and the small figure. He has NOT noticed any of it.
 >
-> The reddish-orange broth in the spoon-being's visor and the cyan visor-glow and faint-blue mini-orbs and dark purple coat of the man are the ONLY warm or saturated color notes in the otherwise dark grey-blue-black night dock.
+> The reddish-orange broth in the foreground spoon-being's visor and the distant cyan visor-glow and faint-blue mini-orbs and dark purple coat of the man are the ONLY warm or saturated color notes in the otherwise dark grey-blue-black night dock.
 >
-> Composition: silhouette-first, a wide elevated frame holding two unaware figures arriving at one freezer door by two different vectors — the small broth-headed being drawn left toward the fog-leaking gap, the tall purple-coated man drawn right toward the truck — the propped door and its small red brick at the structural center of the frame, the brick the smallest object in the image. Dry, wide, no tension yet. Four small dry caption boxes in plain comic lettering, case-file register, staircase rhythm: "One of them was following a smell." / "One of them was following a mass displacement anomaly in the refrigeration unit of a GastroDefense Inc. logistics truck." / "The brick had been there for approximately four hours." / "It was about to have a different opinion."
+> Composition: silhouette-first, the small broth-headed being large in the foreground stepping nose-first into the propped freezer door with one boot about to clip the small red brick at the door's base, the tall purple-coated man small and back-turned in the deep background reading the truck's mass with his back to everything that matters — the brick the smallest object in the image and the structural center of the trap. Dry, wide, no tension stated; the reader sees the whole causal chain — brick, boot, self-closing door — before either character does. Four small dry caption boxes in plain comic lettering, case-file register, staircase rhythm: "One of them was following a smell." / "One of them was reading a mass displacement anomaly in the refrigeration unit of a GastroDefense Inc. logistics truck, with his back to everything that mattered." / "The brick had been there for approximately four hours." / "It had not been consulted about the boot."
 
 **NEGATIVE PROMPT**
 
-> exactly TWO figures and they do NOT see each other (neither is looking at the other, no eye contact, no interaction, no greeting), the small spoon-being approaches the DOOR nose-first while the tall man's attention is on the TRUCK (not the door), the man is FULLY suited — always the DARK PURPLE coat, the glowing CYAN visor, the twin ninjato-style blades sheathed on his back, and the orbiting faint-blue mini-orbs (NOT partially-suited, NOT unmasked), his blades stay SHEATHED (not drawn, not swung), the spoon-being has NO separate mouth (the open visor IS the face — do not draw a mouth), his eyes are curled noodles, his nose is a green sprig of cilantro, the BRICK is a single ordinary red clay brick propping the door (not a stack, not rubble), the GastroDefense logo is muted-corporate and legible on the cab (not glowing, not a billboard), no third hero, no fourth hero, no other figures, no team name or super-team logo, no cape, no flight, no eye bandage, no folding fan (Windman), no French beret, no mustard shirt (Tiebi), the man has no diving helmet, no pho, no broth, no noodles, no red-dragon belly; the spoon-being has no purple ninja suit, no cyan visor, no katanas, no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones, no anachronistic gadgets, no extra fingers, no malformed hands, no extra limbs, no text errors or garbled lettering (other than the four intended captions and the legible GastroDefense cab logo), no warm or saturated lighting across the dock (only the reddish-orange broth and the cyan visor / blue orbs / purple coat carry color).
+> exactly TWO figures and they do NOT see each other (neither is looking at the other, no eye contact, no interaction, no greeting), the small spoon-being is the FOREGROUND FOCUS entering the propped freezer door nose-first with one boot about to clip the brick, the tall man is SMALL, DISTANT, and BACK-TURNED at the truck (NOT prominent, NOT in the foreground, NOT facing the door, NOT interacting, his back to the door and the small figure), the man is FULLY suited — always the DARK PURPLE coat, the glowing CYAN visor, the twin ninjato-style blades sheathed on his back, and the orbiting faint-blue mini-orbs (NOT partially-suited, NOT unmasked), his blades stay SHEATHED (not drawn, not swung), the spoon-being has NO separate mouth (the open visor IS the face — do not draw a mouth), his eyes are curled noodles, his nose is a green sprig of cilantro, the BRICK is a single ordinary red clay brick propping the door open and about to be clipped by the boot (not a stack, not rubble, not already kicked away), the freezer door is the self-closing kind held open ONLY by the brick, the GastroDefense logo is muted-corporate and legible on the cab (not glowing, not a billboard), no third hero, no fourth hero, no other figures, no team name or super-team logo, no cape, no flight, no eye bandage, no folding fan (Windman), no French beret, no mustard shirt (Tiebi), the man has no diving helmet, no pho, no broth, no noodles, no red-dragon belly; the spoon-being has no purple ninja suit, no cyan visor, no katanas, no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones, no anachronistic gadgets, no extra fingers, no malformed hands, no extra limbs, no text errors or garbled lettering (other than the four intended captions and the legible GastroDefense cab logo), no warm or saturated lighting across the dock (only the reddish-orange broth and the cyan visor / blue orbs / purple coat carry color).
 
 **Consistency notes**
 
 - Both heroes pulled **verbatim** from their character pages (Primm fully suited; Pho-boman
   full spoon silhouette with the red-dragon belly, which is already revealed canon).
-- The dock, truck, freezer door, and brick descriptors are this episode's new exterior
-  props, locked in the Episode visual canon block above and reused verbatim here. The
-  **brick** is the structural comedic object — a single ordinary red clay brick, the
-  smallest thing in the frame.
-- **Two-route, zero-coordination guard:** the two arrive at one door by different vectors
-  and neither has noticed the other — Pho-boman nose-first toward the fog gap, Primm's
-  gravity-sense on the truck's refrigeration mass. Guarded against any eye contact or
-  interaction.
-- The **two warm pops** rule holds against the dark night dock: broth + cyan visor only.
+- The dock, truck, freezer door, and brick descriptors are this episode's exterior props,
+  locked in the Episode visual canon block above and reused verbatim here. The **brick** is
+  the structural comedic object — a single ordinary red clay brick, the smallest thing in
+  the frame, and the only thing holding the self-closing door open.
+- **Sequential, not simultaneous (the new spine):** Pho-boman is the foreground focus,
+  walking INTO the trap alone, nose-first, one boot about to clip the brick — the whole
+  trap latent in the instant before boot meets brick. Primm is small, distant, and
+  back-turned at the truck, reading its mass with his back to the door; he has NOT noticed
+  the door, the fog, or the small figure. Guarded hard against him being prominent, facing
+  the door, or interacting — and against any eye contact between the two.
+- The **two warm pops** rule holds against the dark night dock: foreground broth + Primm's
+  distant cyan visor only.
 
-### Panel 2 — The Opinions Are Accumulating
+### Panel 2 — He Went In After It
 
-> **Inside, the two clocks start.** The door has swung shut (latch-lock visible, closed).
-> The broth thickens and slows in Pho-boman's visor. Primm tests the wall: his DRIFT
-> light-bend hits the steel rack and ENDS FLAT, bouncing back — it does not pass through.
-> The field's grazing edge crosses Pho-boman at center and returns the episode's funniest
-> readout. A second attempt at the floor ends the same way: the floor has a steel
-> subframe.
+> **The threshold — the turn the rewrite exists for.** Primm in the foreground at the
+> now-open freezer door, his gloved hand on the EXTERIOR handle (the only side that
+> works), mid-step crossing the threshold inward, one boot already inside, head angled
+> into the cold in the diagnostic narrow focus. The displaced brick lies on the concrete
+> by his boot. Past him, deep in the frosted racking, Pho-boman has gone toward the smell
+> and STOPPED — broth already stiffening, not coming back out. Behind Primm the heavy
+> self-closing door is swinging shut, its exterior cam-latch a hand's width from seating.
+> The exact moment the help becomes the trap.
 
-**Style anchor:** [[Visual Style Guide|v1]]. **Palette override:** freezer interior —
-dark institutional grey-blue, frosted steel racking, ice-crystal bloom, cold vapor; the
-reddish-orange broth and the cyan visor / blue orbs / gravity light-bend / purple coat
-the only warm/cool pops. **Reveal:** INTERIOR, two heroes — Pho-boman center (broth
-thickening), Primm at the nearest rack (field bouncing off steel).
+**Style anchor:** [[Visual Style Guide|v1]]. **Palette override:** freezer doorway/threshold
+— dark institutional grey-blue freezer interior beyond, frosted steel racking, ice-crystal
+bloom, cold vapor; the dim night dock behind Primm; the reddish-orange broth (deep in frame)
+and the cyan visor / blue orbs / purple coat the only warm/cool pops. **Reveal:** THRESHOLD
+— Primm crossing in at the open door (hand on the exterior latch); Pho-boman deep in the
+racks, not exiting.
 
 **GENAI PROMPT**
 
 > Modern Western graphic-novel comic-book illustration, single comic-page panel. Clean confident hand-inked black linework with medium-weight uniform outlines and selective heavier contour lines, light cross-hatching for shadow. Flat cel-style coloring with subtle cell-shading gradients, limited halftone texture, restrained screen-tone dot shading in shadows. Slightly stylized semi-realistic proportions, expressive readable faces, deadpan comedic timing. Crisp print-quality finish, clear silhouette-first staging, strong readable composition, no photorealism, no 3D render look. Muted desaturated naturalistic palette as the project baseline.
 >
-> MEDIUM-WIDE shot, eye-level, of the interior of a walk-in industrial freezer, roughly eight by six meters, rated −18°C: floor-to-ceiling STEEL racking on all four walls and across most of the floor, frosted bare metal uprights and shelves, every surface bloomed with ice crystals and hoarfrost, cold vapor and breath-fog hanging in the air; the palette is dark institutional GREY-BLUE, frozen metal, no warm light anywhere in the room itself. On the steel shelves: commercial catering tubs of frozen broth stacked on the racks, plain institutional GastroDefense logistics labels. Behind the two figures, the heavy insulated steel freezer door has swung SHUT, its exterior latch-lock mechanism visible in the CLOSED position, presented plainly without emphasis.
+> MEDIUM-WIDE shot, eye-level, framed on the THRESHOLD of a walk-in industrial freezer — the heavy insulated steel freezer door standing now OPEN, the dim cold-storage loading dock at night behind it, the frosted grey-blue freezer interior ahead. The freezer interior beyond is floor-to-ceiling STEEL racking, frosted bare metal uprights and shelves bloomed with ice crystals and hoarfrost, cold vapor and breath-fog, dark institutional GREY-BLUE, no warm light in the room itself; commercial catering tubs of frozen broth on the steel shelves with plain institutional GastroDefense logistics labels. On the concrete by the door's base lies a single ordinary red clay BRICK, displaced and flat on the ground, no longer propping anything.
 >
-> AT CENTER, standing on the open floor: a small round spoon-shaped being, the smallest hero at roughly 140–150 cm tall, with a large round belly, short legs nearly hidden under the belly's curve, and short but noticeably muscular arms; his head is shaped like a deep-sea diving helmet — a wide metal dome with a wide transparent front visor; the helmet is filled with reddish-orange pho broth (with bright-yellow highlights, a warm glow) that visibly sloshes and bubbles; his face forms inside the helmet out of the soup's ingredients — eyes, eyebrows and cheekbones made of slightly twisted noodles, and a nose made of a bright-green sprig of cilantro poking above the broth; he has NO separate mouth — the open visor simply shows the soup, and the visor IS the face; he wears short black pants (mostly hidden under the belly) and fully black, flat, minimalist boots. Across his belly: a large red Chinese dragon on a blue background, scales and claws detailed, tail wrapping around the belly. THE COLD IS BITING: inside his visor the reddish-orange broth has shifted toward the visor's lower rim and gone visibly THICKER and slower, the usual fluid slosh becoming deliberate and sluggish; his two noodle-eyes have contracted toward each other; his cilantro nose is stiffer and less supple. He is not panicking — just slowly stiffening.
+> IN THE FOREGROUND at the open freezer door, MID-STEP crossing the threshold inward — one black boot already inside the freezer, his weight committing in, his head angled into the cold interior in a narrow diagnostic focus — his BLACK GLOVED HAND (silver fingertips) resting on the EXTERIOR cam-latch and handle of the door, the only side that works: a slim, lean humanoid man, male, ~175–180 cm tall, built for agile blinking and gravity poses; a slightly elongated face with sharp focused eyes and short-to-medium dark brown hair, wearing high-tech goggles with faintly blue-tinted transparent lenses behind a glowing CYAN visor; a sleek lab-coat-style jacket in DARK PURPLE with silver trim, open at the front; a black undershirt with faint glowing blue lines in a subtle geometric pattern; dark-blue fitted trousers tucked into black boots with silver accents; black gloves with silver fingertips; small metallic mini-orbs that ORBIT his chest and waist, glowing faint blue; and twin katanas (ninjato-style straight blades) sheathed flat across his back.
 >
-> TO HIS RIGHT, one step from the nearest steel rack column, right gloved hand flat against the frosted metal, head slightly tilted behind the cyan visor in a narrow diagnostic focus: a slim, lean humanoid man, male, ~175–180 cm tall, built for agile blinking and gravity poses; a slightly elongated face with sharp focused eyes and short-to-medium dark brown hair, wearing high-tech goggles with faintly blue-tinted transparent lenses behind a glowing CYAN visor; a sleek lab-coat-style jacket in DARK PURPLE with silver trim, open at the front; a black undershirt with faint glowing blue lines in a subtle geometric pattern; dark-blue fitted trousers tucked into black boots with silver accents; black gloves with silver fingertips; small metallic mini-orbs that ORBIT his chest and waist, glowing faint blue; and twin katanas (ninjato-style straight blades) sheathed flat across his back.
+> BEHIND HIM, the heavy insulated SELF-CLOSING door is swinging SHUT again, unheld, its exterior cam-latch a hand's width from seating — the door closing on its own now that the brick no longer props it. The handle and cam-latch are on the EXTERIOR side only; the inner face of the door has NO handle and NO release of any kind.
 >
-> THE FIELD MEETS STEEL (the episode's recurring VFX beat): around his hand on the rack, a faint optical light-bend distortion of gravity manipulation — the air visibly thickening and rippling, light bending slightly, the way heat-haze warps a view but cool and subtle — and where this light-bend distortion reaches the steel rack column, the distortion ENDS FLAT against the metal and bounces back toward him — it does NOT pass through the steel, does NOT ripple the far side, does NOT find the wall behind it; the field's edge is visibly clipped off at the metal, blocked. The grazing edge of that same field sweeps the center of the room and faintly washes over the spoon-being as an incidental data point. His mini-orbs keep orbiting close and steady. AT LOWER LEFT, a second attempt: his black boot is pressed against the concrete floor and the same light-bend distortion appears there and ENDS FLAT the same way — the floor has a steel subframe and blocks it identically.
+> PAST HIM, DEEPER INTO THE FROSTED STEEL RACKING, small and well past the threshold and NOT coming back out — he has gone toward the smell among the frozen catering tubs and STOPPED: a small round spoon-shaped being, the smallest hero at roughly 140–150 cm tall, with a large round belly, short legs nearly hidden under the belly's curve, and short but noticeably muscular arms; his head is shaped like a deep-sea diving helmet — a wide metal dome with a wide transparent front visor; the helmet is filled with reddish-orange pho broth (with bright-yellow highlights, a warm glow) that visibly sloshes and bubbles; his face forms inside the helmet out of the soup's ingredients — eyes, eyebrows and cheekbones made of slightly twisted noodles, and a nose made of a bright-green sprig of cilantro poking above the broth; he has NO separate mouth — the open visor simply shows the soup, and the visor IS the face; he wears short black pants (mostly hidden under the belly) and fully black, flat, minimalist boots. Across his belly: a large red Chinese dragon on a blue background, scales and claws detailed, tail wrapping around the belly. THE COLD IS ALREADY BITING: inside his visor the reddish-orange broth has begun to shift LOWER and THICKER, the first cold stiffening, the slosh going more deliberate; his two noodle-eyes are just beginning to contract toward each other. He is not panicking — just beginning to slow.
 >
-> The reddish-orange broth in the visor and the cyan visor-glow, the faint-blue mini-orbs, the cool gravity light-bend, and the dark purple coat are the ONLY warm or saturated colors in the otherwise dark grey-blue frozen room.
+> The reddish-orange broth deep in the spoon-being's visor and the cyan visor-glow, the faint-blue mini-orbs, and the dark purple coat of the man are the ONLY warm or saturated colors in the otherwise dark grey-blue scene.
 >
-> Composition: silhouette-first, the small broth-headed being thickening at center and the tall purple-coated man pressing a blocked gravity field against the frosted steel rack at right, the field visibly clipping off flat at every metal surface, the closed latch-lock door behind, the frozen grey-blue racking all around. Cold, institutional, two separate problems sharing one room. Seven small dry caption boxes in plain comic lettering, case-file register, staircase rhythm: "The broth had opinions about -18°C." / "The opinions were accumulating." / "He tried the wall." / "The rack was twelve centimeters of steel." / "[FIELD READ: NO DETECTABLE SIGNATURE (warm, 62 kg, broth-type)]" / "He tried the floor." / "The floor had a steel subframe."
+> Composition: silhouette-first, the tall purple-coated man in the foreground crossing the open freezer threshold inward, his gloved hand on the door's exterior latch, the displaced brick flat on the concrete by his boot, the heavy self-closing door swinging shut behind him a hand's width from seating, the small broth-headed being small and deep in the frosted racking past him — gone after the smell, stopped, not coming back. This is the exact moment the help becomes the trap. Five small dry caption boxes in plain comic lettering, case-file register, staircase rhythm: "The door slammed." / "His field read a dense metallic mass where the manifest listed none — and a warm one, sealed behind it." / "He opened the door. The warm thing did not leave. It had gone deeper, after the smell." / "So he stepped in after it." / "The door had no handle on the inside."
 
 **NEGATIVE PROMPT**
 
-> exactly TWO heroes (the small spoon-being at center and the tall purple-coated man at right — NO third hero, NO fourth, NO other figures), the man is FULLY suited — always the DARK PURPLE coat, the glowing CYAN visor, the twin ninjato-style blades sheathed on his back, and the orbiting faint-blue mini-orbs (NOT partially-suited, NOT unmasked), his blades stay SHEATHED (not drawn, not swung), the gravity light-bend ENDS FLAT and bounces back at the steel rack and at the steel-subframed floor (it does NOT pass through the metal, does NOT ripple the far side, does NOT find the wall behind — the field is visibly clipped/blocked at every steel surface), the light-bend is a SUBTLE cool optical distortion (NOT a big energy blast, NOT a glowing aura around his whole body), the spoon-being's broth is THICKER and lower in the visor (cold-affected, sluggish) but he is NOT panicking and has NO separate mouth (the open visor IS the face — do not draw a mouth), his eyes are curled noodles contracted toward each other, his nose is a green sprig of cilantro, the freezer door behind is SHUT with its latch-lock CLOSED, the frozen broth tubs are lidded set-dressing (not warm pops), no third hero, no team name or super-team logo, no cape, no flight, no eye bandage, no folding fan (Windman), no French beret, no mustard shirt (Tiebi), the man has no diving helmet/pho/broth/noodles/red-dragon belly; the spoon-being has no purple ninja suit/cyan visor/katanas, no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones, no anachronistic gadgets, no extra fingers, no malformed hands, no extra limbs, no text errors or garbled lettering (other than the seven intended captions and the legible GastroDefense tub labels), no warm or saturated lighting across the room (only the reddish-orange broth and the cyan visor / blue orbs / gravity light-bend / purple coat carry color).
+> exactly TWO heroes (the tall purple-coated man crossing the threshold and the small spoon-being deep in the racks — NO third hero, NO fourth, NO other figures), the man is FULLY suited — always the DARK PURPLE coat, the glowing CYAN visor, the twin ninjato-style blades sheathed on his back, and the orbiting faint-blue mini-orbs (NOT partially-suited, NOT unmasked), his blades stay SHEATHED (not drawn, not swung), the door's handle and cam-latch are on the EXTERIOR side only and his gloved hand is on that exterior latch (there is NO interior handle or release anywhere on the door's inner face — do not draw an inside handle), the heavy door is SELF-CLOSING and swinging SHUT behind him a hand's width from seating (NOT held open, NOT propped — the displaced brick lies flat on the concrete by his boot, no longer propping anything), the spoon-being is DEEP in the steel racking among the frozen tubs NOT exiting and NOT at the door and NOT coming back out, his broth is shifting LOWER and THICKER (the first cold stiffening, sluggish) but he is NOT panicking and has NO separate mouth (the open visor IS the face — do not draw a mouth), his eyes are curled noodles just beginning to contract, his nose is a green sprig of cilantro, the frozen broth tubs are lidded set-dressing (not warm pops), no third hero, no team name or super-team logo, no cape, no flight, no eye bandage, no folding fan (Windman), no French beret, no mustard shirt (Tiebi), the man has no diving helmet/pho/broth/noodles/red-dragon belly; the spoon-being has no purple ninja suit/cyan visor/katanas, no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones, no anachronistic gadgets, no extra fingers, no malformed hands, no extra limbs, no text errors or garbled lettering (other than the five intended captions and the legible GastroDefense tub labels), no warm or saturated lighting across the room (only the reddish-orange broth and the cyan visor / blue orbs / purple coat carry color).
 
 **Consistency notes**
 
-- Both heroes reused **verbatim**. Pho-boman's **broth-thickening clock** applied: broth
-  low and sluggish in the visor, noodle-eyes contracted, cilantro nose stiff — never
-  panicked.
-- **The blocked-field beat** (this episode's recurring VFX): the DRIFT light-bend ends
-  flat against the steel rack and the steel-subframed floor, bouncing back, never passing
-  through metal. This is the load-bearing visual grammar — guarded hard in the negative.
-- The **FIELD READ caption** is the issue's comedic peak: the grazing field returns
-  "broth-type" on Pho-boman, a clinical-absurd readout. Kept verbatim from the script.
-- Closed latch-lock door behind establishes the trap without an editorial beat. Frozen
-  broth tubs are lidded set-dressing, deliberately **not** a warm pop.
+- **This is a NEW panel** — the threshold turn the rewrite exists for, replacing the old
+  interior "Opinions Are Accumulating" beat (that steel-cage inventory content now lives in
+  P3). Both heroes reused **verbatim** from their character pages.
+- **The sequential trap closing:** Primm has crossed the dock, worked the door's
+  **exterior** cam-latch (the only side that works), and is mid-step committing inward; the
+  displaced brick lies flat on the concrete; the self-closing door is swinging shut behind
+  him a hand's width from seating. This is the help and the trap as one gesture.
+- **Door mechanics, load-bearing:** the handle/cam-latch is on the EXTERIOR only; the inner
+  face has **no handle or release** — guarded hard in the negative (final caption: "The
+  door had no handle on the inside"). No invented helmet hardware or new door hardware.
+- Pho-boman's **broth-thickening clock** at its first stage: deep in the racks among the
+  frozen tubs, NOT exiting, broth shifting lower and thicker, noodle-eyes just beginning to
+  contract — never panicked. Frozen broth tubs are lidded set-dressing, deliberately **not**
+  a warm pop.
 
 ### Panel 3 — He Filed This Under: A Problem
 
-> **The survey beat — the stillest panel.** A beat later. Primm stands on a rack's lower
-> shelf for a wider view (one hand on a steel upright for balance — the irony unstated),
-> running a final inventory. The light-bend bounces off all four walls at once: the steel
-> cage is complete. Mini-orbs orbit correctly but slightly wide. Pho-boman, broth now
-> visibly thicker, has hunched and occupied the exact center of the non-metal floor. In
-> the background between two rack columns: the 1.5 m gap — the only exit — planted for the
-> reader.
+> **The whole steel-cage inventory in one held survey — the stillest panel.** The door is
+> shut and latched behind. Primm stands ELEVATED on a rack's lower shelf, one gloved hand
+> on a frosted steel upright for balance (the irony unstated), running the entire inventory
+> at once: the DRIFT light-bend radiates and ENDS FLAT against all four steel walls and the
+> steel-subframed floor simultaneously (the complete cage), and the field's grazing edge
+> sweeps the room's center and incidentally washes over Pho-boman, returning the episode's
+> funniest readout (the FIELD READ). Mini-orbs orbit slightly WIDE. Pho-boman, broth now
+> visibly thicker, has hunched at the exact center of the non-metal floor, not touching
+> metal. In the background between two rack columns: the 1.5 m gap — the only exit — planted
+> for the reader.
 
 **Style anchor:** [[Visual Style Guide|v1]]. **Palette override:** freezer interior —
 dark institutional grey-blue, frosted steel racking, ice bloom, cold vapor; the
 reddish-orange broth and the cyan visor / blue orbs / gravity light-bend / purple coat
-the only warm/cool pops. **Reveal:** SURVEY — Primm elevated on a rack shelf, field
-bouncing off all four walls; the 1.5 m exit gap a background plant.
+the only warm/cool pops. **Reveal:** FULL INVENTORY — Primm elevated on a rack shelf,
+field bouncing off all four walls at once and grazing Pho-boman (FIELD READ); the 1.5 m
+exit gap a background plant.
 
 **GENAI PROMPT**
 
 > Modern Western graphic-novel comic-book illustration, single comic-page panel. Clean confident hand-inked black linework with medium-weight uniform outlines and selective heavier contour lines, light cross-hatching for shadow. Flat cel-style coloring with subtle cell-shading gradients, limited halftone texture, restrained screen-tone dot shading in shadows. Slightly stylized semi-realistic proportions, expressive readable faces, deadpan comedic timing. Crisp print-quality finish, clear silhouette-first staging, strong readable composition, no photorealism, no 3D render look. Muted desaturated naturalistic palette as the project baseline.
 >
-> WIDE shot, eye-level, of the interior of a walk-in industrial freezer, roughly eight by six meters, rated −18°C: floor-to-ceiling STEEL racking on all four walls and across most of the floor, frosted bare metal uprights and shelves, every surface bloomed with ice crystals and hoarfrost, cold vapor and breath-fog hanging in the air; the palette is dark institutional GREY-BLUE, frozen metal, no warm light anywhere in the room itself. Commercial catering tubs of frozen broth stacked on the steel shelves, plain institutional GastroDefense logistics labels. The racking forms a complete enclosing cage of frosted steel.
+> WIDE shot, eye-level, of the interior of a walk-in industrial freezer, roughly eight by six meters, rated −18°C: floor-to-ceiling STEEL racking on all four walls and across most of the floor, frosted bare metal uprights and shelves, every surface bloomed with ice crystals and hoarfrost, cold vapor and breath-fog hanging in the air; the palette is dark institutional GREY-BLUE, frozen metal, no warm light anywhere in the room itself. Commercial catering tubs of frozen broth stacked on the steel shelves, plain institutional GastroDefense logistics labels. The racking forms a complete enclosing cage of frosted steel. The heavy insulated steel freezer door is SHUT and LATCHED behind them, plain and closed, its inner face featureless with no handle or release of any kind.
 >
 > FOCAL POINT, ELEVATED slightly — standing on the LOWER SHELF of a steel rack to gain a wider view of the room, one gloved hand resting on the rack's frosted steel upright for balance: a slim, lean humanoid man, male, ~175–180 cm tall, built for agile blinking and gravity poses; a slightly elongated face with sharp focused eyes and short-to-medium dark brown hair, wearing high-tech goggles with faintly blue-tinted transparent lenses behind a glowing CYAN visor; a sleek lab-coat-style jacket in DARK PURPLE with silver trim, open at the front; a black undershirt with faint glowing blue lines in a subtle geometric pattern; dark-blue fitted trousers tucked into black boots with silver accents; black gloves with silver fingertips; small metallic mini-orbs that ORBIT his chest and waist, glowing faint blue; and twin katanas (ninjato-style straight blades) sheathed flat across his back. He is SURVEYING the room, his expression behind the cyan visor the narrow diagnostic look of mild annoyance held at careful distance from any acknowledgment of mild annoyance.
 >
-> THE FIELD MEETS STEEL ON ALL FOUR WALLS AT ONCE: a faint optical light-bend distortion of gravity manipulation — the air visibly thickening and rippling, light bending slightly, the way heat-haze warps a view but cool and subtle — radiates from him, and where this light-bend distortion reaches each steel surface (every rack column, every shelf, the steel-subframed floor) the distortion ENDS FLAT against the metal and bounces back toward him — it does NOT pass through the steel, does NOT ripple the far side, does NOT find the wall behind it; the field's edge is visibly clipped off at the metal, blocked, on all four enclosing walls simultaneously. His small metallic mini-orbs are orbiting correctly but slightly WIDER than they should — running right but running fast, the one cue that something has changed.
+> THE FIELD MEETS STEEL ON ALL FOUR WALLS AT ONCE (this is the FIELD READ moment): a faint optical light-bend distortion of gravity manipulation — the air visibly thickening and rippling, light bending slightly, the way heat-haze warps a view but cool and subtle — radiates from him, and where this light-bend distortion reaches each steel surface (every rack column, every shelf, the steel-subframed floor) the distortion ENDS FLAT against the metal and bounces back toward him — it does NOT pass through the steel, does NOT ripple the far side, does NOT find the wall behind it; the field's edge is visibly clipped off at the metal, blocked, on all four enclosing walls simultaneously. The grazing edge of that same field sweeps the CENTER of the room and incidentally washes over the small spoon-being as a data point — registering him as a warm nothing the system has no category for. His small metallic mini-orbs are orbiting correctly but slightly WIDER than they should — running right but running fast, the one cue that something has changed.
 >
 > IN THE MID-GROUND, a small round spoon-shaped being, the smallest hero at roughly 140–150 cm tall, with a large round belly, short legs nearly hidden under the belly's curve, and short but noticeably muscular arms; his head is shaped like a deep-sea diving helmet — a wide metal dome with a wide transparent front visor; the helmet is filled with reddish-orange pho broth (with bright-yellow highlights, a warm glow) that visibly sloshes and bubbles; his face forms inside the helmet out of the soup's ingredients — eyes, eyebrows and cheekbones made of slightly twisted noodles, and a nose made of a bright-green sprig of cilantro poking above the broth; he has NO separate mouth — the open visor simply shows the soup, and the visor IS the face; he wears short black pants (mostly hidden under the belly) and fully black, flat, minimalist boots. Across his belly: a large red Chinese dragon on a blue background, scales and claws detailed, tail wrapping around the belly. The broth in his visor is now visibly THICKER and slower still, low in the visor; his body is slightly HUNCHED and he leans AWAY from the nearest rack with careful distance, NOT touching any metal — he has found the exact center of the available non-metal floor and occupied it, alone in the middle of the room. His noodle-brows are doing something complex; his cilantro nose is rigid.
 >
@@ -339,21 +368,28 @@ bouncing off all four walls; the 1.5 m exit gap a background plant.
 >
 > The reddish-orange broth and the cyan visor-glow, the faint-blue mini-orbs, the cool gravity light-bend, and the dark purple coat are the ONLY warm or saturated colors in the otherwise dark grey-blue frozen room.
 >
-> Composition: silhouette-first, the purple-coated man elevated on a frosted steel rack shelf running a survey while his gravity field clips off flat against all four steel walls at once, the small broth-headed being hunched alone at the exact center of the open floor, the 1.5-meter exit gap between two rack columns a quiet background plant the reader sees before he does. Slow, held, still — the problem fully known, the solution not yet in motion. Nine small dry caption boxes in plain comic lettering, case-file register, staircase rhythm: "He tried phasing." / "He tried the wall behind it." / "Also steel." / "He tried the floor again." / "Concrete over a steel subframe." / "He tried a blink. Every vector passed through steel." / "Metal took the field, the phase, and the blink. One rule, not three." / "He filed this under: a problem." / "The broth was beginning to queue in a way that concerned no one but the broth."
+> Composition: silhouette-first, the purple-coated man elevated on a frosted steel rack shelf running the whole inventory in one held survey while his gravity field clips off flat against all four steel walls and the steel-subframed floor at once and grazes the small being at center, the small broth-headed being hunched alone at the exact center of the open floor not touching metal, the 1.5-meter exit gap between two rack columns a quiet background plant the reader sees before he does. Slow, held, still — the problem fully known, the solution not yet in motion; the stillest panel in the issue. Nine small dry caption boxes in plain comic lettering, case-file register, staircase rhythm: "The broth had opinions about -18°C. The opinions were accumulating." / "He tried the wall." / "The rack was twelve centimeters of steel." / "[FIELD READ: NO DETECTABLE SIGNATURE (warm, 62 kg, broth-type)]" / "He tried the floor. Concrete over a steel subframe." / "He tried phasing. He tried a blink. Every vector passed through steel." / "Metal took the field, the phase, and the blink. One rule, not three." / "He filed this under: a problem." / "The broth was beginning to queue in a way that concerned no one but the broth."
 
 **NEGATIVE PROMPT**
 
-> exactly TWO heroes (the elevated purple-coated man and the hunched spoon-being — NO third hero, NO fourth, NO other figures), the man is FULLY suited — always the DARK PURPLE coat, the glowing CYAN visor, the twin ninjato-style blades sheathed on his back, and the orbiting faint-blue mini-orbs (NOT partially-suited, NOT unmasked), his blades stay SHEATHED (not drawn, not swung), he is standing on a rack's lower shelf with one hand on a steel upright for balance (NOT floating, NOT flying), the gravity light-bend ENDS FLAT and bounces back at ALL FOUR steel walls and the steel-subframed floor (it does NOT pass through metal, does NOT ripple the far side, does NOT find the walls behind — visibly clipped/blocked everywhere), the light-bend is a SUBTLE cool optical distortion (NOT a big energy blast, NOT a full-body aura), his mini-orbs orbit slightly WIDE but still orbiting (not scattered chaotically, not stopped), the spoon-being is HUNCHED at the exact center of the floor NOT touching any metal, broth THICKER and lower in the visor, NOT panicking, NO separate mouth (the open visor IS the face — do not draw a mouth), his eyes are curled noodles, his nose is a green sprig of cilantro, the 1.5-meter exit gap between two rack columns is a SUBTLE background plant (not spotlit, not pointed at), no third hero, no team name or super-team logo, no cape, no flight, no eye bandage, no folding fan (Windman), no French beret, no mustard shirt (Tiebi), the man has no diving helmet/pho/broth/noodles/red-dragon belly; the spoon-being has no purple ninja suit/cyan visor/katanas, no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones, no anachronistic gadgets, no extra fingers, no malformed hands, no extra limbs, no text errors or garbled lettering (other than the nine intended captions and the legible GastroDefense tub labels), no warm or saturated lighting across the room (only the reddish-orange broth and the cyan visor / blue orbs / gravity light-bend / purple coat carry color).
+> exactly TWO heroes (the elevated purple-coated man and the hunched spoon-being — NO third hero, NO fourth, NO other figures), the man is FULLY suited — always the DARK PURPLE coat, the glowing CYAN visor, the twin ninjato-style blades sheathed on his back, and the orbiting faint-blue mini-orbs (NOT partially-suited, NOT unmasked), his blades stay SHEATHED (not drawn, not swung), he is standing on a rack's lower shelf with one hand on a steel upright for balance (NOT floating, NOT flying), the gravity light-bend ENDS FLAT and bounces back at ALL FOUR steel walls and the steel-subframed floor (it does NOT pass through metal, does NOT ripple the far side, does NOT find the walls behind — visibly clipped/blocked everywhere), the field's grazing edge sweeps the center and washes over the spoon-being as an incidental data point (the FIELD READ), the light-bend is a SUBTLE cool optical distortion (NOT a big energy blast, NOT a full-body aura), his mini-orbs orbit slightly WIDE but still orbiting (not scattered chaotically, not stopped), the freezer door behind is SHUT and LATCHED with a featureless inner face (no interior handle or release), the spoon-being is HUNCHED at the exact center of the floor NOT touching any metal, leaning AWAY from the nearest rack, broth THICKER and lower in the visor, NOT panicking, NO separate mouth (the open visor IS the face — do not draw a mouth), his eyes are curled noodles contracted toward each other, his nose is a green sprig of cilantro, the 1.5-meter exit gap between two rack columns is a SUBTLE background plant (not spotlit, not pointed at), no third hero, no team name or super-team logo, no cape, no flight, no eye bandage, no folding fan (Windman), no French beret, no mustard shirt (Tiebi), the man has no diving helmet/pho/broth/noodles/red-dragon belly; the spoon-being has no purple ninja suit/cyan visor/katanas, no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones, no anachronistic gadgets, no extra fingers, no malformed hands, no extra limbs, no text errors or garbled lettering (other than the nine intended captions and the legible GastroDefense tub labels), no warm or saturated lighting across the room (only the reddish-orange broth and the cyan visor / blue orbs / gravity light-bend / purple coat carry color).
 
 **Consistency notes**
 
-- Both heroes reused **verbatim**. Primm's **mini-orbs orbit slightly wide** here (running
-  right but running fast) — the in-between state between erratic and the tight orbit he
-  reaches in P4. Pho-boman's broth is **thicker still**, body hunched at the floor's exact
-  center, not touching metal.
+- **This single panel now ABSORBS the entire steel-cage inventory** — it merges the old
+  P2 field-meets-steel/FIELD READ beat with the old P3 four-walls survey/gap-plant into
+  one held survey, so the neutralization happens once, not across two slow panels. Both
+  heroes reused **verbatim** from their character pages.
+- Primm's **mini-orbs orbit slightly WIDE** here (running right but running fast) — the
+  failing-state cue; they snap to tight orbit only in P4–P5 when he has the answer.
+  Pho-boman's broth is **thicker and lower**, body hunched at the floor's exact center,
+  leaning away from the nearest rack, not touching metal.
 - **The blocked-field beat scaled up to all four walls at once**: the steel cage is
   complete and the field clips off flat everywhere — the visual statement that the room is
   a complete neutralization.
+- The **FIELD READ caption** is the issue's comedic peak: the field's grazing edge sweeps
+  the room's center and washes over Pho-boman, returning "broth-type" — a clinical-absurd
+  readout. Kept verbatim from the script; the grazing-over-Pho-boman moment is staged here.
 - The **1.5 m exit gap** is planted here as a quiet background detail the reader finds
   before Primm does; it pays off as the run in P5. Guarded against being spotlit.
 - The irony of a gravity manipulator steadying himself on a steel upright is staged but
@@ -419,11 +455,13 @@ helmet.
 
 > **The release — gravity returns, the face reforms, the doorway ending.** Overhead-and-
 > slightly-behind register (the E06 two-figure ending grammar). The run already happened:
-> Primm is in the doorway, Pho-boman tucked under his left arm, both crossing the
-> threshold of the 1.5 m gap to the exit. At the doorframe the field ends, gravity
-> returns, the broth crashes back — SLURP — and Pho-boman's face reforms. Two figures
-> half-in/half-out, facing the same direction outward toward the dock and the city,
-> neither looking at the other, the freezer behind them.
+> Primm has sprinted the 1.5 m gap and FORCED the handle-less self-closing door open with
+> a running shoulder-barge (own weight + momentum popping the seated cam-latch — not a
+> power), Pho-boman tucked under his left arm, both crossing the threshold. At the
+> doorframe the field ends, gravity returns, the broth crashes back — SLURP — and
+> Pho-boman's face reforms. Two figures half-in/half-out, facing the same direction
+> outward toward the dock and the city, neither looking at the other, the freezer behind
+> them.
 
 **Style anchor:** [[Visual Style Guide|v1]]. **Palette override:** freezer doorway opening
 onto the cold-storage dock — dark institutional grey-blue freezer behind, cold vapor
@@ -435,7 +473,7 @@ THE DOORWAY, facing the same outward direction; broth resettled, mini-orbs in ti
 
 > Modern Western graphic-novel comic-book illustration, single comic-page panel. Clean confident hand-inked black linework with medium-weight uniform outlines and selective heavier contour lines, light cross-hatching for shadow. Flat cel-style coloring with subtle cell-shading gradients, limited halftone texture, restrained screen-tone dot shading in shadows. Slightly stylized semi-realistic proportions, expressive readable faces, deadpan comedic timing. Crisp print-quality finish, clear silhouette-first staging, strong readable composition, no photorealism, no 3D render look. Muted desaturated naturalistic palette as the project baseline.
 >
-> WIDE shot from an OVERHEAD-AND-SLIGHTLY-BEHIND register, the camera high and slightly behind the two figures looking past them outward, at the far end of the interior of a walk-in industrial freezer rated −18°C: floor-to-ceiling frosted STEEL racking and ice bloom, dark institutional GREY-BLUE, no warm light in the room. The frame holds the single one-and-a-half-meter-wide GAP between two rack columns — the only non-steel corridor — running from the center of the floor to the EXIT DOOR, which is now OPEN, cold vapor flooding outward through it onto the dim cold-storage loading dock beyond.
+> WIDE shot from an OVERHEAD-AND-SLIGHTLY-BEHIND register, the camera high and slightly behind the two figures looking past them outward, at the far end of the interior of a walk-in industrial freezer rated −18°C: floor-to-ceiling frosted STEEL racking and ice bloom, dark institutional GREY-BLUE, no warm light in the room. The frame holds the single one-and-a-half-meter-wide GAP between two rack columns — the only non-steel corridor — running from the center of the floor to the EXIT DOOR, which has just been FORCED OPEN by a running shoulder-barge — the heavy self-closing door (no interior handle) shouldered open by the man's own weight and momentum, its cam-latch popped, swinging outward — cold vapor flooding out through it onto the dim cold-storage loading dock beyond.
 >
 > AT THE THRESHOLD, both figures crossing the doorframe, half-in and half-out of the freezer, seen from above and behind: ON THE LEFT, a slim, lean humanoid man, male, ~175–180 cm tall, built for agile blinking and gravity poses; a slightly elongated face with sharp focused eyes and short-to-medium dark brown hair, wearing high-tech goggles with faintly blue-tinted transparent lenses behind a glowing CYAN visor; a sleek lab-coat-style jacket in DARK PURPLE with silver trim, open at the front; a black undershirt with faint glowing blue lines in a subtle geometric pattern; dark-blue fitted trousers tucked into black boots with silver accents; black gloves with silver fingertips; small metallic mini-orbs that ORBIT his chest and waist in a TIGHT disciplined orbit, glowing faint blue; and twin katanas (ninjato-style straight blades) sheathed flat across his back. TUCKED UNDER HIS LEFT ARM, carried: a small round spoon-shaped being, the smallest hero at roughly 140–150 cm tall, with a large round belly bearing a large red Chinese dragon on a blue background (scales and claws detailed, tail wrapping the belly), short legs nearly hidden under the belly's curve, short but noticeably muscular arms; his head is shaped like a deep-sea diving helmet — a wide metal dome with a wide transparent front visor; the helmet is filled with reddish-orange pho broth (with bright-yellow highlights, a warm glow); his face forms inside the helmet out of the soup's ingredients — eyes, eyebrows and cheekbones made of slightly twisted noodles, and a nose made of a bright-green sprig of cilantro poking above the broth; he has NO separate mouth — the open visor simply shows the soup, and the visor IS the face; he wears short black pants and fully black, flat, minimalist boots.
 >
@@ -445,11 +483,11 @@ THE DOORWAY, facing the same outward direction; broth resettled, mini-orbs in ti
 >
 > The reddish-orange resettling broth in the visor and the cyan visor-glow, the faint-blue tightly-orbiting mini-orbs, and the dark purple coat are the ONLY warm or saturated colors in the otherwise dark grey-blue scene.
 >
-> Composition: silhouette-first, seen from overhead and slightly behind, the tall purple-coated man carrying the small spoon-being under his left arm through the open exit door at the end of the 1.5-meter non-steel corridor, both half-in and half-out of the doorway and FACING THE SAME DIRECTION OUTWARD toward the dock and the city, cold vapor flooding out the door, the frozen freezer behind them and unregarded. Warm, outward-facing, not looking back. One bold warm SFX in plain comic lettering, the loudest sound in the issue, riding the broth crashing back into the visor: "SLURP—". Then seven small dry caption boxes in plain comic lettering, case-file register, staircase rhythm: "The gap between the racks was a meter and a half." / "He ran it." / "The door opened." / "That was the whole plan." / "Outside, the broth settled." / "The face came back." / "Neither of them said anything about it."
+> Composition: silhouette-first, seen from overhead and slightly behind, the tall purple-coated man carrying the small spoon-being under his left arm through the shouldered-open exit door at the end of the 1.5-meter non-steel corridor — the handle-less self-closing door forced by his own running weight, its cam-latch popped — both half-in and half-out of the doorway and FACING THE SAME DIRECTION OUTWARD toward the dock and the city, cold vapor flooding out the door, the frozen freezer behind them and unregarded. Warm, outward-facing, not looking back. One bold warm SFX in plain comic lettering, the loudest sound in the issue, riding the broth crashing back into the visor: "SLURP—". Then seven small dry caption boxes in plain comic lettering, case-file register, staircase rhythm: "The gap between the racks was a meter and a half." / "He ran it." / "He hit the door with his shoulder." / "That was the whole plan." / "Outside, the broth settled." / "The face came back." / "Neither of them said anything about it."
 
 **NEGATIVE PROMPT**
 
-> exactly TWO figures and they end in the DOORWAY together (NOT one figure leaving alone, NO third hero, NO fourth, NO other figures), both FACE THE SAME DIRECTION OUTWARD through the open door (NOT facing each other, NOT looking at each other, NOT looking back at the freezer), the man is FULLY suited — always the DARK PURPLE coat, the glowing CYAN visor, the twin ninjato-style blades sheathed on his back, and the orbiting faint-blue mini-orbs (NOT partially-suited, NOT unmasked), his blades stay SHEATHED (not drawn, not swung), his mini-orbs are in TIGHT disciplined orbit (NOT scattered, NOT erratic), the small spoon-being is carried tucked under the man's left arm, his broth has CRASHED BACK and RESETTLED into the lower visor and his noodle-and-broth FACE HAS REFORMED upright (NOT still dissolved, NOT weightless, NOT a zero-g cloud — gravity has returned), he has NO separate mouth (the open visor IS the face — do not draw a mouth), his eyes are curled noodles back in position, his nose is a green sprig of cilantro back at center, the exit door is OPEN with cold vapor flooding out, the freezer is behind them and unregarded, no team name or super-team logo, no cape, no flight, no eye bandage, no folding fan (Windman), no French beret, no mustard shirt (Tiebi), the man has no diving helmet/pho/broth/noodles/red-dragon belly; the spoon-being has no purple ninja suit/cyan visor/katanas, no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones, no anachronistic gadgets, no extra fingers, no malformed hands, no extra limbs, no text errors or garbled lettering (other than the seven intended captions and the intended bold "SLURP—" SFX), no warm or saturated lighting across the room (only the reddish-orange resettling broth and the cyan visor / blue orbs / purple coat carry color).
+> exactly TWO figures and they end in the DOORWAY together (NOT one figure leaving alone, NO third hero, NO fourth, NO other figures), both FACE THE SAME DIRECTION OUTWARD through the open door (NOT facing each other, NOT looking at each other, NOT looking back at the freezer), the man is FULLY suited — always the DARK PURPLE coat, the glowing CYAN visor, the twin ninjato-style blades sheathed on his back, and the orbiting faint-blue mini-orbs (NOT partially-suited, NOT unmasked), his blades stay SHEATHED (not drawn, not swung), his mini-orbs are in TIGHT disciplined orbit (NOT scattered, NOT erratic), the small spoon-being is carried tucked under the man's left arm, his broth has CRASHED BACK and RESETTLED into the lower visor and his noodle-and-broth FACE HAS REFORMED upright (NOT still dissolved, NOT weightless, NOT a zero-g cloud — gravity has returned), he has NO separate mouth (the open visor IS the face — do not draw a mouth), his eyes are curled noodles back in position, his nose is a green sprig of cilantro back at center, the exit door has been FORCED/SHOULDERED open (cam-latch popped by the running shoulder-barge, NOT opened by a power, NOT opened by an interior handle — there is none) with cold vapor flooding out, the freezer is behind them and unregarded, no team name or super-team logo, no cape, no flight, no eye bandage, no folding fan (Windman), no French beret, no mustard shirt (Tiebi), the man has no diving helmet/pho/broth/noodles/red-dragon belly; the spoon-being has no purple ninja suit/cyan visor/katanas, no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones, no anachronistic gadgets, no extra fingers, no malformed hands, no extra limbs, no text errors or garbled lettering (other than the seven intended captions and the intended bold "SLURP—" SFX), no warm or saturated lighting across the room (only the reddish-orange resettling broth and the cyan visor / blue orbs / purple coat carry color).
 
 **Consistency notes**
 
@@ -462,8 +500,13 @@ THE DOORWAY, facing the same outward direction; broth resettled, mini-orbs in ti
   **facing the same outward direction**, neither looking at the other, the freezer behind
   them — honoring and continuing the [[S01E06 — Two-Body Problem]] Panel 6 two-figure
   ending. Guarded hard against any one-figure-leaving-alone or face-to-face framing.
-- **The run is geometric comedy:** the 1.5 m corridor plus a sprint, ending in a doorway.
-  No triumph; "that was the whole plan." The captions stay in the flat inventory register.
+- **The run is geometric comedy:** the 1.5 m corridor plus a sprint, ending in a
+  **shoulder-barge** — the gravity manipulator's escape from a complete power-neutralization
+  is to run and hit the door, which gives because his own weight (restored the instant the
+  field stops mattering) plus momentum pops the seated cam-latch on the handle-less
+  self-closing door — NOT a power. The caption changes accordingly ("He hit the door with
+  his shoulder."). No triumph; "that was the whole plan." The captions stay in the flat
+  inventory register.
 - No team named, no third hero, GastroDefense only as the unspoken setting — the Act III
   second-reunion beat is intact.
 

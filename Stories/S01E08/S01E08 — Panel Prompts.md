@@ -58,7 +58,7 @@ per panel (the fan-state timeline below is a continuity guard):
 
 - **P1:** open in the right hand, blades spread, ghost-lines aimed at the truck's mass-front.
 - **P2:** open, held forward in the diagnostic vignette (field-read posture).
-- **P3:** open, firing pressure ghost-lines forward at the truck's front.
+- **P3:** open, coming UP but NOT yet fired, a step behind Tiebi, blue ghost-lines just beginning to gather (Windman engages in P4).
 - **P4:** open, completing one controlled lateral compression sweep at the front wheel-gap.
 - **P5:** folded shut at his side as he comes around the truck's front.
 - **P6:** folded shut in the right hand, not aimed.
@@ -282,14 +282,28 @@ streetlamps** are the only saturated notes.
   BOTTOM-RIGHT Pho-boman: paused mid-waddle, noodle-brows in the interested configuration,
   cilantro nose tipped forward. Nobody looks at anyone else. The FIELD-READ bracket is the
   tonal peak.
-- **P3 — Inertia (Before) — GROUND-LEVEL WIDE, FOUR IN ONE FRAME, FOUR COLORS ARRIVE.**
-  All four visible in one frame for the first time, none looking at any other; the truck's
-  bulk between the two pairs. Windman upper-left, fan firing blue ghost-lines forward; Tiebi
-  alongside, BEGINNING to grow (mustard-gold body scaling upward at the truck's left flank,
-  not yet at full grown size); Primm upper-right, gloved palm forward, violet/cyan light-bend
-  beginning at the front axle, blink-trail still dissipating; Pho-boman lower-right, small,
-  reddish-orange noodle-rope beginning to extend toward the rear. Truck still ROLLING. The
-  four power-colors land together for the first time.
+- **P3 — One-Body Problem — LOW UP-THE-SLOPE ANGLE, TRUCK AT TRUE SCALE BEARING DOWN, ONE
+  HERO FAILS ALONE.** LOW ground-level angle from near the bottom of the slope, looking UP at
+  the truck as it bears DOWN — the cab and grille fill the upper frame, the truck MONUMENTAL
+  and close at true eight-metric-ton scale (the largest, heaviest object in the issue),
+  windshield dark and empty, bland fork-and-baton logo on the cab door, cold white vapor off
+  the rear unit. The truck is STILL ROLLING (the stop is P4). Tiebi grown LARGE and braced
+  shoulder-to-grille against the truck's FRONT and SLIDING BACKWARD, boots furrowing twin
+  grooves in the asphalt, the cab barely slowed — mass conserved (a bigger Tiebi is the same
+  mass spread thinner, bigger not heavier), so a bigger man on a downhill slope still slides;
+  beret ON, mustard-gold shirt, a perfectly-proportioned fully-human figure ENLARGED (NOT
+  chibi, NOT distorted). He is UP-SLOPE, NOT under the bridge (no bridge cap/clearance here —
+  the bridge may sit small in the deep background at the downhill end only). The other three
+  CLOSING at the frame edges, NOT yet in contact, each on a separate vector, none aware the
+  others have come: Windman a step behind Tiebi (fan open but coming UP / NOT yet fired, blue
+  ghost-lines just BEGINNING to gather); Primm arriving at the right (faint blue blink-trail
+  still dissipating, gloved palm RISING toward the front axle, violet/cyan light-bend NOT yet
+  engaged); Pho-boman rounding the truck's REAR, small (noodle-rope NOT yet thrown — at most
+  just forming at the open visor — keeping distance from the cold vapor). Exactly ONE SFX —
+  "STOMP —" small and singular at Tiebi's planted/furrowing feet; NO other SFX. The four-color
+  saturation event is WITHHELD here — only Tiebi's MUSTARD-GOLD is on the truck; the other
+  three's colors are minimal and just-gathering at the edges (the full four-color frame at
+  full saturation lands in P4).
 - **P4 — Four-Body Problem — CLIMAX, ALL FOUR SFX, FOUR COLORS FULL SATURATION.** The exact
   moment of stopping, the four-way interlock in one frame. Windman: controlled lateral fan
   sweep, dense blue HWUF compression-rings at the front wheel-gap. Primm: gloved palm at the
@@ -447,55 +461,78 @@ another.
 - **Tiebi's clearance caption** ("two point four meters") is the setup for P4's "compromise"
   payoff. **Nobody looks at anyone** — the parallel-register guard.
 
-### Panel 3 — Inertia (Before)
+### Panel 3 — One-Body Problem
 
-> **The convergence becomes visible — all four in one frame for the first time.** A
-> ground-level wide shot: the truck still rolling, the two pairs closing from opposite ends
-> with the truck's bulk between them, none of the four yet seeing who else arrived. The
-> four power-colors land together for the first time in the series — Windman's blue
-> compression-rings forming, Primm's violet/cyan light-bend engaging the front axle,
-> Pho-boman's reddish-orange noodle-rope extending toward the rear, Tiebi's mustard-gold
-> body beginning to scale upward at the truck's flank. The palette has arrived.
+> **The try-fail beat — one hero commits alone and eight metric tons shrugs him off.** A LOW
+> up-the-slope angle puts the truck at its true eight-ton scale, monumental and bearing down,
+> still rolling. Tiebi has committed FIRST and ALONE on the math he ran in P2: grown large
+> and braced shoulder-to-grille against the truck's front, and SLIDING backward — boots
+> furrowing twin grooves in the asphalt, the cab barely slowed. The physics is honest to his
+> canon: growing did not make him heavier (mass conserved — a bigger Tiebi is the same mass
+> spread thinner), so there is nothing for eight tons to brace against, and a bigger man on a
+> downhill slope still slides. A one-body solution does not solve a four-body problem. The
+> other three are CLOSING at the frame edges, not yet in contact, each on a separate vector,
+> none aware the others have come — setting P4's geometry without pre-empting it. The
+> four-color saturation event is WITHHELD: only Tiebi's mustard-gold engages the truck here;
+> the full four-color arrival lands intact in P4.
 
 **Style anchor:** [[Visual Style Guide|v1]]. **Palette override:** dark blue-grey sloped
-night; the four hero power-colors all present together for the first time (forming, not yet
-at full saturation — that is P4); the truck's cold white vapor a cool note. **Reveal:** FOUR
-IN ONE FRAME — none looking at any other; truck still ROLLING; Tiebi BEGINNING to grow (not
-yet full grown size); four power-colors arrive.
+night; only Tiebi's MUSTARD-GOLD engages the truck — the other three's colors minimal and
+just-gathering at the frame edges (NOT the full four-color saturation, which is reserved for
+P4); the truck's cold white vapor a cool note. **Reveal:** ONE-BODY FAILURE — LOW up-the-slope
+angle, truck MONUMENTAL at true eight-ton scale and still ROLLING; Tiebi grown LARGE bracing
+the grille and SLIDING (bigger not heavier → fails alone); single STOMP; the other three
+CLOSING at the edges, NOT engaged, none aware of each other; four-color saturation WITHHELD.
 
 **GENAI PROMPT**
 
 > Modern Western graphic-novel comic-book illustration, single comic-page panel. Clean confident hand-inked black linework with medium-weight uniform outlines and selective heavier contour lines, light cross-hatching for shadow. Flat cel-style coloring with subtle cell-shading gradients, limited halftone texture, restrained screen-tone dot shading in shadows. Slightly stylized semi-realistic proportions, expressive readable faces, deadpan comedic timing. Crisp print-quality finish, clear silhouette-first staging, strong readable composition, no photorealism, no 3D render look. Muted desaturated naturalistic palette as the project baseline. A single frozen instant of suspended motion, action freeze-frame.
 >
-> GROUND-LEVEL WIDE shot of the whole sloped city block at night — a street running DOWNHILL on a clear visible gradient, dark blue-grey buildings rising on both sides, parked cars along both curbs, cracked asphalt and concrete sidewalks, one or two pools of warm streetlight, the rest in deep cool shadow. At the far downhill end, the low RAILWAY BRIDGE with its flat soffit and "2.4 m" clearance sign. Dark blue-grey night palette, kinetic.
+> LOW ground-level angle from near the BOTTOM of the slope, looking UP at the truck as it bears DOWN the hill — a low up-the-slope worm's-eye view of a sloped city block at night, a street running DOWNHILL on a clear visible gradient, dark blue-grey buildings rising on both sides, parked cars along both curbs, cracked asphalt, one or two pools of warm streetlight, the rest in deep cool shadow. The low railway bridge sits SMALL in the deep background at the downhill end only (do NOT render a bridge cap or clearance sign over the action). Dark blue-grey night palette, tense.
 >
-> CENTER-FRAME, still rolling driverless down the slope, wheels turning: a driverless GastroDefense Inc. refrigerated cargo truck, a boxy white refrigerated freight truck, the cab dark and EMPTY (no driver through the windshield); a refrigeration unit on the rear with COLD WHITE VAPOR venting in a steady plume; the bland corporate fork-and-baton GastroDefense logo on the cab door. The truck's bulk sits BETWEEN the pair approaching from the left and the pair approaching from the right, so none of the four has yet seen who else arrived.
+> FILLING THE UPPER FRAME, bearing DOWN toward the camera, the cab and grille looming large and close: a driverless GastroDefense Inc. refrigerated cargo truck, a boxy white refrigerated freight truck rolling DOWNHILL with no driver — the cab dark and EMPTY, no one visible through the windshield; a refrigeration unit running on the rear of the box, COLD WHITE VAPOR venting from its exhaust unit in a steady plume; on the cab door a deliberately bland corporate GastroDefense logo of a stylized fork crossed with a baton in two flat muted corporate colors. Drawn from below at its TRUE scale, the eight-metric-ton truck is MONUMENTAL, close, the largest and heaviest object in the frame — and it is STILL ROLLING (not stopped), wheels turning, grille pressing toward the camera.
 >
-> UPPER-LEFT, approaching the truck's FRONT, fan raised and beginning to fire: a humanoid man, male, 180 cm tall, moderately stout, normal proportions; short natural-brown chestnut hair; a calm soft-featured slightly-rounded face; across his eyes a thick cloth EYE BANDAGE completely covering both eyes — top portion blue, lower portion red — leaving NO visible eyes; a fitted blue T-shirt with a single large white letter "W" monogram; brown knee-length shorts; black flat boots. In his RIGHT hand, a small folding fan, brown 25 cm handle, three slightly-transparent green/blue/red blades — OPEN, raised, beginning a forward sweep. From its edge, concentric BLUE compression-rings / pressure-rings are FORMING in the cooler ghost-line register, aimed at the truck's front.
+> BRACED SHOULDER-TO-GRILLE AGAINST THE TRUCK'S FRONT, grown LARGE and SLIDING BACKWARD: a humanoid man, ~175–180 cm tall at normal size now ENLARGED, medium build, realistic human proportions; an ordinary human head, a neutral and friendly medium-skin-toned face, no facial hair, normal VISIBLE eyes; a classic French beret, slightly tilted, dark navy, with a small nub at the top center, ON his head; a simple fitted shirt/tunic in MUSTARD-GOLD; plain dark trousers; flat dark shoes. He stays a perfectly-proportioned fully-human figure, just enlarged — NOT a chibi, NOT a child, NOT distorted. His shoulder is set against the grille and his boots are PLOWING twin furrowed grooves backward through the asphalt — he is SLIDING DOWNHILL, the cab barely slowed; growing did not make him heavier (a bigger man, the same mass spread thinner, on a downhill slope), so there is nothing for eight tons to brace against. His expression: someone watching a correct calculation fail to be sufficient. He is UP-SLOPE on the open road, NOT under the bridge, NOT touching any bridge soffit. His MUSTARD-GOLD shirt is the ONLY saturated power-color engaging the truck. A single small SFX rides his planted/furrowing feet, integrated into the asphalt and small: "STOMP —".
 >
-> ALONGSIDE HIM at the truck's LEFT FLANK, BEGINNING to grow — the mustard-gold of his shirt rising taller in the frame as he adds centimeters, calculating upward but NOT yet at full grown size (he is somewhere between full human height and his grown form, mid-scale-up): a humanoid man, ~175–180 cm tall at normal size now growing larger, medium build, realistic proportions; an ordinary human head, neutral friendly medium-skin-toned face, no facial hair, normal VISIBLE eyes; a classic French beret, slightly tilted, dark navy, with a small nub at top center, ON his head; a simple fitted shirt/tunic in MUSTARD-GOLD; plain dark trousers; flat dark shoes. He stays a perfectly-proportioned fully-human figure, just enlarging — NOT a chibi, NOT distorted.
+> AT THE LEFT FRAME EDGE, a step BEHIND the grown man, NOT yet in contact: a humanoid man, male, 180 cm tall, moderately stout with a slightly loose but stable physique, normal proportions; short natural-brown chestnut hair; a calm soft-featured slightly-rounded face; across his eyes a thick cloth EYE BANDAGE completely covering both eyes — top portion blue, lower portion red — leaving NO visible eyes; a fitted blue T-shirt with a single large white letter "W" monogram; brown knee-length shorts; black flat boots. In his RIGHT hand, a small folding fan, brown 25 cm handle, three slightly-transparent green/blue/red blades — OPEN but COMING UP, NOT yet fired; only faint BLUE pressure ghost-lines just BEGINNING to gather around the fan in the cooler finer semi-transparent register (NOT a firing sweep, NOT a compression wave). He is small and secondary at the edge.
 >
-> UPPER-RIGHT, approaching the truck's FRONT from the other side, gloved palm forward: a slim lean humanoid man, ~175–180 cm tall; a slightly elongated face, sharp focused eyes, short-to-medium dark brown hair, high-tech goggles with faintly blue-tinted lenses behind a glowing CYAN visor; a dark purple lab-coat-style jacket with silver trim, open; a black undershirt with faint glowing blue geometric lines; dark-blue trousers, black boots with silver accents; black gloves with silver fingertips; small metallic mini-orbs ORBITING his chest and waist glowing faint blue; twin katanas (ninjato-style straight blades) sheathed flat across his back. A VIOLET-AND-CYAN light-bend distortion of gravity manipulation is BEGINNING to engage the truck's front axle at arm's reach — the air thickening and rippling, light bending slightly. Faint glowing blue teleport blink-trails still dissipate behind him from his arrival.
+> AT THE RIGHT FRAME EDGE, just arriving, NOT yet in contact: a slim lean humanoid man, ~175–180 cm tall; a slightly elongated face, sharp focused eyes, short-to-medium dark brown hair, high-tech goggles with faintly blue-tinted lenses behind a glowing CYAN visor; a dark purple lab-coat-style jacket with silver trim, open; a black undershirt with faint glowing blue geometric lines; dark-blue trousers, black boots with silver accents; black gloves with silver fingertips; small metallic mini-orbs ORBITING his chest and waist glowing faint blue; twin katanas (ninjato-style straight blades) sheathed flat across his back. Faint glowing blue teleport blink-trails are still DISSIPATING behind him from his arrival; his gloved palm is RISING toward the truck's front axle but the violet/cyan light-bend is NOT yet engaged (no gravity distortion around the axle yet). He is small and secondary at the edge.
 >
-> LOWER-RIGHT, approaching the truck's REAR at a fraction of the others' speed: a small round spoon-shaped being, roughly 140–150 cm tall, large round belly, short legs nearly hidden under the belly, short muscular arms; a deep-sea diving-helmet head — a wide metal dome with a wide transparent front visor filled with reddish-orange pho broth that sloshes and bubbles; his face formed from soup ingredients — noodle eyes, noodle brows, a bright-green cilantro-sprig nose — NO separate mouth, the open visor IS the face; short black pants, flat black boots; across his round belly a large red Chinese dragon on a blue background, scales and claws detailed, tail wrapping the belly. A NOODLE-ROPE is beginning to extend from the lower gap of his OPEN VISOR — a thick rope of reddish-orange pho noodles, steam-curling and warm — reaching toward the truck's rear, while he keeps a little distance from the cold white vapor venting at the rear unit.
+> ROUNDING THE TRUCK'S REAR at the lower frame edge, small and secondary: a small round spoon-shaped being, roughly 140–150 cm tall, large round belly, short legs nearly hidden under the belly, short muscular arms; a deep-sea diving-helmet head — a wide metal dome with a wide transparent front visor filled with reddish-orange pho broth that sloshes and bubbles; his face formed from soup ingredients — noodle eyes, noodle brows, a bright-green cilantro-sprig nose — NO separate mouth, the open visor IS the face; short black pants, flat black boots; across his round belly a large red Chinese dragon on a blue background, scales and claws detailed, tail wrapping the belly. The noodle-rope is NOT yet thrown — at most just FORMING at the lower gap of his OPEN VISOR (a short reddish-orange pho-noodle wisp barely starting, not extended, not reaching the axle); he keeps his distance from the cold white vapor venting at the rear unit.
 >
-> Composition: silhouette-first, the rolling refrigerated truck the central object with the two pairs closing from left and right and its bulk between them, all FOUR heroes in one frame for the first time — Windman's blue forming pressure-rings (front-left), Primm's violet/cyan light-bend at the front axle (front-right), Pho-boman's reddish-orange noodle-rope extending at the rear (lower-right), Tiebi's mustard-gold body scaling upward at the left flank — the four power-colors landing together. None of the four is looking at any of the others. Three small dry caption boxes in plain comic lettering, case-file register, staircase rhythm: "The truck weighed approximately eight metric tons." / "Each of them had decided this was their problem." / "None of them had told the others."
+> Composition: silhouette-first, dominated by the HUGE up-the-slope refrigerated truck bearing down at true eight-ton scale with the grown mustard-gold man braced shoulder-to-grille and SLIDING backward in twin furrowed grooves at its front — the focal failure. The other three are small at the frame edges (Windman a step behind at the left with his fan coming up and blue ghost-lines just gathering; Primm arriving at the right with blink-trail dissipating and palm rising; Pho-boman rounding the rear at the lower edge) — each on a separate vector, NONE in contact, NONE aware of the others, NONE looking at any other. Only Tiebi's mustard-gold engages the truck; the other three's colors are minimal and just-gathering at the edges — NOT the full four-color saturation. Exactly ONE SFX in the whole frame: the small "STOMP —" at the grown man's furrowing feet, no other SFX lettering. Three small dry caption boxes in plain comic lettering, case-file register, staircase rhythm: "One of them tried it alone." / "Eight metric tons declined." / "The math required the others. Nobody had asked them."
 
 **NEGATIVE PROMPT**
 
-> the truck is STILL ROLLING (not yet stopped) and has NO driver (cab empty), all FOUR heroes are present in one frame but NONE is looking at any of the others (the truck's bulk is between the two pairs, they have not yet seen each other), the four power-colors are FORMING/beginning (not yet at full climactic saturation — that is the next panel), the beret man is BEGINNING to grow and is between full human height and his grown form — he stays a perfectly-proportioned fully-human figure enlarging (NOT a chibi, NOT a child, NOT distorted, NOT yet at full grown size, NOT touching the bridge), each hero keeps ONLY his own cues — bandaged man: eye bandage covering both eyes (blue on top, red below, NO visible eyes), SINGLE white "W" (never "WM"), fan OPEN in RIGHT hand; growing man: ORDINARY VISIBLE eyes, dark-navy tilted beret ON, MUSTARD-GOLD shirt; purple-coated man: glowing CYAN visor, twin ninjato blades SHEATHED, orbiting faint-blue orbs, violet/cyan light-bend at ARM'S REACH on the front axle; spoon being: diving-helmet head full of reddish-orange broth, noodle-eyes/brows, green cilantro nose, NO mouth, red-dragon-on-blue belly, noodle-rope from the OPEN VISOR (not from a mouth) — no cross-contamination of cues between heroes, the blue pressure-rings read as the cooler ghost-line register (not a lit shockwave), no team name or logo on any hero, no costumed superhero, no cape, no flight, no fifth figure, no bystanders, no SFX lettering yet (the simultaneous SFX belong to the next panel), no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones, no anachronistic gadgets, no extra fingers, no malformed hands, no extra limbs, no text errors or garbled lettering (other than the three intended captions, the bland cab-door logo, and the bridge's "2.4 m" sign), no warm or saturated lighting across the block (only the four hero power-colors and the streetlamps carry saturated color).
+> the truck is HUGE and drawn at TRUE eight-metric-ton scale from a LOW up-the-slope angle (monumental, close, the largest heaviest object in the frame — NOT small, NOT distant) and is STILL ROLLING (not stopped, not crashed, not wrecked) with NO driver (cab empty); the grown man is BRACING and SLIDING BACKWARD (boots furrowing twin grooves, the truck barely slowed — he is FAILING to stop it, NOT stopping it, NOT static, NOT holding it still), grown LARGE but a perfectly-proportioned fully-human figure enlarged (NOT a chibi, NOT a child, NOT distorted, NOT elephant-scale, NOT giant), beret ON at its tilt, and he is UP-SLOPE on the open road NOT under any bridge and NOT touching any bridge soffit (do NOT render a bridge cap, clearance sign, or low ceiling over the action — the bridge stays small in the deep background); the other three are CLOSING ONLY at the frame edges and are NOT engaged and NOT in contact — Windman's fan is OPEN but NOT firing (only faint blue ghost-lines just beginning to gather, NOT a firing sweep or compression wave), Primm's violet/cyan gravity light-bend is NOT engaged (palm rising, NO distortion around the axle yet), Pho-boman's noodle-rope is NOT thrown (at most just forming at the open visor, NOT extended, NOT reaching the axle); exactly ONE SFX appears — a single small "STOMP —" integrated at the grown man's furrowing feet — and NO other SFX lettering (the simultaneous four-SFX event HWUF/DRIFT/STOMP/SLURP belongs to the NEXT panel); this is NOT the full four-color saturation — ONLY the grown man's MUSTARD-GOLD engages the truck, the other three's colors are minimal and just-gathering at the edges (the full four-color climax/saturation is reserved for the next panel); NONE of the four is looking at any of the others; each hero keeps ONLY his own cues — bandaged man: eye bandage covering both eyes (blue on top, red below, NO visible eyes), SINGLE white "W" (never "WM"), fan OPEN in RIGHT hand; growing man: ORDINARY VISIBLE eyes, dark-navy tilted beret ON, MUSTARD-GOLD shirt; purple-coated man: glowing CYAN visor, twin ninjato blades SHEATHED, orbiting faint-blue orbs; spoon being: diving-helmet head full of reddish-orange broth, noodle-eyes/brows, green cilantro nose, NO mouth, red-dragon-on-blue belly, noodle-rope (if any) from the OPEN VISOR (not from a mouth) — no cross-contamination of cues between heroes, the blue pressure ghost-lines read as the cooler ghost-line register (not a lit shockwave), the only cold note on the truck is the COLD WHITE VAPOR from the rear refrigeration unit (NOT smoke, NOT fire), no team name or logo on any hero, no costumed superhero, no cape, no flight, no fifth figure, no bystanders, no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones, no anachronistic gadgets, no extra fingers, no malformed hands, no extra limbs, no text errors or garbled lettering (other than the three intended captions, the single intended STOMP, and the bland cab-door logo), no warm or saturated lighting across the block (only the streetlamps and the grown man's mustard-gold carry saturated color here).
 
 **Consistency / staging notes**
 
-- All four heroes reused **verbatim**. Windman's fan = **open, firing** per the fan-state
-  timeline; Tiebi is **BEGINNING to grow** (mid-scale-up, not yet at full grown size,
-  beret on) per the macro-scale rule; Primm's mini-orbs in **active orbit**, light-bend at
-  arm's reach; Pho-boman's noodle-rope **beginning** from the open visor.
-- **Four-colors-arrive beat:** the first time all four power-colors share a frame — rendered
-  **forming**, not yet at the full-saturation climax (that is P4). This is the palette event
-  the series has built toward.
-- **No-mutual-awareness guard:** truck's bulk between the two pairs; none of the four looks
-  at any other. The truck is **still rolling** (the stop is P4). No SFX lettering yet.
+- All four heroes reused **verbatim**. Windman's fan = **open, coming up but NOT yet fired**
+  (blue ghost-lines just beginning to gather) per the fan-state timeline; Tiebi is **grown
+  large** but a perfectly-proportioned fully-human figure enlarged (beret on), **bracing the
+  grille and SLIDING backward** in twin furrowed grooves — NOT chibi, NOT distorted, per the
+  identity-across-scales rule; Primm's mini-orbs in **active orbit**, palm rising, light-bend
+  NOT yet engaged; Pho-boman's noodle-rope NOT thrown (at most just forming at the open
+  visor).
+- **Try-fail / mass-conserved beat (the episode title made literal):** Tiebi commits alone on
+  the math he ran in P2 and FAILS — growing did not make him heavier (mass conserved, a bigger
+  man is the same mass spread thinner), so a bigger man on a downhill slope still slides and
+  eight metric tons shrugs him off. A one-body solution does not solve a four-body problem.
+- **True-scale fix:** the truck is drawn from a LOW up-the-slope angle at its true
+  eight-metric-ton size — the largest, heaviest object in the issue, bearing down and **still
+  rolling** (the stop is P4). This fixes the prior wide framing that read the truck small.
+- **Bridge guard:** Tiebi is UP-SLOPE, NOT under the bridge — do NOT render a bridge
+  cap/clearance over the action (the wardrobe-max-under-2.4 m reveal stays in P4); the bridge
+  may sit small in the deep background at the downhill end only.
+- **Four-color event WITHHELD:** only Tiebi's **mustard-gold** engages the truck; the other
+  three's colors are minimal and just-gathering at the edges. The full four-color frame at
+  full saturation lands intact in **P4** — not pre-empted here.
+- **Single-SFX guard:** exactly ONE **STOMP —**, small and singular at Tiebi's furrowing
+  feet. The simultaneous four-SFX event (HWUF/DRIFT/STOMP/SLURP) belongs to P4.
+- **Closing-not-engaged guard:** the other three are CLOSING at the frame edges only, each on
+  a separate vector, NONE in contact, NONE aware the others have come, NONE looking at any
+  other — setting P4's geometry without pre-empting it.
 
 ### Panel 4 — Four-Body Problem
 

@@ -13,9 +13,10 @@ panels (see [[S01E08 — Panel Prompts]]) and the print [[S01E08 — Captions]].
 the ear. Dry case-file narrator — deadpan, observational, the minimum true thing. ~160
 words, ~64 seconds at 150 wpm.
 
-Note: E08 carries four SFX (HWUF, DRIFT, STOMP, SLURP — all firing in Panel 4) and one
-line of dialogue (Tiebi, Panel 5: "You were in the freezer."). These are lettering, not
-narration. They do not appear in this script.
+Note: E08 carries a single STOMP in Panel 3 (Tiebi's failed solo attempt) and all four SFX
+(HWUF, DRIFT, STOMP, SLURP) firing together in Panel 4, plus one line of dialogue (Tiebi,
+Panel 5: "You were in the freezer."). These are lettering, not narration. They do not appear
+in this script.
 
 ## Clean script (paste into ElevenLabs)
 
@@ -34,7 +35,7 @@ The bridge clearance was two point four meters.
 
 The smell was familiar. The smell was also behind a wall. He found this interesting.
 
-The truck weighed approximately eight metric tons. Each of them had decided this was their problem. None of them had told the others.
+One of them tried it alone. Eight metric tons declined. The math required the others. Nobody had asked them.
 
 The truck stopped.
 
@@ -69,7 +70,7 @@ GastroDefense Inc. operated fourteen field-survey drones in the district.
 
 [quietly observational] The smell was familiar. <break time="0.4s" /> The smell was also behind a wall. <break time="0.5s" /> He found this interesting. <break time="1.4s" />
 
-[steady, matter-of-fact] The truck weighed approximately eight metric tons. <break time="0.5s" /> Each of them had decided this was their problem. <break time="0.4s" /> [flat] None of them had told the others. <break time="1.5s" />
+[steady, matter-of-fact] One of them tried it alone. <break time="0.5s" /> [flat] Eight metric tons declined. <break time="0.6s" /> The math required the others. <break time="0.4s" /> [quieter] Nobody had asked them. <break time="1.5s" />
 
 [deadpan] The truck stopped. <break time="0.8s" />
 
@@ -101,8 +102,8 @@ There were four of them now. <break time="1.0s" />
 >
 > The smell was familiar. The smell was also behind a wall. He found this interesting.
 
-**Panel 3 — Inertia (Before)**
-> The truck weighed approximately eight metric tons. Each of them had decided this was their problem. None of them had told the others.
+**Panel 3 — One-Body Problem**
+> One of them tried it alone. Eight metric tons declined. The math required the others. Nobody had asked them.
 
 **Panel 4 — Four-Body Problem**
 > The truck stopped.
@@ -149,9 +150,10 @@ There were four of them now. <break time="1.0s" />
 - **Panel 6 — the close:** "There were four of them now." is the count, not a declaration.
   Flat and final. "GastroDefense Inc. operated fourteen field-survey drones in the
   district." is the Act IV plant — deliver it in the same inventory register as the
-  truck-weight caption in Panel 3: dry, precise, not alarming.
-- **SFX and dialogue are lettering, not narration:** HWUF, DRIFT, STOMP, SLURP (Panel 4)
-  and Tiebi's "You were in the freezer." (Panel 5) are in-panel elements. Do not voice them.
+  "eight metric tons declined" line in Panel 3: dry, precise, not alarming.
+- **SFX and dialogue are lettering, not narration:** the lone STOMP (Panel 3), HWUF, DRIFT,
+  STOMP, SLURP (Panel 4), and Tiebi's "You were in the freezer." (Panel 5) are in-panel
+  elements. Do not voice them.
 - **Settings:** expressiveness ~30–40%, stability ~70%. The deadpan is the performance.
 - **Voice archetypes to audition:** documentary / corporate / narrator with dry, low-affect
   character — "George," "Harry," "Arnold," or series-established equivalent. Avoid

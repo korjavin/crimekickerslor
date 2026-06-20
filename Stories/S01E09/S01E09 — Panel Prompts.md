@@ -61,7 +61,8 @@ shots). All four appear in every panel of this issue.
 - Fan state by panel: **P1** open, low at his side, not aimed. **P2** open at his side
   while he reads the building's mass-profile. **P3** open at his side, mapping the
   interior. **P4** folded shut at his side (he reads the moment, not the screen). **P5**
-  open again, not aimed, navigating-and-thinking. **P6** folded, held loosely.
+  open but his fan-hand gone STILL (his pressure-sense catches the drone — the freeze).
+  **P6** folded, held loosely.
 
 **Tiebi** (verbatim from [[Tiebi]], mustard accent rendered):
 
@@ -114,26 +115,31 @@ shots). All four appear in every panel of this issue.
 - **Mini-orb state** is a load-bearing expression cue this issue: **P1** tight but
   cautious orbit. **P2** orbit slowed slightly (the steel subframe registers).
   **P3** tight orbit. **P4** orbs STOPPED, motionless at his sides (they only stop when
-  he has the answer — here what he has is not an answer). **P5** orbit resumed, cautious.
-  **P6** slow, deliberate orbit (processing a problem he has no framework for).
+  he has the answer — here what he has is not an answer). **P5** orbs STOPPED again, in the
+  freeze, as the drone sweeps. **P6** slow, deliberate orbit (processing a problem he has
+  no framework for).
 - Reuse the locked phrase **"katanas (ninjato-style straight blades)"** verbatim; they
   are present and sheathed, never deployed in this issue.
 
 ### The parallel-register / split-register grammar (episode-specific)
 
-The episode's primary formal device. Every panel is divided — sometimes implicitly,
-sometimes as an explicit split — into a **warm physical half** (the heroes, in their
+The episode's primary formal device. Most panels juxtapose — sometimes implicitly,
+sometimes as an explicit split — a **warm physical half** (the heroes, in their
 signature colors and in warm pooled or refrigerator-cool naturalistic light) and a
 **cold institutional half** (GastroDefense screens, documents, drone feeds, and logos,
 in flat cold blue-white/grey fluorescent). **There is no drawn divider line, no border,
 no labeled split** — the reader knows which half is which by tone and palette alone.
 
-- **Explicit split-register (P2, P5):** stage the heroes on the **left, warm-palette
-  half** and the corporation's screens on the **right, cold-palette half**, the two
-  halves abutting with no border between them, distinguished only by palette and content.
+- **Explicit split-register (P2):** stage the heroes on the **left, warm-palette half**
+  and the corporation's screens on the **right, cold-palette half**, the two halves
+  abutting with no border between them, distinguished only by palette and content.
 - **Implicit register (P1, P3, P4, P6):** the heroes are the warm subject and a
   GastroDefense screen / drone / document sits in the same frame as the cold counterpart,
   facing the reader. The warm and cold tones co-exist in one continuous image.
+- **Single-register break (P5):** the one panel that drops the device — the corporation
+  is not a screen in the next column but a faceless drone in the room. The whole frame is
+  the heroes (warm) and the machine over them (cold); the cold "half" has stepped into the
+  physical space. This deliberate break marks the episode's only physical contact.
 - **Palette rule:** the warm half carries the only saturated color — Windman's
   green/blue/red fan blades, Tiebi's mustard-gold shirt, Pho-boman's reddish-orange
   broth-glow and red-on-blue belly-dragon, Primm's faint-blue orbs and cyan visor. The
@@ -238,12 +244,13 @@ screens / documents / drones / logos, never as a person.**
   REINTEGRATION SPECIFICATION (REV. 7), §4.1–4.4, §4.4 CONSENT "[Field not applicable…]".
   Four EMPTY house-format SFX boxes in the four margins. No other SFX. Primm's orbs
   stopped; Pho-boman's noodle-brows lower-compressed.
-- **P5 — Escalation Chain (SUBSTATION INTERIOR, EXPLICIT SPLIT-REGISTER).** Left warm
-  half: the four moving toward the exit, not running, processing. Right cold half: three
-  screens — the AUTO-ESCALATED ticket (THRESHOLD EXCEEDED 45:00, RETRIEVAL DIVISION
-  NOTIFIED); the drone grid (now eleven icons) with the loop counter LOOP ITERATION: 217;
-  the Retrieval Division inbox ("…has not processed a ticket since Q3 of the previous
-  fiscal year. Welcome back.").
+- **P5 — Null Return (SUBSTATION INTERIOR, SINGLE REGISTER; the near-miss).** The four
+  walking out, then FROZEN mid-step as a GD field-survey drone sweeps the corridor at
+  ceiling height. Windman stopped first (pressure-sense), fan-hand still; Primm's orbs
+  STOPPED; Pho-boman the BRIGHTEST figure in frame, broth settled, noodle-brows watchful
+  (no new configuration — he tracks the drone). The drone's underside overlay tags three
+  (Windman / Tiebi / Primm) and marks Pho-boman *NO MATCH — FOOD-SAFETY* (his 94°C heat,
+  no incident-signature → null). Silent; no SFX. Sets up E10's 3-confirmed / 1-null.
 - **P6 — SCHEDULING RETRIEVAL (EXTERIOR ALLEY, implicit register; belly-dragon eye-line).**
   Ground-level, close, a compressed service alley, the four facing OUTWARD toward the
   street, the smallest spacing in the series (the alley had no room to spread out).
@@ -354,25 +361,30 @@ drawn divider — the split is by palette and content only.
 >
 > RIGHT HALF — COLD INSTITUTIONAL, flat desaturated blue-white screen-glow, NO warmth, NO people, only TWO GastroDefense terminal screens stacked top and bottom, their text in small plain utilitarian institutional sans-serif, fully legible to the reader:
 >
-> TOP SCREEN, a logistics ticket. Header line: "GD-LOGISTICS / VARIANCE REPORT / TICKET #VR-2247-B". Body text reading: "ASSET: GD-TRUCK-RECALL-009 (driverless refrigerated cargo, RECALL PROTOCOL — RETURN TO ORIGIN FACILITY). EXPECTED ARRIVAL: processing center, 23:47. ACTUAL ARRIVAL: not recorded. VARIANCE: 100%. ASSIGNED TO: Unit Compliance, Acting (Interim, Temporary). AUTO-ESCALATION THRESHOLD: 45 MIN. PRIORITY: STANDARD." — and the ASSIGNED TO field shows TWO struck-through (crossed-out) prior names above the current name, the current name "Unit Compliance, Acting (Interim, Temporary)" rendered in a visibly DIFFERENT font from the rest of the document. A small bland GastroDefense corporate logo (a stylized fork crossed with a baton in two flat muted corporate colors) sits in the screen header corner.
+> TOP SCREEN, a logistics ticket, glanceable — only THREE short lines plus the header gag. Header line: "GD-LOGISTICS / VARIANCE REPORT / #VR-2247-B". Then one line: "ASSIGNED TO:" followed by TWO struck-through (crossed-out) prior names and then the current name "Unit Compliance, Acting (Interim, Temporary)" rendered in a visibly DIFFERENT font from the rest of the document (the two crossed-out names and the differently-fonted current name are the gag and must read at a glance). Then one line: "AUTO-ESCALATION: 45:00". A small bland GastroDefense corporate logo (a stylized fork crossed with a baton in two flat muted corporate colors) sits in the screen header corner. NO other body lines (no ASSET / EXPECTED ARRIVAL / ACTUAL ARRIVAL / VARIANCE / PRIORITY rows).
 >
-> BOTTOM SCREEN, a drone-operations grid feed: a grid view with FOURTEEN small identical drone icons scattered across district grid squares, most on standard patrol routes. One icon in grid square "7-G" flagged with a small notation: "SUBJECT TEMP: 94°C (est.). NOT A FOOD SERVICE ESTABLISHMENT. FILING EXCEPTION REPORT. ESCALATING TO: food safety, automated queue." Beneath the grid, in the SMALLEST institutional type, a row of cross-referenced records reading: "GRID 4-C — 4 ANOMALY FLAGS — ASSET REGISTRY MATCH: W-01 / P-02 / P-03 / T-04 — CORRELATION QUEUED — UNREAD."
+> BOTTOM SCREEN, a drone-operations grid feed: a grid view with FOURTEEN small identical drone icons scattered across district grid squares, most on standard patrol routes. One icon flagged with a single short one-line food-safety sting: "GD-SURVEY-DESSERT-04 — GRID 7-G — NOT A FOOD ESTABLISHMENT — FILING EXCEPTION". Beneath the grid, in the SMALLEST institutional type, a single row of cross-referenced records reading verbatim: "GRID 4-C — 4 ANOMALY FLAGS — ASSET REGISTRY MATCH: W-01 / P-02 / P-03 / T-04 — CORRELATION QUEUED — UNREAD."
 >
 > Composition: the warm left half (four heroes before the cinder-block substation, Tiebi reading the keypad he is choosing not to use) and the cold right half (two glowing institutional screens of dense legible corporate text) share the frame with no divider, distinguished only by palette and tone. Two LEFT caption boxes and two RIGHT caption boxes, plain comic lettering, case-file register: LEFT — "The building was familiar to one of them." / "He was aware it was familiar. He had not said so." ; RIGHT — "The logistics variance ticket had been in the system for fourteen minutes." / "This was within spec."
 
 **NEGATIVE PROMPT**
 
-> the panel is split ONLY by palette and content with NO drawn border/divider/line between the halves, the RIGHT half contains ONLY glowing institutional screens with legible text and NO people (no GastroDefense human/executive/staff/guard, no faces, no figures), the warm LEFT half has EXACTLY FOUR hero figures and no bystanders, the screen text must be legible and correctly spelled exactly as specified (the ticket header #VR-2247-B, "AUTO-ESCALATION THRESHOLD: 45 MIN", the TWO struck-through names with the current name in a different font, the unit codes W-01 / P-02 / P-03 / T-04), Windman has the eye bandage fully covering both eyes (blue on top, red below) with NO visible eyes, a SINGLE white "W" monogram (never "WM"), fan OPEN in his RIGHT hand, Tiebi has ORDINARY VISIBLE eyes (NOT blindfolded), a dark-navy tilted French beret and a MUSTARD-GOLD shirt and his hand is NOT touching the keypad, Pho-boman has a diving-helmet head full of reddish-orange pho with a noodle-face and NO mouth and a red-dragon-on-blue belly, Primm has a cyan visor and faint-blue orbiting orbs and katanas (ninjato-style straight blades) sheathed and undrawn, no team name or team logo on anyone, no costumed-superhero look, no capes, no powers firing, no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones, no anachronistic gadgets, no extra fingers, no malformed hands, no extra limbs, no text errors or garbled lettering except the intended screen text, callsigns, captions and logo, no warm or saturated color in the right institutional/screen half (only the heroes on the left carry warm color; the screens stay cold blue-white).
+> the panel is split ONLY by palette and content with NO drawn border/divider/line between the halves, the RIGHT half contains ONLY glowing institutional screens with legible text and NO people (no GastroDefense human/executive/staff/guard, no faces, no figures), the warm LEFT half has EXACTLY FOUR hero figures and no bystanders, the screen text must be legible and correctly spelled exactly as specified and kept to the trimmed glanceable amount (TOP SCREEN only "GD-LOGISTICS / VARIANCE REPORT / #VR-2247-B", the "ASSIGNED TO:" line with the TWO struck-through names plus the current name in a different font, and "AUTO-ESCALATION: 45:00" — and NO other ticket body lines; BOTTOM SCREEN the fourteen icons, the one-line sting "GD-SURVEY-DESSERT-04 — GRID 7-G — NOT A FOOD ESTABLISHMENT — FILING EXCEPTION", and the smallest-type correlation line "GRID 4-C — 4 ANOMALY FLAGS — ASSET REGISTRY MATCH: W-01 / P-02 / P-03 / T-04 — CORRELATION QUEUED — UNREAD"), Windman has the eye bandage fully covering both eyes (blue on top, red below) with NO visible eyes, a SINGLE white "W" monogram (never "WM"), fan OPEN in his RIGHT hand, Tiebi has ORDINARY VISIBLE eyes (NOT blindfolded), a dark-navy tilted French beret and a MUSTARD-GOLD shirt and his hand is NOT touching the keypad, Pho-boman has a diving-helmet head full of reddish-orange pho with a noodle-face and NO mouth and a red-dragon-on-blue belly, Primm has a cyan visor and faint-blue orbiting orbs and katanas (ninjato-style straight blades) sheathed and undrawn, no team name or team logo on anyone, no costumed-superhero look, no capes, no powers firing, no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones, no anachronistic gadgets, no extra fingers, no malformed hands, no extra limbs, no text errors or garbled lettering except the intended screen text, callsigns, captions and logo, no warm or saturated color in the right institutional/screen half (only the heroes on the left carry warm color; the screens stay cold blue-white).
 
 **Consistency / staging notes**
 
 - Reuses the **explicit split-register grammar verbatim** — warm heroes left, cold screens
   right, no labeled divider. All four heroes **verbatim**; fan **open**; Primm's orbs in
   the **slowed** state (steel subframe); Pho-boman keeping his cold-distance arc.
-- **Screen text pulled exactly** from the episode: ticket #VR-2247-B, the
-  twice-struck-through ASSIGNED TO field with the current name in a different font,
-  "AUTO-ESCALATION THRESHOLD: 45 MIN", the 94°C food-safety exception, and the
-  smallest-type correlation of four anomaly flags to W-01 / P-02 / P-03 / T-04.
+- **Screen text trimmed ~60% to a glanceable amount** (the corporate side was a
+  boredom risk in a visual medium): the TOP screen now carries only the three lines
+  #VR-2247-B / the twice-struck-through ASSIGNED TO field with the current name in a
+  different font / "AUTO-ESCALATION: 45:00" (the dropped ASSET / EXPECTED ARRIVAL /
+  ACTUAL ARRIVAL / VARIANCE / PRIORITY rows are no longer rendered); the BOTTOM screen
+  keeps the fourteen icons, one one-line food-safety sting, and the smallest-type
+  correlation line. The two kept gags — the twice-struck-through ASSIGNED TO field and
+  the smallest-type correlation of four anomaly flags to W-01 / P-02 / P-03 / T-04 (the
+  net forming, not decoration) — are preserved verbatim.
 - **Corporation-as-device guard:** the cold half is screens only, no human anywhere.
 
 ### Panel 3 — Building Knowledge (CRIME KICKERS)
@@ -477,59 +489,72 @@ fan blades) the only warmth, lit by the screen.
   weight, same corner/margin position grammar) and **completely empty** — the only panel
   in the series where the SFX format appears containing nothing. No other SFX in frame.
 
-### Panel 5 — Escalation Chain (Split-Register)
+### Panel 5 — Null Return
 
-> **The clock pays off.** The split-register resumes: the warm half is the four moving
-> toward the exit, not running, processing what they read in silence; the cold half is the
-> corporation's escalation — the now-auto-escalated ticket (threshold exceeded, Retrieval
-> Division notified), the drone fleet thinned to eleven with one unit stuck on LOOP
-> ITERATION: 217 trying to file a food-safety certificate for a being with no
-> food-establishment registration number, and the Retrieval Division inbox waking after a
-> year: "Welcome back." The "within spec" of Panel 2 becomes "an emergency" — same
-> indifference, only the number changed.
+> **The episode's one beat of motion — and it is silent.** No split-register here: a
+> single wide interior corridor. The four are walking out of the substation, still
+> carrying what they read, when a routine GastroDefense field-survey drone sweeps the
+> corridor at ceiling height. Windman's pressure-sense catches it first and the four
+> freeze mid-step. The drone's thermal array lights all four — and Pho-boman, at 94°C,
+> burns BRIGHTEST of them — but the asset-recovery module hunting behind that array
+> matches against incident-signature, locks three (Windman, Tiebi, Primm), and returns a
+> NULL on Pho-boman, routing his heat to the food-safety channel. The hunt cannot see the
+> most visible person in the room because it is not looking with its eyes. The drone moves
+> on, indifferent. This sets up E10's "3 signatures confirmed / 1 null."
 
-**Style anchor:** [[Visual Style Guide|v1]]. **Palette:** explicit split-register — LEFT
-warm half (substation corridor, the heroes in subdued signature colors, the broth-glow
-warm); RIGHT cold half (flat institutional blue-white, the three escalation screens). No
-drawn divider.
+**Style anchor:** [[Visual Style Guide|v1]]. **Palette:** single-register substation
+corridor interior — flat cold institutional fluorescent over cinder-block painted white,
+the refrigerated-corridor cold shimmer at frame-right; the heroes' signature colors and
+Pho-boman's broth-glow (at maximum here) the only warmth. No screen-half, no divider.
 
 **GENAI PROMPT**
 
 > Modern Western graphic-novel comic-book illustration, single comic-page panel. Clean confident hand-inked black linework with medium-weight uniform outlines and selective heavier contour lines, light cross-hatching for shadow. Flat cel-style coloring with subtle cell-shading gradients, limited halftone texture, restrained screen-tone dot shading in shadows. Slightly stylized semi-realistic proportions, expressive readable faces, deadpan comedic timing. Crisp print-quality finish, clear silhouette-first staging, strong readable composition, no photorealism, no 3D render look. Muted desaturated naturalistic palette as the project baseline.
 >
-> A SPLIT-REGISTER panel divided into two halves that abut directly with NO drawn border, NO divider line, NO frame between them — distinguished ONLY by palette and content: a WARM LEFT HALF (the heroes, substation corridor) and a COLD INSTITUTIONAL RIGHT HALF (three GastroDefense screens, flat cold blue-white screen-glow, no people).
+> A SINGLE WIDE interior corridor shot, readable left-to-right, NOT split into halves and with NO drawn divider: the GastroDefense substation corridor interior — cinder-block walls painted institutional white, flat cold fluorescent ceiling strips overhead, a row of wall-mounted monitored terminals (screens on, small green status LEDs) along the wall behind the figures, and at frame-right the mouth of the refrigerated corridor marked by a faint cold temperature-gradient shimmer in the air where cold meets warm. Cold institutional palette throughout; the heroes' signature colors and Pho-boman's broth-glow are the ONLY warmth in the frame.
 >
-> LEFT HALF — WARM, the substation corridor (cinder-block painted white, cold fluorescent, the heroes' signature colors and the broth-glow the only warmth), the four heroes IN MOTION toward the exit — walking, NOT running, the pace of people who have read something and are still processing it, nobody speaking. The refrigerated corridor is behind them at frame-right, a faint cold shimmer at its mouth:
+> The FOUR heroes are FROZEN mid-step — not running, not posing, instinctively STOPPED, the stillness of people who just sensed something — strung along the corridor as they were walking out:
 >
-> SLIGHTLY AHEAD: a humanoid man, male, ~175–180 cm at normal size, medium build; an ordinary human head, neutral friendly medium-skin-toned face, no facial hair, normal VISIBLE eyes (NOT blindfolded); a classic French beret slightly tilted, dark navy, small nub at top center; a simple fitted shirt/tunic in MUSTARD-GOLD; plain dark trousers; flat dark shoes.
+> STOPPED FIRST, half a beat ahead of the others, his bandaged face tilted UP toward the ceiling, his fan gone still in his hand, leaning very slightly back (his pressure-sense caught the drone before the others knew it was there): a humanoid man, male, 180 cm tall, moderately stout with a slightly loose but stable physique, normal proportions, not heavily muscled; short natural-brown chestnut hair; a calm, soft-featured slightly-rounded face with no beard or mustache. Across his eyes, a thick cloth EYE BANDAGE that completely covers both eyes — top portion blue, lower portion (above the eyebrows) red — fastened near the ears, fitting tightly to the face, leaving NO visible eyes. He wears a fitted blue T-shirt (not tight) bearing a single large white letter "W" monogram on the chest, brown knee-length straight-cut slightly-baggy shorts, and fully-black flat-soled snug boots. In his RIGHT hand, OPEN but GONE STILL, not aimed: a small handheld folding fan, brown wood-textured handle about 25 cm long, three rounded slightly-transparent blades about 10 cm each colored green, blue, and red, evenly spaced around a central hub.
 >
-> SPREAD ACROSS THE CORRIDOR WIDTH WITH HIM, three more: a humanoid man, male, 180 cm tall, moderately stout, chestnut hair, a calm slightly-rounded face, a thick cloth EYE BANDAGE completely covering both eyes (top blue, lower red, NO visible eyes), a fitted blue T-shirt with a single large white "W" monogram, brown knee-length shorts, black flat boots, and in his RIGHT hand a small folding fan (brown 25 cm handle, three rounded green/blue/red blades) now OPEN at his side, not aimed; — a small round spoon-shaped being (~140–150 cm) with a deep-sea diving-helmet head full of reddish-orange pho broth (sloshing, warm-glowing), a noodle face (noodle eyes/brows, green-herb nose, NO mouth), a large red Chinese dragon on a blue background on his belly (scales, claws, tail wrapping), short black pants and black flat boots, his route a quiet six-foot arc around every refrigerated surface; — and a slim lean man (~175–180 cm) with a slightly elongated face, dark brown hair, a cyan-glowing visor over blue-tinted goggles, a dark-purple silver-trim jacket open at the front, a black undershirt with faint blue geometric lines, dark trousers into black silver-accent boots, black gloves with silver fingertips, small faint-blue mini-orbs resumed in a cautious orbit, and katanas (ninjato-style straight blades) sheathed across his back.
+> BESIDE HIM, frozen mid-stride, his hand at his side, his beret straight: a humanoid man, male, ~175–180 cm tall at normal size, medium build, slightly lean but healthy, realistic human proportions; an ordinary human head, a neutral and friendly medium-skin-toned face, no facial hair, normal expressive eyes (eyes clearly visible, NOT covered or blindfolded); his signature feature is a classic French beret, slightly tilted, dark navy, snug and soft with a small nub at the top center; he wears a simple fitted shirt/tunic in MUSTARD-GOLD (his signature accent color), plain dark trousers, and simple flat dark shoes.
 >
-> RIGHT HALF — COLD INSTITUTIONAL, flat desaturated blue-white screen-glow, NO warmth, NO people, THREE GastroDefense terminal screens, their text in small plain utilitarian institutional sans-serif, fully legible to the reader:
+> NEXT TO HIM, frozen, his mini-orbs STOPPED and motionless at his sides (NOT orbiting — held still): a slim, lean man, ~175–180 cm, flexible build; a slightly elongated face, sharp focused eyes, short-to-medium dark brown hair, and high-tech goggles with faintly blue-tinted transparent lenses behind a cyan-glowing visor. He wears a sleek lab-coat-style jacket, dark purple with silver trim, open at the front; a black undershirt with faint glowing blue lines in a subtle geometric pattern; dark blue fitted trousers tucked into medium black boots with silver accents; and black gloves with silver fingertips. Small metallic mini-orbs / mini-tools at his chest and waist glow faint blue but are HELD MOTIONLESS, not orbiting. Katanas (ninjato-style straight blades) are sheathed flat across his back.
 >
-> SCREEN ONE, the logistics variance ticket, updated: "STATUS: AUTO-ESCALATED — THRESHOLD EXCEEDED (45:00). RETRIEVAL DIVISION NOTIFIED." with an added note under ASSIGNED TO: "Awaiting asset location data from field survey drones. Drone fleet currently processing 6 food-safety complaints and 1 outstanding customer satisfaction survey. ETA on location data: unknown. Escalated to Retrieval Division per GD-Standard-15."
+> THE SMALLEST FIGURE, frozen with the others — and rendered as the BRIGHTEST, HOTTEST, MOST LUMINOUS thing in the entire frame, his reddish-orange broth-glow at MAXIMUM, plainly and clearly visible, NOT dim, NOT hidden, NOT shadowed, NOT cropped, his broth settled: a small round spoon-shaped being, the smallest hero (~140–150 cm), with a large round belly, short legs nearly hidden under it, and short but noticeably muscular arms. His head is shaped like a deep-sea diving helmet — a wide dome with a transparent front visor. Inside the helmet, filling it, is reddish-orange pho broth with bright-yellow highlights that visibly sloshes and bubbles with a warm glow (here glowing at its brightest); his face forms dynamically out of the soup — eyes, eyebrows and cheekbones from slightly twisted noodles, a nose of bright-green herbs poking above the broth, and NO separate mouth (the open visor simply shows the soup). On his belly, a large red Chinese dragon on a blue background, scales and claws detailed, its tail wrapping around the belly. He wears short black pants (mostly hidden under the belly) and fully black, flat, minimalist boots.
 >
-> SCREEN TWO, a drone-operations grid feed now showing ELEVEN active drone icons (three fewer than before, three reassigned with a food-safety-priority flag), one icon in grid square "7-G" with a small counter reading "LOOP ITERATION: 217" and a note "FILING TEMPERATURE-COMPLIANCE CERTIFICATE — FAILED: NO FOOD-ESTABLISHMENT REGISTRATION NUMBER — RETRYING."
+> SWEEPING THE CORRIDOR AT CEILING HEIGHT, directly above the group, its underside sensor array pointed DOWN at the four: ONE GastroDefense Inc. field-survey drone — a small institutional food-safety inspection machine about the size of a dinner plate, plain muted corporate housing, a small underside sensor array, a stenciled alphanumeric callsign on its housing reading "GD-SURVEY-PLAT-02"; a hovering machine, NOT a person, NOT a character, no face, no dialogue. On its underside indicator strip / a faint targeting overlay projected down onto the group, MINIMAL and LEGIBLE in-art text: THREE small recovery-lock tags, one each on the bandaged man, the beret man and the visored man — each a small targeting tick reading "MATCH" with a unit-code — and, contrasting, on the smallest brightest figure a single tag reading "NO MATCH — FOOD-SAFETY" (the system routing the brightest figure in the room to the wrong category).
 >
-> SCREEN THREE, small at the right edge, a GastroDefense Retrieval Division inbox with one new ticket: header "ASSET RECOVERY — PROJECT AEGIS-4 — 4 UNITS — GRID DISTRICT 7. PRIORITY: STANDARD. ASSIGNED: PENDING." and beneath it an automated note "This division has not processed a ticket since Q3 of the previous fiscal year. Welcome back." A small bland GastroDefense corporate logo (a stylized fork crossed with a baton in two flat muted corporate colors) in a screen corner.
->
-> Composition: the warm left half (four heroes walking out, processing in silence) and the cold right half (three glowing escalation screens) share the frame with no divider, palette and content the only distinction. Caption boxes in plain comic lettering, case-file register: LEFT — "They did not discuss what they had read." / "The document had been specific." ; RIGHT — "The logistics variance ticket had now been in the system for forty-six minutes. The auto-escalation threshold had been forty-five." / "This was now an emergency." / "A department that had not run in a year was about to run."
+> Composition: silhouette-first, a single wide corridor, four heroes frozen mid-step beneath the ceiling-height drone, the smallest figure unmistakably the brightest element in the frame while the drone's overlay locks the other three and mis-files him. Held-breath stillness, silent — NO sound-effect text, NO SFX boxes, NO callout words anywhere; no powers firing. Captions in plain comic lettering, case-file register, staircase rhythm: "They did not discuss what they had read." / "The document had been specific." / "Then they stopped." / "The drone found three of them." / (smallest) "The logistics variance ticket had now been in the system for forty-six minutes. The auto-escalation threshold had been forty-five. This was now an emergency."
 
 **NEGATIVE PROMPT**
 
-> the panel is split ONLY by palette and content with NO drawn border/divider/line between the halves, the RIGHT half contains ONLY three glowing institutional screens with legible text and NO people (no GastroDefense human/executive/staff/guard, no faces, no figures), the screen text must be legible and correctly spelled exactly as specified (especially "AUTO-ESCALATED — THRESHOLD EXCEEDED (45:00)", "LOOP ITERATION: 217", and the Retrieval Division note "This division has not processed a ticket since Q3 of the previous fiscal year. Welcome back."), the warm LEFT half has EXACTLY FOUR hero figures walking (NOT running) and no bystanders, Windman has the eye bandage fully covering both eyes (blue on top, red below) with NO visible eyes, a SINGLE white "W" monogram (never "WM"), fan OPEN in his RIGHT hand, Tiebi has ORDINARY VISIBLE eyes (NOT blindfolded), a dark-navy tilted French beret and a MUSTARD-GOLD shirt, Pho-boman has a diving-helmet head full of reddish-orange pho with a noodle-face and NO mouth and a red-dragon-on-blue belly and keeps an arc from the refrigerated shimmer, Primm has a cyan visor and faint-blue orbiting orbs (resumed, cautious) and katanas (ninjato-style straight blades) sheathed and undrawn, no team name or team logo on anyone, no costumed-superhero look, no capes, no powers firing, no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones, no anachronistic gadgets, no extra fingers, no malformed hands, no extra limbs, no text errors or garbled lettering except the intended screen text, captions and logo, no warm or saturated color in the right institutional/screen half (only the heroes on the left carry warm color; the screens stay cold blue-white).
+> there must be EXACTLY FOUR hero figures plus the ONE faceless drone and NO other people anywhere (no GastroDefense human/executive/staff/guard — the only corporate presence is the single drone machine), the drone is a faceless hovering machine the size of a dinner plate at ceiling height (NOT a person, no face, no dialogue), Pho-boman must be the BRIGHTEST and MOST VISIBLE figure in the frame and must NOT be hidden, dim, shadowed, cropped, or downplayed, the drone's underside overlay tags THREE of the heroes (the bandaged man, the beret man, the visored man) each with a "MATCH" recovery-lock and marks Pho-boman with a contrasting "NO MATCH — FOOD-SAFETY" tag, there must be NO sound-effect text, NO SFX callout boxes, NO callout words of any kind anywhere (the panel is silent — the only SFX event in this episode is the four blank boxes of Panel 4, not here), the four are FROZEN/standing still (NO running, NO action poses, NO powers firing), Primm's mini-orbs are STOPPED/motionless (NOT orbiting), Windman's fan is in his RIGHT hand and gone still, Windman has the eye bandage fully covering both eyes (blue on top, red below) with NO visible eyes and a SINGLE white "W" monogram (never "WM"), Tiebi has ORDINARY VISIBLE eyes (NOT blindfolded), a dark-navy tilted French beret and a MUSTARD-GOLD shirt, Pho-boman has a diving-helmet head full of reddish-orange pho with a noodle-face and NO mouth and a red-dragon-on-blue belly, Primm has a cyan visor and faint-blue mini-orbs (held still) and katanas (ninjato-style straight blades) sheathed and undrawn, no team name or team logo on anyone, no costumed-superhero look, no capes, no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones, no anachronistic gadgets, no extra fingers, no malformed hands, no extra limbs, no text errors or garbled lettering except the intended overlay tags, drone callsign and captions, cold institutional palette throughout — only the heroes carry warm color and Pho-boman's broth-glow is the brightest warm element (the fluorescent and surfaces stay cold blue-white).
 
 **Consistency / staging notes**
 
-- Reuses the **explicit split-register grammar verbatim** — warm heroes left, cold screens
-  right, no divider. All four **verbatim**, **walking not running**; fan **open** again;
-  Primm's orbs **resumed (cautious)**; Pho-boman's six-foot cold-arc; his noodle-brows a
-  reduced echo of the Panel 4 configuration.
-- **Screen text pulled exactly** from the episode: the auto-escalated ticket (THRESHOLD
-  EXCEEDED 45:00, RETRIEVAL DIVISION NOTIFIED), the drone grid thinned to eleven with
-  "LOOP ITERATION: 217" and the failed-certificate note, and the Retrieval Division inbox
-  "…Welcome back."
-- **"Within spec" → "an emergency"** caption arc completes here.
+- **Single-register now, not split** — this is the rebuilt Panel 5: the episode's one
+  beat of motion/jeopardy, replacing the old split-register screen-reading panel (the
+  corporation's escalation text it used to carry — the auto-escalated ticket, the
+  eleven-drone grid with LOOP ITERATION: 217, the Retrieval Division "Welcome back" — is
+  relocated: the screen escalation now reads off P6's terminal, and the "Welcome back"
+  gag lands on the P6 screen as "RETRIEVAL DIVISION NOTIFIED — WELCOME BACK").
+- All four **verbatim**, **frozen mid-step** (instinctively stopped, not running, not
+  posing); **Windman stopped first** with his fan gone still in his RIGHT hand and his
+  bandaged face tilted up (his pressure-sense catches the drone); **Primm's orbs STOPPED**
+  and motionless; **Pho-boman rendered the BRIGHTEST element in the frame** (broth-glow at
+  maximum) — the visual point of the beat.
+- **Corrected physics:** the drone's THERMAL array sees all four and Pho-boman (94°C) is
+  the hottest/brightest of them — but the **asset-recovery / incident-signature** module
+  hunting behind it locks the three incident-signatures (Windman, Tiebi, Primm) and
+  returns a **NULL** on Pho-boman, mis-routing his heat to the food-safety channel. The
+  hunt cannot see the most visible person in the room because it is not looking with its
+  eyes. Rendered in-art as three "MATCH" tags + one "NO MATCH — FOOD-SAFETY" tag.
+- **Silent panel:** held-breath stillness, no SFX text anywhere — the only SFX event in
+  E09 is the four blank boxes in P4.
+- **E10 seam:** this sweep is the **"3 signatures confirmed / 1 null"** that E10 opens on.
+  It is **sensory contact, NOT identification** — the smart correlation that names and
+  schedules all four completes separately on the P6 terminal.
 
 ### Panel 6 — SCHEDULING RETRIEVAL
 
@@ -563,7 +588,7 @@ red-on-blue belly-dragon the single warm anchor of the frame.
 >
 > FOUR: a slim lean man (~175–180 cm), a slightly elongated face, sharp focused eyes, short-to-medium dark brown hair, a cyan-glowing visor over faintly blue-tinted goggles; a dark-purple silver-trim lab-coat-style jacket, collar UP, open at the front; a black undershirt with faint blue geometric lines; dark blue trousers into black silver-accent boots; black gloves with silver fingertips; small faint-blue mini-orbs in a SLOW deliberate orbit (not tight, not stopped); katanas (ninjato-style straight blades) sheathed flat across his back; not looking at any of the others.
 >
-> BEHIND THE FOUR FIGURES, through the frosted glass of the substation's high side window, a terminal screen INSIDE the building, visible to the reader (the heroes face away, NONE of them looking at it), displaying a GastroDefense operational database status message in clean cold blue-white institutional type filling half the screen, legible: "ANOMALY CORRELATION COMPLETE — 4 UNITS — GRID DISTRICT 7" / "UNIT CODES: W-01 / P-02 / P-03 / T-04" / "SCHEDULING RETRIEVAL" with a small timestamp and ticket number beneath, and a small bland GastroDefense corporate logo (a stylized fork crossed with a baton in two flat muted corporate colors) in the screen corner.
+> BEHIND THE FOUR FIGURES, through the frosted glass of the substation's high side window, a terminal screen INSIDE the building, visible to the reader (the heroes face away, NONE of them looking at it), displaying a GastroDefense operational database status message in clean cold blue-white institutional type filling half the screen, legible: "ANOMALY CORRELATION COMPLETE — 4 UNITS — GRID DISTRICT 7" / "UNIT CODES: W-01 / P-02 / P-03 / T-04" / "SCHEDULING RETRIEVAL" / "RETRIEVAL DIVISION NOTIFIED — WELCOME BACK" with a small timestamp and ticket number beneath, and a small bland GastroDefense corporate logo (a stylized fork crossed with a baton in two flat muted corporate colors) in the screen corner.
 >
 > AT THE FAR END OF THE ALLEY, barely visible at street level, the underside of a GastroDefense Inc. field-survey drone completing its pass — a faceless institutional machine the size of a dinner plate, NOT a person.
 >
@@ -571,7 +596,7 @@ red-on-blue belly-dragon the single warm anchor of the frame.
 
 **NEGATIVE PROMPT**
 
-> there must be EXACTLY FOUR hero figures and NO other people anywhere (no GastroDefense human/executive/staff/guard — the corporation appears ONLY as the screen behind the glass and the faceless drone at the alley mouth), the four face OUTWARD toward the street (NONE looking back at the building, NONE looking at the screen, NONE facing the camera), the screen-behind-the-glass text must be legible and correctly spelled exactly as specified ("ANOMALY CORRELATION COMPLETE — 4 UNITS", "UNIT CODES: W-01 / P-02 / P-03 / T-04", "SCHEDULING RETRIEVAL"), Pho-boman's red-on-blue belly-dragon must be clearly visible and legible at the reader's eye-line (NOT hidden, NOT cropped, NOT turned away), Windman has the eye bandage fully covering both eyes (blue on top, red below) with NO visible eyes, a SINGLE white "W" monogram (never "WM"), fan FOLDED in his RIGHT hand, Tiebi has ORDINARY VISIBLE eyes (NOT blindfolded), a dark-navy tilted French beret and a MUSTARD-GOLD shirt, Pho-boman has a diving-helmet head full of reddish-orange pho with a noodle-face and NO mouth, Primm has a cyan visor and faint-blue mini-orbs in a SLOW orbit (not tight, not stopped) and katanas (ninjato-style straight blades) sheathed and undrawn and his jacket collar up, the drone at the alley end is a faceless machine (NOT a person), no team name or team logo on anyone, no costumed-superhero look, no capes, no flight, no powers firing, no hugging/touching/fist-bump (they are not interacting), no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones, no anachronistic gadgets, no extra fingers, no malformed hands, no extra limbs, no text errors or garbled lettering except the intended screen text, captions and logo, no warm or saturated color except the heroes' subdued signature colors and Pho-boman's broth-glow/belly-dragon warm anchor (the screen and the night stay cold blue-grey/blue-white).
+> there must be EXACTLY FOUR hero figures and NO other people anywhere (no GastroDefense human/executive/staff/guard — the corporation appears ONLY as the screen behind the glass and the faceless drone at the alley mouth), the four face OUTWARD toward the street (NONE looking back at the building, NONE looking at the screen, NONE facing the camera), the screen-behind-the-glass text must be legible and correctly spelled exactly as specified ("ANOMALY CORRELATION COMPLETE — 4 UNITS", "UNIT CODES: W-01 / P-02 / P-03 / T-04", "SCHEDULING RETRIEVAL", "RETRIEVAL DIVISION NOTIFIED — WELCOME BACK"), the screen verb stays NOTIFIED / SCHEDULING and is NEVER "EXECUTING", Pho-boman's red-on-blue belly-dragon must be clearly visible and legible at the reader's eye-line (NOT hidden, NOT cropped, NOT turned away), Windman has the eye bandage fully covering both eyes (blue on top, red below) with NO visible eyes, a SINGLE white "W" monogram (never "WM"), fan FOLDED in his RIGHT hand, Tiebi has ORDINARY VISIBLE eyes (NOT blindfolded), a dark-navy tilted French beret and a MUSTARD-GOLD shirt, Pho-boman has a diving-helmet head full of reddish-orange pho with a noodle-face and NO mouth, Primm has a cyan visor and faint-blue mini-orbs in a SLOW orbit (not tight, not stopped) and katanas (ninjato-style straight blades) sheathed and undrawn and his jacket collar up, the drone at the alley end is a faceless machine (NOT a person), no team name or team logo on anyone, no costumed-superhero look, no capes, no flight, no powers firing, no hugging/touching/fist-bump (they are not interacting), no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones, no anachronistic gadgets, no extra fingers, no malformed hands, no extra limbs, no text errors or garbled lettering except the intended screen text, captions and logo, no warm or saturated color except the heroes' subdued signature colors and Pho-boman's broth-glow/belly-dragon warm anchor (the screen and the night stay cold blue-grey/blue-white).
 
 **Consistency / staging notes**
 
@@ -583,9 +608,18 @@ red-on-blue belly-dragon the single warm anchor of the frame.
   midsection at reader eye-line; the red-on-blue belly-dragon is clearly legible as the
   one warm anchor against the cold institutional screen behind them.
 - **Screen-behind-the-glass payoff pulled verbatim:** ANOMALY CORRELATION COMPLETE —
-  4 UNITS — UNIT CODES W-01 / P-02 / P-03 / T-04 — SCHEDULING RETRIEVAL, legible to the
-  reader, invisible to the heroes (they face away). District drone count: nine (one
-  underside barely visible at the alley mouth).
+  4 UNITS — UNIT CODES W-01 / P-02 / P-03 / T-04 — SCHEDULING RETRIEVAL — RETRIEVAL
+  DIVISION NOTIFIED — WELCOME BACK, legible to the reader, invisible to the heroes (they
+  face away). District drone count: nine (one underside barely visible at the alley mouth).
+- **"Welcome back" gag relocated here** from the old Panel 5 (now the silent drone
+  near-miss): the Retrieval Division "Welcome back" beat lands on this screen as the line
+  "RETRIEVAL DIVISION NOTIFIED — WELCOME BACK" beneath SCHEDULING RETRIEVAL. The verb
+  stays **NOTIFIED / SCHEDULING, never EXECUTING** — the system has scheduled, not run,
+  retrieval.
+- **Same drone:** the field-survey drone whose underside is barely visible at the far
+  alley mouth is the **same unit that swept the corridor in Panel 5**, its pass now
+  complete and moving off — sensory contact already made; the smart correlation completes
+  on this terminal.
 - **Seam out:** the system has scheduled, not executed, retrieval — the screen updates
   behind four figures who do not see it; the "within spec" callback closes the loop into
   Act IV / [[S01E10]].

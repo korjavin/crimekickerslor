@@ -115,26 +115,31 @@ The dash placeholder where Primm's signature should be is the most precise expre
 
 ---
 
-### Panel 3 — Inertia (Before)
+### Panel 3 — One-Body Problem
 
-**Image:** Ground-level wide shot, the whole block visible. The truck is still rolling — cab at center-frame, wheels turning, cold vapor trailing. Now all four are visible in one frame for the first time in the series. None of them is looking at any of the others. The truck's bulk is between the front-approaching pair and the rear-approaching pair; none of the four has yet seen who else has arrived.
+**Image:** Low ground-level angle from near the bottom of the slope, looking up at the truck as it bears down — the cab and grille fill the upper frame, the windshield dark and empty, the GastroDefense logo on the door, cold vapor pouring off the rear unit. Drawn from below at its true scale, the eight-metric-ton truck is the largest, heaviest object the series has put on a page: monumental, close, and still rolling.
 
-**Windman:** upper-left approach, fan raised, pressure ghost-lines firing forward at the truck's front. He has Tiebi at his shoulder.
+Planted in its path, grown large and braced shoulder-to-grille, is **Tiebi** — mustard-gold, beret on. He committed first, alone, on the math he ran in Panel 2, and he has not stopped the truck. His boots are furrowing twin grooves in the asphalt as he slides backward; the cab has barely slowed. Growing did not make him heavier — his mass is conserved, so a larger Tiebi is the same mass spread thinner, and there is nothing for eight metric tons to brace against except a man who is now merely a bigger man being pushed down a hill. A single STOMP fired where he planted his feet; inertia has already answered it. His expression is that of someone watching a correct calculation fail to be sufficient.
 
-**Tiebi:** upper-left alongside Windman, already beginning to shift — the mustard-gold of his shirt growing taller in the frame as he adds centimeters, calculating upward toward his maximum architecturally-viable size. Beret on.
+At the edges of the frame, still closing and not yet in contact — each on his own separate vector, none aware the others have come:
 
-**Primm:** upper-right approach, gloved palm forward, DRIFT light-bend beginning to engage the front axle at range. His blink-trail is still dissipating from the teleport arrival. Mini-orbs in active orbit.
+**Windman:** a step behind Tiebi, fan coming up but not yet fired, blue ghost-lines just beginning to gather.
 
-**Pho-boman:** lower-right approach, small spoon-shaped form moving at Pho-boman speed, a noodle-rope already beginning to extend from the visor's lower gap, reddish-orange and steam-curling, aimed at the rear of the truck. He is keeping distance from the cold exhaust vent, but not enough distance to stop the noodle-rope from finding the rear axle.
+**Primm:** arriving at the right, blink-trail still dissipating, gloved palm rising toward the front axle, the violet/cyan light-bend not yet engaged.
 
-Four colors in one frame for the first time: Windman's blue compression-rings forming at the fan's edge, Primm's violet/cyan DRIFT distortion bending air at the truck's front axle, Pho-boman's reddish-orange noodle-rope extending from behind the truck's rear, Tiebi's mustard-gold body scaling upward at the truck's left flank. The palette has arrived.
+**Pho-boman:** rounding the truck's rear, small, the reddish-orange noodle-rope not yet thrown, keeping his distance from the cold exhaust vent.
+
+Three more solutions arriving a beat too late to be the same idea. The truck does not care. It is still rolling.
+
+**SFX:**
+*STOMP —*
 
 **Caption / dialogue:**
-- CAPTION: *The truck weighed approximately eight metric tons.*
-- CAPTION (below): *Each of them had decided this was their problem.*
-- CAPTION (below): *None of them had told the others.*
+- CAPTION: *One of them tried it alone.*
+- CAPTION (below): *Eight metric tons declined.*
+- CAPTION (below): *The math required the others. Nobody had asked them.*
 
-**Why it lands:** The visual grammar of E01 Panel 5 — four figures, one frame, four separate directions — is here inverted into its precise opposite: four figures, one frame, one shared object, all vectors pointing inward. The panel is the visual answer the series has been building toward since the first issue closed on four people walking apart. The colors landing together for the first time is a palette event the reader has been building toward across seven episodes of individual color registers. The captions are doing the dry double-take the series uses for its comedy — not the powers, not the drama, but the dry notation that eight metric tons was, independently and simultaneously, four different people's problem.
+**Why it lands:** This replaces a redundant third convergence shot with a try-fail beat that earns Panel 4. Drawn from below at full scale, the truck is finally the menace its eight metric tons imply — the weight the previous wide shot could never deliver, and the fix for a truck that read small. Tiebi acting alone, on the correct math, and still failing is the episode's title made literal: a one-body solution does not solve a four-body problem. The physics stays honest to his canon — mass conserves, so growing cannot out-weigh the truck; he is bigger, not heavier, and a bigger man on a slope still slides. The caption turns the series' central conceit from a stated fact into a demonstrated one: the math required the others, and nobody had asked them — the zero-coordination running joke, now load-bearing. The other three arriving at the frame's edges, a beat late and on unaligned vectors, set Panel 4's geometry without pre-empting it. And the four-color palette event is deliberately withheld here — only Tiebi's mustard-gold is on the truck; the full four-color arrival lands intact, for the first time, in Panel 4.
 
 ---
 
@@ -162,7 +167,7 @@ All four SFX in the panel:
 - CAPTION (below): *This took four of them.*
 - CAPTION (below): *None of them said anything about that.*
 
-**Why it lands:** The four SFX landing together in one panel is the "first time they feel like a team" beat, delivered as a mechanical fact. The truck stopped because four different power-sets arrived at the same eight-metric-ton object, two pairs converging from opposite ends, and their applications interlocked without coordination: pressure at the wheel-gap, axle-lift at the front, a body-sized obstacle dropped into the path of a truck already losing speed to the other three, a bind at the rear axle. This is what the series' competence comedy has been building toward — not sentiment, but the dry notation that the thing worked. The caption staircase says the absolute minimum true thing: the truck stopped, this took four of them, nobody said anything about it. Three lines. The joy is entirely in the geometry. Tiebi's bridge calculation paying off with a "compromise" is the slapstick peak of the episode — he solved the ceiling problem with precision and the result is a wardrobe-sized man under a bridge, beret on, which is exactly right. The four-color frame is the visual climax the palette has been building toward since E02.
+**Why it lands:** The four SFX landing together in one panel is the "first time they feel like a team" beat, delivered as a mechanical fact. The truck stopped because four different power-sets arrived at the same eight-metric-ton object, two pairs converging from opposite ends, and their applications interlocked without coordination: pressure at the wheel-gap, axle-lift at the front, a body-sized obstacle dropped into the path of a truck already losing speed to the other three, a bind at the rear axle. This is what the series' competence comedy has been building toward — not sentiment, but the dry notation that the thing worked. The caption staircase says the absolute minimum true thing: the truck stopped, this took four of them, nobody said anything about it. Three lines. The joy is entirely in the geometry. Tiebi's bridge calculation paying off with a "compromise" is the slapstick peak of the episode — he solved the ceiling problem with precision and the result is a wardrobe-sized man under a bridge, beret on, which is exactly right. And it is the panel where his Panel 3 failure is redeemed: alone he was bigger, not heavier, and the truck shrugged him off; here the same planted body holds, because the other three are bleeding the truck's momentum at the same instant. The four-color frame — all four signature colors at full saturation in one frame for the first time in the series — is the visual climax the palette has been building toward since E02.
 
 ---
 
@@ -242,7 +247,7 @@ The recall notice on the truck's side panel is never pointed at by the narrator 
 
 - **Panel 1:** wide and dry, case-file establishing. The city as a stage, the truck as the episode's one object. The humor is in the captions — four reasons, one truck, the city not commenting. Palette: dark night-city, cold vapor from the truck's rear, four approach-vector signatures in their respective ghost-line/distortion registers. No warmth yet; the signature colors are present but small, at the edges.
 - **Panel 2:** the split-register panel runs four diagnostic clocks simultaneously without ever touching each other. The comedy is in the parallel register — four people doing their own math, arriving at their own conclusions, about the same object. The FIELD READ bracket is the tonal peak of the issue's humor as a single image: the dash-placeholder column does the work a paragraph cannot. Tiebi's bridge-clearance caption is the setup.
-- **Panel 3:** gear-shift. The convergence is now visible — all four in one frame, approaching, the truck still rolling. The comedy is in the captions' flat declaration that eight metric tons was, independently and simultaneously, four people's problem. The four-color palette arrives here for the first time in the series.
+- **Panel 3:** the try-fail beat, and a hard gear-shift in scale. The truck is drawn from below at its true eight-metric-ton size — the biggest, heaviest object the series has staged — bearing down while one of them tries to stop it alone and fails. The comedy is in the dry notation that a correct calculation was simply not enough mass against a slope: one body cannot solve a four-body problem. The four-color palette event is NOT spent here — only Tiebi's mustard-gold engages the truck; the full four-color arrival is reserved for Panel 4.
 - **Panel 4:** the slapstick peak. All four SFX. All four colors at full saturation. The truck stops. The caption delivers the team-feeling in exactly three lines. Tiebi under the bridge in wardrobe form is the episode's funniest image; the beret's precision is the visual confirmation that style holds under any constraint. The captions do not editorialize. The tone is the driest it has been in the series, because the driest register is the one that makes the biggest moment land.
 - **Panel 5:** quiet. After the kinetic centerpiece, the stillness is earned. The field-entanglement between Windman and Primm is small and involuntary and the caption does not explain it. Tiebi's line to Pho-boman — "You were in the freezer" — is their first exchange; it is flat and it is everything. The tone is the series' driest emotional register: not sentiment, not announcement, just the minimum true thing said aloud.
 - **Panel 6:** the visual button. Overhead, four figures, same direction, truck behind them. The captions count: there are four of them now. Nobody said the word. The final caption is the Act IV plant in the smallest possible type. The tone is the quiet after a thing has landed.

@@ -39,12 +39,12 @@ of the panel. No narration captions span the full panel — each belongs to its 
 > *(bottom-right, Pho-boman's vignette)* The smell was familiar. The smell was also behind a
 > wall. He found this interesting.
 
-**Panel 3 — Inertia (Before)**
-> The truck weighed approximately eight metric tons.
+**Panel 3 — One-Body Problem**
+> One of them tried it alone.
 >
-> Each of them had decided this was their problem.
+> Eight metric tons declined.
 >
-> None of them had told the others.
+> The math required the others. Nobody had asked them.
 
 **Panel 4 — Four-Body Problem**
 > The truck stopped.
@@ -77,9 +77,13 @@ of the panel. No narration captions span the full panel — each belongs to its 
   *[FIELD READ: irregular-mass (known) / — / broth-type (warm, 62 kg)]*
   The dash placeholder in the second column (where Primm's signature would be) is the precise
   element; do not fill it.
+- **Panel 3 SFX — STOMP (single):** Tiebi's lone STOMP fires as he plants and the eight-ton
+  truck shrugs him off. Letter it smaller and singular — one hero's sound, not the team's. It
+  is the deliberate quiet contrast to Panel 4; do not letter the P3 STOMP at P4 scale.
 - **Panel 4 SFX — all four fire simultaneously:** this is the only panel in the series where
-  all four SFX appear in one frame. Letter them as separate callout boxes, stacked or
-  arranged in the panel's visual margins:
+  all four SFX appear in one frame *together* (Panel 3 carries a single STOMP as the contrast
+  beat). Letter them as separate callout boxes, stacked or arranged in the panel's visual
+  margins:
   - *HWUF —* (Windman, front-wheel-gap compression sweep)
   - *DRIFT —* (Primm, front axle lift)
   - *STOMP —* (Tiebi, planted in the truck's rolling path)

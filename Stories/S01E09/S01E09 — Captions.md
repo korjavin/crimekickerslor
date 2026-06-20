@@ -8,12 +8,12 @@ episode: S01E09
 # S01E09 — Captions
 
 Print-ready narration captions for [[S01E09 — Variance Report]] — to letter onto the comic
-page beside each picture. E09 runs a **parallel-register structure** across two panels: heroes
-occupy the warm-palette half of split-register panels; the corporation's administrative process
-occupies the cold-palette half. Each half carries its own caption track in the same dry
-case-file narrator voice — but the corporate captions run a ticking-clock arithmetic (the
-auto-escalation threshold) as a running register across the episode. No dialogue. 6 panels;
-narration captions only. Pairs with [[S01E09 — Panel Prompts]].
+page beside each picture. E09 runs a **parallel-register structure**: the corporation's administrative
+process shares the page with the heroes, declared as an explicit split-register in Panel 2 and
+held implicit elsewhere. The corporate captions run a ticking-clock arithmetic (the
+auto-escalation threshold) as a running register across the episode — the clock the audience
+reads and the heroes cannot. One line of dialogue (Tiebi, Panel 3); narration captions
+otherwise. 6 panels. Pairs with [[S01E09 — Panel Prompts]].
 
 ## Captions
 
@@ -56,20 +56,21 @@ track. Captions do not cross the register divide.)*
 *(No SFX in this panel. Four blank SFX boxes appear in the panel's visual margins; see
 lettering notes.)*
 
-**Panel 5 — Escalation Chain (Split-Register)**
+**Panel 5 — Null Return**
 
-*(Split-register panel: heroes left, corporation right. Same structural logic as Panel 2.)*
+*(Single-register panel — the corporation reaches the heroes physically for the only time,
+as a faceless drone, not a screen. No dialogue; no SFX. See lettering notes.)*
 
-> *(left, heroes)* They did not discuss what they had read.
+> They did not discuss what they had read.
 >
-> *(left, heroes)* The document had been specific.
-
-> *(right, corporation)* The logistics variance ticket had now been in the system for
-> forty-six minutes. The auto-escalation threshold had been forty-five.
+> The document had been specific.
 >
-> *(right, corporation)* This was now an emergency.
+> Then they stopped.
 >
-> *(right, corporation)* A department that had not run in a year was about to run.
+> The drone found three of them.
+>
+> The logistics variance ticket had now been in the system for forty-six minutes. The
+> auto-escalation threshold had been forty-five. This was now an emergency.
 
 **Panel 6 — SCHEDULING RETRIEVAL**
 > The document had been eleven pages.
@@ -87,18 +88,16 @@ lettering notes.)*
   minutes" figure is the episode's ticking clock; the audience holds it from here.
 - **Panel 2 split-register captions:** left-half (heroes) and right-half (corporation) captions
   sit in their respective halves and do not bleed across. No labeled divider — the reader
-  distinguishes by palette. The corporate screen text visible in the right half is **in-panel
-  institutional lettering** (not narration captions) and is fully legible to the reader. Key
-  legible in-panel text on the corporate screens:
-  - *Logistics ticket header:* GD-LOGISTICS / VARIANCE REPORT / TICKET #VR-2247-B; body
-    includes ASSET: GD-TRUCK-RECALL-009; EXPECTED ARRIVAL: processing center, 23:47; ACTUAL
-    ARRIVAL: not recorded; VARIANCE: 100%; ASSIGNED TO: Unit Compliance, Acting (Interim,
-    Temporary); AUTO-ESCALATION THRESHOLD: 45 MIN. The ASSIGNED TO field has two struck-through
-    names; the current name is in a different font from the rest of the document.
-  - *Drone operations grid:* fourteen small icons; one notation visible: GD-SURVEY-DESSERT-04,
-    *FOOD-SAFETY COMPLIANCE: SUBJECT NOT A FOOD SERVICE ESTABLISHMENT. FILING EXCEPTION REPORT.*
-  - *Bottom of corporate screen, smallest institutional type:* four anomaly flags from Grid
-    Square 4-C correlated with unit codes *W-01 / P-02 / P-03 / T-04.*
+  distinguishes by palette. The corporate screen text is **in-panel institutional lettering**
+  (not narration captions), kept deliberately **glanceable** — the reader registers a ticket, a
+  struck-through name, a clock, a sting, not paragraphs. Legible in-panel text:
+  - *Logistics ticket, three lines:* GD-LOGISTICS / VARIANCE REPORT / #VR-2247-B ; ASSIGNED TO:
+    [two struck-through names] Unit Compliance, Acting (Interim, Temporary) — current name in a
+    different font ; AUTO-ESCALATION: 45:00.
+  - *Drone grid, one sting line:* GD-SURVEY-DESSERT-04 — GRID 7-G — NOT A FOOD ESTABLISHMENT —
+    FILING EXCEPTION.
+  - *Bottom of screen, smallest type (the one line that is not a joke):* GRID 4-C — 4 ANOMALY
+    FLAGS — ASSET REGISTRY MATCH: W-01 / P-02 / P-03 / T-04 — CORRELATION QUEUED — UNREAD.
 - **Panel 3 dialogue:** one flat line of dialogue (not a narration caption):
   **TIEBI:** *The terminals are on the right.*
   The in-panel terminal screen visible in the right foreground of the panel carries legible
@@ -124,17 +123,15 @@ lettering notes.)*
     fragments will no longer exist as separate units.
   - *4.4 CONSENT:* [Field not applicable — units were not designed to provide consent. Consent
     was not a design parameter for Project AEGIS-4.]
-- **Panel 5 split-register captions:** same structural logic as Panel 2. The corporate right
-  half runs three captions: the clock payoff ("forty-six minutes / threshold had been
-  forty-five"), the escalation button ("This was now an emergency"), and the plant ("A
-  department that had not run in a year was about to run."). The corporate screens in the right
-  half carry legible in-panel institutional text:
-  - Variance ticket updated: STATUS: AUTO-ESCALATED — THRESHOLD EXCEEDED (45:00). RETRIEVAL
-    DIVISION NOTIFIED.
-  - Drone grid: eleven active icons; GD-SURVEY-DESSERT-04 notation: *LOOP ITERATION: 217.*
-  - Retrieval Division inbox, new ticket header: *ASSET RECOVERY — PROJECT AEGIS-4 — 4 UNITS —
-    GRID DISTRICT 7. PRIORITY: STANDARD.* Automated note beneath: *This division has not
-    processed a ticket since Q3 of the previous fiscal year. Welcome back.*
+- **Panel 5 — the near-miss (single register, silent):** no split-register here and no
+  corporate-screen captions — the corporation arrives as a faceless drone in the room. A
+  GastroDefense field-survey drone sweeps the corridor at ceiling height; the four freeze
+  (Windman first). On the drone's underside overlay, visible to the reader as small in-art
+  lettering (not narration captions): three recovery-lock tags on Windman, Tiebi, Primm, and on
+  Pho-boman — the **brightest** figure in frame — a contrasting *NO MATCH — FOOD-SAFETY* tag.
+  Pho-boman must read as the most visible figure, not the least. The five narration captions
+  descend in the usual staircase, the last (the clock + "now an emergency") smallest. **No SFX
+  fires; the freeze is the event.**
 - **Panel 6 caption staircase:** four entries, descending in size. "The document had been
   eleven pages." at full weight (callback to Panel 4); "They had read it in four minutes."
   second; "Behind them, a system completed its correlation and scheduled retrieval." third;
@@ -146,7 +143,11 @@ lettering notes.)*
   *ANOMALY CORRELATION COMPLETE — 4 UNITS — GRID DISTRICT 7*
   *UNIT CODES: W-01 / P-02 / P-03 / T-04*
   *SCHEDULING RETRIEVAL*
-  The heroes are facing the other direction. The narration captions do not point at the screen.
+  *RETRIEVAL DIVISION NOTIFIED — WELCOME BACK*
+  The verb stays *scheduling / notified*, never *executing* — retrieval is set in motion, not
+  carried out (that is [[S01E10]]). "Welcome back" is the dormant Retrieval Division waking;
+  letter it dry, not sinister. The heroes are facing the other direction. The narration captions
+  do not point at the screen.
 - **"Within spec / now an emergency" register:** the corporate narrator's phrase "This was
   within spec." (Panels 2 and 6) and "This was now an emergency." (Panel 5) are the same
   bureaucratic register, the same sentence shape, describing the same escalation clock at
