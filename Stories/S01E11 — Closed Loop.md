@@ -71,7 +71,7 @@ Captions are the dry case-file narrator throughout. Dialogue is minimal. The cor
 
 *[FIELD READ: irregular-mass (known) / — / broth-type (warm, 62 kg)]*
 
-Windman does not remark on this. He knows where P-03 is. The field is reading the absence correctly.
+Windman does not remark on this. He does not know where P-03 is — only that the coordinate that used to return P-03 returns nothing now. The field is reading the absence correctly.
 
 **Tiebi:** center, slightly forward. Beret straight. Mustard-gold shirt in the street's ambient glow. He has something in his hands — a small networked device, a keycard-style credential token, the physical object his legacy access runs through. He is looking at it, not as someone deciding, but as someone who decided approximately two blocks ago and is now implementing the decision.
 

@@ -76,7 +76,7 @@ The null result — *1 NULL* — sits in the correlation line without comment. T
 This panel is the cold open. No heroes visible. No dramatic framing. The status field has updated. The workflow is executing. This is the direct seam from E09's *SCHEDULING RETRIEVAL* — one screen, one status field, one word changed.
 
 **Caption / dialogue:**
-- CAPTION: *The Retrieval Division had not processed a ticket in fourteen months.*
+- CAPTION: *The Retrieval Division had not processed a ticket since Q3 of the previous fiscal year.*
 - CAPTION (below): *It was now processing one.*
 - CAPTION (below, smallest): *The drone net had returned a null on one of the four unit codes. This was noted. There was no field in the protocol for it.*
 

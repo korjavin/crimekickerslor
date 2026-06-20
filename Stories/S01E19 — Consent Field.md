@@ -30,9 +30,11 @@ featured: [Tiebi, Windman, Primm, Pho-boman]
 
 **E19 opens** in the day after that conversation — city morning, the four still in the same loose orbit. The court order arrives not dramatically but procedurally: a process server finds Tiebi on a street corner because he is the only one with a legal identity and a last known address on file from his GastroDefense employment record. The document does the rest. The conversation of E18 is still reverberating; the injunction lands into it.
 
+**The clock compresses.** E17/E18 ran on a seventeen-day client deadline ("alternative enforcement" noted as contract option GD-C-4419-E, clause 7). When the client exercises that option, the deadline becomes the injunction's own statutory window: **ten days**, set by the court, not the contract. The compression from seventeen to ten is the cost of the escalation maturing into a court order — the injunction does not inherit the old clock; it issues a new, shorter one. A reader tracking the number sees seventeen become ten the way a deadline tightens when a softer instrument is replaced by a harder one.
+
 E19 feeds forward to **E20** — on day nine of the ten-day clock, the third option is chosen. The drone net thickens after the filing. The Junior Engineer, who has been the team's outside contact since E13, goes quiet.
 
-> **Seam test for any future edit:** does this episode deliver the injunction to Tiebi by a civil process server (not a GastroDefense agent, not an act of force), does Tiebi read it once and pocket it without commentary, does the Twist 4 collapse — "Status: Recalled" was a legal status since E01 — arrive through the document's case header (cross-referenced to the E16 prior-recall case number), and does the episode close with exactly four figures together and the ten-day clock explicitly started, with no decision made? If the injunction arrives through violence, if Tiebi reacts expressively, if any hero makes a choice about the un-make question, or if the case-number link to E16 is absent, the E19 beat is broken.
+> **Seam test for any future edit:** does this episode deliver the injunction to Tiebi by a civil process server (not a GastroDefense agent, not an act of force), does Tiebi read it once and pocket it without commentary, does the Twist 4 collapse — "Status: Recalled" was a legal status since E01 — arrive through the document's case header (the AEGIS-4 case opened on a filing date predating the fracture), with the footnote cross-referencing the **exact** E16 internal record string `CASE-3RG-0019` (not an invented parent filing, and not framing the prior iterations as litigated — E16 framed AEGIS-3 disposition as internal program-lifecycle closure), and does the episode close with exactly four figures together and the ten-day clock explicitly started, with no decision made? If the injunction arrives through violence, if Tiebi reacts expressively, if any hero makes a choice about the un-make question, or if the `CASE-3RG-0019` link to E16 is absent or replaced with a fabricated case string, the E19 beat is broken.
 
 ---
 
@@ -79,7 +81,7 @@ A figure is visible half a block ahead, on the same sidewalk — a person with a
 - CAPTION (below): *The city had continued regardless.*
 - CAPTION (below, smallest): *GastroDefense Inc. had eight more field-survey drones in the district than the last time anyone counted.*
 
-**Why it lands:** The opening panel establishes the E18 aftermath without restating it — "the conversation no one had finished" is the minimum true thing, and the captions do not reopen it. The city's indifference is the series' ground note, returned here after E18's closest approach to interior-register drama. The drone-count increase — eight more than the nine the reader last counted at E09's close — arrives in the smallest caption as a number, not an alarm, which is correct: the corporation does not alarm. It files, and then its drones are eight more than before. The caption gives the delta, not the total, because the delta is the dread and the total is just arithmetic; the reader who has been counting since E08 supplies the new figure without being handed it. The process server visible ahead is present-as-scenery, not spotlit, not announced; the reader sees him before the heroes register him, which is the structural grammar of a cold beat arriving without ceremony.
+**Why it lands:** The opening panel establishes the E18 aftermath without restating it — "the conversation no one had finished" is the minimum true thing, and the captions do not reopen it. The city's indifference is the series' ground note, returned here after E18's closest approach to interior-register drama. The drone-count increase — eight more than the nine the reader last counted at E09's close ("Drone count in the district: nine") — arrives in the smallest caption as a number, not an alarm, which is correct: the corporation does not alarm. It files, and then its drones are eight more than before. The caption gives the delta, not the total, because the delta is the dread and the total is just arithmetic; the reader who has been tracking the count since E08 (fourteen, then descending to nine by E09 as units were reassigned to food-safety) supplies the new figure — seventeen — without being handed it. The process server visible ahead is present-as-scenery, not spotlit, not announced; the reader sees him before the heroes register him, which is the structural grammar of a cold beat arriving without ceremony.
 
 ---
 
@@ -91,14 +93,14 @@ Tiebi receives the envelope with one hand, flat, not gripping it. His beret is e
 
 Behind Tiebi, in the panel's background: Windman, Pho-boman, and Primm have slowed and stopped. They are watching. Windman's pressure-read has registered a person stopping in front of Tiebi and a small object being exchanged; his fan has not moved. Pho-boman's noodle-brows are at the raised-curious configuration. Primm's mini-orbs have slowed to the cautious orbit. None of them approaches.
 
-The process server's tablet screen is briefly legible in the panel's foreground: the service-confirmation field shows the name *T. [REDACTED]* — Tiebi's employment-record name, partially visible. Beneath it: *CASE: CV-7741-ORIG // SERVING PARTY: City Court on behalf of [CLIENT REDACTED] // DOCUMENT: Injunction / Compliance Order / AEGIS-4.*
+The process server's tablet screen is briefly legible in the panel's foreground: the service-confirmation field shows the name *T. [REDACTED]* — Tiebi's employment-record name, partially visible. Beneath it: *CASE: CV-7741 // SERVING PARTY: City Court on behalf of [CLIENT REDACTED] // DOCUMENT: Injunction / Compliance Order / AEGIS-4.*
 
 **Caption / dialogue:**
 - CAPTION: *His name was on file from an employment record.*
 - CAPTION (below): *The court had used the address.*
 - CAPTION (below): *This was how it found him and not the others.*
 
-**Why it lands:** The service mechanics are the comedy and the horror simultaneously — Tiebi is found not by GastroDefense's drone net but by a city-court process server using a HR record from a job Tiebi held before any of this happened. The corporation does not need to find him: the legal system already has his address, his name, his prior existence on file. The panel does not explain that the others cannot be served in the same breath — the captions do it obliquely: "his name was on file." The others have no names on file. They have unit codes, which are not the same thing. The process server's tablet showing case number CV-7741-ORIG with "AEGIS-4" in the document field is the first signal, visible to the reader in the panel's foreground, that this case predates everyone present.
+**Why it lands:** The service mechanics are the comedy and the horror simultaneously — Tiebi is found not by GastroDefense's drone net but by a city-court process server using a HR record from a job Tiebi held before any of this happened. The corporation does not need to find him: the legal system already has his address, his name, his prior existence on file. The panel does not explain that the others cannot be served in the same breath — the captions do it obliquely: "his name was on file." The others have no names on file. They have unit codes, which are not the same thing. The process server's tablet showing case number CV-7741 with "AEGIS-4" in the document field is the first signal, visible to the reader in the panel's foreground, that this case predates everyone present.
 
 ---
 
@@ -111,13 +113,15 @@ The document reads:
 ---
 
 *IN THE CITY COURT*
-*Case No. CV-7741-ORIG (consolidated sub-matter of: GD-LEGAL-0012-PRIOR / AEGIS COMPLIANCE SERIES)*
+*Case No. CV-7741 (AEGIS Compliance matter — filing date on record, predating the present action)*
 
 *INJUNCTION AND ORDER FOR COMPLIANCE*
 
 *RESPONDENT: T-04 (legal name on record: T. [REDACTED]) — a natural person, as classified under applicable law.*
 
 *WHEREAS the law-enforcement client (Petitioner, name on file with the court) entered Contract GD-C-4419 with GastroDefense Inc. for the delivery of Project AEGIS-4 prototype (complete); and*
+
+*WHEREAS the present action proceeds under contract option GD-C-4419-E ("alternative enforcement," clause 7), the prior automated compliance pathway having elapsed; and*
 
 *WHEREAS GastroDefense Inc. has certified that compliance requires presentation of all four Project AEGIS-4 outputs (Units W-01, P-02, P-03, T-04) at the Origin Facility within the statutory window; and*
 
@@ -127,21 +131,21 @@ The document reads:
 
 *This Order does not require consent of the Respondent or associated parties. GastroDefense Inc. Specification Rev. 7, Section 4.4, provides that consent was not a design parameter for Project AEGIS-4. The Specification governs.*
 
-*Issued by the City Court. Case No. CV-7741-ORIG.*
-*Parent filing: GD-LEGAL-0012-PRIOR (AEGIS Compliance Series — filed [date on file]).*
+*Issued by the City Court. Case No. CV-7741.*
+*Case opened on filing date of record (AEGIS Compliance matter), predating the present escalation.*
 
 ---
 
 At the bottom of the document, in the smallest type — a cross-reference note, the kind of administrative footnote that arrives at the bottom of legal filings — a single line:
 
-*Re: GD-LEGAL-0012-PRIOR: see also consolidated prior matters AEGIS-1-COMPLIANCE, AEGIS-2-COMPLIANCE, AEGIS-3-COMPLIANCE.*
+*Re: program-lifecycle precedent on file. See GastroDefense Inc. internal record CASE-3RG-0019 (PROGRAM AEGIS-3 / REINTEGRATION COMPLETION RECORD) for prior-iteration disposition under standard protocol.*
 
 **Caption / dialogue:**
-- CAPTION: *The case number shared a parent filing with a document they had read in a disused facility.*
-- CAPTION (below): *The parent filing predated the fracture.*
+- CAPTION: *The case had been opened on a date that predated the fracture.*
+- CAPTION (below): *Its footnote pointed at a record they had read in a disused facility.*
 - CAPTION (below): *The four had been named in an active legal action before they had names.*
 
-**Why it lands:** Twist 4 lands here — not announced as a twist, delivered as a footnote in a legal document. The three captions do the minimum: they name the collapse, they give it its exact shape ("before they had names"), and they stop. The body of the injunction is internally coherent and carries the series' running irony with precision: the document cites Section 4.4 of Rev. 7 — "consent was not a design parameter" — which is the absence Windman found in E17, now weaponized not by GastroDefense but by the court's order. The corporation did not need to argue anything; it filed a specification, and the specification's silence on consent is the legal instrument that makes the order possible. The AEGIS Compliance Series cross-reference at the bottom, noting AEGIS-1, -2, and -3, is the collapse of E16's prior-recall discovery (already in the audience's possession) into the same document: the four are a re-filing. The heroes reading this document, or rather Tiebi reading it for all four of them, are reading their own prehistory.
+**Why it lands:** Twist 4 lands here — not announced as a twist, delivered as a date and a footnote in a legal document. The three captions do the minimum: they name the collapse, they give it its exact shape ("before they had names"), and they stop. The body of the injunction is internally coherent and carries the series' running irony with precision: the document cites Section 4.4 of Rev. 7 — "consent was not a design parameter" — which is the absence Windman found in E17, now weaponized not by GastroDefense but by the court's order. The corporation did not need to argue anything; it filed a specification, and the specification's silence on consent is the legal instrument that makes the order possible. The collapse Twist 4 delivers is precise and narrow: the case against *AEGIS-4* was opened on a filing date that predates the fracture — the E01 closer's "Status: Recalled" was a docket entry, a legal status the four carried before they existed. The footnote's cross-reference to internal record CASE-3RG-0019 — the exact string the four decoded in E16 — is the administrative pointer that connects this order to the prior program's lifecycle, not a claim that the prior iterations were themselves litigated. (E16 framed AEGIS-3's disposition as an internal lifecycle closure — PROPRIETARY / PROGRAM LIFECYCLE / RESOLVED — and that framing is preserved: the footnote cites it as program-lifecycle precedent on file, the way a legal filing cites an administrative record, not as proof of a prior lawsuit.) The reader holds both the E01 closer and the E16 record; Tiebi, reading it for all four, is reading their own prehistory.
 
 ---
 
@@ -196,8 +200,8 @@ Far below, visible at street level if you look: two GastroDefense field-survey d
 
 ## What the audience knows that the heroes don't
 
-- **"Status: Recalled" was always a legal status.** The E01 closer — *"Project AEGIS-4 — Status: Recalled"* — was not only a corporate record. It tracked a docket entry. The case was filed before the fracture; the four were named in it before they existed. The audience, who has held E01's closer since the beginning of the season, receives this collapse in Panel 3's footnote: *AEGIS Compliance Series — filed [date on file].* The heroes read the document but they do not have the E01 image; the reader holds both.
-- **The injunction's case hierarchy.** The parent filing GD-LEGAL-0012-PRIOR consolidates AEGIS-1-, -2-, -3-COMPLIANCE. The heroes decoded the prior-recall log in E16 and know AEGIS-3's reintegration was completed and one of its non-specification outputs was disposed of under GD-Standard-7. What the document makes visible to the reader — but which the heroes cannot fully hold at once — is that the legal mechanism executing against them is the same mechanism that executed against AEGIS-3. The prior iterations were not just real; they were litigated.
+- **"Status: Recalled" was always a legal status.** The E01 closer — *"Project AEGIS-4 — Status: Recalled"* — was not only a corporate record. It tracked a docket entry. The case (CV-7741) was opened on a filing date that predates the fracture; the four were named in it before they existed. The audience, who has held E01's closer since the beginning of the season, receives this collapse in Panel 3's case header and the body's note that the case was opened before the present escalation. The heroes read the document but they do not have the E01 image; the reader holds both.
+- **The injunction's footnote points back to E16.** The cross-reference at the bottom of the order names GastroDefense internal record CASE-3RG-0019 — the exact reference the four decoded in E16 (PROGRAM AEGIS-3 / REINTEGRATION COMPLETION RECORD). The heroes know from E16 that AEGIS-3's reintegration was completed and one of its non-specification outputs was disposed of under GD-Standard-7. What the document makes visible to the reader is that the same program-lifecycle apparatus is on file as precedent — cited the way a legal filing cites an administrative record. The series does not assert that the prior iterations were themselves litigated; E16 framed AEGIS-3's disposition as an internal closure (PROPRIETARY / PROGRAM LIFECYCLE / RESOLVED), and that framing is preserved. Whether any prior iteration was also subject to a court order is reserved (see Reserved threads).
 - **The law-enforcement client.** The injunction names a client, redacted in the visible text, filed with the court. The enforcement mechanism beyond this injunction — what the client does if the ten days elapse without compliance — remains offscreen. This is a beyond-20 engine.
 - **The Junior Engineer's silence.** He is not visible this episode. His investigation has been the team's only outside contact since E13. The drone net has thickened after the filing. A human face is still invisible to the drone net — but eight additional drones is a different city to move through. He will not reappear within the series.
 
@@ -219,7 +223,7 @@ The series' prior document-heavy episode — E09 — delivered the un-make revea
 
 What is new here:
 - **The legal personhood asymmetry becomes the threat's delivery mechanism.** The injunction finds Tiebi and cannot find the others not because the corporation is clever but because a civil court uses civil machinery: names on file, addresses of record, legal personhood. Tiebi's human past — the only one among the four — is the vulnerability. The series has been tracking this since E09 (T-04, "personnel file" in the specification), E11 (case-file access via former credentials), E14 (facility access via prior employment). Here it arrives as the reason the court can serve him and not the others.
-- **Twist 4 — the revival — arrives via footnote.** The case number's parent filing carries the AEGIS Compliance Series: AEGIS-1, -2, -3 as prior consolidated matters. The four were not a new problem when the case was opened; they were a re-filing of a problem the law-enforcement client has been prosecuting through every AEGIS iteration. The audience has the E01 closer; the footnote collapses it.
+- **Twist 4 — the revival — arrives via the case header and a footnote.** The case against AEGIS-4 (CV-7741) was opened on a filing date that predates the fracture: the four were named in an active legal action before they existed. The footnote points to GastroDefense internal record CASE-3RG-0019 — the E16 program-lifecycle precedent — as the prior-iteration record on file. The four were not a new problem when the case was opened; the recall that closed E01 was a docket entry the whole time. The audience has the E01 closer; the header and footnote collapse it.
 - **The deleted consent field becomes a legal argument.** Rev. 7, Section 4.4 — "consent was not a design parameter" — is cited in the injunction to establish that the order does not require consent. The absence Windman read in E17's firmware is now the document's operative clause. It is not a GastroDefense argument; it is the court's citation of the specification as governing law. The deleted Appendix C is the most powerful thing in this episode, and it is not here.
 - **No SFX in the episode.** E09 Panel 4 used empty SFX boxes as a visual event. E19 makes no such gesture — the SFX simply do not appear, because nothing physical happens. The series' four kinetic heartbeats are absent not as a formal device but as a plain fact: this episode has no action. A court order does not require action to work. It works by existing and having a deadline.
 
@@ -230,7 +234,7 @@ What is new here:
 - The ten-day clock is running. The third option will be chosen on day nine ([[S01E20 — Return to Origin Facility]]).
 - The un-make question is not resolved here. It is at maximum pressure. The decision is withheld.
 - The law-enforcement client's enforcement mechanism beyond the injunction — what happens after the ten days, if the clock runs — is offscreen and beyond-20. The series does not answer this.
-- The AEGIS Compliance Series (AEGIS-1, -2, -3 as prior matters) opens the question of whether each prior iteration's four outputs were subject to the same legal instrument. The AEGIS-3 disposal log from E16 was filed, signed-off, historical. Whether it was also compelled by a legal order is not addressed on-page and is reserved.
+- Whether each prior iteration was subject to the same legal instrument is left open. The AEGIS-3 reintegration record from E16 (CASE-3RG-0019) was an internal program-lifecycle closure — filed, signed-off, historical — not a court action on-page. Whether the prior iterations were ever litigated, or whether AEGIS-4's court case is the first of its kind, is not addressed on-page and is reserved.
 - The deleted Appendix C — the Voluntary Compliance Protocol, never written — is the thing the injunction implicitly replaces. What it would have contained remains the series' final moral question.
 - The Junior Engineer goes quiet after this episode. The reason is not stated. The drone net has eight more units.
 - The "still-warm" AEGIS-3 signal at the city address (E16) is never approached within the twenty episodes.
@@ -243,7 +247,7 @@ What is new here:
 - [[S01E18 — Resonance]] — the conversation this episode follows directly; Pho-boman's silence carrying into E19.
 - [[S01E20 — Return to Origin Facility]] — day nine; the third option; the cost.
 - [[S01E17 — Cascade Failure]] — the consent field (Appendix C, removed in Rev. 3); "alternative enforcement" noted as a contract option.
-- [[S01E16 — Prior Art]] — the prior-recall case number; the AEGIS-3 disposal log; the parent filing cross-referenced in E19's injunction.
+- [[S01E16 — Prior Art]] — the AEGIS-3 reintegration completion record (internal record `CASE-3RG-0019`); the GD-Standard-7 disposal log; the record E19's injunction footnote cross-references as program-lifecycle precedent.
 - [[S01E09 — Variance Report]] — Section 4.4: "consent was not a design parameter"; Pho-boman's first filing of the disposal asymmetry; the specification as the document the injunction now cites.
 - [[S01E01 — Some Assembly Required]] — "Project AEGIS-4 — Status: Recalled" recontextualized as a docket entry in an active legal case.
 - [[Tiebi]] — legal-person status; employment record; the only one who can be served; "Ten days."

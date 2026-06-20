@@ -49,7 +49,7 @@ Captions are the dry case-file narrator throughout. Dialogue is at absolute mini
 - **Lunch Lady** — cafeteria staff, Origin Facility GastroDefense catering operation, present because it is a Tuesday. Stout, unflappable, 60s, light-tan skin, deeply calm deadpan face, steel-grey hair in a tight bun under a white hairnet, wire-rim glasses, plain pale-green institutional cafeteria uniform with white apron, white food-service gloves, sensible white shoes. No lines except one word, at the correct moment, in the correct register. Her ladle confirms what the specification cannot classify.
 - **The Origin Facility** — GastroDefense Inc.'s Origin Facility: a working facility, not a derelict. Operational corridors, posted compliance notices, a reintegration annex on sublevel 2, a cafeteria running a Tuesday lunch service. No dramatic lighting. No staff confronting the four; the GastroDefense apparatus here is forms and hardware, not personnel. The building's own documentation — maps posted near the elevator, a directory sign above the lobby turnstile — names the sublevel 2 reintegration suite. The four do not go there.
 - **AEGIS-5 apparatus** — present as a blinking amber hardware-interrupt indicator light mounted to the facility's internal network junction, in the upper corner of the cafeteria. Visible to the reader in Panel 5 and Panel 6. Never in any hero's sightline. Communicates only by form and hardware interrupt; never speaks; a specification, not a character.
-- **The GastroDefense database terminal** — a wall-mounted operational display in the cafeteria entry, the kind that shows compliance status and facility scheduling for food-service staff. In Panel 6, the reader can see its screen. The PROJECT AEGIS-4 — STATUS field, which has read RECALLED since E01, now reads: *[FIELD PROCESSING].* It has been processing for eleven seconds when the panel closes.
+- **The GastroDefense database terminal** — a wall-mounted operational display in the cafeteria entry, the kind that shows compliance status and facility scheduling for food-service staff. In Panel 6, the reader can see its screen. The top line is the case's *compliance status* — the docket-level designation distinct from the operational workflow field that cycled through SCHEDULING RETRIEVAL → RETRIEVAL IN PROGRESS → ASSET RECOVERED across E09–E10 and then reverted when the rescue lost the asset. That compliance line has read *RECALLED* since E01 — the legal status the four carried before they existed (the collapse E19 made load-bearing). In Panel 6 it now reads: *[FIELD PROCESSING].* It has been processing for eleven seconds when the panel closes.
 
 ---
 
@@ -196,19 +196,19 @@ Primm: mini-orbs in steady orbit — not the tight "answer" configuration, not t
 
 They are not shoulder to shoulder. There is still space between each of them. But the space is smaller than it has ever been. The facility did not give them room to spread out.
 
-Through the lobby window — visible to the reader from this exterior angle, at the edge of the frame — the wall-mounted operational display in the cafeteria entry is legible. The PROJECT AEGIS-4 — STATUS field, which has read *RECALLED* since E01, now reads:
+Through the lobby window — visible to the reader from this exterior angle, at the edge of the frame — the wall-mounted operational display in the cafeteria entry is legible. The top line is the case's compliance status — not the operational workflow field that ran SCHEDULING RETRIEVAL → RETRIEVAL IN PROGRESS → ASSET RECOVERED across E09–E10, but the docket-level designation above it, the one that has read *RECALLED* since E01 and held through every workflow change. It now reads:
 
-*PROJECT AEGIS-4 — STATUS: [FIELD PROCESSING]*
+*PROJECT AEGIS-4 — COMPLIANCE STATUS: [FIELD PROCESSING]*
 
 Below that, a timestamp and a queue number. The field has been processing for eleven seconds. The season ends with it still processing.
 
 **Caption / dialogue:**
 - CAPTION: *The injunction had specified ten days.*
 - CAPTION (below): *Nine was sufficient.*
-- CAPTION (below, smallest): *Behind them, a status field updated for the first time since the fracture.*
+- CAPTION (below, smallest): *Behind them, the compliance status updated for the first time since the fracture.*
 - CAPTION (below, even smaller): *It was still processing.*
 
-**Why it lands:** The "nine was sufficient" caption picks up the Lunch Lady's word and gives it to the clock — the move that closes the arc between her assessment and the ten-day deadline: not defiance, not escape, but sufficiency, which is a different word for a different kind of exactness. The database field updating from *RECALLED* to *[FIELD PROCESSING]* is the season's final image — the same E01-born status designation, finally changing, because something happened that the specification cannot yet classify. The field is processing. Nothing is resolved. It has been processing for eleven seconds. The audience holds the question the field is processing. The heroes face the street. The season ends.
+**Why it lands:** The "nine was sufficient" caption picks up the Lunch Lady's word and gives it to the clock — the move that closes the arc between her assessment and the ten-day deadline: not defiance, not escape, but sufficiency, which is a different word for a different kind of exactness. The compliance status updating from *RECALLED* to *[FIELD PROCESSING]* is the season's final image — the docket-level designation that held through every operational-workflow change (SCHEDULING RETRIEVAL, RETRIEVAL IN PROGRESS, ASSET RECOVERED and back), the E01-born line that never moved, finally moving, because something happened that the specification cannot yet classify. The field is processing. Nothing is resolved. It has been processing for eleven seconds. The audience holds the question the field is processing. The heroes face the street. The season ends.
 
 ---
 
@@ -217,7 +217,7 @@ Below that, a timestamp and a queue number. The field has been processing for el
 - The third option changes the resonance *state*; it does **not** change the underlying mechanic. Reintegrating W-01 and P-03 would still un-make all four. The dilemma survives the act. The act was a deferral with cost, not an escape. The four do not know this in any formulation they can articulate; they know it the way you know anything that has no template: by the feeling of the remaining weight.
 - The AEGIS-5 amber indicator in Panel 5 has logged the resonance act as `ANOMALOUS STATE — SPEC MISMATCH` and filed an escalation to a target the series has not revealed. AEGIS-5 needs AEGIS-4 reintegration data to finalize its own specification. What it has received instead is a field event with no template. The escalation will route somewhere. The series does not say where.
 - Tiebi's missing memory cannot be recovered, restored, or amended by any process the series has described. The four do not know what the act took from him; they see the expression and do not yet have language for what is behind it. He will not explain it, because a former soldier does not explain what he cannot locate.
-- The status field that now reads *[FIELD PROCESSING]* has never before updated from *RECALLED* — the E01 status has held for twenty episodes. The system cannot classify the result of the third option: not a compliance execution, not a non-compliance event, not a retrieval success or failure. The field is processing because it has no branch for what occurred. It will continue processing past the season.
+- The compliance status that now reads *[FIELD PROCESSING]* has never before moved from *RECALLED* — that docket-level line has held for twenty episodes, beneath an operational workflow field that cycled freely (SCHEDULING RETRIEVAL → RETRIEVAL IN PROGRESS → ASSET RECOVERED, then reverting when the rescue lost the asset). The compliance status held through all of it. The system cannot classify the result of the third option: not a compliance execution, not a non-compliance event, not a retrieval success or failure. The field is processing because it has no branch for what occurred. It will continue processing past the season.
 - The series does not evaluate whether the cost was right. That is the final moral question, reserved beyond the twenty. The Lunch Lady said "Sufficient." The series does not say whether the Lunch Lady is correct.
 
 ---
@@ -245,7 +245,7 @@ What is new here:
 - The reversed SFX callouts — neither blank (E09) nor standard (every other issue). The direction of the application is what changed.
 - The FIELD READ bracket returning `template — NONE` — the first time Windman's field-read has returned a null-template result for a field-event rather than for a missing unit.
 - Tiebi's personal cost — the only kind the series has not described before: not physical, not tactical, not traceable to a specification. The kind that does not show, in a character for whom not-showing is already the mode.
-- *[FIELD PROCESSING]* — the first status update to the PROJECT AEGIS-4 field since E01 Panel 6. Twenty episodes. Eleven seconds of processing at close.
+- *[FIELD PROCESSING]* — the first movement of the PROJECT AEGIS-4 *compliance status* since E01 Panel 6 (the operational workflow field cycled across E09–E10; the docket-level compliance line did not). Twenty episodes. Eleven seconds of processing at close.
 
 ---
 
@@ -266,7 +266,7 @@ What is new here:
 - [[Series Arc]] — Movement IV close; Twist 5; the open turn; reserved threads beyond the twenty.
 - [[S01E19 — Consent Field]] — the injunction, the ten-day clock, and Tiebi as the only legally-served member. Nine days elapsed between these issues.
 - [[S01E15 — Partial Contact]] — the resonance engaged here began as an ongoing signal in E15; the act in Panel 3 is the deliberate use of what E15 made involuntary.
-- [[S01E09 — Variance Report]] — *[FIELD PROCESSING]* answers the same database's *SCHEDULING RETRIEVAL*; the status field that has held since E01 updates for the first time.
+- [[S01E09 — Variance Report]] — *[FIELD PROCESSING]* answers the same database's *SCHEDULING RETRIEVAL*; but where E09 moved the operational workflow field, E20 moves the compliance status above it — the line that held since E01 — for the first time.
 - [[S01E08 — Four-Body Problem]] — the "four figures, same direction" grammar returns and departs; the street grammar answers E01 Panel 5 for the second time, now carrying departure.
-- [[S01E01 — Some Assembly Required]] — the fracture; the Lunch Lady's first word; the four directions apart; the status: *RECALLED*. The E20 status update is the first change to the field that closed E01.
+- [[S01E01 — Some Assembly Required]] — the fracture; the Lunch Lady's first word; the four directions apart; the compliance status: *RECALLED*. The E20 update is the first change to the docket-level line that closed E01.
 - [[Windman]] · [[Primm]] · [[Tiebi]] · [[Pho-boman]] · [[Lunch Lady]] · [[The Bad Guys]]

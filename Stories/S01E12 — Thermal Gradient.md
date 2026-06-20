@@ -137,13 +137,16 @@ At the far end of the right corridor, half-visible in the dim freight-bay light:
 *LOCATION: SUBLEVEL 3 CONTAINMENT UNIT C-3*
 *STATUS: IN CUSTODY*
 *REINTEGRATION STATUS: ON HOLD*
-*HOLD REASON: W-01 NOT IN CUSTODY — PROTOCOL REQUIRES SIMULTANEOUS RECOVERY (SPEC 4.1, PARA 3)*
+*HOLD REASON: W-01 NOT IN CUSTODY — PROTOCOL REQUIRES SIMULTANEOUS RECOVERY*
 *SCHEDULED TRANSFER: SUBLEVEL 2 / REINTEGRATION CHAMBER / +72:00:00 FROM 03:14:07 TODAY*
+*REINTEGRATION REAGENT: SEE LINKED REQ. (CROSS-REF: P-02 / CATERING-004A)*
 *NEXT STATUS CHECK: AUTOMATED / 24-HR INTERVAL*
 
 ---
 
-Pho-boman is in front of the terminal, not touching it. His arms — short but muscular — are at his sides. He has no free hands to write anything down; no pockets; no notebook. The broth in his visor is still, which is the configuration the series has established for when he is concentrating on something he needs to keep. His noodle-eyes are reading the screen. His noodle-brows are level and held — the configuration of a being committing something to memory, which is the only thing he has available to carry information in.
+The *REINTEGRATION REAGENT* cross-reference line is present on the screen as a small, low-priority field — rendered in the same institutional grey as the routine fields, not amber, not spotlit. It reads as one more asset-tracking sub-record among others. **The reader registers that a cross-reference exists; the reader cannot decode it.** The codes (P-02 / CATERING-004A) are on the page; the meaning — that the reintegration reagent and Pho-boman's broth-origin are the same lineage — is not. That decode is reserved for E16 (Twist 6). The panel-prompt-smith should keep this line legible *as a field* and not enlarge or gloss it.
+
+Pho-boman is in front of the terminal, not touching it. His arms — short but muscular — are at his sides. He has no free hands to write anything down; no pockets; no notebook. The broth in his visor is still, which is the configuration the series has established for when he is concentrating on something he needs to keep. His noodle-eyes are reading the screen. His noodle-brows are level and held — the configuration of a being committing something to memory, which is the only thing he has available to carry information in. He reads the cross-reference line with the others and files it without ceremony; it goes in with the rest, undecoded.
 
 The containment unit is visible at the right edge of the frame — the steel-bar framing close enough to be recognized, too far to resolve detail inside it. The mass of it registers. Pho-boman has not looked at it. He is looking at the screen.
 
@@ -155,7 +158,7 @@ Above the terminal, in the ceiling strip lighting's cold-white glare, the corrid
 - CAPTION (below): *He had no free hands.*
 - CAPTION (below, smallest): *He had a good memory.*
 
-**Why it lands:** The intelligence payload is delivered entirely through the corporate document — legible to the reader, absorbed by Pho-boman without ceremony. The caption staircase is the episode's sharpest sequence: "He read it. / He had no free hands. / He had a good memory." Three facts in the most economical arrangement possible, arriving as a logic chain that the reader completes before the captions do. The "no free hands" constraint is the character truth that makes this the right choice for an infiltrator mission — Pho-boman carries things in his memory because that is what he has. The "HOLD REASON: W-01 NOT IN CUSTODY" is the lever from E11 confirmed in the corporation's own language: Primm is safe until Windman is also caught, and the terminal knows this as a database field. The containment unit visible at frame's edge is the closest the episode comes to Primm — a steel structure, not a character, present in the peripheral space Pho-boman has consciously chosen not to look at.
+**Why it lands:** The intelligence payload is delivered entirely through the corporate document — legible to the reader, absorbed by Pho-boman without ceremony. The caption staircase is the episode's sharpest sequence: "He read it. / He had no free hands. / He had a good memory." Three facts in the most economical arrangement possible, arriving as a logic chain that the reader completes before the captions do. The "no free hands" constraint is the character truth that makes this the right choice for an infiltrator mission — Pho-boman carries things in his memory because that is what he has. The "HOLD REASON: W-01 NOT IN CUSTODY" is the lever from E11 confirmed in the corporation's own language: Primm is safe until Windman is also caught, and the terminal knows this as a database field. The REINTEGRATION REAGENT cross-reference is the episode's only reserved plant — a small grey field linking P-02 to a catering requisition, sitting on the screen with no gloss and no spotlight. Pho-boman reads it and files it undecoded; the reader sees a cross-reference exists and cannot resolve it. The seed is on the page; the decode waits for E16. The containment unit visible at frame's edge is the closest the episode comes to Primm — a steel structure, not a character, present in the peripheral space Pho-boman has consciously chosen not to look at.
 
 ---
 
@@ -165,7 +168,7 @@ Above the terminal, in the ceiling strip lighting's cold-white glare, the corrid
 
 The three figures come into a loose cluster at the fence line, the closest spacing of this episode. Windman is exactly as left: fan folded, bandaged face forward, pressure ghost-lines having tracked Pho-boman's warm mass signature through the building's ground floor and back. He has been reading the interior from outside, the way he reads a space — by the mass moving through it. He has a general picture; he needs the specific. Tiebi is to his right, beret straight, mustard-gold shirt catching the peripheral flood-light. His expression is the expression of a man who has been standing still for eleven minutes on the outside of a building he used to have a badge for.
 
-Pho-boman faces them both. His noodle-brows are in a configuration not established before in this Movement — not the existential-weight configuration of E09's Section 4.4, not the focused-operational configuration of the infiltration. Something between: a being who has walked through the building that has him filed for disposal, read a screen that listed the fragment he came for and his own unit code in a cross-referenced sub-record, and walked out again with the information he went in for. The broth is warm. The dragon-belly faces the reader.
+Pho-boman faces them both. His noodle-brows are in a configuration not established before in this Movement — not the existential-weight configuration of E09's recall-specification reveal, not the focused-operational configuration of the infiltration. Something between: a being who has walked through the building that has him filed for disposal, read a screen that listed the fragment he came for and his own unit code (P-02) in a cross-referenced sub-record he could not decode, and walked out again with the information he went in for. The broth is warm. The dragon-belly faces the reader.
 
 He speaks. It is the longest Pho-boman has spoken in any single episode.
 
@@ -191,7 +194,7 @@ In the upper corner of the panel, barely visible at the building's roofline: the
 ## What the audience knows that the heroes don't
 
 - Pho-boman walked through the same building whose specification document lists him for disposal under GD-Standard-7, and the building could not find him. The system that wants to dispose of him is unable to locate him because of the property that also makes him "non-specification" — he carries no incident-signature, so the incident-signature-based asset-recovery cross-reference returns null. The corporation's most important method of finding him is also the reason it cannot.
-- The staging-area terminal listed CATERING-004A in the same sub-record as Pho-boman's unit code (P-02), cross-referencing the origin incident. Pho-boman read the screen. He did not speak the reference aloud. He kept it in order with the other facts.
+- The staging-area terminal's REINTEGRATION REAGENT field carried a cross-reference linking Pho-boman's unit code (P-02) to a catering requisition (CATERING-004A). Pho-boman read the field with the rest of the screen. He could not decode it — and did not speak it aloud. He filed it undecoded, alongside the four facts he could use. The broth-origin and the reintegration reagent are the same lineage; neither Pho-boman nor the reader can resolve that here.
 - The GD-SURVEY food-safety compliance queue will, at some point, produce a complete exception report for the 94°C mobile thermal anomaly in Grid-F. That report will eventually reach a reviewer. The loop counter is at 218. It continues.
 - The transfer clock — 72 hours from 03:14:07 — is a database field in an automated scheduling queue. It will not wait. It does not know the three outside are counting.
 
@@ -222,7 +225,7 @@ What is new here:
 ## Reserved / open threads
 
 - The 72-hour clock is running. E13 opens below 48 hours.
-- The staging-area terminal's sub-record listed CATERING-004A cross-referenced to Pho-boman's unit code. Pho-boman read it. He has not spoken it aloud. The broth-origin and the reintegration reagent are the same lineage — this is the thread that fully decodes in E16 (Twist 6), when the E08 truck cargo is identified. It is not planted verbally here; it is planted as a fact Pho-boman now carries.
+- The staging-area terminal's REINTEGRATION REAGENT field cross-referenced Pho-boman's unit code (P-02) to CATERING-004A. Pho-boman read it; he could not decode it and has not spoken it aloud. The broth-origin and the reintegration reagent are the same lineage — this is the thread that fully decodes in E16 (Twist 6), when the E08 truck cargo is identified. It is planted on-screen as an unexpanded cross-reference field, not glossed; the codes are visible, the meaning is not.
 - The un-make dilemma is unresolved and unremarked in this episode. The team has a target and a clock. What the clock is counting toward for all four of them is not addressed. It continues to sit under the operational register, as it has since E09.
 - GD-SURVEY food-safety compliance queue: loop iteration 218 and rising. No resolution is in scope for this issue.
 

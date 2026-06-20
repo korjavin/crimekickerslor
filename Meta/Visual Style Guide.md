@@ -201,6 +201,11 @@ from each story, so the prompts stay attached to the panels they render:
   phasing render, the gravity light-bend VFX, and the DRIFT SFX; the ghost-image
   before/after eureka in Panel 4; five panels from the corridor-wall phase-out to the
   stairwell descent).
+- [[S01E06 — Panel Prompts]] — *Two-Body Problem* (Windman + Tiebi's first meeting; the
+  night-street pressure-map meeting mechanic; the first field deployment of STOMP; six panels).
+- [[S01E07 — Panel Prompts]] — *Specific Heat* (Primm + Pho-boman's first meeting; the
+  GastroDefense cold-storage freezer; DRIFT-on-a-body, the zero-g dissolved face, the SLURP at
+  the threshold; five panels).
 - [[S01E08 — Panel Prompts]] — *Four-Body Problem* (all four heroes in one frame for the
   first time; the sloped-night-block / driverless refrigerated truck / railway-bridge
   props; the four-color frame and the first simultaneous fire of all four SFX —
@@ -214,6 +219,33 @@ from each story, so the prompts stay attached to the panels they render:
   auto-designation, the RECALL AND REINTEGRATION SPECIFICATION, and SCHEDULING RETRIEVAL;
   the four blank house-format SFX boxes in Panel 4; six panels from night street through
   substation interior to the exterior alley).
+- [[S01E10 — Panel Prompts]] — *Half-Life* (the midpoint capture; the Retrieval Division's
+  standard steel containment that incidentally constrains Primm's field; the three escaping;
+  the fragment-resonance felt by Windman as an absence).
+- [[S01E11 — Panel Prompts]] — *Closed Loop* (the contract-dispute reveal; the CRIME KICKERS
+  operational-designation case-file header; legible corporate-screen text; a PROPOSED terminal
+  spec and noodle-brow entry flagged for review).
+- [[S01E12 — Panel Prompts]] — *Thermal Gradient* (Pho-boman's solo invisible infiltration of
+  GastroDefense HQ; the drone-net null on his signature; the sublevel staging area).
+- [[S01E13 — Panel Prompts]] — *Field Notes* (the Junior Engineer's return with his notebook;
+  the AEGIS-lineage signal maps; a street-level hand-off; a PROPOSED Junior Engineer civilian
+  variant flagged for review).
+- [[S01E14 — Panel Prompts]] — *Dead Reckoning* (the rescue; invisible entry + a pressure/size
+  loading-dock distraction; the reintegration chamber's ambient prep-field).
+- [[S01E15 — Panel Prompts]] — *Partial Contact* (the resonance upgraded to an ongoing signal;
+  quiet single-interior register; a PROPOSED new Pho-boman noodle-brow configuration).
+- [[S01E16 — Panel Prompts]] — *Prior Art* (the disused AEGIS-3 facility; the "still-warm"
+  prior-fragment signal; the prior-reintegration log; the broth-reagent retro-charge decode).
+- [[S01E17 — Panel Prompts]] — *Cascade Failure* (AEGIS-5 as a specification / hardware
+  interrupt, never a character; the deleted consent field heard as a pressure-difference; a
+  PROPOSED AEGIS-5 development building / reintegration annex flagged for review).
+- [[S01E18 — Panel Prompts]] — *Resonance* (the contained-interior conversation; the un-make
+  question put directly; no SFX; a PROPOSED noodle-brow/posture configuration).
+- [[S01E19 — Panel Prompts]] — *Consent Field* (the injunction as the episode's object; a
+  PROPOSED civil process-server spec; the case-number revival tie to the prior recall).
+- [[S01E20 — Panel Prompts]] — *Return to Origin Facility* (the Origin Facility lobby +
+  cafeteria; the four warm colors against the cold institutional palette; the third-option
+  resonance act; the AEGIS-5 indicator light; the Lunch Lady's "Sufficient").
 
 ## Related
 
