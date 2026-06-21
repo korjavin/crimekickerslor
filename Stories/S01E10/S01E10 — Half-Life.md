@@ -26,13 +26,15 @@ featured: [Windman, Tiebi, Pho-boman, Primm]
 
 **Movement II, Episode 1; series midpoint and largest turn so far.** Direct seam from [[S01E09 — Variance Report]]: E09 closed on `SCHEDULING RETRIEVAL` visible through frosted glass behind the four figures, visible to the reader and unseen by any hero. E10 opens as that status becomes `RETRIEVAL IN PROGRESS`. Precedes [[S01E11 — Closed Loop]], in which the three remaining outside use Tiebi's credentials to open the Retrieval Division's active case file and learn both the corporate motive and the team's auto-generated name.
 
-> **Seam test:** does this episode open with `RETRIEVAL IN PROGRESS` as a status field update (not a dramatic announcement), execute the capture of Primm through a containment unit that incidentally constrains his gravity field (not through tactical cleverness against a known weakness), and close on three figures outside and one inside — with Windman registering the fragment-resonance absence without having a word for it? If the capture is the result of GastroDefense targeting Primm's weakness specifically, or if Windman names what he is feeling, the midpoint seam is broken.
+> **Seam test:** does this episode open with `RETRIEVAL IN PROGRESS` as a status field update visible inside a live physical image (not a dramatic announcement, not a pure text screen), execute the capture of Primm through a containment unit that incidentally constrains his gravity field (not through tactical cleverness against a known weakness), and close on three figures outside and one inside — with Windman's loss registering in his body and in the ghost-line gap, without him naming what he is feeling? If the capture is the result of GastroDefense targeting Primm's weakness specifically, or if Windman names what he is feeling, the midpoint seam is broken.
 
 ---
 
 ## Format
 
 This episode is a **5-panel comic page**. The ensemble-split structure requires a setup panel, a kinetic capture panel, an escape sequence with three distinct hero beats that can be handled in one split-register panel, and the two closing panels — the separated close and the absence register. Five is correct: six would over-explain the escape; four would rush the capture.
+
+Panel 1 opens on a live exterior image: the staging lot at pre-dawn, the cage being readied on the flatbed, a team member's tablet showing the status update. The status text is visible inside the image — one element, not the whole frame. This is the direct seam from E09's *SCHEDULING RETRIEVAL* delivered as a physical scene, not a screen dump.
 
 The visual space traverses two locations: an **outer city district** (the retrieval operation's coverage zone, streets, low industrial facades, Retrieval Division unit on approach) and a **Retrieval Division containment staging area** (not the Origin Facility — the steel-frame holding structure is a field-deployment unit, a portable industrial-standard cage on a flatbed staging area in a fenced lot, chain-link perimeter, one floodlight, loading dock). The district geography follows from E09's service alley exit.
 
@@ -58,31 +60,20 @@ The parallel-register technique from E09 is used once, economically, for the thr
 
 ### Panel 1 — RETRIEVAL IN PROGRESS
 
-**Image:** The same frosted-glass window from E09 Panel 6 — or its echo: a wall-mounted terminal screen in cold institutional fluorescent, the status field now updated. Full screen, the update occupying the top third of the display in large institutional type:
+**Image:** Pre-dawn exterior — the staging lot, before the operation. Two Retrieval Division field team members in plain GastroDefense-branded coveralls are on the flatbed, adjusting the straps that secure the steel-frame containment unit. A third stands at the lot's edge holding a standard GastroDefense tablet face-out, the way a worker holds a checklist to read under a floodlight. The single lot floodlight cuts institutional white across the scene. At the frame's edge, the van's headlights are on — the vehicle idling, about to leave.
 
-*ANOMALY CORRELATION COMPLETE — 4 UNITS — GRID DISTRICT 7*
-*UNIT CODES: W-01 / P-02 / P-03 / T-04*
-*STATUS: RETRIEVAL IN PROGRESS*
-*RETRIEVAL DIVISION — FIELD TEAM DELTA — DEPLOYED 04:17*
+The tablet screen is readable: dominant text in the top portion reads *STATUS: RETRIEVAL IN PROGRESS*, and beneath it a ticker in smaller type:
 
-Below the status, a ticker of operational updates in small type, accumulating in real time — the reader can see the cadence even if the specific lines blur at distance:
+*04:31 — DRONE NET LOCK: GRID SQ 7-H (3 SIGNATURES CONFIRMED / 1 NULL)*
+*04:33 — FIELD TEAM DELTA: DEPLOYING — ETA 9 MIN*
 
-*04:17 — FIELD TEAM DELTA DEPARTED STAGING*
-*04:31 — DRONE NET LOCK: GRID SQUARE 7-H (3 SIGNATURES CONFIRMED / 1 NULL)*
-*04:33 — FIELD TEAM DELTA: EN ROUTE, ETA 9 MIN*
-
-The null result — *1 NULL* — sits in the correlation line without comment. The system has returned it; the system has no branch for it; the system has proceeded on three confirmed signatures.
-
-This panel is the cold open. No heroes visible. No dramatic framing. The status field has updated. The workflow is executing. This is the direct seam from E09's *SCHEDULING RETRIEVAL* — one screen, one status field, one word changed.
+The null result — *1 NULL* — sits in the ticker without comment, in the same weight as every other entry. The system noted it; the system has no branch for it; the field team member is already looking at the ETA line.
 
 **Caption / dialogue:**
 - CAPTION: *The Retrieval Division had not processed a ticket since Q3 of the previous fiscal year.*
 - CAPTION (below): *It was now processing one.*
-- CAPTION (below, smallest): *The drone net had returned a null on one of the four unit codes. This was noted. There was no field in the protocol for it.*
 
-**Why it lands:** The cold open delivers the Movement II shift as a database field, not a dramatic cut. The status language is identical in register to E09's close — the same institutional font, the same passive structure — which makes the word change from *SCHEDULING* to *IN PROGRESS* land with the full weight of everything E09 built. The null result, noted and immediately set aside by a protocol with no branch for it, plants Pho-boman's invisibility in the opening panel without naming it, and plants it as a bureaucratic non-event. The clock — *04:33 — ETA 9 MIN* — is the ticking number the audience can read. The heroes are nine minutes away from the Retrieval Division field team, and they do not know the team is coming.
-
----
+**Why it lands:** The cold open delivers the Movement II shift as a database field embedded inside a live, physical scene — the machinery waking up, the cage already strapped to the flatbed, the van idling. The image is action before any hero appears: a crew, a cage, and a clock. The status word (*RETRIEVAL IN PROGRESS*) is the direct seam from E09's *SCHEDULING RETRIEVAL* — one word changed in the same institutional font — and a reader catches it at a glance inside the image, not from reading a wall of text. The null result (*1 NULL*) sits in the ticker as a bureaucratic non-event: noted, no branch, the team member already on to the ETA. The clock — *ETA 9 MIN* — is the ticking number the audience can read. The corporation still does not speak; a workflow is executing.
 
 ### Panel 2 — Procedure
 
@@ -122,11 +113,10 @@ Inside: Primm's mini-orbs have stopped. Not the "I have the answer" stillness fr
 The field team member with the latch is already moving toward a tablet — standard GastroDefense issue — to file the confirmation.
 
 **Caption / dialogue:**
-- CAPTION: *The structure was rated for industrial equipment up to 300 kilograms.*
-- CAPTION (below): *The specification had not been written with P-03 in mind.*
-- CAPTION (below): *The specification had not been written with P-03 in mind for the same reason no specification had been written with P-03 in mind: no one had considered him.*
+- CAPTION: *The structure was rated for standard equipment.*
+- CAPTION (below): *No one had considered him.*
 
-**Why it lands:** The triple caption is the episode's tonal center — the dry, incremental logic of GastroDefense's indifference. The first caption is a specification fact. The second is the implication. The third is the elaboration the series earns by the midpoint: not a villain's negligence, not an oversight, simply the accurate institutional description of a corporation that built the prototype and never imagined it would become a person with a gravity field who would need to be planned around. "No one had considered him" is the correct formulation. Nobody designed this trap. Nobody deployed this trap. The trap is a standard containment unit doing its standard function. The latch is a spring-loaded industrial mechanism that makes no claim to cleverness. The capture confirmation is being filed. This is within spec.
+**Why it lands:** Two captions, clean staircase. The first is a specification fact; the second is the devastation. "No one had considered him" lands on first read: not a villain's oversight, not a trap designed against him — the accurate institutional description of a corporation that built the prototype and never imagined it would become a person. The capture confirmation is being filed. The latch is a spring-loaded mechanism that makes no claim to cleverness. This is within spec.
 
 ---
 
@@ -177,27 +167,22 @@ The staging lot's roof access — a flat maintenance walkway along the top of th
 
 **Left space — the staging lot, inside the containment structure:** Primm, inside the steel-frame holding structure. The door is closed, the latch engaged. The floodlight from the perimeter falls through the steel-frame grid, striping the interior in parallel bands of institutional white and shadow. Primm is standing, not sitting, because his gravity field makes sitting feel approximately the same as standing. His mini-orbs are in low slow orbit — not tight, not stopped, the orbit of something running on low power in a constrained space. His cyan visor faces the camera. The field is present; it is not doing anything useful. His katanas (ninjato-style straight blades) are on his back, not drawn. He has determined that the latch is on the outside, that the steel enclosure removes his phasing reference frame, and that his gravity field has nowhere useful to push. He has filed these facts. He is standing in them.
 
-A small tablet on a temporary folding table just outside the structure's door — field team paperwork, left after closing — shows its screen to the reader, face-up: *ASSET RECOVERY CONFIRMATION / UNIT: P-03 / STATUS: CONTAINED / TRANSPORT TO ORIGIN FACILITY: PENDING — ON HOLD (SEE: REINTEGRATION NOTE 4.3B — BOTH FRAGMENTS REQUIRED BEFORE TRANSPORT). ESTIMATED HOLD: UNTIL W-01 RECOVERY.*
+A small tablet on a temporary folding table just outside the structure's door — field team paperwork, left after closing — shows its screen to the reader, face-up: *UNIT: P-03 / STATUS: CONTAINED / TRANSPORT: ON HOLD — BOTH FRAGMENTS REQUIRED BEFORE TRANSPORT.*
 
 The hold notice is the episode's key mechanical fact, delivered as a footnote in a field confirmation document. Primm is not being transported. He is in a hold state, because the reintegration protocol requires both fragments, and the Retrieval Division has one. It will wait for the other. This is within spec.
 
-**Right space — the street, outside the staging lot:** Three figures. The same street from Panel 2, farther from the lot now — they have moved, the lot is behind them, the chain-link perimeter visible at the right edge of the left space and now at the distant background of the right. Tiebi is at full size again, beret back on, straight. Pho-boman's broth has resettled, reddish-orange warm, noodle-brows in the lower-compressed configuration from E09 Panel 6 — the one the series vocabulary does not yet have a full name for, the one that arrived when he read the specification document and found that Section 4.4 had a bracket where a consent field should have been. The dragon-belly is visible at ground-level angle. Windman is standing with them — he came down from the walkway — fan folded at his side, bandaged face at an angle that is not navigation. He is not reading the street. He is reading something that is not in the street.
+**Right space — the street, outside the staging lot:** Three figures. The same street from Panel 2, farther from the lot now — they have moved, the lot is behind them, the chain-link perimeter visible at the right edge of the left space and now at the distant background of the right. Tiebi is at full size again, beret back on, straight. Pho-boman's broth has resettled, reddish-orange warm, noodle-brows in the lower-compressed configuration from E09 Panel 6 — the one the series vocabulary does not yet have a full name for, the one that arrived when he read the specification document and found that Section 4.4 had a bracket where a consent field should have been. The dragon-belly is visible at ground-level angle. Windman is standing with them — he came down from the walkway — fan folded at his side. His bandaged face is turned slightly toward the staging lot behind them, toward the wall of chain-link and steel that is now between him and something that used to be in the air. He is not reading the street. He has stopped reading anything. His fan hand is at his side, still, the way a person goes still when they reach for something and find it gone.
 
-The pressure ghost-lines that are always present around Windman — the ambient field-sense that maps the city as displaced air and moving mass — are visible in this panel's right space as they always are. But there is a gap in them. Not a gap in the art — a gap in what the field is reporting. The place in the ghost-line register where the P-03 signal used to sit — the un-categorized signal that first registered in E08 when Windman and Primm shared the same city block, the one his field marked with a dash because it had no category for it, the one that has run under every panel they have occupied together since — is now a blank. The distinction is exact: in E08 the field returned a dash, a slot it could not name; here the slot that held the un-namable thing returns nothing at all. The dash was a presence he had no word for. The blank is its absence. The source has moved out of range and into steel.
+The pressure ghost-lines that are always present around Windman are visible in this panel's right space as they always are. But there is a gap in them — not a hole in the art, but a blank slot in what the field is reporting, a cleared zone at mid-frame where a contour used to sit. In E08, that slot returned a dash: a signal his field could not name. Here, the slot returns nothing. The dash was a presence without a word. The blank is its absence.
 
-Windman has no word for this. He has never had a word for what P-03's signal is. He does not have a word for its absence. He has filed it where he can reach it.
-
-The caption for the ghost-line gap is not a caption — the gap itself is the visual information. The narration does not explain it.
+The ghost-line gap is the visual information. The narration does not explain it.
 
 **Caption / dialogue:**
-- CAPTION: *The recovery confirmation had been filed at 04:51.*
-- CAPTION (below): *Transport was on hold. Both fragments were required. The division had one.*
-- CAPTION (below): *In the air, a field read that used to return something returned nothing.*
-- CAPTION (below, smallest): *He had no word for this.*
-- CAPTION (below, even smaller): *He filed it where he could reach it.*
-- CAPTION (below, smallest — institutional type, right side of panel, as if updating in real time): *TICKET STATUS: ASSET RECOVERED 1/4 — REINTEGRATION SCHEDULED, PENDING SECONDARY ASSET RECOVERY.*
+- CAPTION: *He had no word for this.*
+- CAPTION (below): *He filed it where he could reach it.*
+- CAPTION (institutional type, right side of panel, as if updating in real time): *TICKET STATUS: ASSET RECOVERED 1/4 — REINTEGRATION SCHEDULED, PENDING SECONDARY ASSET RECOVERY.*
 
-**Why it lands:** The visual grammar of the panel's right space echoes E09 Panel 6 — three figures, same direction — but the count is different and the difference is the subject. The ticket update in the smallest institutional type at the panel's edge is the episode's last corporate word: *1/4.* The hold note (*BOTH FRAGMENTS REQUIRED*) is the mechanical fact that gives Primm time and gives the rescue of E11–E14 its clock. Windman's fragment-resonance absence — the gap in the ghost-lines that the narrator names but does not explain — is the first lived consequence of the W↔P resonance, delivered as loss without using the word. "He had no word for this. / He filed it where he could reach it." are the five words that make the midpoint land: not grief, not drama, but the dry notation of a being processing an experience for which his vocabulary does not yet exist. The series has been building toward the moment when the resonance between the two fragments becomes something felt rather than observed. This is that moment. The feeling is registered as an absence in a pressure field and two dry sentences.
+**Why it lands:** The visual grammar echoes E09 Panel 6 — three figures, same direction — but the count is different and the difference is the subject. The ticket update at the panel's edge is the episode's last corporate word: *1/4.* The hold note (*BOTH FRAGMENTS REQUIRED*) is the rescue clock, delivered as a footnote. Windman's fragment-resonance absence lands in his body first — the small stillness, the face turning toward the steel wall where something used to be — and in the ghost-line gap second, as the quiet supporting layer. The audience feels the loss before any caption names it. "He had no word for this. / He filed it where he could reach it." are the two lines that close the midpoint: dry, understated, devastating.
 
 ---
 
@@ -212,11 +197,11 @@ The caption for the ghost-line gap is not a caption — the gap itself is the vi
 
 ## Tone targets
 
-- **Panel 1:** cold open, pure institutional. The status field update is the whole panel. The comedy is in the null result being noted and immediately set aside by a protocol with no branch for it — the system is proceeding on three confirmed signatures because that is the field it has. The dread is in *RETRIEVAL IN PROGRESS* in the same institutional font as *SCHEDULING RETRIEVAL*. One word changed. The workflow is executing.
+- **Panel 1:** cold open, live exterior. A crew, a cage, and a clock — the machinery already in motion before any hero appears. The comedy is in the null result (*1 NULL*) sitting in the ticker at the same weight as every other entry: noted, no branch, the team member already looking at the ETA line. The dread is in the word *RETRIEVAL IN PROGRESS* visible inside the image, the same institutional font as E09's *SCHEDULING RETRIEVAL*. One word changed. The workflow is executing.
 - **Panel 2:** ground level, pre-dawn, the approach. The van is not menacing — it is a van following a route following a protocol following a form. The comedy is in the three-level reduction. The dread is in Primm already moving toward the staging lot out of curiosity, the setup visible in the same panel as the approaching field team, the audience holding both pieces of what is about to happen. Pho-boman angling away from the refrigerated dock without comment is the cold-vulnerability acknowledgment delivered as a course-correction nobody pointed at.
-- **Panel 3:** the capture. Dry, mechanical, incidental. The caption's triple structure — the specification / the implication / the elaboration — is the episode's moral register: not menace, not tragedy, but the accurate bureaucratic description of a corporation that never considered him. The door closes with a spring-loaded latch. This is within spec.
+- **Panel 3:** the capture. Dry, mechanical, incidental. Two captions: the specification fact, then the devastation. "No one had considered him" lands cold on first read — not menace, not tragedy, the accurate bureaucratic description of a corporation that never considered him. The door closes with a spring-loaded latch. This is within spec.
 - **Panel 4:** the fastest panel in the episode. Three exits, three vignettes, three registers: Tiebi's beret-on-the-outside comedy (the slapstick peak — he planned for the beret being too wide before he planned anything else), Pho-boman's invisible walk-out (no power used, no callout earned, the drone filing a null and returning to its food-safety route), Windman's vertical-gap read (the driest possible expression of navigation-as-escape). The connecting caption names the corporate limit: the protocol had a field for signatures. It did not have a field for what happened to them.
-- **Panel 5:** the still after the turn. The split space — Primm inside, three outside — is the episode's visual summary. The hold notice is the rescue clock delivered as a footnote. The ghost-line gap is the fragment-resonance loss delivered as a pressure-field blank. The final ticket update — *ASSET RECOVERED 1/4* — is the episode's last word. The tone is quiet, dry, and cold at the edges. The belly-dragon is the warm anchor.
+- **Panel 5:** the still after the turn. The split space — Primm inside, three outside — is the episode's visual summary. The loss lands in Windman's body first: the small stillness, the face turning toward the steel wall, the hand that has stopped. The ghost-line gap is the quiet supporting layer. The hold notice is the rescue clock delivered as a footnote. Two captions close it: dry, understated, devastating. The final ticket update — *ASSET RECOVERED 1/4* — is the episode's last word. The belly-dragon is the warm anchor.
 
 ---
 

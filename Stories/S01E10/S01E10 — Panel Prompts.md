@@ -290,10 +290,21 @@ fluorescent of the GastroDefense screen (P1) is the coldest register; the street
 and lot panels are pre-dawn cool grey. The floodlight in the staging lot is
 institutional white. The four hero signature-colors are the only saturated notes.
 
-- **P1 — RETRIEVAL IN PROGRESS — SCREEN ONLY, NO HEROES.** A wall-mounted terminal
-  screen, cold institutional fluorescent. Status field updated from *SCHEDULING
-  RETRIEVAL* (E09 close) to *RETRIEVAL IN PROGRESS*. The null result (*1 NULL*) is
-  in the correlation line without comment. No heroes visible.
+- **P1 — RETRIEVAL IN PROGRESS — LIVE PRE-DAWN EXTERIOR, FIELD TEAM ONLY, NO HEROES.**
+  The staging lot at pre-dawn: chain-link perimeter, one floodlight cutting institutional
+  white, the flatbed with the steel-frame containment unit on it. Two Retrieval Division
+  field team members in plain GastroDefense-branded coveralls are on the flatbed adjusting
+  the straps that secure the containment unit; a third stands at the lot's edge holding a
+  standard GastroDefense tablet face-OUT toward the reader, the way a worker holds a
+  checklist under a floodlight. At the frame's edge, the van's headlights are ON, the
+  vehicle idling and about to roll out (DEPLOYING — not yet moving). The tablet screen is
+  legible: *STATUS: RETRIEVAL IN PROGRESS* dominant up top — the one-word change from E09's
+  *SCHEDULING RETRIEVAL*, now read at a glance inside a live image — over a two-line ticker
+  (*04:31 — DRONE NET LOCK: GRID SQ 7-H (3 SIGNATURES CONFIRMED / 1 NULL)* / *04:33 — FIELD
+  TEAM DELTA: DEPLOYING — ETA 9 MIN*). The null result (*1 NULL*) sits in the 04:31 line at
+  the same weight as everything else, not highlighted, not reacted to; the field team member
+  is glancing at the ETA line. NONE of the four heroes appear — only the anonymous field
+  team workers. The DEPLOYING / ETA 9 MIN clock is load-bearing.
 - **P2 — Procedure — PRE-DAWN EXTERIOR, FOUR HEROES + VAN.** All four figures on the
   side-block street, same loose configuration as E09's alley exit. The van approaching
   from the right edge. Windman fan OPEN reading the van's mass. Tiebi recognizing the
@@ -314,13 +325,20 @@ institutional white. The four hero signature-colors are the only saturated notes
 - **P5 — Half — SPLIT WIDE, LEFT = STAGING LOT INTERIOR / RIGHT = STREET EXTERIOR.**
   Not split-register: a single wide panel read left to right. LEFT: Primm inside the
   closed structure, floodlight striping through the steel grid, mini-orbs in LOW SLOW
-  ORBIT, the tablet on the folding table outside showing the hold notice. RIGHT: Three
-  figures (Tiebi full size, beret on; Pho-boman, broth resettled, lower-compressed
-  brows, dragon-belly visible; Windman, fan FOLDED, bandaged face at an off-angle).
-  Windman's ghost-lines present in the right space but with a GAP in the overlay where
-  the P-03 contour used to be. No Primm in the right space. The institutional ticket
-  update in the smallest type at the right panel edge: *TICKET STATUS: ASSET RECOVERED
-  1/4 — REINTEGRATION SCHEDULED, PENDING SECONDARY ASSET RECOVERY.*
+  ORBIT, the tablet on the folding table outside showing the simplified hold notice
+  (*UNIT: P-03 / STATUS: CONTAINED / TRANSPORT: ON HOLD — BOTH FRAGMENTS REQUIRED BEFORE
+  TRANSPORT.* — the REINTEGRATION NOTE 4.3B cross-reference removed). RIGHT: Three
+  figures (Tiebi full size, beret on; Pho-boman, broth resettled, lower-compressed brows,
+  dragon-belly visible; Windman). Windman's loss registers PRIMARILY in his body: his
+  bandaged face is turned slightly toward the staging lot BEHIND the three figures —
+  toward the chain-link-and-steel wall now between him and something that used to be in
+  the air — and he has gone STILL, his fan FOLDED at his side, his fan hand motionless,
+  the stillness of someone who reached for something and found it gone (NOT navigating,
+  NOT scanning the street). The ghost-line GAP in his pressure overlay (the cleared slot
+  where the P-03 contour used to sit) REMAINS as the quiet SUPPORTING layer. No caption
+  names his feeling. No Primm in the right space. The institutional ticket update in the
+  smallest type at the right panel edge: *TICKET STATUS: ASSET RECOVERED 1/4 —
+  REINTEGRATION SCHEDULED, PENDING SECONDARY ASSET RECOVERY.*
 
 **Hard continuity guards (every panel):**
 
@@ -351,57 +369,75 @@ institutional white. The four hero signature-colors are the only saturated notes
 
 ### Panel 1 — RETRIEVAL IN PROGRESS
 
-> **The cold open — the Movement II shift delivered as a database field update, not a
-> dramatic cut.** The same institutional terminal screen from E09's close, the status
-> field changed from *SCHEDULING RETRIEVAL* to *RETRIEVAL IN PROGRESS*. No heroes visible.
-> The null result — *1 NULL* — sits in the correlation line without a branch to handle it.
-> The clock: *FIELD TEAM DELTA — ETA 9 MIN.* The workflow is executing.
+> **The cold open — the Movement II shift delivered inside a live pre-dawn exterior, not a
+> screen dump.** The staging lot before the operation: the steel-frame containment unit
+> strapped to the flatbed, two field team members adjusting its straps, a third holding a
+> tablet face-out under the floodlight, the van idling with headlights on, about to roll out.
+> The tablet reads *STATUS: RETRIEVAL IN PROGRESS* — the one-word change from E09's
+> *SCHEDULING RETRIEVAL*, now caught at a glance inside the image. The null result —
+> *1 NULL* — sits in the ticker without a branch to handle it. The clock: *FIELD TEAM DELTA
+> — DEPLOYING — ETA 9 MIN.* None of the four heroes appear — only the field team. A crew, a
+> cage, and a clock; the workflow is executing.
 
-**Style anchor:** [[Visual Style Guide|v1]]. **Palette override:** cold institutional
-fluorescent — flat, even, beige-tinted, desaturated. The screen text is the whole panel;
-the text IS the composition. **Reveal:** STATUS FIELD UPDATED — *RETRIEVAL IN PROGRESS*
-in large institutional type; the null result noted and set aside; the ETA clock readable.
-No heroes visible; no drama; the workflow is executing.
+**Style anchor:** [[Visual Style Guide|v1]]. **Palette override:** cold institutional —
+pre-dawn grey across the lot, one floodlight cutting institutional white (not a dramatic
+spotlight), desaturated and washed-out; the tablet screen the coldest beige-grey register.
+**Reveal:** THE OPERATION READIES — the cage strapped to the flatbed, the field team
+working, the van's headlights on and idling (DEPLOYING); the tablet showing *RETRIEVAL IN
+PROGRESS* and the *DEPLOYING / ETA 9 MIN* clock; the null result noted and set aside. No
+heroes visible; no drama; procedural body language only; the workflow is executing.
 
 **GENAI PROMPT**
 
 > Modern Western graphic-novel comic-book illustration, single comic-page panel. Clean confident hand-inked black linework with medium-weight uniform outlines and selective heavier contour lines, light cross-hatching for shadow. Flat cel-style coloring with subtle cell-shading gradients, limited halftone texture, restrained screen-tone dot shading in shadows. Slightly stylized semi-realistic proportions, expressive readable faces, deadpan comedic timing. Crisp print-quality finish, clear silhouette-first staging, strong readable composition, no photorealism, no 3D render look. Muted desaturated naturalistic palette as the project baseline.
 >
-> FULL PANEL, the entire frame filled by a wall-mounted institutional terminal screen — a flat monitor set into a clean white-and-grey institutional wall surface, fluorescent ceiling strip lighting casting flat even beige-tinted light on the screen and the wall around it. Cold institutional fluorescent palette: desaturated, washed-out, institutional beige-grey-white, cold flat overhead fluorescent light. No heroes visible. No dramatic framing. The screen and its text are the complete subject.
+> WIDE pre-dawn EXTERIOR — a fenced chain-link perimeter lot, industrial district, pre-dawn: a concrete base running along the inside of the chain-link fence, one floodlight on a pole at the perimeter casting harsh institutional white light down onto a flatbed platform inside the lot; a refrigerated loading dock at the far end of the lot (cold, industrial, unlit); the chain-link gate in the van's path; cracked asphalt inside the lot. Cold institutional palette: pre-dawn grey across the lot and the dark not-yet-lightening sky, the single floodlight cutting institutional white (NOT a dramatic spotlight) over the flatbed, everything else desaturated and washed-out. This is a live physical scene, before the operation rolls out — a crew, a cage, and a clock.
 >
-> The screen displays a GastroDefense institutional status interface — plain sans-serif typography, black-on-pale-grey, no graphic design beyond functional bureaucratic layout. The top third of the display shows the primary status block in large institutional type, fully legible, centered:
+> ON THE FLATBED, lit by the floodlight, the primary object: a portable steel-frame holding structure, standard industrial equipment-storage specification — a six-face cage of welded steel members on a flatbed staging platform, each face a grid of steel, the door a hinged face on one side with a spring-loaded industrial latch on the OUTSIDE; inelegant, large enough for one human-sized figure with clearance; no electronics, no display, no dramatic mechanism — a standard equipment cage doing its standard function. The cage is empty (the operation has not begun); webbing straps run over and around it, securing it to the flatbed.
 >
-> ANOMALY CORRELATION COMPLETE — 4 UNITS — GRID DISTRICT 7
-> UNIT CODES: W-01 / P-02 / P-03 / T-04
+> ON THE FLATBED, working: TWO GastroDefense Retrieval Division field team members in plain GastroDefense-branded coveralls — muted corporate colors, no tactical gear, no weapons, standard work coveralls with a deliberately bland fork-and-baton logo patch — adjusting and cinching the webbing straps that secure the steel-frame containment unit to the flatbed. Their body language is procedural, not confrontational — recovery workers executing a checklist. They do not speak; no speech bubbles.
+>
+> AT THE LOT'S EDGE, a THIRD field team member in the same plain GastroDefense-branded coveralls stands holding a standard GastroDefense-issue tablet face-OUT toward the reader, the way a worker holds a checklist to read under a floodlight — the screen angled so it is legible to the camera. He is glancing down at the lower line of the screen. The tablet screen displays a GastroDefense institutional status interface — plain sans-serif typography, black-on-pale-grey, no graphic design beyond functional bureaucratic layout. The TOP PORTION, dominant and largest, fully legible, reads:
+>
 > STATUS: RETRIEVAL IN PROGRESS
-> RETRIEVAL DIVISION — FIELD TEAM DELTA — DEPLOYED 04:17
 >
-> Beneath the status block, a scrolling operational update ticker in smaller institutional type, accumulating in real time — the individual lines legible to the reader at normal reading distance:
+> Beneath it, a two-line operational ticker in smaller institutional type, both lines fully legible to the reader:
 >
-> 04:17 — FIELD TEAM DELTA DEPARTED STAGING
-> 04:31 — DRONE NET LOCK: GRID SQUARE 7-H (3 SIGNATURES CONFIRMED / 1 NULL)
-> 04:33 — FIELD TEAM DELTA: EN ROUTE, ETA 9 MIN
+> 04:31 — DRONE NET LOCK: GRID SQ 7-H (3 SIGNATURES CONFIRMED / 1 NULL)
+> 04:33 — FIELD TEAM DELTA: DEPLOYING — ETA 9 MIN
 >
-> The null result — "1 NULL" — sits in the 04:31 line without comment, in the same weight and font as every other entry. The system has noted it. The system has proceeded. There is no branch for it in the interface.
+> The null result — "1 NULL" — sits in the 04:31 line without comment, in the same weight and font as every other entry, NOT highlighted, NOT reacted to. The system has noted it; there is no branch for it; the field team member is glancing at the ETA line, not the null.
 >
-> Composition: the screen fills the frame; the dominant text "RETRIEVAL IN PROGRESS" in the top third is the visual center of gravity; the ticker below reads naturally downward, with the ETA line at the bottom of the visible feed. Three small dry caption boxes in plain comic lettering, case-file register, staircase rhythm — one in the upper margin of the panel beyond the screen edge, one at mid-frame, one at the lower margin in a smaller size: "The Retrieval Division had not processed a ticket since Q3 of the previous fiscal year." / "It was now processing one." / "The drone net had returned a null on one of the four unit codes. This was noted. There was no field in the protocol for it."
+> AT THE FRAME'S EDGE: a GastroDefense-branded logistics van, headlights ON and cutting forward, the vehicle idling and about to roll out — "GD-LOGISTICS / RETRIEVAL DIVISION" stenciled on the side in plain institutional type, a deliberately bland corporate GastroDefense logo of a stylized fork crossed with a baton in two flat muted corporate colors on the cab door; the body language of a vehicle following a route, deploying — engine on, not yet moving.
+>
+> Composition: silhouette-first, the floodlit flatbed with the steel cage and the two strapping workers as the lit center, the third worker with the face-out tablet placed so the screen text reads clearly to the audience, the idling van with headlights on at the frame's edge. The status word "RETRIEVAL IN PROGRESS" is the element a reader catches at a glance inside the live image — the one-word change from E09's "SCHEDULING RETRIEVAL." Two small dry caption boxes in plain comic lettering, case-file register, staircase rhythm — one in the upper margin, one below it in a smaller size: "The Retrieval Division had not processed a ticket since Q3 of the previous fiscal year." / "It was now processing one."
 
 **NEGATIVE PROMPT**
 
-> no heroes visible in this panel (no Windman, no Tiebi, no Pho-boman, no Primm, no human figures at all), no dramatic staging or cinematic framing — the screen IS the panel, no villain or sinister figure, the screen text must be FULLY LEGIBLE and read exactly as specified ("ANOMALY CORRELATION COMPLETE — 4 UNITS — GRID DISTRICT 7 / UNIT CODES: W-01 / P-02 / P-03 / T-04 / STATUS: RETRIEVAL IN PROGRESS / RETRIEVAL DIVISION — FIELD TEAM DELTA — DEPLOYED 04:17" in the top block and the three ticker lines as specified — do NOT garble or invent other text), the null result "1 NULL" must be present in the 04:31 ticker line in the same weight as every other entry (NOT highlighted, NOT alarmed, NOT reacted to), no warm or saturated color in the panel — cold institutional fluorescent palette only, no 3D render, no photorealism, no manga or anime style, no modern smartphone aesthetic (this is a wall-mounted institutional terminal), no extra figures, no bystanders, no text errors beyond the three intended captions and the specified screen text.
+> NONE of the four heroes appear in this panel (no Windman, no Tiebi, no Pho-boman, no Primm) — only the anonymous field team workers in coveralls appear; no bystanders, no fifth or sixth onlooker; the three field team members do NOT speak (no speech bubbles, no dialogue, no monologue), their body language is procedural only — NOT dramatic, NOT sinister, NOT a heroic or threatening posture; the corporation does not menace; the steel cage on the flatbed is EMPTY (the operation has not begun, no figure inside it); the van's headlights are ON and the vehicle is IDLING / about to roll out (DEPLOYING — NOT yet moving, NOT screeching, NOT a dramatic chase vehicle); the floodlight is institutional white (NOT a dramatic spotlight, NOT a stage light); the tablet screen text must be FULLY LEGIBLE and read EXACTLY as specified ("STATUS: RETRIEVAL IN PROGRESS" dominant up top, then the two ticker lines "04:31 — DRONE NET LOCK: GRID SQ 7-H (3 SIGNATURES CONFIRMED / 1 NULL)" and "04:33 — FIELD TEAM DELTA: DEPLOYING — ETA 9 MIN" — do NOT garble, do NOT invent other lines); the null result "1 NULL" must be PRESENT in the 04:31 line in the same weight and font as every other entry (NOT highlighted, NOT alarmed, NOT reacted to, NOT bolded); the field team member holds the tablet face-OUT toward the reader; cold institutional palette + pre-dawn grey only — no warm or saturated color, no sunrise glow, no dramatic colored lighting; the GastroDefense logo on the van and coverall patches is the bland fork-and-baton (NOT a sinister emblem); no team name or logo on anyone; no 3D render, no photorealism, no manga or anime style, no chibi, no modern smartphones or anachronistic gadgets, no extra fingers, no malformed hands, no text errors beyond the two intended captions, the tablet screen text, the van stenciling, and the bland coverall logo patches.
 
 **Consistency / staging notes**
 
-- This panel has **no heroes** — it is the pure cold open. The institutional text IS
-  the composition. The only visual interest is the difference between *SCHEDULING
-  RETRIEVAL* (the E09 seam) and *RETRIEVAL IN PROGRESS* — one word changed in the
-  same font. The seam is read by the audience; no character sees it.
+- This panel is a **live pre-dawn exterior**, not a screen dump — the staging lot
+  before the operation: the cage strapped to the flatbed, two field team members
+  cinching the straps, a third holding the status tablet face-out under the floodlight,
+  the van idling with headlights on. NONE of the four heroes appear — only the anonymous
+  field team workers. The action is a crew, a cage, and a clock before any hero arrives.
+- **The seam** is the status word *RETRIEVAL IN PROGRESS* — the one-word change from
+  E09's *SCHEDULING RETRIEVAL*, now read at a glance inside a live image rather than off
+  a wall of text. Reuse the **staging lot**, **containment unit**, **van**, and **field
+  team** verbatim descriptor blocks above. The seam is caught by the audience; no
+  character points at it.
 - The null result (*1 NULL*) in the 04:31 ticker line is Pho-boman's invisibility
   confirmed as a bureaucratic non-event — noted and set aside, no branch in the
-  protocol. Guard against any highlighting or dramatic weight on it.
-- **ETA clock (load-bearing):** *ETA 9 MIN* at 04:33 is the ticking number the
-  audience can read. The heroes are nine minutes from the Retrieval Division and do
-  not know.
+  protocol. The field team member is glancing at the ETA line, not the null. Guard
+  against any highlighting or dramatic weight on the *1 NULL*.
+- **GastroDefense soulless, not clever:** the field team is procedural, dialogue-free,
+  not menacing. No speech bubbles. The corporation executes a workflow; it does not
+  gloat or threaten.
+- **ETA clock (load-bearing):** *DEPLOYING — ETA 9 MIN* at 04:33 is the ticking number
+  the audience can read. The heroes are nine minutes from the Retrieval Division and
+  do not know.
 
 ---
 
@@ -499,11 +535,11 @@ structure; field team member with a tablet already moving away to file confirmat
 >
 > TO THE SIDE, just outside the structure's door, ALREADY MOVING toward a standard GastroDefense-issue tablet: a second GastroDefense field team member in the same plain branded coveralls, tablet in hand, stylus ready — filing the confirmation. Their body language: a worker completing the next item on the checklist.
 >
-> Composition: silhouette-first, the steel-frame holding structure the dominant object, centered in the harsh floodlight; the door swinging shut with the latch engaging is the kinetic event; Primm's cyan visor visible through the steel grid face; his stopped mini-orbs and the dissipating DRIFT trails the two internal cues that something is different from a normal containment. The camera is at ground-level, slightly to the side, so the interior and the closing door are both legible. Three small dry caption boxes in plain comic lettering, case-file register, staircase rhythm, increasing in weight from line to line: "The structure was rated for industrial equipment up to 300 kilograms." / "The specification had not been written with P-03 in mind." / "The specification had not been written with P-03 in mind for the same reason no specification had been written with P-03 in mind: no one had considered him."
+> Composition: silhouette-first, the steel-frame holding structure the dominant object, centered in the harsh floodlight; the door swinging shut with the latch engaging is the kinetic event; Primm's cyan visor visible through the steel grid face; his stopped mini-orbs and the dissipating DRIFT trails the two internal cues that something is different from a normal containment. The camera is at ground-level, slightly to the side, so the interior and the closing door are both legible. Two small dry caption boxes in plain comic lettering, case-file register, staircase rhythm: "The structure was rated for standard equipment." / "No one had considered him."
 
 **NEGATIVE PROMPT**
 
-> Primm's mini-orbs are STOPPED (NOT in active orbit, NOT in tight orbit — MOTIONLESS, the field has no exit to push toward), his katanas (ninjato-style straight blades) are SHEATHED on his back (NOT drawn, NOT raised, NOT aimed at the latch — he has determined the latch is unreachable from inside), the door is CLOSING with routine checklist body language (NOT being slammed, NOT being dramatically sealed, NOT a dramatic action — a worker closing a cage door), the spring-loaded industrial latch is on the OUTSIDE of the door (NOT electronic, NOT a keypad, NOT a dramatic lock), the field team members wear PLAIN BRANDED COVERALLS (NOT tactical gear, NOT weapons, NOT dramatic uniforms), the faint light-bend distortion is CONSTRAINED / PRESSING AGAINST the enclosure (NOT a directional blast, NOT a discharge, NOT aimed at the door — the field is there but going nowhere useful), the DRIFT phasing trails are STILL DISSIPATING from where he ENTERED (the face he phased through, NOT the door face — he phased in to investigate, the door is a different face), no other heroes in this panel (no Windman, no Tiebi, no Pho-boman outside the structure), each hero cue: Primm has glowing CYAN visor, dark purple lab-coat jacket, twin ninjato blades SHEATHED on his back, black gloves, STOPPED mini-orbs — no beret, no eye bandage, no fan, no diving helmet, no dragon-belly, no team name or logo on any hero, no costumed superhero, no cape, no flight, no dramatic lighting beyond the single floodlight (institutional white, not spotlit), no warm or saturated color beyond the CYAN visor glow and the faint VIOLET-AND-CYAN light-bend, no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones or anachronistic gadgets, no extra fingers, no malformed hands, no text errors (other than the three intended captions and the bland coverall logo patch).
+> Primm's mini-orbs are STOPPED (NOT in active orbit, NOT in tight orbit — MOTIONLESS, the field has no exit to push toward), his katanas (ninjato-style straight blades) are SHEATHED on his back (NOT drawn, NOT raised, NOT aimed at the latch — he has determined the latch is unreachable from inside), the door is CLOSING with routine checklist body language (NOT being slammed, NOT being dramatically sealed, NOT a dramatic action — a worker closing a cage door), the spring-loaded industrial latch is on the OUTSIDE of the door (NOT electronic, NOT a keypad, NOT a dramatic lock), the field team members wear PLAIN BRANDED COVERALLS (NOT tactical gear, NOT weapons, NOT dramatic uniforms), the faint light-bend distortion is CONSTRAINED / PRESSING AGAINST the enclosure (NOT a directional blast, NOT a discharge, NOT aimed at the door — the field is there but going nowhere useful), the DRIFT phasing trails are STILL DISSIPATING from where he ENTERED (the face he phased through, NOT the door face — he phased in to investigate, the door is a different face), no other heroes in this panel (no Windman, no Tiebi, no Pho-boman outside the structure), each hero cue: Primm has glowing CYAN visor, dark purple lab-coat jacket, twin ninjato blades SHEATHED on his back, black gloves, STOPPED mini-orbs — no beret, no eye bandage, no fan, no diving helmet, no dragon-belly, no team name or logo on any hero, no costumed superhero, no cape, no flight, no dramatic lighting beyond the single floodlight (institutional white, not spotlit), no warm or saturated color beyond the CYAN visor glow and the faint VIOLET-AND-CYAN light-bend, no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones or anachronistic gadgets, no extra fingers, no malformed hands, no text errors (other than the two intended captions and the bland coverall logo patch).
 
 **Consistency / staging notes**
 
@@ -515,10 +551,10 @@ structure; field team member with a tablet already moving away to file confirmat
 - **The door is the exit he found on the near face.** The DRIFT trails are at the entry
   face (a different face of the six-face cage). Both are visible: entry-face trails still
   dissipating, door face closing. Camera angle must show both.
-- **Triple caption (tonal center):** the three captions are the episode's moral register —
-  the dry, incremental logic of institutional indifference. The third caption is the
-  elaboration the series earns by midpoint. Guard against editorial italics or dramatic
-  lettering weight on them.
+- **Two captions (tonal center):** *"The structure was rated for standard equipment." /
+  "No one had considered him."* — the first is a specification fact, the second the
+  devastation that lands on first read. The dry, incremental logic of institutional
+  indifference. Guard against editorial italics or dramatic lettering weight on them.
 
 ---
 
@@ -590,12 +626,16 @@ HWUF callout, ghost-lines reading the vertical gap.
 
 > **The still after the turn — the episode's visual summary.** A single wide panel, read
 > left to right: LEFT SPACE (staging lot, inside the containment structure — Primm standing,
-> mini-orbs in low slow orbit, the hold notice on the tablet outside the structure's door);
-> RIGHT SPACE (the street, three figures — Tiebi full size, beret back on; Pho-boman, broth
-> resettled, lower-compressed brows, dragon-belly visible; Windman, fan folded, bandaged
-> face at an angle that is not navigation). In the right space, Windman's pressure ghost-
-> lines are present but carry a GAP — the absent P-03 contour, now blank. The ticket update
-> in the smallest institutional type at the right panel edge: ASSET RECOVERED 1/4.
+> mini-orbs in low slow orbit, the simplified hold notice on the tablet outside the
+> structure's door); RIGHT SPACE (the street, three figures — Tiebi full size, beret back on;
+> Pho-boman, broth resettled, lower-compressed brows, dragon-belly visible; Windman). Windman's
+> loss lands PRIMARILY in his body: his bandaged face is turned slightly toward the staging
+> lot BEHIND the three, toward the chain-link-and-steel wall now between him and something
+> that used to be in the air; he has gone STILL, fan FOLDED at his side, fan hand motionless —
+> the stillness of someone who reached for something and found it gone. The ghost-line GAP in
+> his pressure overlay (the absent P-03 contour, now blank) REMAINS as the quiet supporting
+> layer. He does not name the loss; the body and the gap carry it. The ticket update in the
+> smallest institutional type at the right panel edge: ASSET RECOVERED 1/4.
 
 **Style anchor:** [[Visual Style Guide|v1]]. **Palette override:** pre-dawn grey, settling
 and quiet — slightly lighter than P2–P3 as dawn continues to thin the dark, but still cool
@@ -604,8 +644,10 @@ structure, Primm's cyan visor the saturated note. RIGHT SPACE: desaturated stree
 three hero signature-colors as small quiet notes (mustard-gold beret, reddish-orange broth,
 Windman's blue "W" tee). The ghost-line gap is a tonal absence in the blue overlay.
 **Reveal:** SPLIT WIDE — LEFT Primm inside (door closed, latch engaged, mini-orbs LOW SLOW
-ORBIT, hold-notice tablet); RIGHT three figures (Tiebi + Pho-boman + Windman), ghost-line
-GAP in Windman's overlay, ticket update in smallest type at the edge.
+ORBIT, simplified hold-notice tablet); RIGHT three figures (Tiebi + Pho-boman + Windman),
+Windman turned toward the lot behind them and gone STILL with his fan FOLDED (the body the
+primary loss-register), the ghost-line GAP in his overlay the quiet supporting layer; ticket
+update in smallest type at the edge.
 
 **GENAI PROMPT**
 
@@ -617,7 +659,7 @@ GAP in Windman's overlay, ticket update in smallest type at the edge.
 >
 > The interior of the portable steel-frame holding structure on the flatbed, seen from slightly outside and to the side through the steel-grid faces. The door is CLOSED, the spring-loaded industrial latch on the outside ENGAGED. One floodlight on the lot's perimeter casts harsh institutional white light down through the steel-grid faces, striping the interior in parallel bands of institutional white and shadow. Inside the structure: a slim, lean humanoid man, male, ~175–180 cm tall, built for agile blinking and gravity poses; a slightly elongated face with sharp focused eyes and short-to-medium dark brown hair, wearing high-tech goggles with faintly blue-tinted transparent lenses behind a glowing CYAN visor; a sleek lab-coat-style jacket in DARK PURPLE with silver trim, open at the front; a black undershirt with faint glowing blue lines in a subtle geometric pattern; dark-blue fitted trousers tucked into black boots with silver accents; black gloves with silver fingertips; small metallic mini-orbs around his chest and waist in a LOW SLOW ORBIT — not tight, not stopped, the orbit of something running on low power in a constrained space, slowly tracing an oval path; and twin katanas (ninjato-style straight blades) sheathed flat across his back. He is STANDING (not sitting — his gravity field makes sitting feel approximately the same as standing). His glowing CYAN visor faces the camera. His katanas are sheathed. A faint optical light-bend distortion of gravity manipulation — tinged VIOLET-AND-CYAN — is visible but constrained, pressing against all six steel faces with no directional exit. He has filed the facts: the latch is on the outside, the enclosure removes his phasing reference frame, the gravity field has no preferential exit. He is standing in them.
 >
-> Just outside the structure's door, on a small temporary folding table: a standard GastroDefense-issue tablet, screen FACE-UP and legible to the reader — the field team left it here after closing. Its screen displays in plain institutional type: "ASSET RECOVERY CONFIRMATION / UNIT: P-03 / STATUS: CONTAINED / TRANSPORT TO ORIGIN FACILITY: PENDING — ON HOLD (SEE: REINTEGRATION NOTE 4.3B — BOTH FRAGMENTS REQUIRED BEFORE TRANSPORT). ESTIMATED HOLD: UNTIL W-01 RECOVERY."
+> Just outside the structure's door, on a small temporary folding table: a standard GastroDefense-issue tablet, screen FACE-UP and legible to the reader — the field team left it here after closing. Its screen displays in plain institutional type: "UNIT: P-03 / STATUS: CONTAINED / TRANSPORT: ON HOLD — BOTH FRAGMENTS REQUIRED BEFORE TRANSPORT."
 >
 > RIGHT SPACE — the street outside the staging lot:
 >
@@ -627,32 +669,41 @@ GAP in Windman's overlay, ticket update in smallest type at the edge.
 >
 > FIGURE TWO (center of the three, shortest): a small round spoon-shaped being, the smallest figure at roughly 140–150 cm tall, with a large round belly, short legs nearly hidden under the belly's curve, and short but noticeably muscular arms; his head is shaped like a deep-sea diving helmet — a wide metal dome with a wide transparent front visor; the helmet is filled with reddish-orange pho broth (with bright-yellow highlights, a warm glow) that sloshes and bubbles — the broth RESETTLED, calm; his face forms inside the helmet out of the soup's ingredients — eyes, eyebrows and cheekbones made of slightly twisted noodles, and a nose made of a bright-green sprig of cilantro poking above the broth; he has NO separate mouth — the open visor simply shows the soup, and the visor IS the face; he wears short black pants (mostly hidden under the belly) and fully black, flat, minimalist boots; across his large round belly a large red Chinese dragon on a blue background, scales and claws detailed, tail wrapping around the belly — CLEARLY VISIBLE at the camera angle. His noodle-brows are in the LOWER-COMPRESSED configuration — the configuration that arrived in E09 Panel 6 when he read the specification document's Section 4.4 bracket; not alarmed, not neutral, the compressed register of something filed without a category.
 >
-> FIGURE THREE (right of the three): a humanoid man, male, 180 cm tall, moderately stout with a slightly loose but stable physique, normal proportions, not heavily muscled; short natural-brown chestnut hair; a calm, soft-featured slightly-rounded face with no beard or mustache. Across his eyes, a thick cloth EYE BANDAGE that completely covers both eyes — top portion blue, lower portion (above the eyebrows) red — fastened near the ears, fitting tightly to the face, leaving NO visible eyes. He wears a fitted blue T-shirt (not tight), sleeveless or short sleeves to mid-shoulder, bearing a single large white letter "W" monogram on the chest. He wears brown knee-length straight-cut slightly-baggy shorts, and fully-black flat-soled snug boots with no decoration. In his RIGHT hand: a small handheld folding fan, brown wood-textured handle about 25 cm long, three rounded slightly-transparent blades about 10 cm each colored green, blue, and red, evenly spaced around a central hub — FOLDED SHUT at his side, not aimed. His bandaged face is at an angle that is NOT navigation — he is not reading the street. He is reading something that is not in the street. Around the three figures, the ambient "pressure-map / ghost-line" perception overlay is PRESENT — the cool finer semi-transparent ghost-line register tracing the street's objects as air-displacement contours. But in this overlay, at the mid-frame height between the figures, there is a GAP — a deliberately empty slot in the ghost-line layer, a cleared zone in the cool semi-transparent register where a faint unnamed contour used to sit and now does not. The objects around the gap — the parked cars, the building facades, the lamp post — read normally in the ghost-line overlay. The gap is not a hole in the art; it is a blank in what the field is reporting, the shape of an absence, a slot that used to return something and now returns nothing. The gap is the visual information. It is not labeled by any caption in this register.
+> FIGURE THREE (right of the three): a humanoid man, male, 180 cm tall, moderately stout with a slightly loose but stable physique, normal proportions, not heavily muscled; short natural-brown chestnut hair; a calm, soft-featured slightly-rounded face with no beard or mustache. Across his eyes, a thick cloth EYE BANDAGE that completely covers both eyes — top portion blue, lower portion (above the eyebrows) red — fastened near the ears, fitting tightly to the face, leaving NO visible eyes. He wears a fitted blue T-shirt (not tight), sleeveless or short sleeves to mid-shoulder, bearing a single large white letter "W" monogram on the chest. He wears brown knee-length straight-cut slightly-baggy shorts, and fully-black flat-soled snug boots with no decoration. In his RIGHT hand: a small handheld folding fan, brown wood-textured handle about 25 cm long, three rounded slightly-transparent blades about 10 cm each colored green, blue, and red, evenly spaced around a central hub — FOLDED SHUT at his side, his fan hand MOTIONLESS, not aimed. His bandaged face is turned slightly BACK over his shoulder, toward the staging lot BEHIND the three figures — toward the wall of chain-link and steel that is now between him and something that used to be in the air. He is NOT reading the street, NOT navigating, NOT scanning; he has gone STILL — the whole figure quiet and arrested, the stillness of a person who reached for something and found it gone. This bodily stillness — the turned face, the motionless folded fan hand, the arrested posture — is the PRIMARY carrier of the loss. Around the three figures, the ambient "pressure-map / ghost-line" perception overlay is PRESENT — the cool finer semi-transparent ghost-line register tracing the street's objects as air-displacement contours. But in this overlay, at the mid-frame height between the figures, there is a GAP — a deliberately empty slot in the ghost-line layer, a cleared zone in the cool semi-transparent register where a faint unnamed contour used to sit and now does not. The objects around the gap — the parked cars, the building facades, the lamp post — read normally in the ghost-line overlay. The gap is not a hole in the art; it is a blank in what the field is reporting, the shape of an absence, a slot that used to return something and now returns nothing. The gap is the QUIET SUPPORTING layer of the loss — secondary to Windman's bodily stillness, which carries it first. It is not labeled by any caption in this register.
 >
 > At the far RIGHT EDGE of the panel, in the smallest institutional type — as if a status field is updating in real time in the panel's margin: "TICKET STATUS: ASSET RECOVERED 1/4 — REINTEGRATION SCHEDULED, PENDING SECONDARY ASSET RECOVERY."
 >
-> Composition: the single wide panel reads left to right — LEFT SPACE (the closed structure, the cyan visor striped by floodlight, the hold-notice tablet face-up outside the door) into RIGHT SPACE (three figures, the ghost-line overlay carrying the gap, the ticket update at the far right edge). The chain-link lot perimeter connects the two spaces at the background. Five small dry caption boxes in plain comic lettering, case-file register, staircase rhythm, decreasing in size from the first to the last: "The recovery confirmation had been filed at 04:51." / "Transport was on hold. Both fragments were required. The division had one." / "In the air, a field read that used to return something returned nothing." / "He had no word for this." / "He filed it where he could reach it." And in the smallest institutional type at the far right panel edge, as a separate status-field element (not a caption box): "TICKET STATUS: ASSET RECOVERED 1/4 — REINTEGRATION SCHEDULED, PENDING SECONDARY ASSET RECOVERY."
+> Composition: the single wide panel reads left to right — LEFT SPACE (the closed structure, the cyan visor striped by floodlight, the hold-notice tablet face-up outside the door) into RIGHT SPACE (three figures, Windman turned and gone still toward the lot, the ghost-line overlay carrying the gap, the ticket update at the far right edge). The chain-link lot perimeter connects the two spaces at the background. Two small dry caption boxes in plain comic lettering, case-file register, staircase rhythm: "He had no word for this." / "He filed it where he could reach it." And in the smallest institutional type at the far right panel edge, as a separate status-field element (not a caption box): "TICKET STATUS: ASSET RECOVERED 1/4 — REINTEGRATION SCHEDULED, PENDING SECONDARY ASSET RECOVERY."
 
 **NEGATIVE PROMPT**
 
-> the LEFT SPACE and RIGHT SPACE are NOT two separate split-register panels with a divider — they are ONE wide panel in which two simultaneous spaces coexist, read left to right; Primm's mini-orbs are in a LOW SLOW ORBIT (NOT tight orbit, NOT stopped, NOT active orbit — slowly moving in a constrained oval, low power); his katanas (ninjato-style straight blades) are SHEATHED on his back (NOT drawn); the door is CLOSED and the latch ENGAGED (NOT open, NOT dramatic — a closed industrial cage); the light-bend distortion inside the structure is CONSTRAINED/PRESSING (NOT a directional blast, NOT a discharge — going nowhere useful); the ghost-line GAP in the right space is a BLANK SLOT in the overlay (NOT a visual hole in the art, NOT a dramatic rupture — a cleared zone in the ghost-line layer where a contour used to be, NOT labeled or explained by any caption in the ghost-line register); the fan is FOLDED SHUT at Windman's side in the RIGHT space (NOT open); the bandaged man's face is at the angle of someone reading something NOT in the street (NOT navigation, NOT looking at the van or the lot); Pho-boman's noodle-brows are in the LOWER-COMPRESSED configuration (NOT interested/raised, NOT alarmed); Pho-boman's broth is RESETTLED and calm (NOT sloshing dramatically); Pho-boman has NO mouth (the visor IS the face); the hold-notice tablet must be FACE-UP and legible reading exactly "ASSET RECOVERY CONFIRMATION / UNIT: P-03 / STATUS: CONTAINED / TRANSPORT TO ORIGIN FACILITY: PENDING — ON HOLD (SEE: REINTEGRATION NOTE 4.3B — BOTH FRAGMENTS REQUIRED BEFORE TRANSPORT). ESTIMATED HOLD: UNTIL W-01 RECOVERY." (do NOT garble this text); the ticket update at the panel's right edge reads exactly "TICKET STATUS: ASSET RECOVERED 1/4 — REINTEGRATION SCHEDULED, PENDING SECONDARY ASSET RECOVERY." (do NOT garble); there are EXACTLY THREE figures in the right space (Tiebi + Pho-boman + Windman — NOT four, NOT Primm in the right space); each hero keeps ONLY his own cues — bandaged man: eye bandage covering both eyes (blue on top, red below, NO visible eyes), SINGLE white "W" (never "WM"), fan FOLDED in RIGHT hand; beret man: ORDINARY VISIBLE eyes, dark-navy tilted beret BACK ON, MUSTARD-GOLD shirt, FULL human size; spoon being: diving-helmet head of reddish-orange broth RESETTLED, noodle-eyes/brows in lower-compressed config, green cilantro nose, NO mouth, red-dragon-on-blue belly VISIBLE; purple-coated man inside the structure: CYAN visor, dark purple coat, twin ninjato blades SHEATHED, LOW SLOW ORBIT orbs — no cross-contamination of cues between heroes, no team name or logo on any hero, no costumed superhero, no cape, no flight, no fourth figure in the right space, no bystanders in the right space, no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones or anachronistic gadgets, no extra fingers, no malformed hands, no text errors (other than the five intended captions, the hold-notice tablet text, and the ticket update at the panel edge).
+> the LEFT SPACE and RIGHT SPACE are NOT two separate split-register panels with a divider — they are ONE wide panel in which two simultaneous spaces coexist, read left to right; Primm's mini-orbs are in a LOW SLOW ORBIT (NOT tight orbit, NOT stopped, NOT active orbit — slowly moving in a constrained oval, low power); his katanas (ninjato-style straight blades) are SHEATHED on his back (NOT drawn); the door is CLOSED and the latch ENGAGED (NOT open, NOT dramatic — a closed industrial cage); the light-bend distortion inside the structure is CONSTRAINED/PRESSING (NOT a directional blast, NOT a discharge — going nowhere useful); the ghost-line GAP in the right space is a BLANK SLOT in the overlay (NOT a visual hole in the art, NOT a dramatic rupture — a cleared zone in the ghost-line layer where a contour used to be, NOT labeled or explained by any caption in the ghost-line register); the fan is FOLDED SHUT at Windman's side in the RIGHT space (NOT open, NOT spread, NOT aimed) and his fan hand is MOTIONLESS; Windman's posture reads as TURNED TOWARD THE LOT BEHIND the three figures and GONE STILL — face turned slightly back over the shoulder toward the chain-link-and-steel wall, the whole figure arrested and quiet (NOT navigating, NOT scanning the street, NOT reading the street, NOT in an active sensing pose); his bodily stillness is the PRIMARY loss-register and the ghost-line gap is only the supporting layer; do NOT add any caption that names his feeling; Pho-boman's noodle-brows are in the LOWER-COMPRESSED configuration (NOT interested/raised, NOT alarmed); Pho-boman's broth is RESETTLED and calm (NOT sloshing dramatically); Pho-boman has NO mouth (the visor IS the face); the hold-notice tablet must be FACE-UP and legible reading exactly "UNIT: P-03 / STATUS: CONTAINED / TRANSPORT: ON HOLD — BOTH FRAGMENTS REQUIRED BEFORE TRANSPORT." (do NOT garble this text, do NOT add a REINTEGRATION NOTE 4.3B cross-reference or any other line); the ticket update at the panel's right edge reads exactly "TICKET STATUS: ASSET RECOVERED 1/4 — REINTEGRATION SCHEDULED, PENDING SECONDARY ASSET RECOVERY." (do NOT garble); there are EXACTLY THREE figures in the right space (Tiebi + Pho-boman + Windman — NOT four, NOT Primm in the right space); each hero keeps ONLY his own cues — bandaged man: eye bandage covering both eyes (blue on top, red below, NO visible eyes), SINGLE white "W" (never "WM"), fan FOLDED in RIGHT hand; beret man: ORDINARY VISIBLE eyes, dark-navy tilted beret BACK ON, MUSTARD-GOLD shirt, FULL human size; spoon being: diving-helmet head of reddish-orange broth RESETTLED, noodle-eyes/brows in lower-compressed config, green cilantro nose, NO mouth, red-dragon-on-blue belly VISIBLE; purple-coated man inside the structure: CYAN visor, dark purple coat, twin ninjato blades SHEATHED, LOW SLOW ORBIT orbs — no cross-contamination of cues between heroes, no team name or logo on any hero, no costumed superhero, no cape, no flight, no fourth figure in the right space, no bystanders in the right space, no manga or anime style, no chibi, no 3D render, no photorealism, no modern smartphones or anachronistic gadgets, no extra fingers, no malformed hands, no text errors (other than the two intended captions, the hold-notice tablet text, and the ticket update at the panel edge).
 
 **Consistency / staging notes**
 
-- **The ghost-line gap (load-bearing):** the absence in the ghost-line overlay is the
-  fragment-resonance loss delivered as a pressure-field blank. The distinction from E08:
-  in E08 the field returned a dash (a slot it could not name); here the slot that held
-  the un-namable thing returns nothing. The dash was a presence without a word; the blank
-  is its absence. Render the gap as a subtle cleared zone in the ghost-line layer — not a
-  dramatic hole, not labeled. The narration names it ("a field read that used to return
-  something returned nothing"); the ghost-line layer shows it without explaining it.
+- **Windman's body-register (load-bearing — PRIMARY):** the loss lands FIRST in his body.
+  His bandaged face is turned slightly back toward the staging lot behind the three figures
+  — toward the chain-link-and-steel wall now between him and something that used to be in
+  the air — and he has gone STILL, fan FOLDED at his side, fan hand motionless: the
+  stillness of a person who reached for something and found it gone. He is NOT navigating,
+  NOT scanning the street. This bodily stillness is the primary carrier of the loss. He does
+  NOT name it — there is NO caption naming his feeling. Reuse the **Windman** appearance and
+  **fan** verbatim blocks (fan FOLDED per the fan-state timeline).
+- **The ghost-line gap (SUPPORTING / secondary):** the absence in the ghost-line overlay is
+  the fragment-resonance loss delivered as a pressure-field blank — the quiet supporting
+  layer beneath the body-register, not the primary carrier. The distinction from E08: in E08
+  the field returned a dash (a slot it could not name); here the slot that held the
+  un-namable thing returns nothing. The dash was a presence without a word; the blank is its
+  absence. Render the gap as a subtle cleared zone in the ghost-line layer — not a dramatic
+  hole, not labeled. No caption explains it; the body carries it first, the gap supports.
 - **Mini-orbs LOW SLOW ORBIT (new state for this episode):** distinct from both "active
   orbit" (powers engaged) and "tight disciplined orbit" (E08 P5/P6 — has the answer).
   Low and slow: the field is running but constrained, processing facts it cannot act on.
-- **The hold notice IS the rescue clock.** The tablet reads "BOTH FRAGMENTS REQUIRED
-  BEFORE TRANSPORT / ESTIMATED HOLD: UNTIL W-01 RECOVERY." Primm is not being
+- **The hold notice IS the rescue clock.** The simplified tablet reads "UNIT: P-03 /
+  STATUS: CONTAINED / TRANSPORT: ON HOLD — BOTH FRAGMENTS REQUIRED BEFORE TRANSPORT."
+  (the REINTEGRATION NOTE 4.3B cross-reference is removed). Primm is not being
   transported. The series has three more episodes before the rescue window begins.
-  Guard the text — do not garble it.
+  Guard the text — do not garble it, do not re-add the 4.3B reference.
 - **Ticket update at the right panel edge:** *ASSET RECOVERED 1/4* is the episode's
   last corporate word. It is in the smallest institutional type, as if updating in real
   time. Render it as a status-field element at the panel's margin, not as a caption box.
@@ -683,7 +734,7 @@ GAP in Windman's overlay, ticket update in smallest type at the edge.
   (HWUF / STOMP / SLURP / DRIFT — note: only STOMP and HWUF fire in this episode;
   SLURP is not earned; DRIFT is present as a constrained VFX, not as a fired SFX).
 - [[The Bad Guys]] — GastroDefense Inc.; the Retrieval Division; the containment unit;
-  the drone net null result; the hold clause (REINTEGRATION NOTE 4.3B); the ticket
+  the drone net null result; the hold clause (BOTH FRAGMENTS REQUIRED); the ticket
   *ASSET RECOVERED 1/4*.
 - [[Visual Style Guide]] — global Art-Style Anchor v1 (reused verbatim); the airmaster
   pressure-perception overlay; the GastroDefense logo, signage, and palette conventions;
