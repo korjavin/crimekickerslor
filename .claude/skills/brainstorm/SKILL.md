@@ -1,6 +1,6 @@
 ---
 name: brainstorm
-description: "Multi-model creative brainstorm for a Crime Kickers episode (or any creative problem). Writes a self-contained brief, fans it out to three independent idea engines — agy (Gemini Flash), codex (OpenAI), and the spark-creative-igniter agent (Claude) — then collects the ideas and clusters them by cross-model convergence for human validation.
+description: "Multi-model creative brainstorm for a Crime Kickers episode (or any creative problem). Writes a repo-grounded brief, fans it out to three independent idea engines — agy (Gemini Flash), codex (OpenAI), and the spark-creative-igniter agent (Claude) — then collects the ideas and clusters them by cross-model convergence for human validation.
 TRIGGER when: the user asks to brainstorm / spark / generate ideas for an episode or beat, especially to de-risk a quiet or text-heavy episode before drafting, or says 'use brainstorm'.
 DO NOT TRIGGER for: editorial/consistency/continuity work, drafting final scripts or panel prompts, or any task that should just be executed rather than ideated. This skill produces IDEAS for a human to validate — it never auto-applies them to the vault."
 ---
@@ -9,7 +9,7 @@ DO NOT TRIGGER for: editorial/consistency/continuity work, drafting final script
 
 ## Overview
 
-Generate a burst of fresh, diverse ideas for a creative problem by asking **three independent models the identical self-contained brief**, then synthesizing. The value is two-fold:
+Generate a burst of fresh, diverse ideas for a creative problem by asking **three independent models the identical repo-grounded brief**, then synthesizing. The value is two-fold:
 - **Convergence signal** — when ≥2 models independently land the same beat, that's a high-confidence bet.
 - **Diversity** — each model has a different flavor (Gemini = wild/slapstick-visual; OpenAI = tight/plot-functional; Claude/spark = structurally & emotionally integrated).
 
@@ -30,8 +30,8 @@ Generate a burst of fresh, diverse ideas for a creative problem by asking **thre
 ### 1. Gather context
 Read the target episode's script (`Stories/S01E##/…`) if it exists, the `Stories/Series Arc.md`, and the immediately adjacent episodes. Identify: the episode's required **payloads** (the beats it must deliver for the arc), and the **engagement risk** (what makes it boring/static/overcomplex as a comic).
 
-### 2. Write a self-contained brief
-Image-gen models and external CLIs have no repo access — the brief must stand alone. Write it to a temp file (e.g. `/tmp/brainstorm.txt`). Include, tersely:
+### 2. Write a grounded brief
+Write the brief to a temp file (e.g. `/tmp/brainstorm.txt`) and **point the models at the specific repo files to read** — the target episode draft, the relevant character/enemy pages, the Series Arc. Grounding measurably improves the ideas: the models cite real canon and find gaps in the actual draft. Include a **compact context recap as a fallback** in case a model can't read a file. Include, tersely:
 - **Premise** of Crime Kickers (comedic-absurd corporate-dread comic; GastroDefense is a soulless voiceless bureaucracy, never a monologuing villain; the menace is paperwork/indifference; 4–6 panels, tight captions).
 - **The four heroes** in one line each (Windman / Tiebi / Pho-boman / Primm), and who is present/absent this episode.
 - **Arc position** — compressed: where we are, what just happened, what comes next.
@@ -39,23 +39,21 @@ Image-gen models and external CLIs have no repo access — the brief must stand 
 - **The problem** — name the engagement risk explicitly (boring? static? text-heavy? overcomplex?) and the bar: *understandable, captivating, not boring, not overcomplex*, WITHOUT losing the payloads.
 - **The ask** — 6–10 distinct punchy ideas (1–3 sentences each) spanning: visual/structural ways to dramatize the static beat; comedic beats fitting the bureaucracy engine; an emotional angle; a fresh non-ceremonial reveal; and an optional **[ARC SWING]** (invite them to challenge the arc — reorder/move/cut a beat — and say why).
 - **Constraints** so ideas stay usable (voiceless corporation; in-world facts that are locked; it's a *visual* comic so ideas must be drawable; the tone).
+- **A sharper angle** is worth adding for high-stakes episodes — push the models on the 3–5 hardest questions specific to this episode (the worked E12 brief is a good template: it named the one perceiver that isn't a sensor, the protagonist's specific weirdness, what-goes-wrong, etc.).
 - **Format:** numbered list, label arc-changers `[ARC SWING]`, no preamble, no editing — just ideas.
 
-A worked example of this brief shape lives in the E11 brainstorm that seeded this skill; reuse its structure.
+### 3. Fan out to three models — ONE grounded iteration (identical brief)
+Run all three in parallel; **one grounded pass is the default** (it has proven enough — a second varied-prompt iteration rarely surfaces new signal beyond the first grounded pass):
+- **agy + codex** via the helper: `bash .claude/skills/brainstorm/fanout.sh /tmp/brainstorm.txt` — the helper runs codex read-only from the repo root and agy with the repo `--add-dir`, so both READ the files the brief names. (Login shell is **fish**, so the helper forces bash and passes the prompt as an arg; `agy -p` needs the prompt as an arg, not stdin; `codex exec` needs `--skip-git-repo-check`.) **Never pass `--dangerously-skip-permissions`** — the auto-mode classifier denies it, and read access doesn't need it.
+- **spark** via the Agent tool (`subagent_type: spark-creative-igniter`), told to READ the same repo files (it has native repo access) and return a numbered list of ideas — prefixed: *"PURE IDEATION — do NOT edit files; you may read the named files; return a numbered list."*
 
-### 3. Fan out to three models (identical brief)
-Run all three in parallel:
-- **agy + codex** via the helper: `bash .claude/skills/brainstorm/fanout.sh /tmp/brainstorm.txt`
-  (The helper handles the gotchas — see `fanout.sh`. The login shell is **fish**, so it forces bash and passes the prompt as an argument; `agy -p` needs the prompt as an arg, not stdin; `codex exec` needs `--skip-git-repo-check` and is run read-only from `/tmp`.)
-- **spark** via the Agent tool (`subagent_type: spark-creative-igniter`) with the SAME brief, prefixed: *"PURE IDEATION — do NOT edit files, do NOT read the repo; the context below is self-contained; return a numbered list of ideas."*
-
-If a CLI errors, read the error and adjust (e.g. a new flag) rather than dropping that model — three voices is the point.
+If a CLI errors, read the error and adjust (e.g. a new flag) rather than dropping that model — three voices is the point. The grounded output can be large; if a run is truncated to a saved file, read the file for the full idea lists.
 
 ### 4. Collect and cluster
-Don't just dump 27 ideas. Synthesize:
+Don't just dump the raw ideas. Synthesize:
 - **Convergent clusters** — group beats ≥2 models hit independently; cite which models. These are the high-confidence bets.
-- **Unique standouts** — the best one-off from each model.
-- **[ARC SWING]s** — surface every arc-change proposal, especially convergent ones.
+- **Unique standouts** — the best one-off from each model (grounded spark often finds the emotional core / a gap in the actual draft).
+- **[ARC SWING]s** — surface every arc-change proposal, especially convergent ones, and flag any that conflict with locked canon.
 - **Constraint flags** — note any idea that violates a locked constraint or canon (keep it as a spark, but flag it).
 - **Recommendation** — what to fold in now vs what's a real fork for the human.
 
@@ -63,5 +61,5 @@ Don't just dump 27 ideas. Synthesize:
 End by presenting the clustered set and asking the human which ideas to validate in and how to proceed. **Do not auto-apply.** The episode rework is the next, separate step.
 
 ## Notes
-- Tune the fleet to scope: a quick spark can be agy + spark only; a high-stakes episode warrants all three plus a follow-up convergence pass.
-- The brief is the product. A vague brief gets vague ideas from all three; a sharp, payload-locked, problem-named brief gets usable ones.
+- **Default to ONE grounded iteration** with all three models. agy and codex are cheap, but a second iteration with a varied prompt rarely surfaces new signal beyond the first grounded pass — only add one if the first pass came back thin.
+- The brief is the product. A vague brief gets vague ideas from all three; a sharp, payload-locked, problem-named, repo-grounded brief gets usable ones.
