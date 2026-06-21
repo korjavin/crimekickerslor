@@ -32,19 +32,19 @@ Precedes [[S01E12 — Thermal Gradient]], in which Pho-boman's invisibility beco
 
 **Note on the document:** the case file Tiebi accesses in this episode is the Retrieval Division's **active operational case file** — a live workflow document, a different access point entirely from the E09 recall specification the four read together at the district substation terminal. The E09 screen showed the specification (what is to be done). This file shows the case (who is doing it, why, and under what contract). The heroes never saw the E09 screen's CRIME KICKERS label, which was in a sub-window facing away from them. The name arrives here, in the case file's header, for the first time any of them encounter it.
 
-> **Seam test:** does the episode open with three heroes (Windman, Tiebi, Pho-boman), Primm absent and held, no mention of the CRIME KICKERS name before Tiebi reads it from the case file, and close with the name in functional use (not triumphant) and the rescue clock established from the reintegration-hold mechanic? If Primm appears, if the name arrives through any channel other than the case file, or if the three adopt the name with ceremony, the seam is broken.
+> **Seam test:** does the episode open with three heroes (Windman, Tiebi, Pho-boman), Primm absent and held, no mention of the CRIME KICKERS name before Tiebi reads it from the case file, and close with the name in functional use (not triumphant) and the rescue clock established from the reintegration-hold mechanic — and does it close with the terminal session logged, tightening the clock into E12? If Primm appears, if the name arrives through any channel other than the case file, or if the three adopt the name with ceremony, the seam is broken.
 
 ---
 
 ## Format
 
-This episode is a **5-panel comic page** — one page, five panels. The format scales down one from E09 and E08's six-panel budget; the logic is correct. E11 is a decode episode, not a kinetic or ensemble episode. Its structural weight is in what is read, not in what happens. Five panels is the right number: one to establish the condition (three, the gap, the city); one for Tiebi's access and the case file in the cold split-register; one for the name arriving; one for the contract reveal (the twist, the coldest beat); one to close on the three, Primm's absence named by the document, the rescue clock running. The reduced panel count also performs the issue's register: a quieter issue, denser per panel, knowledge accumulating without action.
+This episode is a **5-panel comic page** — one page, five panels. The format scales down one from E09 and E08's six-panel budget; the logic is correct. E11 is a decode episode, not a kinetic or ensemble episode. Its structural weight is in what the heroes *read through* each other — Tiebi's translations, Windman's felt absence, Pho-boman's missing slot — not in what happens on the page. Five panels is the right number: one to establish the condition (three, the gap, the city); one for Tiebi's access and the bureaucratic obstruction + the name arriving mechanically; one for the name received flat + Tiebi's first translation + Windman's felt hold-line + Pho-boman's blank in the roster; one for the twist via Tiebi's two devastating short lines; one to close on the three outside, the rescue clock running, the session now logged. The reduced panel count also performs the issue's register: a quieter issue, denser per panel, knowledge accumulating without action.
 
 The visual space shifts across the episode: it opens on a **street-level exterior** (night, the city still dark from E10's register), moves into a **low-traffic internet-access point** or analogous semi-public terminal (Tiebi accesses a network node, not a GastroDefense facility — his former security credentials authorize read-only access to Retrieval Division operational files from any networked terminal; this is a legacy access permission the system has not revoked), and closes on an **exterior threshold** again — the three outside, the case file on a small portable screen between them, the city around them.
 
 The **split-register** from E09 recurs in a modified form for Panel 2: heroes occupy the left, warm side; the corporate case file occupies the right, cold-institutional side. The difference from E09's split-register is register: in E09 the corporate side was a live operational clock; here it is a document — a contract performance file, already closed around them. The split narrows as the episode progresses; by Panel 4 the document is taking most of the frame, the heroes compressed to witnesses.
 
-Captions are the dry case-file narrator throughout. Dialogue is minimal. The corporation never speaks; it only files.
+Captions are the dry case-file narrator throughout. Tiebi's flat translation lines are the episode's main dialogue — spare, deadpan, two or three words each. The corporation never speaks; it only files.
 
 > **Visual production:** image-generation prompts for each panel to be built against the [[Visual Style Guide]] by the panel-prompt-smith agent.
 
@@ -52,12 +52,12 @@ Captions are the dry case-file narrator throughout. Dialogue is minimal. The cor
 
 ## Cast (this issue)
 
-- **Windman** — blind, exactly 180 cm, moderately stout, chestnut hair. Blue-and-red eye bandage (top blue, lower red). Blue T-shirt with large white "W" monogram. Brown knee-length shorts. Fully black flat boots. Multicolored three-blade fan (green, blue, red blades on a 25 cm brown handle), carried in the right hand. His perception: the city as a pressure-map; where the fragment-resonance would register is returning no signal. He reads this as a gap in the air. SFX: HWUF. He/him. True AEGIS-4 fragment. Unit code: W-01.
-- **Tiebi** — size-shifter, ~175–180 cm at full size, medium build, slightly lean. Dark-navy French beret, slightly tilted, small nub at top center. Mustard-gold fitted shirt. Plain dark trousers and flat dark shoes. Can shrink below a cockroach, grow larger than an elephant; mass conserves, momentum does not. Former soldier, former GastroDefense security officer; his legacy network credentials are the key to this episode. SFX: STOMP. He/him. Unit code: T-04. The only one who can read a corporate access hierarchy. The only one whose credentials the system has not yet expired.
-- **Pho-boman** — spoon-shaped, ~140–150 cm. Large round belly with red Chinese dragon on blue background, scales, claws, tail wrapping the belly. Short muscular arms. Deep-sea diving helmet head, wide transparent visor filled with reddish-orange pho broth that sloshes and bubbles; face forms dynamically from noodle-eyes and noodle-brows, cilantro nose, no mouth. Short black pants, flat black minimalist boots. SFX: SLURP. He/him. Born of the incident; no incident-signature; invisible to calibrated drone sweep. Unit code: P-02. Present throughout; no lines; his noodle-brows do the work.
-- **Primm** — absent. Held in steel-frame containment, GastroDefense HQ. (The specific holding location — sublevel 3 — is not in this case file and is not learned until E12; the active case file gives the heroes the *why* and the hold condition, not the *where*.) He appears only as a unit code in the case file (P-03) and as the gap in Windman's pressure-sense. The gap is not discussed. It is present.
-- **The Retrieval Division active case file** — a GastroDefense Inc. operational document. Header: **CRIME KICKERS** (auto-generated from incident data, E09 DB label, now the live operational designation for the open ticket). Body: contract performance notice GD-C-4419, recovery progress, reintegration hold condition (W-01 not yet recovered; joint-reintegration protocol holds P-03 pending W-01 recovery). The case file is the episode's primary actor. No lines.
-- **A semi-public networked terminal** — a street-level access point, institutional but not GastroDefense property. The kind of terminal that exists in a city's administrative infrastructure: permit-and-licensing kiosk, public library terminal, transit authority node. Whatever it is, it is networked, it accepts Tiebi's legacy credentials, and it has no opinion about what he reads. No lines.
+- **Windman** — blind, exactly 180 cm, moderately stout, chestnut hair. Blue-and-red eye bandage (top blue, lower red). Blue T-shirt with large white "W" monogram. Brown knee-length shorts. Fully black flat boots. Multicolored three-blade fan (green, blue, red blades on a 25 cm brown handle), carried in the right hand. His perception: the city as a pressure-map; where the fragment-resonance would register is returning no signal. He reads this as a gap in the air. When Tiebi scrolls past Primm's hold-condition line, Windman — who felt the blank as a cold rectangle of silence in his pressure-sense — snaps his fan shut and signals for Tiebi to scroll back. He does not name what Primm is to him. The gap does the work. SFX: HWUF. He/him. True AEGIS-4 fragment. Unit code: W-01.
+- **Tiebi** — size-shifter, ~175–180 cm at full size, medium build, slightly lean. Dark-navy French beret, slightly tilted, small nub at top center. Mustard-gold fitted shirt. Plain dark trousers and flat dark shoes. Can shrink below a cockroach, grow larger than an elephant; mass conserves, momentum does not. Former soldier, former GastroDefense security officer; his legacy network credentials are the key to this episode. SFX: STOMP. He/him. Unit code: T-04. The only one who can read a corporate access hierarchy. The only one whose credentials the system has not yet expired. In this episode he functions as live translator: he compresses corporate-ese into short flat lines and the others read his face, not the document.
+- **Pho-boman** — spoon-shaped, ~140–150 cm. Large round belly with red Chinese dragon on blue background, scales, claws, tail wrapping the belly. Short muscular arms. Deep-sea diving helmet head, wide transparent visor filled with reddish-orange pho broth that sloshes and bubbles; face forms dynamically from noodle-eyes and noodle-brows, cilantro nose, no mouth. Short black pants, flat black minimalist boots. SFX: SLURP. He/him. Born of the incident; no incident-signature; invisible to calibrated drone sweep. Unit code: P-02. Present throughout; no lines; his noodle-brows do the work. His unit code P-02 exists in the case file's outstanding roster — but the drone-net recovery data column beside it reads "DATA NOT PRESENT." The file knows the slot exists. It has no sensor data to fill it. When he sees his own blank slot, he points at it. The belly-dragon lifts its head.
+- **Primm** — absent. Held in steel-frame containment, GastroDefense HQ. (The specific holding location — sublevel 3 — is not in this case file and is not learned until E12; the active case file gives the heroes the *why* and the hold condition, not the *where*.) He appears only as a unit code in the case file (P-03) and as a cold blank rectangle in Windman's pressure-sense. The gap is not discussed. It is present.
+- **The Retrieval Division active case file** — a GastroDefense Inc. operational document. Header: **CRIME KICKERS** (auto-generated from incident data, E09 DB label, now the live operational designation for the open ticket). Body: contract performance notice GD-C-4419, recovery progress, unit roster (P-02 slot: "DATA NOT PRESENT"), reintegration hold condition (W-01 not yet in custody; joint-reintegration protocol holds P-03 pending W-01 recovery). The case file is the episode's primary actor. No lines.
+- **A semi-public networked terminal** — a street-level access point, institutional but not GastroDefense property. The kind of terminal that exists in a city's administrative infrastructure: permit-and-licensing kiosk, public library terminal, transit authority node. Whatever it is, it is networked, it accepts Tiebi's legacy credentials, and it has no opinion about what he reads. No lines. Its one opinion: it offers a HELPDESK widget.
 
 ---
 
@@ -92,28 +92,25 @@ No drones visible. The city is quiet. The gap in the air is not pointed at.
 
 **Image:** Split-register panel — heroes occupy the left, warm-palette half; the Retrieval Division case file occupies the right, cold-institutional half. The split is not labeled. The palette does the work.
 
-**Left half — a street-level terminal:** Tiebi at the terminal keypad, credential token inserted, the terminal screen reflecting his face in the institutional blue-white of a networked database node. He is not typing dramatically. He is navigating a menu with the efficiency of someone who spent two years inside this access hierarchy and has not forgotten its shape. The terminal UI is GastroDefense administrative infrastructure — the same visual register as the variance ticket in E09, the same cold-palette institutional font.
+**Left half — a street-level terminal:** Tiebi at the terminal keypad, credential token inserted, the terminal screen reflecting his face in the institutional blue-white of a networked database node. He is navigating a menu with the efficiency of someone who spent two years inside this access hierarchy and has not forgotten its shape. The terminal UI is GastroDefense administrative infrastructure — the same visual register as the variance ticket in E09.
 
-Windman is two steps behind and to Tiebi's left, fan open now — navigating the space around them, the ambient field-read checking for moving mass in the nearby airspace. Pho-boman is to Tiebi's right, a half-step back, noodle-brows angled at the terminal screen with the attention of someone who cannot read the interface and knows it and is watching Tiebi's hands instead.
+But: before the file loads, a HELPDESK widget has materialized in the corner of the screen. It offers three buttons in identical institutional type:
+
+*[ RATE YOUR EXPERIENCE ] [ RATE YOUR EXPERIENCE ] [ CLOSE ]*
+
+The CLOSE button, when pressed, reopens the widget. Tiebi presses CLOSE. The widget reopens. He navigates around it. His expression does not change. The widget has no opinion about this.
+
+Windman is two steps behind and to Tiebi's left, fan open now — navigating the space around them, the ambient field-read checking for moving mass in the nearby airspace. Pho-boman is to Tiebi's right, a half-step back, watching Tiebi's hands. He cannot read the interface. He watches the hands.
 
 The terminal's screen glow is the frame's coldest light. The three figures in its wash are warm by comparison — Pho-boman's reddish-orange the warmest anchor.
 
 **Right half — cold institutional palette, the case file header loading:**
 
-A GastroDefense Retrieval Division operational document, opening on a database terminal. The header block is loading — not yet fully rendered, the text appearing field by field as the database populates the active ticket:
-
-*GastroDefense Inc. — RETRIEVAL DIVISION*
-*OPERATIONAL CASE FILE — ACTIVE*
-*CASE #: RD-0047*
-*CASE OPENED: [auto-populated timestamp]*
-*PRIORITY: STANDARD*
-*STATUS: RECOVERY IN PROGRESS (1/4 UNITS SECURED)*
-
-And below the status field, the case's operational designation — auto-generated from the E09 incident log, now the official label for the open ticket, rendering in the same institutional type as every other field:
+A GastroDefense Retrieval Division operational document, opening on a database terminal. The header block is loading — text appearing field by field as the database populates the active ticket. In the same institutional type as every other field, between STATUS and ASSIGNED TO, a field completes like a loading-spinner finishing — the last character populating, then still:
 
 *OPERATIONAL DESIGNATION: CRIME KICKERS*
 
-The label is in the case file's header, in the database's smallest standard font, between STATUS and ASSIGNED TO. It arrived the way a case number arrives: because the database needed a name for the open file and populated one from incident data. The name is not spotlit. It is not in a larger font. It is a field in a form.
+The label is not spotlit. It is not in a larger font. It renders in the smallest standard field type, between two other lines. The name populated because the database needed an operational designation and drew one from incident data. It sits there the way a case number sits there.
 
 Below it, still loading:
 
@@ -121,99 +118,104 @@ Below it, still loading:
 *CONTRACT REFERENCE: GD-C-4419*
 *CLIENT: [REDACTED]*
 
+And — in the lower corner of the right-side panel, barely visible, a status line just appearing:
+
+*SESSION: ACTIVE — ACCESS LOGGED [RD-SESSION-0047]*
+
+Pho-boman, the one who cannot read, sees the name complete on the right-side panel. His belly-dragon lifts its head. That is all. Tiebi has already moved past it; he is navigating to the unit roster.
+
 **Caption / dialogue:**
 - LEFT CAPTION: *The credentials were valid.*
 - LEFT CAPTION (below): *The system had not reviewed them in fourteen months.*
 - RIGHT CAPTION: *The Retrieval Division's active case file loaded in eleven seconds.*
 - RIGHT CAPTION (below): *It had a header field for operational designations.*
 
-**Why it lands:** The split-register here is inverted from E09's: in E09, the corporate right-side was a live ticking clock building toward the heroes; here it is a document the heroes are actively pulling toward themselves. The access comedy is in the credential detail — the system has not reviewed them in fourteen months, which is the exact mechanism of GastroDefense's institutional indifference (it did not revoke Tiebi's credentials because it did not process a security review; it did not process a security review because the review is on a quarterly schedule and the department responsible has not processed a ticket since Q3). The CRIME KICKERS label appears here in the right-side panel, loading between STATUS and ASSIGNED TO, in the smallest institutional font. It is visible to the reader before any hero in the frame has had time to read it. The caption says the minimum: "It had a header field for operational designations." It does not point at what is in the field.
+**Why it lands:** The split-register is inverted from E09's: in E09, the corporate right-side was a live ticking clock building toward the heroes; here it is a document the heroes are actively pulling toward themselves. The HELPDESK obstruction is one beat, voiceless, fully in form-options — the terminal's only personality is the persistence of a RATE YOUR EXPERIENCE button that reopens when closed. It does not slow the episode; Tiebi navigates around it without comment. The CRIME KICKERS label loads like a loading spinner finishing — smallest field type, between two other lines — visible to the reader before any hero has read it aloud. Pho-boman's belly-dragon lift is the panel's one moment of non-institutional warmth: the being who cannot read is the only one who physically notices the name arrive. Then it is over. Tiebi is already in the roster. The session-log line in the corner is the clock planted: the file now knows it was read.
 
 ---
 
 ### Panel 3 — Operational Designation
 
-**Image:** Close-in. Three figures grouped around the terminal screen, which now displays the case file in full — or as much of it as fits on one screen. This is the closest the three have stood since the episode opened. The geometry is not shoulder-to-shoulder; it is the geometry of three people who are all looking at the same thing.
+**Image:** Close-in. Three figures grouped around the terminal screen, which now displays the case file's unit roster. This is the closest the three have stood since the episode opened. The geometry is not shoulder-to-shoulder; it is the geometry of three people who are all looking at the same thing.
 
-The terminal screen fills the right half of the frame, the case file fully rendered. In the header field, clearly legible to the reader and now to the heroes, the operational designation line:
+The terminal screen fills the right half of the frame. The roster is visible — clean, institutional, four unit slots. Three return sensor data. One does not:
 
+*UNITS OUTSTANDING:*
+*W-01 — [sensor data]*
+*P-02 — DATA NOT PRESENT*
+*T-04 — [sensor data]*
+*UNITS SECURED: P-03 (PENDING REINTEGRATION)*
+
+*REINTEGRATION HOLD: ACTIVE*
 *OPERATIONAL DESIGNATION: CRIME KICKERS*
 
-Tiebi is reading this aloud. Not triumphantly. The caption will say he read it the way a case number is read — because it is a case number. His face, in this panel, contains neither humor at the label nor protest of it; he is reading a field in a form and reporting its contents.
+Tiebi reads the operational designation aloud. Flat. The way a case number is read. His face contains neither humor at the label nor protest of it.
 
-Windman: bandaged face at the angle of listening. His fan is folded. He is not running a field-read; he is receiving spoken information. His posture is the posture of someone who has just been told something that has landed without an obvious category to land in.
+Windman: his fan is folded. He is receiving. His posture is the posture of someone who has been told something without a category to land in. Below, on the same screen, the hold condition: *W-01 NOT YET IN CUSTODY.* When Tiebi scrolls past this line, Windman's pressure-sense registers it as a cold blank rectangle — the same absence-shape that P-03 leaves in his field-read, now named in institutional text. He snaps his fan shut. His free hand makes a single gesture: scroll back. Tiebi scrolls back without comment. They stay on the hold line for a moment. Windman does not name what the blank means to him. He has no word for it. He nods once: continue.
 
-Pho-boman: noodle-brows in the not-quite-question configuration from E08 Panel 5 — the new configuration that arrived when he encountered something the series' face-vocabulary did not have a prior entry for. The label is that kind of thing. Not alarming. Not welcome. Present, the way the name on a document is present.
-
-Below the operational designation line on the screen, the case status block is fully rendered now:
-
-*STATUS: RECOVERY IN PROGRESS*
-*UNITS SECURED: P-03 (PENDING REINTEGRATION)*
-*UNITS OUTSTANDING: W-01, P-02, T-04*
-*REINTEGRATION HOLD: ACTIVE — W-01 NOT YET IN CUSTODY.*
-*PROTOCOL NOTE: W-01 and P-03 reintegration is a joint procedure. Reintegration cannot proceed until both units are secured. P-03 is held pending W-01 recovery.*
-
-The reintegration hold is in plain institutional language. It is not a comfort to the three; it is a procedural constraint that happens to mean Primm is not yet un-made. The procedure has no opinion about this. The hold exists because the protocol requires both fragments together, and W-01 is not in custody. As long as W-01 is not in custody, P-03 has time. The document does not say this. The reader can see it.
+Pho-boman: his noodle-brows are in the not-quite-question configuration. But before Tiebi moves the scroll, Pho-boman's stubby arm extends, one finger pointed at the P-02 slot — *DATA NOT PRESENT.* He points at his own missing slot in the file. The belly-dragon faces outward. Then he lowers his arm. The roster doesn't know he is standing in front of it.
 
 **Caption / dialogue:**
-- TIEBI (flat, reading): *Operational designation: CRIME KICKERS.*
+- TIEBI (flat, reading the operational designation): *CRIME KICKERS.*
 - CAPTION (below): *He read it the way a case number is read.*
 - CAPTION (below): *They absorbed it and used it.*
 
-**Why it lands:** The name arrival is this episode's central moment, and it is delivered with the absolute minimum of ceremony — Tiebi reads a field in a form. The caption names the register: "the way a case number is read." There is no scene of the three looking at each other and agreeing; there is no internal monologue about the aptness of the name or its origin. "They absorbed it and used it" is the entire adoption arc, collapsed into one sentence by the narrator. From here on, in-world, they are the Crime Kickers — because the corporation's database said so, because Tiebi read it aloud, because there was nothing else to do with it. The REINTEGRATION HOLD block on the screen is the panel's other payload: the reader can calculate what it means for Primm; the three in the frame are reading the same words and arriving at the same calculation. The panel is doing two things in the same institutional font.
+**Why it lands:** The name arrives in two words, flat, because Tiebi doesn't editorialize field values. The caption names the register in three words — "the way a case number is read" — and then collapses the entire adoption arc into four: "They absorbed it and used it." The reader watches Pho-boman point at his own absence; the file that is hunting them cannot even see him. This is simultaneously funny and the E12 infiltration plant: the system has no sensor data for P-02, and Pho-boman already knows it. Windman's scroll-back is the panel's emotional core delivered in gesture only — his pressure-sense felt the blank before his mind named it, and he will not name it aloud. Tiebi scrolls back, waits, moves on. No dialogue. The document does the work; the bodies confirm it.
 
 ---
 
 ### Panel 4 — Contract Performance Notice GD-C-4419
 
-**Image:** The document takes most of the frame. The three heroes are compressed to a strip on the left — present, witnessing, but small against the case file. The screen has scrolled to the contract reference section. The institutional type is large enough to read clearly.
-
-*GastroDefense Inc. — RETRIEVAL DIVISION*
-*OPERATIONAL CASE FILE — ACTIVE / CASE #: RD-0047*
+**Image:** The document takes most of the frame. The three heroes are compressed to a strip on the left — present, witnessing, but small against the case file. The screen has scrolled to the contract section. The document is glanceable — a few load-bearing lines, not paragraphs:
 
 *5. CONTRACT BASIS*
-*This recovery operation is being executed in response to Contract Performance Notice GD-C-4419, filed by [CLIENT: REDACTED] against GastroDefense Inc. on grounds of failure to deliver the completed AEGIS-4 prototype as contracted.*
-
-*The client has cited non-delivery of a law-enforcement unit within the contracted timeline. GastroDefense Inc.'s legal review has determined that the most cost-effective path to contract closure is unit recovery and reintegration, restoring the prototype to deliverable specification.*
-
-*This operation is not classified as a security or threat-response action. The recovered units are not classified as adversarial. The operation is a product-liability compliance step.*
+*Recall executed under: GD-C-4419*
+*Grounds: failure to deliver completed AEGIS-4 prototype*
+*Classification: product-liability compliance step*
 
 *5.1 PRIORITY NOTE*
-*GastroDefense Inc. would prefer to close this file. The client has not escalated beyond the performance notice at this time. Standard retrieval protocol is authorized. No extraordinary measures are approved. Budget: standard.*
+*CLIENT: [REDACTED]*
+*GastroDefense Inc. would prefer to close this file.*
+*Budget: standard.*
 
-The heroes in the left strip: Tiebi has stopped reading. He is looking at the screen but not moving through it. His hand is no longer on the terminal. His other hand is at his side. Windman's fan is still folded. Pho-boman's noodle-brows have arrived at a configuration that the series will not have a shorthand for until later: the configuration of someone who has been filed as a product-liability compliance step and found the description accurate. Not offended. Not resigned. Accurate.
+The heroes in the left strip are not parsing the document. They are watching Tiebi. He reads it. He turns to the other two. His face has the expression of someone translating a weather report. Two beats:
 
-The four blank SFX boxes do not appear here — that register belongs to E09 Panel 4's specific silence. Here the document simply fills the frame, its own silence sufficient. The corporation is not being dramatic. It is explaining its budget.
+TIEBI: *Not revenge.*
+
+A pause. One more:
+
+TIEBI: *Undelivered merchandise.*
+
+Windman's fan, already folded, stays folded. Pho-boman's noodle-brows have arrived at the accurate configuration — not offended, not resigned. The description "product-liability compliance step" has been received and found accurate. One step past the not-quite-question: the question has been answered. The answer is accurate. The answer has been filed.
 
 **Caption / dialogue:**
-- CAPTION: *The corporation was not hunting them.*
-- CAPTION (below): *It was closing a ticket.*
+- TIEBI: *Not revenge.*
+- TIEBI (below): *Undelivered merchandise.*
 - CAPTION (below): *Standard retrieval protocol. Budget: standard.*
 
-**Why it lands:** Twist 1 arrives as a caption staircase reading a document field — exactly the correct register. "The corporation was not hunting them. It was closing a ticket." is the episode's sharpest line and it is delivered by the narrator in the same dry inventory tone that has named every other fact in the series. "Budget: standard" is the cold button on the reveal: the menace is not indifferent because it is cold or cruel; it is indifferent because it has a budget and the budget is standard and there is nothing in the budget line for malice. Every apparent menace across the first ten episodes — the drone net, the retrieval protocol, Primm's capture — was a workflow step. The corporation would prefer to close the file. This is funnier than a villain would be and colder than a villain would be simultaneously. The three heroes compressed to a witnessing strip on the left is the correct visual for the moment: the document is the actor here; they are the audience; this episode, for once, positions them where the reader usually is.
+**Why it lands:** Twist 1 arrives as Tiebi's two-line translation of a contract section the reader can confirm in a glance. "Not revenge. / Undelivered merchandise." is the whole reveal — corporate motive collapsed to six words, delivered in the flat register of someone who has navigated this kind of document before and found it unsurprising. The caption button — "Standard retrieval protocol. Budget: standard." — lands in the narrator's same dry inventory tone. The three heroes are witnesses, not parsers; the reader gets the meaning from Tiebi's face and two lines, then confirms it in the glanceable document text. The menace is not indifferent because it is cold or cruel — it is indifferent because it has a budget and the budget is standard.
 
 ---
 
 ### Panel 5 — The Rescue Clock
 
-**Image:** Exterior. The three have stepped back from the terminal — or rather, they are standing outside where the terminal was, the city around them, the screen's institutional glow no longer in the frame. The three-figure grammar: same direction, small spacing, the space between them slightly smaller than it was in Panel 1. Not sentiment; the terminal's vicinity compressed them, and they have not spread back out.
+**Image:** Exterior. The three have stepped back from the terminal — or rather, they are standing outside where the terminal was, the city around them, the screen's institutional glow no longer dominant in the frame. The three-figure grammar: same direction, small spacing, the space between them slightly smaller than it was in Panel 1. Not sentiment; the terminal's vicinity compressed them, and they have not spread back out.
 
 The city at night. Windman's field-read is running again — the ghost-lines faint in the ambient air, the city's masses and voids mapped quietly. In the P-03 coordinate: still blank. Still a held asset pending secondary recovery. The field is correct.
 
 Tiebi: beret straight, credential token no longer visible (pocketed). Mustard-gold shirt. He is looking at the city ahead, not at the others. He has the information. The information has a shape.
 
-Pho-boman: broth warm, reddish-orange. Belly-dragon at this ground-level angle. Noodle-brows in the focused configuration from Panel 1, no longer the not-quite-question one — he has received the answer to what he was not-quite-asking. The answer is that GastroDefense has Primm, the reintegration is on hold, and the hold exists because of Windman. He knows this. He has filed it.
+Pho-boman: broth warm, reddish-orange. Belly-dragon at this ground-level angle. Noodle-brows in the focused configuration — the not-quite-question has been answered and filed. He knows the roster said DATA NOT PRESENT for P-02. He knows what that means for E12.
 
 Windman: fan open, held at his side. Not aimed at anything. The gap in his field-read is the gap it has been since E10. He knows the case file's reintegration hold condition. While he is outside, Primm has time. The field does not make this a comfort. It makes it a fact.
 
-The city is still. No drones visible. One delivery unit far down the block, stationary — not a GastroDefense vehicle.
-
-In the lower corner of the panel, barely set dressing: the terminal screen behind them through the glass, still displaying the case file header:
+In the lower corner of the panel, behind them through glass — the terminal screen, still on:
 
 *OPERATIONAL DESIGNATION: CRIME KICKERS*
 *STATUS: RECOVERY IN PROGRESS*
+*SESSION: ACTIVE — ACCESS LOGGED [RD-SESSION-0047]*
 
-The three figures are in the foreground. The label is in the background. Nobody is facing it.
+The three figures are in the foreground. The label is in the background. The session line sits below it, small and cold. Nobody is facing any of it. The file now knows it was read. Something in GastroDefense's automated workflow has opened a sub-ticket.
 
 **Caption / dialogue:**
 - CAPTION: *The reintegration was on hold.*
@@ -221,7 +223,7 @@ The three figures are in the foreground. The label is in the background. Nobody 
 - CAPTION (below): *While three of them were outside, the fourth had time.*
 - CAPTION (below, smallest): *They called themselves the Crime Kickers now.*
 
-**Why it lands:** The episode's button lands in three steps and then a smallest-font afterthought. First the hold condition stated as a fact: the document's procedural constraint named by the narrator in the same institutional register as the document itself. Second the logical consequence — "while three of them were outside, the fourth had time" — delivered without sentiment, because it is a logical consequence of a procedural constraint and sentiment is not a category the narrator uses. Third the name adoption, smallest text, almost a footnote: "They called themselves the Crime Kickers now." It arrives the same way the name arrived — without ceremony, as a fact that has been filed. The case file visible through the glass behind them is the panel's final image: the operational designation in institutional type, already in the background of their lives, already what the corporation calls them, already what they are. The corporation named them. They read it. They used it. The loop is closed.
+**Why it lands:** The episode's button lands in three steps and then a smallest-font afterthought. First the hold condition stated as a fact. Second the logical consequence — "while three of them were outside, the fourth had time" — without sentiment. Third the name adoption, smallest text, almost a footnote: "They called themselves the Crime Kickers now." The session log in the background is voiceless: no person noticed, no alarm fired — an automated workflow sub-ticket opened somewhere in GastroDefense's queue. The loop has fed back into itself. The file knows it was read. The rescue clock just got a second hand.
 
 ---
 
@@ -231,29 +233,33 @@ The three figures are in the foreground. The label is in the background. Nobody 
 - **GD-C-4419 was already visible in E09.** The contract reference appears in the E09 recall specification's section 4.1 ("RECALL PURPOSE"), which names integration as resuming "product development as authorized under Contract GD-C-4419." The contract has been the engine of the recall since before the heroes found the terminal. The heroes read section 4 (reintegration procedure, disposal, consent field) and registered it as the *what*, not the contract clause's significance as the *why*; the number was on the screen in E09. (It was also stenciled, as a unit-recall protocol, on the side of the E08 truck.) Everything has always been liability management.
 - **The client identity.** The CLIENT field in the case file is REDACTED. The heroes cannot see who filed GD-C-4419. The audience cannot see it either — but the audience has been shown that this information exists and has been actively redacted, which is different from its absence.
 - **The cost of the hold condition.** The reintegration hold protects Primm while Windman is free. Windman is the reason Primm is alive in the hold. If Windman were recovered, reintegration would proceed on both fragments together — un-making all four simultaneously. The three do not discuss this in the episode. The document states it. The gap in Windman's field-read is the condition. The logical consequence is present in the panel without annotation.
+- **The session log.** The access Tiebi just ran has been recorded as RD-SESSION-0047 in GastroDefense's automated systems. No human has noticed yet; a sub-ticket has opened and sits in the queue. The heroes do not know this. It is the loop beginning, automatically, to notice them — an added pressure entering Movement II, not yet a pursuit. Where it leads is open.
+- **Pho-boman's DATA NOT PRESENT.** The file's drone-net recovery column has no sensor data for P-02. The heroes can see this. The audience can see this. What the audience understands that the heroes are still registering: this blank is not a glitch. It is Pho-boman's natural invisibility to calibrated sensors — and it will be the E12 infiltration route.
 
 ---
 
 ## Tone targets
 
 - **Panel 1:** night, quiet, the gap named obliquely. The opening has the lower energy of aftermath — not grief, not urgency, but the specific stillness of three people who have had something happen and are now moving anyway. The FIELD READ bracket returning a known-coordinate blank is the emotional register delivered as instrument-data. The credential token in Tiebi's hand is the forward movement: he has decided, without ceremony, that the next thing is access. The humor is in the final caption's dry matter-of-factness: "Tiebi still had his credentials." After everything in E10, the thing that enables E11 is a small token nobody revoked because the quarterly review was not processed.
-- **Panel 2:** the split-register episode-within-an-episode, cold institutional right, warm witnessing left. The CRIME KICKERS label loads between STATUS and ASSIGNED TO in the smallest database font, visible to the reader before any hero has read it — the audience sees the name in the corporate document for the first time, fourteen months after the corporation filed it. The credential-validity comedy is dry and correct: the system didn't revoke them because the system didn't process the review. GastroDefense is not clever. It is a system with a queue.
-- **Panel 3:** the name arrives aloud, in the flattest possible register. Tiebi reads a field. The caption names how: the way a case number is read. The adoption is complete by the end of the caption staircase — three lines, no drama. The REINTEGRATION HOLD block is present and readable on the same screen; the reader gets both pieces of information in the same frame. Pho-boman's not-quite-question configuration is the panel's emotional texture: not alarmed, not resigned, a configuration the vocabulary is still filing.
-- **Panel 4:** the document takes the frame. The three heroes are witnesses. Twist 1 — the recall is a contract dispute — arrives as a budget line in a section 5.1 priority note. "Budget: standard." The corporation would prefer to close the file. The comedy is in the completeness of the document's self-consistency: the corporation is not wrong by its own framework; it is doing exactly what it should do, in exactly the right priority register, with exactly the right budget. The dread is in the same fact.
-- **Panel 5:** the close. Three figures, outside, the label in the background. The rescue clock stated without urgency: a hold condition, a logical consequence, a smallest-font adoption of the name they now have. The episode ends the same way the corporation files: completely, without commentary, everything in the right field.
+- **Panel 2:** the split-register episode-within-an-episode, cold institutional right, warm witnessing left. The HELPDESK widget is a single voiceless obstruction — form-options only, two identical RATE YOUR EXPERIENCE buttons and one CLOSE that reopens itself. Tiebi navigates around it. His face is unchanged. The CRIME KICKERS label loads between STATUS and ASSIGNED TO, completing like a loading-spinner's last character — smallest field font, no drama. Pho-boman's belly-dragon lifts its head. The session log appears in the corner. Tiebi is already in the roster.
+- **Panel 3:** the name arrives as two words in Tiebi's flat voice. The caption names the register: "the way a case number is read." Windman's scroll-back gesture is the panel's emotional weight, delivered without dialogue. Pho-boman points at his own missing slot. The episode's three reactions are non-verbal except for Tiebi's five total words. The reader gets the meaning from the bodies; the document confirms it in a glance.
+- **Panel 4:** Tiebi translates the entire contract section in six words across two lines. The document in the frame is glanceable — four lines of institutional text the reader can read in one pass. The heroes are not parsing; they are watching Tiebi. Pho-boman's accurate noodle-brow configuration is the panel's emotional register: the description has been received and filed, neither alarming nor surprising. The comedy is in the completeness of Tiebi's compression: "Not revenge. / Undelivered merchandise." This is funnier than a villain and colder than a villain simultaneously.
+- **Panel 5:** the close. Three figures, outside, the label and session log in the background. The rescue clock stated without urgency: a hold condition, a logical consequence, a smallest-font adoption of the name they now have. The session log is voiceless — an automated sub-ticket in a queue, no alarm, no person. The episode ends the same way the corporation files: completely, without commentary, everything in the right field.
 
 ---
 
 ## Differentiation / what's new
 
-E09 was the decode episode for *what* the recall means. E11 is the decode episode for *why* the recall exists. The two episodes are formally similar — both turn on reading a corporate document — but they operate in opposite registers: E09's document was the existential blow (the un-make reveal, the blank consent field); E11's document is the punchline. The menace is liability management. The threat is a performance notice. The pursuit is a workflow. After the midpoint loss of E10, what the three discover in E11 is not a villain to fight but a form to close. This is colder than a villain. The series has been building to this reveal since GD-C-4419 appeared in E09's fine print.
+E09 was the decode episode for *what* the recall means. E11 is the decode episode for *why* the recall exists. The two episodes are formally similar — both turn on reading a corporate document — but they operate in opposite registers: E09's document was the existential blow (the un-make reveal, the blank consent field); E11's document is the punchline delivered by a translator. The menace is liability management. The threat is a performance notice. The pursuit is a workflow. After the midpoint loss of E10, what the three discover in E11 is not a villain to fight but a form to close — translated into six words by the person who spent two years navigating this access hierarchy.
 
 What is new here:
-- **Twist 1 — the corporate motive decoded.** Every apparent menace across the arc was always a workflow step. The corporation would prefer to close the file. The heroes are not hunted; they are outstanding items on a standard-priority ticket.
-- **The name inherited.** CRIME KICKERS arrives from the corporation's database, via a case file's header field, read aloud in the flattest register the series has. The adoption is complete in three words of caption. It lands the way a case number lands.
-- **The rescue clock established.** The reintegration hold condition — W-01 not in custody, joint-reintegration protocol holds P-03 — is the structural mechanic that gives the rescue its urgency. Primm has time because Windman is outside. This is in the document. The heroes know it. The three can act.
-- **The three as a unit (first time since E10's loss).** Panel 1 opens on three; Panel 5 closes on three. The episode does not give the three a triumphant regrouping scene; it gives them a document and a decision to make, which is exactly the kind of three-person regrouping the series does.
-- **Pho-boman's new noodle-brow configuration.** First appeared at E08 Panel 5 (encountering Tiebi — something the series' face-vocabulary had no prior entry for). Now it appears for a different input: the "product-liability compliance step" language in the case file. The configuration is still being filed. It will be needed again.
+- **Tiebi as live translator.** Tiebi compresses corporate-ese into flat short lines; the other two read his face, not the document. The decode becomes performance. The reader gets the meaning from bodies and a glanceable text confirmation, not from parsing institutional paragraphs.
+- **Pho-boman is not in the file.** The unit roster shows P-02 as "DATA NOT PRESENT" — the drone-net has no sensor data for him. He points at his own missing slot. The belly-dragon lifts its head. This plants the E12 infiltration route without naming it.
+- **Windman reads through pressure, not sight.** When Tiebi scrolls past the hold-condition line, Windman feels it as a cold blank rectangle — the same shape as P-03's absence in his field-read. He snaps his fan, scrolls back, holds the line. He has no word for it. He nods and they continue. The felt truth is not spoken.
+- **Twist 1 — the corporate motive decoded.** Every apparent menace across the arc was always a workflow step. "Not revenge. / Undelivered merchandise." The heroes are not hunted; they are outstanding items on a standard-priority ticket.
+- **The name inherited.** CRIME KICKERS arrives completing like a loading-spinner finishing, smallest institutional font, between two other fields. Tiebi reads it aloud in two words. The adoption is complete in four words of caption. It lands the way a case number lands.
+- **The rescue clock tightened.** The access is logged — RD-SESSION-0047 — and a sub-ticket has opened in GastroDefense's automated systems. No person noticed. A workflow resumed. The loop feeds back into itself.
+- **The obstruction gag.** The HELPDESK widget: two identical RATE YOUR EXPERIENCE buttons and one CLOSE that reopens itself. Tiebi navigates around it. One beat, voiceless.
 
 ---
 
@@ -263,7 +269,8 @@ What is new here:
 - **The client identity (REDACTED).** Who filed GD-C-4419 against GastroDefense Inc.? The heroes know the contract number and the redaction. The audience knows the same. The identity is an E19 engine (the injunction) and a beyond-20 thread.
 - **Appendix C.** The original recall specification's consent field — "[Field not applicable]" in Rev. 7, removed in Rev. 3, Appendix C never written — is not mentioned in this episode. The case file operates entirely in the current-revision framework. Appendix C's existence is reserved for E17.
 - **AEGIS-5.** Not referenced in this episode. The escalation from E14 that routes to AEGIS-5 is reserved for E17.
-- **The rescue.** The episode closes with the rescue clock established. E12 begins the tactical phase: Pho-boman's invisibility, GastroDefense HQ, sublevel 3, 72 hours. This episode does not advance the rescue; it establishes the rescue's conditions.
+- **The session log.** RD-SESSION-0047 is an open thread into E12: the sub-ticket will surface somewhere in GastroDefense's automated systems, tightening the rescue clock. The heroes do not know the consequence yet. The loop has already started running.
+- **The rescue.** The episode closes with the rescue clock established and tightened. E12 begins the tactical phase: Pho-boman's invisibility (now understood as a tactical asset — DATA NOT PRESENT), GastroDefense HQ, sublevel 3, 72 hours.
 
 ---
 
@@ -271,9 +278,9 @@ What is new here:
 
 - [[Series Arc]] — Movement II; Twist 1 (the recall is a contract dispute); name inheritance.
 - [[S01E10 — Half-Life]] — direct seam; the three outside, Primm held, the gap in Windman's field-read.
-- [[S01E12 — Thermal Gradient]] — direct continuation; Pho-boman infiltrates GastroDefense HQ; the rescue gains a target and a clock.
-- [[The Bad Guys]] — Retrieval Division, GD-C-4419, "CRIME KICKERS" operational designation, reintegration hold condition.
-- [[Windman]] — W-01; the hold condition is a function of his location; the gap in his field-read is P-03's absence.
-- [[Tiebi]] — T-04; legacy credentials; case-file access; bureaucracy as the episode's key.
-- [[Pho-boman]] — P-02; no role in the access mechanic; present throughout; noodle-brow vocabulary expanding.
+- [[S01E12 — Thermal Gradient]] — direct continuation; Pho-boman infiltrates GastroDefense HQ; the rescue gains a target and a clock. Session RD-SESSION-0047 tightens the clock.
+- [[The Bad Guys]] — Retrieval Division, GD-C-4419, "CRIME KICKERS" operational designation, reintegration hold condition, session log.
+- [[Windman]] — W-01; the hold condition is a function of his location; the gap in his field-read is P-03's absence; the scroll-back gesture is the episode's unspoken emotional core.
+- [[Tiebi]] — T-04; legacy credentials; case-file access; live translator; bureaucracy as the episode's key.
+- [[Pho-boman]] — P-02; DATA NOT PRESENT in the drone-net column; points at his own missing slot; belly-dragon lift; the E12 infiltration route planted.
 - [[Primm]] — P-03; absent; present only as a unit code and a gap in a pressure-field.

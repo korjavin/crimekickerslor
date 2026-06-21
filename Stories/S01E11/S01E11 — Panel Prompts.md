@@ -214,66 +214,76 @@ screen, in a cold blue-white institutional palette (the same visual register as 
 variance ticket in E09 — flat, bureaucratic, sans-serif, everything in the same
 weight). Text blocks appear panel by panel:
 
-**P2 — header loading (right-side split, still populating):**
+**P2 — header loading (right-side split, still populating). Two readable focal
+elements only: the HELPDESK widget and the CRIME KICKERS line. The header fields and
+the session line are PERIPHERAL/small (legibility guard — see below):**
+
+HELPDESK obstruction widget (left-half terminal screen, voiceless, form-options only,
+three buttons in identical institutional type — render exactly):
 ```
-GastroDefense Inc. — RETRIEVAL DIVISION
-OPERATIONAL CASE FILE — ACTIVE
-CASE #: RD-0047
-CASE OPENED: [auto-populated timestamp]
-PRIORITY: STANDARD
-STATUS: RECOVERY IN PROGRESS (1/4 UNITS SECURED)
+[ RATE YOUR EXPERIENCE ] [ RATE YOUR EXPERIENCE ] [ CLOSE ]
+```
+
+Case-file header (right-half, loading field by field — render exactly):
+```
 OPERATIONAL DESIGNATION: CRIME KICKERS
 ASSIGNED TO: Retrieval Division, Active Operations
 CONTRACT REFERENCE: GD-C-4419
 CLIENT: [REDACTED]
 ```
+
+Status line (low in the right-side corner, PERIPHERAL/small — render exactly):
+```
+SESSION: ACTIVE — ACCESS LOGGED [RD-SESSION-0047]
+```
 The OPERATIONAL DESIGNATION field renders in the same institutional weight as every
-other field — not spotlit, not enlarged. It is between STATUS and ASSIGNED TO.
+other field — not spotlit, not enlarged — but the CRIME KICKERS *value* is the one
+readable focal beat (it populates last, like a loading-spinner's last character
+finishing). The other three header fields and the session line are present but small
+and peripheral. **Legibility guard:** P2 carries many text elements; the reader's eye
+must land on the HELPDESK gag and the CRIME KICKERS line, NOT on a soup of fields. Do
+not crowd the screen.
 
-**P3 — full screen, heroes reading it:**
+**P3 — full screen, heroes reading it (COMPRESSED roster — render exactly):**
 ```
-OPERATIONAL DESIGNATION: CRIME KICKERS
-STATUS: RECOVERY IN PROGRESS
+UNITS OUTSTANDING:
+W-01 — [sensor data]
+P-02 — DATA NOT PRESENT
+T-04 — [sensor data]
 UNITS SECURED: P-03 (PENDING REINTEGRATION)
-UNITS OUTSTANDING: W-01, P-02, T-04
-REINTEGRATION HOLD: ACTIVE — W-01 NOT YET IN CUSTODY.
-PROTOCOL NOTE: W-01 and P-03 reintegration is a joint procedure.
-Reintegration cannot proceed until both units are secured.
-P-03 is held pending W-01 recovery.
+REINTEGRATION HOLD: ACTIVE
+OPERATIONAL DESIGNATION: CRIME KICKERS
 ```
-
-**P4 — contract basis section dominates the frame:**
+Plus, visible on the same screen, the hold-condition line (render exactly):
 ```
-GastroDefense Inc. — RETRIEVAL DIVISION
-OPERATIONAL CASE FILE — ACTIVE / CASE #: RD-0047
+W-01 NOT YET IN CUSTODY.
+```
+The P-02 row reads "DATA NOT PRESENT" where the other two outstanding units return
+"[sensor data]" — the file knows P-02's slot exists but has no sensor data for it.
 
+**P4 — contract basis section dominates the frame (GLANCEABLE version — a few
+load-bearing lines, not paragraphs; render exactly):**
+```
 5. CONTRACT BASIS
-This recovery operation is being executed in response to Contract
-Performance Notice GD-C-4419, filed by [CLIENT: REDACTED] against
-GastroDefense Inc. on grounds of failure to deliver the completed
-AEGIS-4 prototype as contracted.
-
-The client has cited non-delivery of a law-enforcement unit within
-the contracted timeline. GastroDefense Inc.'s legal review has
-determined that the most cost-effective path to contract closure is
-unit recovery and reintegration, restoring the prototype to
-deliverable specification.
-
-This operation is not classified as a security or threat-response
-action. The recovered units are not classified as adversarial.
-The operation is a product-liability compliance step.
+Recall executed under: GD-C-4419
+Grounds: failure to deliver completed AEGIS-4 prototype
+Classification: product-liability compliance step
 
 5.1 PRIORITY NOTE
-GastroDefense Inc. would prefer to close this file. The client has
-not escalated beyond the performance notice at this time. Standard
-retrieval protocol is authorized. No extraordinary measures are
-approved. Budget: standard.
+CLIENT: [REDACTED]
+GastroDefense Inc. would prefer to close this file.
+Budget: standard.
 ```
+The document is glanceable — the reader can read it in one pass — so Tiebi's two
+speech balloons ("Not revenge." / "Undelivered merchandise.") and the document confirm
+each other. No institutional paragraphs.
 
-**P5 — background only, through glass, partial:**
+**P5 — background only, through glass, THREE lines (the session line small and cold
+below the others, NOT prominent, NOT alarmed — render exactly):**
 ```
 OPERATIONAL DESIGNATION: CRIME KICKERS
 STATUS: RECOVERY IN PROGRESS
+SESSION: ACTIVE — ACCESS LOGGED [RD-SESSION-0047]
 ```
 
 ### GastroDefense institutional screen palette
@@ -291,26 +301,43 @@ and recall specification. The document has no personality. It is a form with fie
   blue-grey night, almost monochrome. Pho-boman's reddish-orange broth = only warm
   note. No drone visible.
 - **P2 — Split-register (terminal left / case file loading right).** Left: three heroes
-  at the terminal, Tiebi's hands on the keypad, Windman two steps behind with fan open
-  and field-read quietly checking the airspace, Pho-boman to Tiebi's right watching
-  his hands. Right: cold institutional screen, the case file header loading field by
-  field — CRIME KICKERS visible to the reader, not yet read aloud by any hero. Screen
-  glow = coldest light. Pho-boman's broth = warmest anchor on the left side.
-- **P3 — Three heroes grouped at the screen, full case file visible.** Closest they've
-  stood all episode. Tiebi reading the OPERATIONAL DESIGNATION field aloud. Windman
-  receiving, fan folded. Pho-boman's noodle-brows in the not-quite-question
-  configuration. The REINTEGRATION HOLD block also visible on screen.
-- **P4 — Document takes most of the frame; three heroes in a left-strip.** The contract
-  section 5 / 5.1 text dominates. The three compressed to witnesses on the left.
-  Tiebi has stopped reading/navigating; his hand is no longer on the terminal.
-  Windman fan folded. Pho-boman's accurate noodle-brow configuration. No SFX of any
-  kind.
+  at the terminal, Tiebi's hands on the keypad navigating AROUND a voiceless HELPDESK
+  obstruction widget (three buttons: two identical RATE YOUR EXPERIENCE and one CLOSE
+  that reopens the widget; Tiebi's expression unchanged), Windman two steps behind with
+  fan open and field-read quietly checking the airspace, Pho-boman to Tiebi's right
+  watching his hands. Right: cold institutional screen, the case-file header loading
+  field by field — the CRIME KICKERS *value* populating last like a loading-spinner's
+  last character finishing, visible to the reader, not yet read aloud by any hero; a
+  small peripheral session line low in the corner. Pho-boman's belly-dragon HEAD lifts
+  (just the head) as the name completes — his one quiet reaction. Screen glow = coldest
+  light. Pho-boman's broth = warmest anchor on the left side. **Legibility guard:** the
+  two readable focal beats are the HELPDESK widget and the CRIME KICKERS line; the other
+  header fields and the session line stay small/peripheral so the panel does not become
+  a wall of text.
+- **P3 — Three heroes grouped at the screen, COMPRESSED roster visible.** Closest they've
+  stood all episode. Screen shows the compressed UNITS OUTSTANDING roster (W-01 /
+  P-02 — DATA NOT PRESENT / T-04), UNITS SECURED: P-03, REINTEGRATION HOLD: ACTIVE,
+  OPERATIONAL DESIGNATION: CRIME KICKERS, and the hold-condition line W-01 NOT YET IN
+  CUSTODY. Tiebi delivers a flat two-word speech balloon "CRIME KICKERS." Pho-boman
+  extends one stubby arm, a single finger pointed at the P-02 — DATA NOT PRESENT line
+  (his own missing slot), then lowers it. Windman snaps his fan SHUT, makes a single
+  free-hand "scroll back" gesture; the three hold on the hold-condition line; he does
+  not speak and names nothing. His bandaged face is receiving, not navigating.
+- **P4 — Document takes most of the frame; three heroes in a left witness-strip watching
+  TIEBI.** The glanceable contract section 5 / 5.1 text dominates (a few load-bearing
+  lines, not paragraphs). The three are compressed to a left witness-strip — watching
+  Tiebi, NOT parsing the screen. Tiebi's hand is OFF the terminal; he is turned slightly
+  toward the other two, delivering two flat speech balloons: "Not revenge." and (a beat
+  later) "Undelivered merchandise." Windman fan folded. Pho-boman's accurate noodle-brow
+  configuration. No SFX of any kind.
 - **P5 — Exterior again, three heroes, the terminal behind them through glass.** Slightly
   smaller spacing than P1. Windman fan open (not aimed). Tiebi credential token
   pocketed, looking ahead. Pho-boman focused configuration. The terminal screen visible
-  through glass in the background shows OPERATIONAL DESIGNATION: CRIME KICKERS /
-  STATUS: RECOVERY IN PROGRESS — legible but in the background, nobody facing it.
-  Dark blue-grey night. Pho-boman's broth the only warm note.
+  through glass in the background shows THREE lines — OPERATIONAL DESIGNATION: CRIME
+  KICKERS / STATUS: RECOVERY IN PROGRESS / SESSION: ACTIVE — ACCESS LOGGED
+  [RD-SESSION-0047] (the session line small and cold below the others) — legible but in
+  the background, nobody facing it. Dark blue-grey night. Pho-boman's broth the only
+  warm note.
 
 **Hard continuity guards (every panel):**
 - This episode contains **EXACTLY THREE HEROES** — Windman, Tiebi, Pho-boman. Primm
@@ -397,20 +424,25 @@ READ bracket's middle dash. No drones, no trucks, no team name.
 
 > **The split-register decode panel — heroes warm-left / case file cold-right.** Left:
 > Tiebi at the terminal keypad, credential inserted, screen reflecting cold blue-white
-> on his face; Windman two steps behind with fan open and field-read checking the nearby
-> airspace; Pho-boman watching Tiebi's hands. Right: the Retrieval Division case file
-> header loading field by field — the CRIME KICKERS operational designation visible to
-> the reader between STATUS and ASSIGNED TO, in the same institutional weight as every
-> other field, loading before any hero has read it aloud.
+> on his face, navigating AROUND a voiceless HELPDESK obstruction widget (two identical
+> RATE YOUR EXPERIENCE buttons and one CLOSE that reopens it; his expression unchanged);
+> Windman two steps behind with fan open and field-read checking the nearby airspace;
+> Pho-boman watching Tiebi's hands, his belly-dragon's HEAD lifting as the name
+> completes. Right: the Retrieval Division case-file header loading field by field — the
+> CRIME KICKERS operational-designation value populating last like a loading-spinner's
+> last character finishing, in the same institutional weight as every other field,
+> visible to the reader before any hero has read it aloud; a small peripheral session
+> line low in the corner.
 
 **Style anchor:** [[Visual Style Guide|v1]]. **Palette override:** split-register —
 left half warm-by-comparison (dark street, cool ambient, but Pho-boman's reddish-orange
 broth is the warmest anchor and the mustard-gold shirt a secondary warm note against the
 cold terminal glow); right half cold institutional blue-white (the case file, the
 screen). The split is NOT labeled. The palette does the work.
-**Reveal:** SPLIT-REGISTER — the CRIME KICKERS label visible in the right-side header
-field, between STATUS and ASSIGNED TO, in the smallest institutional type, loading.
-Heroes have not yet read it aloud.
+**Reveal:** SPLIT-REGISTER — the CRIME KICKERS label populating in the right-side header
+field, in the smallest institutional type, loading. Heroes have not yet read it aloud.
+The two readable focal beats are the HELPDESK widget (left) and the CRIME KICKERS line
+(right); all other header fields and the session line stay small and peripheral.
 
 **GENAI PROMPT**
 
@@ -418,61 +450,85 @@ Heroes have not yet read it aloud.
 >
 > A SPLIT-REGISTER single panel — LEFT HALF and RIGHT HALF divided by palette alone (no drawn border, no label, no line): the left half warm-by-comparison in the cool night register, the right half cold institutional blue-white. The two halves share one frame and one reading rhythm.
 >
-> LEFT HALF — a street-level public-access networked terminal, institutional, NOT a GastroDefense facility: a stand-alone steel-grey kiosk unit, a flat-panel screen with a cold blue-white institutional glow, a small keypad/card-slot interface, the wall or shelter behind it plain concrete; NO GastroDefense logo on the terminal or its housing. The terminal screen's glow is the coldest and brightest light on the left side.
+> LEFT HALF — a street-level public-access networked terminal, institutional, NOT a GastroDefense facility: a stand-alone steel-grey kiosk unit, a flat-panel screen with a cold blue-white institutional glow, a small keypad/card-slot interface, the wall or shelter behind it plain concrete; NO GastroDefense logo on the terminal or its housing. The terminal screen's glow is the coldest and brightest light on the left side. On the left-half terminal screen, a small voiceless HELPDESK obstruction widget has popped up over the menu — a plain institutional pop-up box with NO sentences and NO chatbot prose, just three buttons in identical institutional sans-serif type, rendered EXACTLY as: "[ RATE YOUR EXPERIENCE ] [ RATE YOUR EXPERIENCE ] [ CLOSE ]" — two identical RATE YOUR EXPERIENCE buttons and one CLOSE button. This widget is one of the panel's two readable focal text elements. The corporation never speaks; this is form-options only.
 >
-> AT THE TERMINAL KEYPAD, inserting the credential token: a humanoid man, male, ~175–180 cm tall at normal size, medium build, slightly lean but healthy, realistic human proportions; an ordinary human head, a neutral and friendly medium-skin-toned face, no facial hair, normal expressive eyes (eyes clearly visible, NOT covered or blindfolded); his signature feature is a classic French beret, slightly tilted, dark navy, snug and soft with a small nub at the top center; he wears a simple fitted shirt/tunic in MUSTARD-GOLD, plain dark trousers, and simple flat dark shoes. He is at the terminal keypad, credential token inserted in the card-slot, navigating the menu with the efficiency of someone who has not forgotten the shape of an access hierarchy he spent two years inside — not typing dramatically, not hesitating. The cold blue-white terminal glow reflects on his face. His expression is plain, procedural.
+> AT THE TERMINAL KEYPAD, inserting the credential token: a humanoid man, male, ~175–180 cm tall at normal size, medium build, slightly lean but healthy, realistic human proportions; an ordinary human head, a neutral and friendly medium-skin-toned face, no facial hair, normal expressive eyes (eyes clearly visible, NOT covered or blindfolded); his signature feature is a classic French beret, slightly tilted, dark navy, snug and soft with a small nub at the top center; he wears a simple fitted shirt/tunic in MUSTARD-GOLD, plain dark trousers, and simple flat dark shoes. He is at the terminal keypad, credential token inserted in the card-slot, navigating the menu with the efficiency of someone who has not forgotten the shape of an access hierarchy he spent two years inside — not typing dramatically, not hesitating. He is navigating AROUND the HELPDESK widget (the CLOSE button reopens the widget when pressed; it does not slow him); his expression is unchanged by it — plain, procedural. The cold blue-white terminal glow reflects on his face.
 >
 > TWO STEPS BEHIND AND TO HIS LEFT, fan now open: a humanoid man, male, 180 cm tall, moderately stout with a slightly loose but stable physique, normal proportions, not heavily muscled; short natural-brown chestnut hair; a calm, soft-featured slightly-rounded face with no beard or mustache. Across his eyes, a thick cloth EYE BANDAGE that completely covers both eyes — top portion blue, lower portion (above the eyebrows) red — fastened near the ears, fitting tightly to the face, leaving NO visible eyes. He wears a fitted blue T-shirt (not tight), sleeveless or short sleeves to mid-shoulder, bearing a single large white letter "W" monogram on the chest. He wears brown knee-length straight-cut slightly-baggy shorts, and fully-black flat-soled snug boots with no decoration. In his RIGHT hand: a small handheld folding fan, brown wood-textured handle about 25 cm long, three rounded slightly-transparent blades about 10 cm each colored green, blue, and red, evenly spaced around a central hub — OPEN, blades spread, angled toward the nearby airspace (checking for moving mass above and behind, not at the terminal). A faint "pressure-map / ghost-line" perception overlay extends around him — tighter finer ghost-line linework, slightly desaturated and tonally cooler, semi-transparent — quietly reading the block. NOT aimed at the screen. NOT aimed at Tiebi.
 >
-> TO THE BERET MAN'S RIGHT, a half-step back, watching the beret man's hands: a small round spoon-shaped being, the smallest hero at roughly 140–150 cm tall, with a large round belly, short legs nearly hidden under the belly's curve, and short but noticeably muscular arms; his head is shaped like a deep-sea diving helmet — a wide metal dome with a wide transparent front visor; the helmet is filled with reddish-orange pho broth (with bright-yellow highlights, a warm glow) that visibly sloshes and bubbles; his face forms inside the helmet out of the soup's ingredients — eyes, eyebrows and cheekbones made of slightly twisted noodles, and a nose made of a bright-green sprig of cilantro poking above the broth; he has NO separate mouth — the open visor simply shows the soup, and the visor IS the face; he wears short black pants (mostly hidden under the belly) and fully black, flat, minimalist boots; across his round belly a large red Chinese dragon on a blue background, scales and claws detailed, tail wrapping the belly. His noodle-brows are angled at the beret man's HANDS at the keypad — the attention-on-hands configuration, watching closely what he cannot read himself. The reddish-orange broth is the warmest color in the left half of the panel.
+> TO THE BERET MAN'S RIGHT, a half-step back, watching the beret man's hands: a small round spoon-shaped being, the smallest hero at roughly 140–150 cm tall, with a large round belly, short legs nearly hidden under the belly's curve, and short but noticeably muscular arms; his head is shaped like a deep-sea diving helmet — a wide metal dome with a wide transparent front visor; the helmet is filled with reddish-orange pho broth (with bright-yellow highlights, a warm glow) that visibly sloshes and bubbles; his face forms inside the helmet out of the soup's ingredients — eyes, eyebrows and cheekbones made of slightly twisted noodles, and a nose made of a bright-green sprig of cilantro poking above the broth; he has NO separate mouth — the open visor simply shows the soup, and the visor IS the face; he wears short black pants (mostly hidden under the belly) and fully black, flat, minimalist boots; across his round belly a large red Chinese dragon on a blue background, scales and claws detailed, tail wrapping the belly. His noodle-brows are angled at the beret man's HANDS at the keypad — the attention-on-hands configuration, watching closely what he cannot read himself (he cannot read the interface). His one quiet reaction to the name completing on the right-side screen is in the belly emblem: the red Chinese dragon's HEAD is raised slightly off the belly — just the dragon's head lifting, not the whole dragon rearing, not the being himself moving — a small, contained beat. The reddish-orange broth is the warmest color in the left half of the panel.
 >
-> RIGHT HALF — a GastroDefense Retrieval Division operational case file, loading on a database terminal, rendered as a flat cold institutional document in cold blue-white — a database form, fields populating one by one, plain sans-serif type in uniform weight, everything in the same register, nothing spotlit, nothing dramatic: the form of a bureaucratic document with no personality. The header block is still loading — fields appearing as the database populates the active ticket — in small plain institutional type:
+> RIGHT HALF — a GastroDefense Retrieval Division operational case file, loading on a database terminal, rendered as a flat cold institutional document in cold blue-white — a database form, fields populating one by one, plain sans-serif type in uniform weight, everything in the same register, nothing spotlit, nothing dramatic: the form of a bureaucratic document with no personality. The header block is a compact four-line stack, the first line being the operational designation — render the four header fields EXACTLY as: "OPERATIONAL DESIGNATION: CRIME KICKERS / ASSIGNED TO: Retrieval Division, Active Operations / CONTRACT REFERENCE: GD-C-4419 / CLIENT: [REDACTED]".
 >
-> "GastroDefense Inc. — RETRIEVAL DIVISION / OPERATIONAL CASE FILE — ACTIVE / CASE #: RD-0047 / CASE OPENED: [auto-populated timestamp] / PRIORITY: STANDARD / STATUS: RECOVERY IN PROGRESS (1/4 UNITS SECURED) / OPERATIONAL DESIGNATION: CRIME KICKERS / ASSIGNED TO: Retrieval Division, Active Operations / CONTRACT REFERENCE: GD-C-4419 / CLIENT: [REDACTED]"
+> The OPERATIONAL DESIGNATION field reads "CRIME KICKERS" in the same institutional sans-serif weight as every other field — not in a larger font, not spotlit, not dramatized — but its VALUE is the panel's second readable focal text element: the word CRIME KICKERS populates last, like a loading-spinner's last character finishing, then sits still. The three fields below it (ASSIGNED TO / CONTRACT REFERENCE / CLIENT) are present but small and peripheral, NOT competing for the eye. The reader can see the CRIME KICKERS line; no hero in the left half has had time to read it aloud yet.
 >
-> The OPERATIONAL DESIGNATION field reads "CRIME KICKERS" in the same institutional sans-serif weight as every other field — not in a larger font, not spotlit, not dramatized. It sits between STATUS and ASSIGNED TO, a field in a form. The last two fields (ASSIGNED TO and below) are still loading — text appearing line by line. The reader can see the label; no hero in the left half has had time to read it aloud yet.
+> LOW IN THE RIGHT-SIDE CORNER, a single small status line, kept PERIPHERAL and small — barely a footnote in the cold blue-white, NOT prominent — rendered EXACTLY as: "SESSION: ACTIVE — ACCESS LOGGED [RD-SESSION-0047]".
 >
-> Composition: silhouette-first, the split reading as left (warm night, three figures at the terminal — beret man at the keypad, bandaged man behind with open fan, spoon-shaped being watching the hands) and right (cold institutional blue-white, the case file loading, the CRIME KICKERS field between STATUS and ASSIGNED TO). Two caption pairs, each in its own half in plain comic lettering case-file register: LEFT — "The credentials were valid." / "The system had not reviewed them in fourteen months." RIGHT — "The Retrieval Division's active case file loaded in eleven seconds." / "It had a header field for operational designations."
+> Composition: silhouette-first, the split reading as left (warm night, three figures at the terminal — beret man at the keypad navigating around the HELPDESK widget, bandaged man behind with open fan, spoon-shaped being watching the hands with his belly-dragon's head lifted) and right (cold institutional blue-white, the case-file header loading, the CRIME KICKERS value populating last). The two readable focal text beats are the HELPDESK widget (left) and the CRIME KICKERS line (right); the other header fields and the corner session line are kept small and peripheral so the panel reads cleanly and is NOT a wall of text. Two caption pairs, each in its own half in plain comic lettering case-file register: LEFT — "The credentials were valid." / "The system had not reviewed them in fourteen months." RIGHT — "The Retrieval Division's active case file loaded in eleven seconds." / "It had a header field for operational designations."
 
 **NEGATIVE PROMPT**
 
-> there are EXACTLY THREE figures in the left half (the beret man, the bandaged man, the spoon-shaped being) — NO fourth figure, NO purple coat, NO cyan visor, NO orbiting orbs, NO twin katanas; the OPERATIONAL DESIGNATION field on the right-half screen reads exactly "CRIME KICKERS" in the SAME institutional weight as every other field (do NOT enlarge it, do NOT spotlight it, do NOT make it a dramatic reveal typographically — it is between STATUS and ASSIGNED TO, a field in a form); the left half and right half are divided by palette alone — NO drawn line, NO labeled divider; the terminal is NOT a GastroDefense facility (NO GastroDefense logo on the terminal housing or the kiosk); the bandaged man has NO visible eyes (bandage covers BOTH eyes — top blue, lower red), fan OPEN in RIGHT hand, aimed at the nearby airspace NOT at the screen; the beret man has ORDINARY VISIBLE expressive eyes (NOT blindfolded), dark-navy tilted French beret ON, MUSTARD-GOLD shirt, FULL HUMAN SIZE; the spoon-shaped being has NO mouth (visor IS the face), noodle-brows in the attention-on-hands configuration (watching the keypad hands), reddish-orange broth warm and glowing; NO SFX lettering (HWUF / STOMP / SLURP do not fire); NO CRIME KICKERS label on any surface other than the institutional screen field on the right side; no cross-contamination of visual cues between heroes; no team logo on any hero; no costumed superhero, no cape, no flight; no manga or anime, no chibi, no 3D render, no photorealism; no modern smartphones, no anachronistic gadgets; no extra fingers, no malformed hands; no text errors or garbled lettering (other than the four intended captions and the intended case-file header text on the right).
+> there are EXACTLY THREE figures in the left half (the beret man, the bandaged man, the spoon-shaped being) — NO fourth figure, NO purple coat, NO cyan visor, NO orbiting orbs, NO twin katanas; the OPERATIONAL DESIGNATION field on the right-half screen reads exactly "CRIME KICKERS" in the SAME institutional weight as every other field (do NOT enlarge it, do NOT spotlight it, do NOT make it a dramatic reveal typographically — it is a field in a form); the HELPDESK widget on the left-half terminal screen reads EXACTLY "[ RATE YOUR EXPERIENCE ] [ RATE YOUR EXPERIENCE ] [ CLOSE ]" — three buttons only, two of them identical RATE YOUR EXPERIENCE and one CLOSE, NO sentences, NO chatbot prose, NO paragraph text, NO other widget copy (the corporation never speaks — buttons only); the right-half header is the four fields only (OPERATIONAL DESIGNATION / ASSIGNED TO / CONTRACT REFERENCE / CLIENT) plus the one corner session line — do NOT add extra header fields, timestamps, case numbers, or priority lines that would overcrowd the screen; the screen must NOT become an illegible wall of text or a soup of fields — keep it uncrowded, with the HELPDESK widget and the CRIME KICKERS line as the only two readable focal beats and everything else (the ASSIGNED TO / CONTRACT REFERENCE / CLIENT fields and the session line) small and peripheral; the session line reads EXACTLY "SESSION: ACTIVE — ACCESS LOGGED [RD-SESSION-0047]" and stays small and peripheral in the corner, NOT prominent, NOT alarmed, NOT enlarged; the left half and right half are divided by palette alone — NO drawn line, NO labeled divider; the terminal is NOT a GastroDefense facility (NO GastroDefense logo on the terminal housing or the kiosk); the bandaged man has NO visible eyes (bandage covers BOTH eyes — top blue, lower red), fan OPEN in RIGHT hand, aimed at the nearby airspace NOT at the screen; the beret man has ORDINARY VISIBLE expressive eyes (NOT blindfolded), dark-navy tilted French beret ON, MUSTARD-GOLD shirt, FULL HUMAN SIZE, expression unchanged by the HELPDESK widget; the spoon-shaped being has NO mouth (visor IS the face), noodle-brows in the attention-on-hands configuration (watching the keypad hands), reddish-orange broth warm and glowing, and ONLY the belly-dragon's HEAD lifted slightly off the belly (NOT the whole dragon rearing, NOT the being moving or reacting bodily); NO SFX lettering (HWUF / STOMP / SLURP do not fire); NO CRIME KICKERS label on any surface other than the institutional screen field on the right side; no cross-contamination of visual cues between heroes; no team logo on any hero; no costumed superhero, no cape, no flight; no manga or anime, no chibi, no 3D render, no photorealism; no modern smartphones, no anachronistic gadgets; no extra fingers, no malformed hands; no text errors or garbled lettering (other than the four intended captions, the intended HELPDESK widget buttons, the intended four-field case-file header, and the intended corner session line on the right).
 
 **CONSISTENCY / STAGING NOTES**
 
 - **Split-register grammar**: left warm / right cold, palette only — reuses the E09
   grammar but inverted (heroes pulling the document toward them, not the document being
   read at them). No drawn divider.
+- **LEGIBILITY GUARD (critical — author's bar is "not overcomplex"):** P2 now carries
+  many text elements (HELPDESK widget + four header fields + session line + four
+  captions). The TWO readable focal text elements are (a) the HELPDESK widget and
+  (b) the CRIME KICKERS line populating. The session line and the three extra header
+  fields (ASSIGNED TO / CONTRACT REFERENCE / CLIENT) must be present but SMALL and
+  peripheral so the panel reads cleanly and does NOT become a wall of text. Compose so
+  the reader's eye lands on the HELPDESK gag and the name — not on a soup of fields.
+  The negative prompt carries an explicit guard against an illegible/overcrowded screen.
+- **HELPDESK widget = buttons only, voiceless.** Render EXACTLY
+  "[ RATE YOUR EXPERIENCE ] [ RATE YOUR EXPERIENCE ] [ CLOSE ]" — no sentences, no
+  chatbot prose. CLOSE reopens the widget; Tiebi navigates around it, expression
+  unchanged. This is the terminal's only personality and the corporation still never
+  speaks.
+- **Header compressed to four fields** (OPERATIONAL DESIGNATION / ASSIGNED TO /
+  CONTRACT REFERENCE / CLIENT) — the longer E09-style header block (CASE #, timestamp,
+  priority, status %) was dropped in the rework to keep the screen legible.
 - Windman's fan = **open** per the fan-state timeline. He scans the airspace, not
   the screen. The field-read is quiet, not the bracketed-field-read of P1 (the bracket
   does not need to be legible here — it is the passive ambient read, not a diagnostic
   vignette).
 - Tiebi at the keypad: credential token **inserted** (not visible separately). His
   efficiency is the visual register: this is someone who has navigated this menu
-  before.
+  before. He navigates AROUND the HELPDESK widget without comment.
 - **CRIME KICKERS in same weight as every other field.** The audience sees it; the
-  heroes have not yet read it aloud. This is the moment before the name arrives.
+  heroes have not yet read it aloud. The value populates last, like a loading-spinner's
+  last character finishing. This is the moment before the name arrives.
 - Pho-boman watches **Tiebi's hands** — he cannot read the interface; this is the
-  correct attention.
+  correct attention. His ONE reaction to the name completing is the **belly-dragon's
+  HEAD lifting** — just the dragon's head off the belly, not the whole dragon rearing,
+  not the being himself moving. A small contained beat, easy to under- or over-render;
+  guard both directions.
 
 ---
 
 ### Panel 3 — Operational Designation
 
 > **The name arrives — read aloud in the flattest possible register.** Close-in. Three
-> figures grouped around the terminal screen, which now displays the case file in full.
-> The OPERATIONAL DESIGNATION: CRIME KICKERS line is clearly legible on the screen.
-> Tiebi reads it aloud — not triumphantly, the way a case number is read. Windman
-> receives it. Pho-boman's noodle-brows form the not-quite-question configuration.
-> The REINTEGRATION HOLD block is also on the same screen.
+> figures grouped around the terminal screen, which now displays the COMPRESSED unit
+> roster (W-01 / P-02 — DATA NOT PRESENT / T-04 / UNITS SECURED: P-03 / REINTEGRATION
+> HOLD: ACTIVE / OPERATIONAL DESIGNATION: CRIME KICKERS), with the hold-condition line
+> W-01 NOT YET IN CUSTODY on the same screen. Tiebi delivers a flat two-word speech
+> balloon — "CRIME KICKERS." — the way a case number is read. Pho-boman extends one
+> stubby arm, a single finger at the P-02 — DATA NOT PRESENT line (his own missing
+> slot), then lowers it. Windman snaps his fan SHUT and makes a single free-hand
+> "scroll back" gesture; the three hold on the hold-condition line; he names nothing.
 
 **Style anchor:** [[Visual Style Guide|v1]]. **Palette override:** interior
 terminal-glow register — cold blue-white from the screen as the dominant light source
 washing across the three faces; muted dark surroundings; Pho-boman's reddish-orange
 broth warm against the institutional cold. The screen fills the right half of the
 frame.
-**Reveal:** THE NAME — OPERATIONAL DESIGNATION: CRIME KICKERS legible on screen,
-Tiebi reading it aloud. The REINTEGRATION HOLD block also on screen.
+**Reveal:** THE NAME — OPERATIONAL DESIGNATION: CRIME KICKERS in the compressed roster
+on screen, Tiebi reading it aloud in two flat words. The roster's P-02 — DATA NOT
+PRESENT line and the REINTEGRATION HOLD / W-01 NOT YET IN CUSTODY lines also on screen.
 
 **GENAI PROMPT**
 
@@ -480,34 +536,46 @@ Tiebi reading it aloud. The REINTEGRATION HOLD block also on screen.
 >
 > CLOSE-IN MEDIUM SHOT of three figures grouped around a terminal screen, the closest they have stood all episode — not shoulder to shoulder, but the geometry of three people all looking at the same thing. The screen's cold blue-white institutional glow is the dominant light source in the frame, washing across the faces. The surroundings are dark and muted. Right half of the frame: the terminal screen, a flat institutional display showing a GastroDefense Retrieval Division case file in full — cold blue-white, plain sans-serif type, uniform weight, every field in the same register. The screen text, legible to the reader:
 >
-> "OPERATIONAL DESIGNATION: CRIME KICKERS / STATUS: RECOVERY IN PROGRESS / UNITS SECURED: P-03 (PENDING REINTEGRATION) / UNITS OUTSTANDING: W-01, P-02, T-04 / REINTEGRATION HOLD: ACTIVE — W-01 NOT YET IN CUSTODY. / PROTOCOL NOTE: W-01 and P-03 reintegration is a joint procedure. Reintegration cannot proceed until both units are secured. P-03 is held pending W-01 recovery."
+> "UNITS OUTSTANDING: / W-01 — [sensor data] / P-02 — DATA NOT PRESENT / T-04 — [sensor data] / UNITS SECURED: P-03 (PENDING REINTEGRATION) / REINTEGRATION HOLD: ACTIVE / OPERATIONAL DESIGNATION: CRIME KICKERS" — and, on the same screen, the hold-condition line "W-01 NOT YET IN CUSTODY."
 >
-> The OPERATIONAL DESIGNATION field reads "CRIME KICKERS" in the same institutional weight as every other field — not spotlit, not enlarged, not dramatic. The REINTEGRATION HOLD block is also fully readable on the same screen.
+> The roster is clean and glanceable: three outstanding units listed, two returning "[sensor data]" and the P-02 row returning "DATA NOT PRESENT" (the file knows P-02's slot exists but has no sensor data for it). The OPERATIONAL DESIGNATION field reads "CRIME KICKERS" in the same institutional weight as every other field — not spotlit, not enlarged, not dramatic. The hold-condition line "W-01 NOT YET IN CUSTODY." is also readable on the same screen.
 >
-> LEFT OF THE SCREEN, reading it aloud — the beret man: a humanoid man, male, ~175–180 cm tall at normal size, medium build, slightly lean but healthy, realistic human proportions; an ordinary human head, a neutral and friendly medium-skin-toned face, no facial hair, normal expressive eyes (eyes clearly visible, NOT covered or blindfolded); his signature feature is a classic French beret, slightly tilted, dark navy, snug and soft with a small nub at the top center; he wears a simple fitted shirt/tunic in MUSTARD-GOLD, plain dark trousers, and simple flat dark shoes. His face is turned partly toward the screen and partly toward the others — the posture of reading aloud. His expression contains neither humor at the label nor protest of it. He is reading a field in a form and reporting its contents. His hand is no longer on the keypad. One flat speech balloon at the edge of the frame, plain lettering, reading exactly: "Operational designation: CRIME KICKERS."
+> LEFT OF THE SCREEN, reading it aloud — the beret man: a humanoid man, male, ~175–180 cm tall at normal size, medium build, slightly lean but healthy, realistic human proportions; an ordinary human head, a neutral and friendly medium-skin-toned face, no facial hair, normal expressive eyes (eyes clearly visible, NOT covered or blindfolded); his signature feature is a classic French beret, slightly tilted, dark navy, snug and soft with a small nub at the top center; he wears a simple fitted shirt/tunic in MUSTARD-GOLD, plain dark trousers, and simple flat dark shoes. His face is turned partly toward the screen and partly toward the others — the posture of reading aloud. His expression contains neither humor at the label nor protest of it. He is reading a field in a form and reporting its contents. His hand is no longer on the keypad. One flat speech balloon at the edge of the frame, plain lettering, two words only, reading EXACTLY: "CRIME KICKERS." — flat, deadpan, the way a case number is read, NOT triumphant, NOT a dramatic font.
 >
-> BEHIND AND TO THE BERET MAN'S LEFT, fan folded, receiving — the bandaged man: a humanoid man, male, 180 cm tall, moderately stout with a slightly loose but stable physique, normal proportions, not heavily muscled; short natural-brown chestnut hair; a calm, soft-featured slightly-rounded face with no beard or mustache. Across his eyes, a thick cloth EYE BANDAGE that completely covers both eyes — top portion blue, lower portion (above the eyebrows) red — fastened near the ears, fitting tightly to the face, leaving NO visible eyes. He wears a fitted blue T-shirt (not tight), sleeveless or short sleeves to mid-shoulder, bearing a single large white letter "W" monogram on the chest. He wears brown knee-length straight-cut slightly-baggy shorts, and fully-black flat-soled snug boots with no decoration. In his RIGHT hand: a small handheld folding fan, brown wood-textured handle about 25 cm long, three rounded slightly-transparent blades about 10 cm each colored green, blue, and red, evenly spaced around a central hub — FOLDED SHUT at his side, not aimed. His bandaged face is at the angle of someone receiving spoken information. His posture is the posture of someone who has just been told something that has landed without an obvious category to land in. He is not running the field-read here; he is listening.
+> BEHIND AND TO THE BERET MAN'S LEFT, fan just snapped shut, signalling — the bandaged man: a humanoid man, male, 180 cm tall, moderately stout with a slightly loose but stable physique, normal proportions, not heavily muscled; short natural-brown chestnut hair; a calm, soft-featured slightly-rounded face with no beard or mustache. Across his eyes, a thick cloth EYE BANDAGE that completely covers both eyes — top portion blue, lower portion (above the eyebrows) red — fastened near the ears, fitting tightly to the face, leaving NO visible eyes. He wears a fitted blue T-shirt (not tight), sleeveless or short sleeves to mid-shoulder, bearing a single large white letter "W" monogram on the chest. He wears brown knee-length straight-cut slightly-baggy shorts, and fully-black flat-soled snug boots with no decoration. In his RIGHT hand: a small handheld folding fan, brown wood-textured handle about 25 cm long, three rounded slightly-transparent blades about 10 cm each colored green, blue, and red, evenly spaced around a central hub — FOLDED SHUT, just snapped closed, held at his side. With his free (left) hand he makes a single small "scroll back" gesture — one economical motion directed at the screen, asking Tiebi to scroll back to the hold-condition line. His bandaged face is at the angle of someone receiving spoken information, NOT navigating an interface himself (he is blind; he reads through pressure-sense, not sight). His posture is the posture of someone who has just felt something land without an obvious category to land in. He does not speak. Nothing in the panel names what the hold-condition line means to him; the gesture is the whole beat.
 >
-> TO THE BERET MAN'S RIGHT, a half-step back, noodle-brows in the not-quite-question configuration: a small round spoon-shaped being, the smallest hero at roughly 140–150 cm tall, with a large round belly, short legs nearly hidden under the belly's curve, and short but noticeably muscular arms; his head is shaped like a deep-sea diving helmet — a wide metal dome with a wide transparent front visor; the helmet is filled with reddish-orange pho broth (with bright-yellow highlights, a warm glow) that visibly sloshes and bubbles; his face forms inside the helmet out of the soup's ingredients — eyes, eyebrows and cheekbones made of slightly twisted noodles, and a nose made of a bright-green sprig of cilantro poking above the broth; he has NO separate mouth — the open visor simply shows the soup, and the visor IS the face; he wears short black pants (mostly hidden under the belly) and fully black, flat, minimalist boots; across his round belly a large red Chinese dragon on a blue background, scales and claws detailed, tail wrapping the belly. His noodle-brows are in the NOT-QUITE-QUESTION configuration — the configuration that first appeared at E08 P5, the one for something the series' face-vocabulary had no prior entry for. Not alarmed. Not resigned. Present, the way the name on a document is present. The reddish-orange broth is the one warm note in the institutional cold of the terminal glow.
+> TO THE BERET MAN'S RIGHT, a half-step back, one stubby arm extended and pointing at the screen, noodle-brows in the not-quite-question configuration: a small round spoon-shaped being, the smallest hero at roughly 140–150 cm tall, with a large round belly, short legs nearly hidden under the belly's curve, and short but noticeably muscular arms; his head is shaped like a deep-sea diving helmet — a wide metal dome with a wide transparent front visor; the helmet is filled with reddish-orange pho broth (with bright-yellow highlights, a warm glow) that visibly sloshes and bubbles; his face forms inside the helmet out of the soup's ingredients — eyes, eyebrows and cheekbones made of slightly twisted noodles, and a nose made of a bright-green sprig of cilantro poking above the broth; he has NO separate mouth — the open visor simply shows the soup, and the visor IS the face; he wears short black pants (mostly hidden under the belly) and fully black, flat, minimalist boots; across his round belly a large red Chinese dragon on a blue background, scales and claws detailed, tail wrapping the belly. He extends ONE short stubby arm, a single finger pointed at the "P-02 — DATA NOT PRESENT" line on the screen — pointing at his own missing slot, the row the file cannot fill. He is not speaking; the point is the beat (in the next moment he will lower the arm). His noodle-brows are in the NOT-QUITE-QUESTION configuration — the configuration that first appeared at E08 P5, the one for something the series' face-vocabulary had no prior entry for. Not alarmed. Not resigned. Present, the way the name on a document is present. The reddish-orange broth is the one warm note in the institutional cold of the terminal glow.
 >
-> Composition: silhouette-first, the terminal screen on the right filling roughly half the frame (the OPERATIONAL DESIGNATION: CRIME KICKERS field and the REINTEGRATION HOLD block both legible), the three figures grouped to the left of and around it — the beret man reading aloud (speech balloon: "Operational designation: CRIME KICKERS."), the bandaged man behind him receiving, the spoon-shaped being to the right with the not-quite-question noodle-brow configuration. Cold institutional terminal glow as the dominant light. Two caption boxes in plain comic lettering, case-file register, staircase rhythm: "He read it the way a case number is read." / "They absorbed it and used it."
+> Composition: silhouette-first, the terminal screen on the right filling roughly half the frame (the compressed UNITS OUTSTANDING roster with the P-02 — DATA NOT PRESENT row, the OPERATIONAL DESIGNATION: CRIME KICKERS field, and the hold-condition line W-01 NOT YET IN CUSTODY all legible), the three figures grouped to the left of and around it — the beret man reading aloud (flat two-word speech balloon: "CRIME KICKERS."), the bandaged man behind him with fan just snapped shut and his free hand making a single scroll-back gesture, the spoon-shaped being to the right with one arm extended and a finger pointed at the P-02 — DATA NOT PRESENT line, noodle-brows in the not-quite-question configuration. Cold institutional terminal glow as the dominant light. Two caption boxes in plain comic lettering, case-file register, staircase rhythm: "He read it the way a case number is read." / "They absorbed it and used it."
 
 **NEGATIVE PROMPT**
 
-> there are EXACTLY THREE figures (the beret man, the bandaged man, the spoon-shaped being) — NO fourth figure, NO purple coat, NO cyan visor, NO orbiting orbs, NO twin katanas; the screen text must include "OPERATIONAL DESIGNATION: CRIME KICKERS" in the same institutional weight as every other field — NOT in a larger font, NOT spotlit, NOT underlined or highlighted; the REINTEGRATION HOLD block must also be visible on the same screen ("W-01 NOT YET IN CUSTODY" and "P-03 is held pending W-01 recovery"); the speech balloon reads exactly "Operational designation: CRIME KICKERS." in plain flat lettering (not triumphant, not dramatic font); the bandaged man has NO visible eyes (bandage covers BOTH eyes — top blue, lower red), fan FOLDED at his side, NOT running a visible field-read in this panel; the beret man has ORDINARY VISIBLE expressive eyes (NOT blindfolded), dark-navy tilted beret ON, MUSTARD-GOLD shirt, FULL HUMAN SIZE, neutral/reading expression (not triumphant, not protesting, not smiling); the spoon-shaped being has NO mouth (visor IS the face), noodle-brows in the not-quite-question configuration (not alarmed, not resigned), reddish-orange broth; NO SFX lettering (HWUF / STOMP / SLURP do not fire); no cross-contamination of visual cues; no team logo on any hero; no costumed superhero, no cape, no flight; no manga or anime, no chibi, no 3D render, no photorealism; no modern smartphones, no anachronistic gadgets; no extra fingers, no malformed hands; no text errors or garbled lettering (other than the two intended captions, the intended speech balloon, and the intended screen text).
+> there are EXACTLY THREE figures (the beret man, the bandaged man, the spoon-shaped being) — NO fourth figure, NO purple coat, NO cyan visor, NO orbiting orbs, NO twin katanas; the screen shows the COMPRESSED roster — "UNITS OUTSTANDING:" with three rows (W-01 — [sensor data] / P-02 — DATA NOT PRESENT / T-04 — [sensor data]), "UNITS SECURED: P-03 (PENDING REINTEGRATION)", "REINTEGRATION HOLD: ACTIVE", "OPERATIONAL DESIGNATION: CRIME KICKERS", and the hold-condition line "W-01 NOT YET IN CUSTODY." — do NOT add the longer E09-style protocol paragraph; the P-02 row reads exactly "P-02 — DATA NOT PRESENT" (do NOT fill it with sensor data); the OPERATIONAL DESIGNATION field reads "CRIME KICKERS" in the same institutional weight as every other field — NOT in a larger font, NOT spotlit, NOT underlined or highlighted; the speech balloon reads EXACTLY "CRIME KICKERS." — TWO WORDS ONLY, in plain flat lettering (NOT "Operational designation:", NOT a full sentence, NOT triumphant, NOT a dramatic font); the bandaged man has NO visible eyes (bandage covers BOTH eyes — top blue, lower red), fan FOLDED/just-snapped-shut at his side, his FREE (non-fan) hand making a single small scroll-back gesture toward the screen — he is NOT navigating the interface himself, NOT touching a keyboard, NOT speaking, and nothing in the panel names what the hold line means to him; the beret man has ORDINARY VISIBLE expressive eyes (NOT blindfolded), dark-navy tilted beret ON, MUSTARD-GOLD shirt, FULL HUMAN SIZE, neutral/reading expression (not triumphant, not protesting, not smiling); the spoon-shaped being has NO mouth (visor IS the face), ONE short stubby arm extended with a single finger pointed at the "P-02 — DATA NOT PRESENT" line (NOT pointing at any other line, NOT a dramatic accusatory gesture — a small contained point at his own missing slot), noodle-brows in the not-quite-question configuration (not alarmed, not resigned), reddish-orange broth; NO SFX lettering (HWUF / STOMP / SLURP do not fire); no cross-contamination of visual cues; no team logo on any hero; no costumed superhero, no cape, no flight; no manga or anime, no chibi, no 3D render, no photorealism; no modern smartphones, no anachronistic gadgets; no extra fingers, no malformed hands; no text errors or garbled lettering (other than the two intended captions, the intended two-word speech balloon, and the intended compressed-roster screen text).
 
 **CONSISTENCY / STAGING NOTES**
 
-- Windman's fan = **folded shut** per the fan-state timeline. He is receiving spoken
-  information, not scanning.
+- Windman's fan = **folded shut** per the fan-state timeline — specifically just
+  **snapped shut** as his reaction, with the **free (left) hand making a single
+  scroll-back gesture** at the screen. The gesture is the whole beat: he does not speak
+  and nothing in the panel names what Primm/the hold line is to him. His bandaged face
+  is **receiving, not navigating** — he is blind and does not operate the interface.
 - **The name is in the same institutional weight as every other field.** Heavily
   guarded against any typographic spotlighting. The reveal is in the flatness, not
   the drama.
-- Tiebi's expression: **flat, procedural** — reading a case number. Not amused, not
-  offended, not triumphant. "The way a case number is read."
-- The REINTEGRATION HOLD block is on the same screen — the reader gets both pieces
-  (the name and the hold condition) in the same panel. Guard against the screen
-  showing only the name and omitting the hold.
+- **Tiebi's line is now a TWO-WORD speech balloon: "CRIME KICKERS." (flat).** Shortened
+  in the rework from the earlier "Operational designation: CRIME KICKERS." Render exactly
+  the two words, deadpan — "the way a case number is read." This is the episode's first
+  hero dialogue in a while; keep it a SPEECH BALLOON (not a caption box), minimal and
+  flat. Windman and Pho-boman have NO dialogue.
+- **Screen is the COMPRESSED roster** (rework): UNITS OUTSTANDING with three rows
+  (W-01 / P-02 — DATA NOT PRESENT / T-04), UNITS SECURED: P-03, REINTEGRATION HOLD:
+  ACTIVE, OPERATIONAL DESIGNATION: CRIME KICKERS, plus the hold-condition line W-01 NOT
+  YET IN CUSTODY. The longer E09-style protocol paragraph was dropped. The reader gets
+  the name, P-02's blank, and the hold condition in one glanceable screen.
+- **Pho-boman points at his own missing slot.** One short stubby arm extended, a single
+  finger at the "P-02 — DATA NOT PRESENT" line, then lowered. He is not speaking; the
+  point is the beat. This plants the E12 infiltration route (the file has no sensor data
+  for him) and is simultaneously the panel's quiet comedy.
 - Pho-boman's **not-quite-question** noodle-brow configuration: distinct from his
   E08-P2 "interested" brows (tipped forward, curious). This one is the configuration
   for something that doesn't fit a prior category — neither alarmed nor resigned.
@@ -516,52 +584,67 @@ Tiebi reading it aloud. The REINTEGRATION HOLD block also on screen.
 
 ### Panel 4 — Contract Performance Notice GD-C-4419
 
-> **The document takes the frame — the three heroes compressed to witnesses.** The
-> screen has scrolled to the contract basis section. The institutional type fills most
-> of the panel. The three heroes are a narrow strip on the left — present, reading,
-> but small against the document. The case file is the actor; they are the audience.
-> Tiebi has stopped navigating. Windman's fan is folded. Pho-boman's noodle-brows
-> arrive at the accurate configuration.
+> **The document takes the frame — the three heroes compressed to a witness-strip
+> watching TIEBI translate.** The screen has scrolled to the glanceable contract basis
+> section. The institutional type fills most of the panel. The three heroes are a narrow
+> strip on the left — but they are watching Tiebi, NOT parsing the screen. Tiebi's hand
+> is OFF the terminal; he is turned slightly toward the other two, delivering two flat
+> speech balloons — "Not revenge." and (a beat later) "Undelivered merchandise." Windman's
+> fan is folded. Pho-boman's noodle-brows arrive at the accurate configuration.
 
 **Style anchor:** [[Visual Style Guide|v1]]. **Palette override:** the document
 dominates — cold institutional blue-white type fills the majority of the frame.
 The left strip holding the three figures is the darkest part of the frame; the
 screen is the only significant light. No SFX, no effects, no warm notes other than
 Pho-boman's broth, which is compressed toward the left edge.
-**Reveal:** TWIST 1 — the contract basis section makes clear the recall is a
-product-liability compliance step, not a security threat. "Budget: standard." The
-document is the actor.
+**Reveal:** TWIST 1 — the glanceable contract basis section makes clear the recall is a
+product-liability compliance step, not a security threat. "Budget: standard." Tiebi
+translates it in two flat speech balloons — "Not revenge." / "Undelivered merchandise."
+— and the three heroes watch HIM, not the screen.
 
 **GENAI PROMPT**
 
 > Modern Western graphic-novel comic-book illustration, single comic-page panel. Clean confident hand-inked black linework with medium-weight uniform outlines and selective heavier contour lines, light cross-hatching for shadow. Flat cel-style coloring with subtle cell-shading gradients, limited halftone texture, restrained screen-tone dot shading in shadows. Slightly stylized semi-realistic proportions, expressive readable faces, deadpan comedic timing. Crisp print-quality finish, clear silhouette-first staging, strong readable composition, no photorealism, no 3D render look. Muted desaturated naturalistic palette as the project baseline.
 >
-> THE DOCUMENT TAKES MOST OF THE FRAME — roughly three-quarters of the panel is the terminal screen, cold institutional blue-white, the GastroDefense Retrieval Division case file scrolled to the contract section. The institutional type is large enough to read clearly, in plain sans-serif, every line in the same weight. No line is spotlit. No font is dramatic. The document text:
+> THE DOCUMENT TAKES MOST OF THE FRAME — roughly three-quarters of the panel is the terminal screen, cold institutional blue-white, the GastroDefense Retrieval Division case file scrolled to the contract section. The document is GLANCEABLE — a few short load-bearing lines, NOT institutional paragraphs — in plain sans-serif, every line in the same weight. No line is spotlit. No font is dramatic. The document text, rendered EXACTLY as:
 >
-> "GastroDefense Inc. — RETRIEVAL DIVISION / OPERATIONAL CASE FILE — ACTIVE / CASE #: RD-0047 // 5. CONTRACT BASIS / This recovery operation is being executed in response to Contract Performance Notice GD-C-4419, filed by [CLIENT: REDACTED] against GastroDefense Inc. on grounds of failure to deliver the completed AEGIS-4 prototype as contracted. // The client has cited non-delivery of a law-enforcement unit within the contracted timeline. GastroDefense Inc.'s legal review has determined that the most cost-effective path to contract closure is unit recovery and reintegration, restoring the prototype to deliverable specification. // This operation is not classified as a security or threat-response action. The recovered units are not classified as adversarial. The operation is a product-liability compliance step. // 5.1 PRIORITY NOTE / GastroDefense Inc. would prefer to close this file. The client has not escalated beyond the performance notice at this time. Standard retrieval protocol is authorized. No extraordinary measures are approved. Budget: standard."
+> "5. CONTRACT BASIS / Recall executed under: GD-C-4419 / Grounds: failure to deliver completed AEGIS-4 prototype / Classification: product-liability compliance step // 5.1 PRIORITY NOTE / CLIENT: [REDACTED] / GastroDefense Inc. would prefer to close this file. / Budget: standard."
 >
-> All text in cold institutional blue-white on the screen, flat, uniform, bureaucratic — the document of an organization that would prefer to close its file.
+> All text in cold institutional blue-white on the screen, flat, uniform, bureaucratic, glanceable in one pass — the document of an organization that would prefer to close its file.
 >
-> ON THE LEFT STRIP — three figures, compressed to a narrow witnessing band beside the screen, small against the document. They are the audience here; the document is the actor.
+> ON THE LEFT STRIP — three figures, compressed to a narrow witnessing band beside the screen, small against the document. They are NOT parsing the screen text — they are watching the beret man (Tiebi), who is translating it for them. The document is the actor; they are his audience.
 >
-> LEFTMOST in the strip, hand no longer on the terminal — the beret man: a humanoid man, male, ~175–180 cm tall at normal size, medium build, slightly lean but healthy, realistic human proportions; an ordinary human head, a neutral and friendly medium-skin-toned face, no facial hair, normal expressive eyes (eyes clearly visible, NOT covered or blindfolded); his signature feature is a classic French beret, slightly tilted, dark navy, snug and soft with a small nub at the top center; he wears a simple fitted shirt/tunic in MUSTARD-GOLD, plain dark trousers, and simple flat dark shoes. He has stopped navigating. His hand is no longer on the terminal. He is looking at the screen but not moving through it. His other hand is at his side. He has read what is here.
+> LEFTMOST in the strip, hand off the terminal, turned toward the other two and translating — the beret man: a humanoid man, male, ~175–180 cm tall at normal size, medium build, slightly lean but healthy, realistic human proportions; an ordinary human head, a neutral and friendly medium-skin-toned face, no facial hair, normal expressive eyes (eyes clearly visible, NOT covered or blindfolded); his signature feature is a classic French beret, slightly tilted, dark navy, snug and soft with a small nub at the top center; he wears a simple fitted shirt/tunic in MUSTARD-GOLD, plain dark trousers, and simple flat dark shoes. He has stopped navigating; his hand is OFF the terminal entirely (not touching the screen or keypad). He is turned slightly toward the other two, delivering a translation — his expression that of someone reading out a weather report, flat and unsurprised. Two flat speech balloons near him, plain lettering, rendered EXACTLY and in order: first "Not revenge." and then, a beat later, "Undelivered merchandise." — two short deadpan lines, NOT a dramatic font, NOT emphatic.
 >
-> BEHIND HIM, fan folded — the bandaged man: a humanoid man, male, 180 cm tall, moderately stout with a slightly loose but stable physique, normal proportions, not heavily muscled; short natural-brown chestnut hair; a calm, soft-featured slightly-rounded face with no beard or mustache. Across his eyes, a thick cloth EYE BANDAGE that completely covers both eyes — top portion blue, lower portion (above the eyebrows) red — fastened near the ears, fitting tightly to the face, leaving NO visible eyes. He wears a fitted blue T-shirt (not tight), sleeveless or short sleeves to mid-shoulder, bearing a single large white letter "W" monogram on the chest. He wears brown knee-length straight-cut slightly-baggy shorts, and fully-black flat-soled snug boots with no decoration. In his RIGHT hand: a small handheld folding fan, brown wood-textured handle about 25 cm long, three rounded slightly-transparent blades about 10 cm each colored green, blue, and red, evenly spaced around a central hub — FOLDED SHUT at his side. His bandaged face is toward the screen. Still.
+> BEHIND HIM, fan folded — the bandaged man: a humanoid man, male, 180 cm tall, moderately stout with a slightly loose but stable physique, normal proportions, not heavily muscled; short natural-brown chestnut hair; a calm, soft-featured slightly-rounded face with no beard or mustache. Across his eyes, a thick cloth EYE BANDAGE that completely covers both eyes — top portion blue, lower portion (above the eyebrows) red — fastened near the ears, fitting tightly to the face, leaving NO visible eyes. He wears a fitted blue T-shirt (not tight), sleeveless or short sleeves to mid-shoulder, bearing a single large white letter "W" monogram on the chest. He wears brown knee-length straight-cut slightly-baggy shorts, and fully-black flat-soled snug boots with no decoration. In his RIGHT hand: a small handheld folding fan, brown wood-textured handle about 25 cm long, three rounded slightly-transparent blades about 10 cm each colored green, blue, and red, evenly spaced around a central hub — FOLDED SHUT at his side. His bandaged face is turned toward the beret man (Tiebi), not the screen — he is attending to the translation, not the document (he is blind; he cannot read the screen). Still.
 >
-> BESIDE THEM, noodle-brows in the accurate configuration — the spoon-shaped being: a small round spoon-shaped being, the smallest hero at roughly 140–150 cm tall, with a large round belly, short legs nearly hidden under the belly's curve, and short but noticeably muscular arms; his head is shaped like a deep-sea diving helmet — a wide metal dome with a wide transparent front visor; the helmet is filled with reddish-orange pho broth (with bright-yellow highlights, a warm glow) that visibly sloshes and bubbles; his face forms inside the helmet out of the soup's ingredients — eyes, eyebrows and cheekbones made of slightly twisted noodles, and a nose made of a bright-green sprig of cilantro poking above the broth; he has NO separate mouth — the open visor simply shows the soup, and the visor IS the face; he wears short black pants (mostly hidden under the belly) and fully black, flat, minimalist boots; across his round belly a large red Chinese dragon on a blue background, scales and claws detailed, tail wrapping the belly. His noodle-brows are in the ACCURATE configuration — not the not-quite-question, not alarmed, not offended, not resigned. The configuration for receiving "product-liability compliance step" and finding the description accurate. One step past the not-quite-question: the question has been answered; the answer is accurate; the answer has been filed. The reddish-orange broth is the only warm note in the frame, compressed here at the left edge.
+> BESIDE THEM, noodle-brows in the accurate configuration — the spoon-shaped being: a small round spoon-shaped being, the smallest hero at roughly 140–150 cm tall, with a large round belly, short legs nearly hidden under the belly's curve, and short but noticeably muscular arms; his head is shaped like a deep-sea diving helmet — a wide metal dome with a wide transparent front visor; the helmet is filled with reddish-orange pho broth (with bright-yellow highlights, a warm glow) that visibly sloshes and bubbles; his face forms inside the helmet out of the soup's ingredients — eyes, eyebrows and cheekbones made of slightly twisted noodles, and a nose made of a bright-green sprig of cilantro poking above the broth; he has NO separate mouth — the open visor simply shows the soup, and the visor IS the face; he wears short black pants (mostly hidden under the belly) and fully black, flat, minimalist boots; across his round belly a large red Chinese dragon on a blue background, scales and claws detailed, tail wrapping the belly. He is oriented toward the beret man (Tiebi), attending to the translation rather than the screen text. His noodle-brows are in the ACCURATE configuration — not the not-quite-question, not alarmed, not offended, not resigned. The configuration for receiving "product-liability compliance step" and finding the description accurate. One step past the not-quite-question: the question has been answered; the answer is accurate; the answer has been filed. The reddish-orange broth is the only warm note in the frame, compressed here at the left edge.
 >
-> Composition: silhouette-first, the institutional screen filling three-quarters of the panel with cold blue-white case-file text (section 5 and 5.1 fully legible), the three witnessing figures in a compressed narrow strip at the left — the beret man foremost (hand off the terminal), the bandaged man behind (fan folded), the spoon-shaped being beside them (accurate noodle-brows, reddish-orange the one warm note). The document is the actor; the figures are the audience. Three small dry caption boxes in plain comic lettering, case-file register, staircase rhythm descending: "The corporation was not hunting them." / "It was closing a ticket." / "Standard retrieval protocol. Budget: standard."
+> Composition: silhouette-first, the institutional screen filling three-quarters of the panel with the glanceable cold blue-white case-file text (section 5 and 5.1, a few short lines, fully legible in one pass), the three witnessing figures in a compressed narrow strip at the left — the beret man foremost (hand OFF the terminal, turned toward the other two, two speech balloons: "Not revenge." then "Undelivered merchandise."), the bandaged man behind (fan folded, face turned toward the beret man not the screen), the spoon-shaped being beside them (accurate noodle-brows, oriented to the beret man, reddish-orange the one warm note). The three watch Tiebi; the document is the actor; Tiebi is their translator. ONE small dry caption box in plain comic lettering, case-file register: "Standard retrieval protocol. Budget: standard."
 
 **NEGATIVE PROMPT**
 
-> there are EXACTLY THREE figures in the narrow left strip (the beret man, the bandaged man, the spoon-shaped being) — NO fourth figure, NO purple coat, NO cyan visor, NO orbiting orbs, NO twin katanas; the screen text must include "The operation is a product-liability compliance step." and "Budget: standard." as part of the document's section 5 / 5.1 text, rendered in plain institutional sans-serif at the SAME weight as all other document text — NOT spotlit, NOT enlarged, NOT dramatized; the document fills at least three-quarters of the frame; the bandaged man has NO visible eyes (bandage covers BOTH eyes — top blue, lower red), fan FOLDED at his side; the beret man has ORDINARY VISIBLE expressive eyes (NOT blindfolded), dark-navy tilted beret ON, MUSTARD-GOLD shirt, FULL HUMAN SIZE, hand NOT on the terminal (he has stopped navigating); the spoon-shaped being has NO mouth (visor IS the face), noodle-brows in the accurate configuration (not alarmed, not the not-quite-question — one step past, the answer received and filed), reddish-orange broth; NO SFX lettering (HWUF / STOMP / SLURP do not fire), NO SFX boxes (this is not the E09-P4 four-blank-boxes register); no cross-contamination of visual cues; no team logo on any hero; no costumed superhero, no cape, no flight; no manga or anime, no chibi, no 3D render, no photorealism; no modern smartphones, no anachronistic gadgets; no extra fingers, no malformed hands; no text errors or garbled lettering (other than the three intended captions and the intended screen document text).
+> there are EXACTLY THREE figures in the narrow left strip (the beret man, the bandaged man, the spoon-shaped being) — NO fourth figure, NO purple coat, NO cyan visor, NO orbiting orbs, NO twin katanas; the screen text is the GLANCEABLE version (a few short lines, NOT institutional paragraphs) and must include "Classification: product-liability compliance step" and "Budget: standard." as part of the document's section 5 / 5.1 text, rendered in plain institutional sans-serif at the SAME weight as all other document text — NOT spotlit, NOT enlarged, NOT dramatized; do NOT render the longer paragraph-form contract text — keep it to the short load-bearing lines; the document fills at least three-quarters of the frame; the three heroes are watching the BERET MAN (Tiebi), NOT parsing or facing the screen; the beret man has ORDINARY VISIBLE expressive eyes (NOT blindfolded), dark-navy tilted beret ON, MUSTARD-GOLD shirt, FULL HUMAN SIZE, hand OFF the terminal entirely (NOT touching screen or keypad), turned slightly toward the other two, with TWO flat speech balloons reading EXACTLY "Not revenge." and "Undelivered merchandise." (two short deadpan lines, NOT a dramatic font, NOT emphatic, NOT a single combined balloon); the bandaged man has NO visible eyes (bandage covers BOTH eyes — top blue, lower red), fan FOLDED at his side, face turned toward the beret man not the screen, NO dialogue; the spoon-shaped being has NO mouth (visor IS the face), NO dialogue, noodle-brows in the accurate configuration (not alarmed, not the not-quite-question — one step past, the answer received and filed), oriented toward the beret man, reddish-orange broth; NO SFX lettering (HWUF / STOMP / SLURP do not fire), NO SFX boxes (this is not the E09-P4 four-blank-boxes register); no cross-contamination of visual cues; no team logo on any hero; no costumed superhero, no cape, no flight; no manga or anime, no chibi, no 3D render, no photorealism; no modern smartphones, no anachronistic gadgets; no extra fingers, no malformed hands; no text errors or garbled lettering (other than the ONE intended caption, the TWO intended speech balloons, and the intended glanceable screen document text).
 
 **CONSISTENCY / STAGING NOTES**
 
 - Windman's fan = **folded shut** per the fan-state timeline. No field-read visible;
-  he is witnessing.
-- Tiebi's hand **off the terminal** — he has stopped navigating. He has read what
-  is there.
+  he is witnessing, **face turned toward Tiebi**, not the screen.
+- **Document is the GLANCEABLE version** (rework): a few short load-bearing lines
+  (Recall executed under / Grounds / Classification / CLIENT / would prefer to close /
+  Budget: standard), not the longer paragraph-form contract text. The reader confirms
+  Tiebi's translation in one glance.
+- Tiebi's hand **off the terminal** — he has stopped navigating and is **turned toward
+  the other two, translating**. His TWO speech balloons: "Not revenge." then (a beat
+  later) "Undelivered merchandise." — the episode's first-in-a-while hero dialogue,
+  rendered as SPEECH BALLOONS (not captions), flat and minimal. Two separate balloons,
+  not one combined. Windman and Pho-boman have NO dialogue.
+- **The three heroes watch TIEBI, not the screen** (rework). They are a witness-strip
+  reading his face, not parsing the document. This is "Tiebi as live translator" made
+  literal in the staging.
+- **Only ONE caption now** (rework): "Standard retrieval protocol. Budget: standard."
+  The earlier two captions ("The corporation was not hunting them." / "It was closing
+  a ticket.") became Tiebi's two speech balloons; do not also render them as captions.
 - Pho-boman's **accurate** noodle-brow configuration: distinct from the not-quite-
   question in P3. That was the configuration for something without a prior entry; this
   is for something that has been answered and found accurate. The distinction is small
@@ -581,8 +664,9 @@ document is the actor.
 > street, the terminal behind them through glass. Three figures facing the same
 > direction, slightly smaller spacing than P1. Windman's field-read running again.
 > Tiebi looking ahead. Pho-boman focused. In the background through the glass, the
-> terminal screen still shows OPERATIONAL DESIGNATION: CRIME KICKERS / STATUS:
-> RECOVERY IN PROGRESS. Nobody faces it.
+> terminal screen still shows THREE lines — OPERATIONAL DESIGNATION: CRIME KICKERS /
+> STATUS: RECOVERY IN PROGRESS / SESSION: ACTIVE — ACCESS LOGGED [RD-SESSION-0047], the
+> session line small and cold below the others. Nobody faces it.
 
 **Style anchor:** [[Visual Style Guide|v1]]. **Palette override:** dark blue-grey
 sloped night, returned to the exterior register of P1. Pho-boman's reddish-orange
@@ -590,14 +674,16 @@ broth = only warm note in the foreground. The terminal screen visible through gl
 in the background provides a faint cold blue-white note — not dominant. One delivery
 vehicle far down the block, stationary, not a GastroDefense vehicle. No drones.
 **Reveal:** THE CLOSE — three facing outward, the CRIME KICKERS label in the
-background through glass, unread, already the background of their lives. The
-smallest caption: "They called themselves the Crime Kickers now."
+background through glass, unread, already the background of their lives, with the
+SESSION: ACTIVE — ACCESS LOGGED [RD-SESSION-0047] line small and cold below it (the
+rescue clock planted — small, peripheral, NOT alarmed). The smallest caption: "They
+called themselves the Crime Kickers now."
 
 **GENAI PROMPT**
 
 > Modern Western graphic-novel comic-book illustration, single comic-page panel. Clean confident hand-inked black linework with medium-weight uniform outlines and selective heavier contour lines, light cross-hatching for shadow. Flat cel-style coloring with subtle cell-shading gradients, limited halftone texture, restrained screen-tone dot shading in shadows. Slightly stylized semi-realistic proportions, expressive readable faces, deadpan comedic timing. Crisp print-quality finish, clear silhouette-first staging, strong readable composition, no photorealism, no 3D render look. Muted desaturated naturalistic palette as the project baseline.
 >
-> MEDIUM-WIDE SHOT of a lower-density city district at night — dark pavement, low buildings of dark brick and concrete, ambient streetlight in cool blue-grey pools, the rest of the block in deep cool shadow; empty of bystanders, no drones visible, one delivery vehicle far down the block, stationary (NOT a GastroDefense vehicle); quiet, still; dark blue-grey night palette, almost monochrome, muted and desaturated. The city is the same city as the episode's opening — but the three figures have stepped away from the terminal. They are in the foreground; the terminal is behind them through glass, a storefront or public-kiosk window, visible but not dominant. On the terminal screen visible through the glass, in cold institutional blue-white, two lines of text legible to the reader: "OPERATIONAL DESIGNATION: CRIME KICKERS" and below it "STATUS: RECOVERY IN PROGRESS" — in the same plain institutional type, small, in the background. None of the three figures is facing it.
+> MEDIUM-WIDE SHOT of a lower-density city district at night — dark pavement, low buildings of dark brick and concrete, ambient streetlight in cool blue-grey pools, the rest of the block in deep cool shadow; empty of bystanders, no drones visible, one delivery vehicle far down the block, stationary (NOT a GastroDefense vehicle); quiet, still; dark blue-grey night palette, almost monochrome, muted and desaturated. The city is the same city as the episode's opening — but the three figures have stepped away from the terminal. They are in the foreground; the terminal is behind them through glass, a storefront or public-kiosk window, visible but not dominant. On the terminal screen visible through the glass, in cold institutional blue-white, three lines of text legible to the reader: "OPERATIONAL DESIGNATION: CRIME KICKERS", below it "STATUS: RECOVERY IN PROGRESS", and below that, smaller and colder, "SESSION: ACTIVE — ACCESS LOGGED [RD-SESSION-0047]" — all in the same plain institutional type, small, in the background, the session line the smallest and most peripheral of the three. None of the three figures is facing it.
 >
 > THREE FIGURES in the foreground, all facing the same direction — OUTWARD, away from the terminal, down the dark street — with slightly smaller spacing than they had at the episode's start (not sentiment; the terminal's vicinity compressed them and they have not yet spread back out). Left to right:
 >
@@ -607,13 +693,13 @@ smallest caption: "They called themselves the Crime Kickers now."
 >
 > RIGHT — broth warm, focused: a small round spoon-shaped being, the smallest hero at roughly 140–150 cm tall, with a large round belly, short legs nearly hidden under the belly's curve, and short but noticeably muscular arms; his head is shaped like a deep-sea diving helmet — a wide metal dome with a wide transparent front visor; the helmet is filled with reddish-orange pho broth (with bright-yellow highlights, a warm glow) that visibly sloshes and bubbles; his face forms inside the helmet out of the soup's ingredients — eyes, eyebrows and cheekbones made of slightly twisted noodles, and a nose made of a bright-green sprig of cilantro poking above the broth; he has NO separate mouth — the open visor simply shows the soup, and the visor IS the face; he wears short black pants (mostly hidden under the belly) and fully black, flat, minimalist boots; across his round belly a large red Chinese dragon on a blue background, scales and claws detailed, tail wrapping the belly. His noodle-brows are in the FOCUSED configuration — the same as P1, no longer the not-quite-question. He has received the answer. The answer has been filed. He is facing the city. The reddish-orange broth is the ONLY warm-saturated note in the foreground.
 >
-> BEHIND THE THREE, through a glass window or panel (visible but not dominant), the terminal screen still displaying in cold institutional blue-white: "OPERATIONAL DESIGNATION: CRIME KICKERS" and "STATUS: RECOVERY IN PROGRESS" — plain institutional type, small, in the background, the label already the background of their lives.
+> BEHIND THE THREE, through a glass window or panel (visible but not dominant), the terminal screen still displaying in cold institutional blue-white three lines: "OPERATIONAL DESIGNATION: CRIME KICKERS", "STATUS: RECOVERY IN PROGRESS", and below them, smaller and colder, "SESSION: ACTIVE — ACCESS LOGGED [RD-SESSION-0047]" — plain institutional type, small, in the background, the label already the background of their lives, the session line the smallest and most peripheral, NOT prominent, NOT alarmed, NOT a flashing alert — just a cold log line sitting at the bottom of the screen.
 >
-> Composition: silhouette-first, three figures facing outward down the dark city street — Windman left (fan open at side, ghost-line field-read faint), Tiebi center (beret straight, looking ahead, no credential visible), Pho-boman right (broth warm and reddish-orange, the sole foreground warm note, belly-dragon visible) — the terminal screen with its two-line label receding behind them through glass, unread by any of them. Four caption boxes in plain comic lettering, case-file register, staircase rhythm, the last in noticeably smaller type: "The reintegration was on hold." / "The hold condition: W-01 not yet in custody." / "While three of them were outside, the fourth had time." / [smallest] "They called themselves the Crime Kickers now."
+> Composition: silhouette-first, three figures facing outward down the dark city street — Windman left (fan open at side, ghost-line field-read faint), Tiebi center (beret straight, looking ahead, no credential visible), Pho-boman right (broth warm and reddish-orange, the sole foreground warm note, belly-dragon visible) — the terminal screen with its three-line text (the CRIME KICKERS label, the recovery status, and the small cold session-log line below them) receding behind them through glass, unread by any of them. Four caption boxes in plain comic lettering, case-file register, staircase rhythm, the last in noticeably smaller type: "The reintegration was on hold." / "The hold condition: W-01 not yet in custody." / "While three of them were outside, the fourth had time." / [smallest] "They called themselves the Crime Kickers now."
 
 **NEGATIVE PROMPT**
 
-> there are EXACTLY THREE figures in the foreground (the bandaged man, the beret man, the spoon-shaped being) — NO fourth figure, NO purple coat, NO cyan visor, NO orbiting orbs, NO twin katanas; the terminal screen visible through glass in the background must show "OPERATIONAL DESIGNATION: CRIME KICKERS" and "STATUS: RECOVERY IN PROGRESS" in small plain institutional type — NOT the dominant visual element, NOT spotlit, in the background through glass; none of the three foreground figures is facing or looking at the screen; the reddish-orange broth of the spoon-shaped being is the ONLY warm-saturated foreground note (the mustard-gold shirt reads muted in this cool exterior context); the bandaged man has NO visible eyes (bandage covers BOTH eyes — top blue, lower red), fan OPEN in RIGHT hand but NOT aimed at anything; the beret man has ORDINARY VISIBLE expressive eyes (NOT blindfolded), dark-navy tilted beret ON, MUSTARD-GOLD shirt, FULL HUMAN SIZE, NO credential token visible (pocketed); the spoon-shaped being has NO mouth (visor IS the face), noodle-brows in the focused configuration (answer received and filed, not the not-quite-question), reddish-orange broth, belly-dragon visible; NO SFX lettering; no drone visible, no GastroDefense vehicle; the one delivery vehicle far down the block is stationary and is NOT a GastroDefense vehicle; no cross-contamination of visual cues; no team logo on any hero; no costumed superhero, no cape, no flight; no manga or anime, no chibi, no 3D render, no photorealism; no modern smartphones, no anachronistic gadgets; no extra fingers, no malformed hands; no text errors or garbled lettering (other than the four intended captions and the intended background screen text "OPERATIONAL DESIGNATION: CRIME KICKERS" / "STATUS: RECOVERY IN PROGRESS").
+> there are EXACTLY THREE figures in the foreground (the bandaged man, the beret man, the spoon-shaped being) — NO fourth figure, NO purple coat, NO cyan visor, NO orbiting orbs, NO twin katanas; the terminal screen visible through glass in the background must show THREE lines — "OPERATIONAL DESIGNATION: CRIME KICKERS", "STATUS: RECOVERY IN PROGRESS", and "SESSION: ACTIVE — ACCESS LOGGED [RD-SESSION-0047]" — in small plain institutional type; the session line is the smallest and most PERIPHERAL of the three, sitting cold and low below the others, NOT prominent, NOT spotlit, NOT enlarged, NOT alarmed, NOT a flashing alert or warning, NOT a red banner; the whole screen is NOT the dominant visual element, in the background through glass; none of the three foreground figures is facing or looking at the screen; the reddish-orange broth of the spoon-shaped being is the ONLY warm-saturated foreground note (the mustard-gold shirt reads muted in this cool exterior context); the bandaged man has NO visible eyes (bandage covers BOTH eyes — top blue, lower red), fan OPEN in RIGHT hand but NOT aimed at anything; the beret man has ORDINARY VISIBLE expressive eyes (NOT blindfolded), dark-navy tilted beret ON, MUSTARD-GOLD shirt, FULL HUMAN SIZE, NO credential token visible (pocketed); the spoon-shaped being has NO mouth (visor IS the face), noodle-brows in the focused configuration (answer received and filed, not the not-quite-question), reddish-orange broth, belly-dragon visible; NO SFX lettering; no drone visible, no GastroDefense vehicle; the one delivery vehicle far down the block is stationary and is NOT a GastroDefense vehicle; no cross-contamination of visual cues; no team logo on any hero; no costumed superhero, no cape, no flight; no manga or anime, no chibi, no 3D render, no photorealism; no modern smartphones, no anachronistic gadgets; no extra fingers, no malformed hands; no text errors or garbled lettering (other than the four intended captions and the intended three-line background screen text "OPERATIONAL DESIGNATION: CRIME KICKERS" / "STATUS: RECOVERY IN PROGRESS" / "SESSION: ACTIVE — ACCESS LOGGED [RD-SESSION-0047]").
 
 **CONSISTENCY / STAGING NOTES**
 
@@ -627,6 +713,12 @@ smallest caption: "They called themselves the Crime Kickers now."
   in the background of their lives. The composition enacts the caption: the name
   arrived the way a case number arrives, and is now behind them, still on the screen,
   already operational.
+- **Session-log line added to the background screen** (rework): the screen now shows
+  THREE lines, the third being "SESSION: ACTIVE — ACCESS LOGGED [RD-SESSION-0047]",
+  small and cold below the other two. This is the rescue clock planted — the file now
+  knows it was read. Critical guard: it must be **small/peripheral, NOT prominent, NOT
+  alarmed** (no flashing alert, no red banner). The voicelessness is the point — an
+  automated log line, not an alarm; no person noticed.
 - **Smallest-font caption:** "They called themselves the Crime Kickers now." — the
   production note for the episode renders this in noticeably smaller type than the
   preceding three captions. Instruct the model to render it visibly smaller.
