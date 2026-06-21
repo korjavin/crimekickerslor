@@ -16,6 +16,7 @@ desktop.ini
 .idea/
 .vscode/
 
-# Claude Code: track shared agent definitions, ignore local agent memory/state
+# Claude Code: track shared agent + skill definitions, ignore local agent memory/state
 .claude/*
 !.claude/agents/
+!.claude/skills/
